@@ -16,6 +16,7 @@ on:
 
 permissions:
   contents: read
+            write
 
 jobs:
   build:
