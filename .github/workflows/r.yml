@@ -30,7 +30,14 @@ jobs:
         run: |
           for file in ${ALL_CHANGED_FILES}; do
             echo "$file was changed"
-          done
+      - shell: bash
+        run: |
+          ${ALL_CHANGED_FILES} > scripts/changed_files.txt
+      - name: Upload changed files
+        uses: actions/upload-artifact@v4
+        with:
+          name: List all changed files
+          path: scripts/changed_files.txt
    import-data:
     runs-on: ubuntu-latest
     steps:
