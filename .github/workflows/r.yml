@@ -32,7 +32,7 @@ jobs:
           for file in ${ALL_CHANGED_FILES}; do
             echo "$file was changed"
           done
-  import-data:
+   import-data:
     runs-on: ubuntu-latest
     steps:
       - name: Set up R
