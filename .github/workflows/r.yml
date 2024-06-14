@@ -24,7 +24,7 @@ jobs:
           echo ${{ steps.changed-files.outputs.all_changed_files }} > scripts/committed_files.txt
       - uses: actions/upload-artifact@v4
         with:
-         name: my-artifact
+         name: Test changed-files
          path: scripts/committed_files.txt
          retention-days: 0
          overwrite: true
