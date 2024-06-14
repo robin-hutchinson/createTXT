@@ -26,8 +26,6 @@ jobs:
         with:
          name: my-artifact
          path: scripts/committed_files.txt
-         warn: Output a warning but do not fail the action
-         error: Fail the action with an error message
          retention-days: 0
          overwrite: true
           
