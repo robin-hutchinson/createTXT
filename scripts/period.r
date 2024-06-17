@@ -103,7 +103,6 @@ period_rules = function(
 		name = spp_info$taxon
 
 		# Print progress
-		cat(i, name,"\n")
 		flush.console()
 		
 		# Create rule file
