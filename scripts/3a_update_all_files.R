@@ -36,5 +36,7 @@ for(i in 1:length(schemes)) {
   period_rules(group = names(schemes[i]))
     
   }
+
+  zip(names(schemes[i]), files = paste("rules_as_csv/", names(schemes[i]), sep = ""))
   
 }
