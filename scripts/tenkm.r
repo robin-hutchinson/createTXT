@@ -69,7 +69,6 @@ tenkm_rules = function(
 			# Extract species name
 			name = unique(tenkm$taxon)[i]
 			# Print progress
-			cat(i, name,"\n")
 			flush.console()
 			
 			# Create rule file
