@@ -3,7 +3,7 @@ library(stringr)
 library(git2rdata)
 
 source("scripts/2_load_functions.R")
-
+root <- "~/createTXT" 
 for(i in 1:length(schemes)) {
   
   print(names(schemes[i]))
