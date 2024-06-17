@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Aspicilia simoënsis orth. var. 10km
+Description=Check coordinate against known distribution of Aspicilia simoënsis orth. var.
+ErrorMsg=Coordinate is outside known range for Aspicilia simoënsis orth. var.
+DataFieldName=Species
+DataRecordId=NHMSYS0001475263
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH71
+SM70
+SN66
+SN76
+SN78
+SN87
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Machimus arthriticus
+Description=Checks date is within known flight period of Machimus arthriticus
+ErrorMsg=Date is outside known flight period of Machimus arthriticus
+Tvk=NBNSYS0100003860
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

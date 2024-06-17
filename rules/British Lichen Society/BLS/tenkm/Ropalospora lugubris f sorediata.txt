@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Ropalospora lugubris f. sorediata 10km
+Description=Check coordinate against known distribution of Ropalospora lugubris f. sorediata
+ErrorMsg=Coordinate is outside known range for Ropalospora lugubris f. sorediata
+DataFieldName=Species
+DataRecordId=NHMSYS0020990833
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN30
+
+

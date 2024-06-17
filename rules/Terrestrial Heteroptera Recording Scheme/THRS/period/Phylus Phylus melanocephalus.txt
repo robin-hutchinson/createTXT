@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Phylus (Phylus) melanocephalus
+Description=Checks date is within known recording period of Phylus (Phylus) melanocephalus
+ErrorMsg=Date is outside known recording period of Phylus (Phylus) melanocephalus
+Tvk=NHMSYS0020309642
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

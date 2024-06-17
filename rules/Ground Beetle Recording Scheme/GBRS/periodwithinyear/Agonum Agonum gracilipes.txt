@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Agonum (Agonum) gracilipes
+Description=Checks date is within known flight period of Agonum (Agonum) gracilipes
+ErrorMsg=Date is outside known flight period of Agonum (Agonum) gracilipes
+Tvk=NHMSYS0001716596
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

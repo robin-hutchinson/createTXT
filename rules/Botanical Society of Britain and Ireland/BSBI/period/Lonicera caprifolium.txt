@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lonicera caprifolium
+Description=Checks date is within known recording period of Lonicera caprifolium
+ErrorMsg=Date is outside known recording period of Lonicera caprifolium
+Tvk=NBNSYS0000004334
+StartDate=17630101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

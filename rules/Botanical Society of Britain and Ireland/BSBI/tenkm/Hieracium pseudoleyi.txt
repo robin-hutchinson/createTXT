@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium pseudoleyi 10km
+Description=Check coordinate against known distribution of Hieracium pseudoleyi
+ErrorMsg=Coordinate is outside known range for Hieracium pseudoleyi
+DataFieldName=Species
+DataRecordId=NHMSYS0000840691
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH66
+SH78
+SH87
+SH88
+SJ24
+
+

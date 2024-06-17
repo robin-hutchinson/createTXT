@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Acanthoxyla prasina subsp. geisovii
+Description=Checks date is within known recording period of Acanthoxyla prasina subsp. geisovii
+ErrorMsg=Date is outside known recording period of Acanthoxyla prasina subsp. geisovii
+Tvk=NHMSYS0001387233
+StartDate=19030101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

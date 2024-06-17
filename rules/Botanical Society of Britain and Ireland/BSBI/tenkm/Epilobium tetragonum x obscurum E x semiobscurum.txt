@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium tetragonum x obscurum = E. x semiobscurum 10km
+Description=Check coordinate against known distribution of Epilobium tetragonum x obscurum = E. x semiobscurum
+ErrorMsg=Coordinate is outside known range for Epilobium tetragonum x obscurum = E. x semiobscurum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754570
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE23
+SE26
+SO45
+SO50
+SO51
+SO61
+SO83
+ST14
+ST21
+ST53
+SU94
+TF60
+TQ35
+
+
+NA
+
+

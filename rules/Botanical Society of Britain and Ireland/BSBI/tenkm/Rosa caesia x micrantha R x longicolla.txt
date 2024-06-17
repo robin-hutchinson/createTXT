@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa caesia x micrantha = R. x longicolla 10km
+Description=Check coordinate against known distribution of Rosa caesia x micrantha = R. x longicolla
+ErrorMsg=Coordinate is outside known range for Rosa caesia x micrantha = R. x longicolla
+DataFieldName=Species
+DataRecordId=NBNSYS0000161906
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO21
+
+

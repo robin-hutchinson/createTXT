@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Larus glaucoides
+Description=Checks date is within known flight period of Larus glaucoides
+ErrorMsg=Date is outside known flight period of Larus glaucoides
+Tvk=NBNSYS0000000355
+DataFieldName=
+StartDate=0531
+EndDate=0929
+LastChanged=20240617
+[EndMetadata]

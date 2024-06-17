@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Microlinyphia impigra
+Description=Checks date is within known flight period of Microlinyphia impigra
+ErrorMsg=Date is outside known flight period of Microlinyphia impigra
+Tvk=NBNSYS0000009239
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

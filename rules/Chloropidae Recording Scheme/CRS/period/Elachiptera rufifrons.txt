@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Elachiptera rufifrons
+Description=Checks date is within known recording period of Elachiptera rufifrons
+ErrorMsg=Date is outside known recording period of Elachiptera rufifrons
+Tvk=NBNSYS0000029935
+StartDate=19320101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

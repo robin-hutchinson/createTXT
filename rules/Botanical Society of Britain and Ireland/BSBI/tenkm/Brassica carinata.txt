@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Brassica carinata 10km
+Description=Check coordinate against known distribution of Brassica carinata
+ErrorMsg=Coordinate is outside known range for Brassica carinata
+DataFieldName=Species
+DataRecordId=NHMSYS0000456596
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC16
+SJ39
+ST51
+SU33
+SX84
+TG20
+TQ17
+TQ27
+TQ28
+TQ38
+TQ48
+
+

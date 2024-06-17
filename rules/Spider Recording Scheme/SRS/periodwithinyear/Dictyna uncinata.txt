@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Dictyna uncinata
+Description=Checks date is within known flight period of Dictyna uncinata
+ErrorMsg=Date is outside known flight period of Dictyna uncinata
+Tvk=NBNSYS0000008616
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

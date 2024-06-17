@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Paracrania chrysolepidella
+Description=Checks date is within known flight period of Paracrania chrysolepidella
+ErrorMsg=Date is outside known flight period of Paracrania chrysolepidella
+Tvk=NHMSYS0021142335
+DataFieldName=
+StartDate=0401
+EndDate=0430
+LastChanged=20240617
+[EndMetadata]

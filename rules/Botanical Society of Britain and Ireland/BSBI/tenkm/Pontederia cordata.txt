@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pontederia cordata 10km
+Description=Check coordinate against known distribution of Pontederia cordata
+ErrorMsg=Coordinate is outside known range for Pontederia cordata
+DataFieldName=Species
+DataRecordId=NBNSYS0000002209
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD80
+SJ67
+SO84
+SP83
+ST78
+SU00
+SU20
+SU30
+SU86
+SU93
+SU96
+SV81
+SW43
+SW72
+SW95
+SX28
+SX45
+SX87
+SX98
+SY78
+SY97
+SY98
+SZ09
+TG20
+TG31
+TQ06
+TQ07
+TQ09
+TQ15
+TQ16
+TQ19
+TQ21
+TQ23
+TQ25
+TQ42
+TQ51
+TQ52
+TQ68
+
+
+[10km_Ireland]
+V83
+V94
+
+

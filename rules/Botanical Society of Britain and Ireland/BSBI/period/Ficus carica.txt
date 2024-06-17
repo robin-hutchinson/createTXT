@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Ficus carica
+Description=Checks date is within known recording period of Ficus carica
+ErrorMsg=Date is outside known recording period of Ficus carica
+Tvk=NBNSYS0000003823
+StartDate=19180101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Platycheirus granditarsus
+Description=Checks date is within known flight period of Platycheirus granditarsus
+ErrorMsg=Date is outside known flight period of Platycheirus granditarsus
+Tvk=NBNSYS0100004762
+DataFieldName=
+StartDate=0218
+EndDate=1217
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Stictyosiphon griffithsianus 10km
+Description=Check coordinate against known distribution of Stictyosiphon griffithsianus
+ErrorMsg=Coordinate is outside known range for Stictyosiphon griffithsianus
+DataFieldName=Species
+DataRecordId=NHMSYS0000568347
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU34
+HU37
+HZ27
+NA10
+NF19
+NG19
+NG73
+NG83
+NG85
+NK14
+NL69
+NM24
+NM42
+NM43
+NO51
+NT37
+NX03
+SH12
+SH27
+SM50
+SM70
+SM80
+SS14
+SS19
+SS42
+SV90
+SV91
+SW71
+SX45
+SX73
+SY87
+SY88
+TG04
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phycitodes saxicola
+Description=Checks date is within known flight period of Phycitodes saxicola
+ErrorMsg=Date is outside known flight period of Phycitodes saxicola
+Tvk=NHMSYS0000503749
+DataFieldName=
+StartDate=0521
+EndDate=0915
+LastChanged=20240617
+[EndMetadata]

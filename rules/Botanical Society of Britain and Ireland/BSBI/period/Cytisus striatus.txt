@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cytisus striatus
+Description=Checks date is within known recording period of Cytisus striatus
+ErrorMsg=Date is outside known recording period of Cytisus striatus
+Tvk=NBNSYS0000014695
+StartDate=19630101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

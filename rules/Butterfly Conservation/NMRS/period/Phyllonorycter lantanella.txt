@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Phyllonorycter lantanella
+Description=Checks date is within known recording period of Phyllonorycter lantanella
+ErrorMsg=Date is outside known recording period of Phyllonorycter lantanella
+Tvk=NHMSYS0000503783
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

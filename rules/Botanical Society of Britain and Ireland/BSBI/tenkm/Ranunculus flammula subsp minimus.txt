@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ranunculus flammula subsp. minimus 10km
+Description=Check coordinate against known distribution of Ranunculus flammula subsp. minimus
+ErrorMsg=Coordinate is outside known range for Ranunculus flammula subsp. minimus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462248
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HW83
+HY21
+NB03
+NB46
+NB56
+NC27
+ND06
+ND17
+NF77
+NR88
+
+
+[10km_Ireland]
+Q63
+Q85
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/BC Flight Period
+ShortName=Aporia crataegi
+Description=Checks date is within known flight period of Aporia crataegi
+ErrorMsg=Date is outside known flight period of Aporia crataegi
+Tvk=NHMSYS0000501147
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

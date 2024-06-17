@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Rhopalopyx vitripennis
+Description=Checks date is within known recording period of Rhopalopyx vitripennis
+ErrorMsg=Date is outside known recording period of Rhopalopyx vitripennis
+Tvk=NHMSYS0020705791
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Centaurea macrocephala 10km
+Description=Check coordinate against known distribution of Centaurea macrocephala
+ErrorMsg=Coordinate is outside known range for Centaurea macrocephala
+DataFieldName=Species
+DataRecordId=NBNSYS0100002228
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ62
+SP44
+SS83
+SU96
+TM14
+TM46
+
+

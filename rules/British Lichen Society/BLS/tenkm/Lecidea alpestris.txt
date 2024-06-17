@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecidea alpestris 10km
+Description=Check coordinate against known distribution of Lecidea alpestris
+ErrorMsg=Coordinate is outside known range for Lecidea alpestris
+DataFieldName=Species
+DataRecordId=NHMSYS0001486577
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO16
+NO17
+NT11
+
+

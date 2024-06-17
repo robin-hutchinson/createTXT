@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Mocuellus (Mocuellus) collinus
+Description=Checks date is within known flight period of Mocuellus (Mocuellus) collinus
+ErrorMsg=Date is outside known flight period of Mocuellus (Mocuellus) collinus
+Tvk=NHMSYS0020705743
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

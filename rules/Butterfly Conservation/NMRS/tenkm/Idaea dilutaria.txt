@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Idaea dilutaria 10km
+Description=Check coordinate against known distribution of Idaea dilutaria
+ErrorMsg=Coordinate is outside known range for Idaea dilutaria
+DataFieldName=Species
+DataRecordId=NHMSYS0021143845
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH67
+SH68
+SH77
+SH78
+SH87
+SH88
+SS38
+SS39
+SS48
+SS49
+SS58
+SS59
+ST46
+ST47
+ST48
+ST56
+ST57
+ST58
+ST66
+ST67
+ST68
+
+

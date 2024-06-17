@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Cicadula ornata 10km
+Description=Check coordinate against known distribution of Cicadula ornata
+ErrorMsg=Coordinate is outside known range for Cicadula ornata
+DataFieldName=Species
+DataRecordId=NHMSYS0020442307
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE73
+SE74
+
+

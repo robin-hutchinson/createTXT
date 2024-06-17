@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cucumis sativus 10km
+Description=Check coordinate against known distribution of Cucumis sativus
+ErrorMsg=Coordinate is outside known range for Cucumis sativus
+DataFieldName=Species
+DataRecordId=NBNSYS0000034128
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP34
+SP40
+SP50
+SY88
+SZ08
+TL11
+TL20
+TL21
+TL30
+TL31
+TM24
+TQ08
+TQ26
+TQ48
+
+

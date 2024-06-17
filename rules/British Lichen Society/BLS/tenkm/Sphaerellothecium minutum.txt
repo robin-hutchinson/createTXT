@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Sphaerellothecium minutum 10km
+Description=Check coordinate against known distribution of Sphaerellothecium minutum
+ErrorMsg=Coordinate is outside known range for Sphaerellothecium minutum
+DataFieldName=Species
+DataRecordId=BMSSYS0000017284
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH42
+NN59
+
+

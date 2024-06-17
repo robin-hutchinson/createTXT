@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum undulatum 10km
+Description=Check coordinate against known distribution of Taraxacum undulatum
+ErrorMsg=Coordinate is outside known range for Taraxacum undulatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464344
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN23
+SN51
+SN83
+SO02
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Psammotettix putoni sensu stricto
+Description=Checks date is within known flight period of Psammotettix putoni sensu stricto
+ErrorMsg=Date is outside known flight period of Psammotettix putoni sensu stricto
+Tvk=NHMSYS0020924663
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

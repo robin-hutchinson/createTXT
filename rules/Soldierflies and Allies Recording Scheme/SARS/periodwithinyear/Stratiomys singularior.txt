@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Stratiomys singularior
+Description=Checks date is within known flight period of Stratiomys singularior
+ErrorMsg=Date is outside known flight period of Stratiomys singularior
+Tvk=NBNSYS0000007840
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

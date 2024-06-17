@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Nomada errans
+Description=Checks date is within known flight period of Nomada errans
+ErrorMsg=Date is outside known flight period of Nomada errans
+Tvk=NHMSYS0000876414
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

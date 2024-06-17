@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Thelocarpon superellum 10km
+Description=Check coordinate against known distribution of Thelocarpon superellum
+ErrorMsg=Coordinate is outside known range for Thelocarpon superellum
+DataFieldName=Species
+DataRecordId=NBNSYS0000019086
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NF09
+NG20
+NN86
+SN44
+SN45
+SN69
+
+

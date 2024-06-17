@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Scorzonera hispanica 10km
+Description=Check coordinate against known distribution of Scorzonera hispanica
+ErrorMsg=Coordinate is outside known range for Scorzonera hispanica
+DataFieldName=Species
+DataRecordId=NBNSYS0000033815
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT17
+TL20
+TQ17
+
+

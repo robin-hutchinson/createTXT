@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Monodictys fuliginosa 10km
+Description=Check coordinate against known distribution of Monodictys fuliginosa
+ErrorMsg=Coordinate is outside known range for Monodictys fuliginosa
+DataFieldName=Species
+DataRecordId=BMSSYS0000011478
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG51
+NG60
+NG61
+SN77
+SN79
+SN96
+SN97
+
+

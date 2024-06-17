@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Inula oculus-christi 10km
+Description=Check coordinate against known distribution of Inula oculus-christi
+ErrorMsg=Coordinate is outside known range for Inula oculus-christi
+DataFieldName=Species
+DataRecordId=NHMSYS0100001814
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX40
+SC37
+SC39
+SC48
+SH57
+
+

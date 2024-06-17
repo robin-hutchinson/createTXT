@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Neolamya peltigerae 10km
+Description=Check coordinate against known distribution of Neolamya peltigerae
+ErrorMsg=Coordinate is outside known range for Neolamya peltigerae
+DataFieldName=Species
+DataRecordId=NBNSYS0000020380
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM55
+
+

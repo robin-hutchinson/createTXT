@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Frontinellina frutetorum
+Description=Checks date is within known flight period of Frontinellina frutetorum
+ErrorMsg=Date is outside known flight period of Frontinellina frutetorum
+Tvk=NHMSYS0000354343
+DataFieldName=
+StartDate=0818
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

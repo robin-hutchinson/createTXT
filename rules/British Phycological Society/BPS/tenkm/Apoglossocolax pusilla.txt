@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Apoglossocolax pusilla 10km
+Description=Check coordinate against known distribution of Apoglossocolax pusilla
+ErrorMsg=Coordinate is outside known range for Apoglossocolax pusilla
+DataFieldName=Species
+DataRecordId=NHMSYS0000567779
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SZ07
+
+

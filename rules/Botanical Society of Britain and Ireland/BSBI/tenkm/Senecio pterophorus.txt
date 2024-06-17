@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Senecio pterophorus 10km
+Description=Check coordinate against known distribution of Senecio pterophorus
+ErrorMsg=Coordinate is outside known range for Senecio pterophorus
+DataFieldName=Species
+DataRecordId=NBNSYS0000004877
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT43
+NT53
+SE32
+SO89
+TL03
+TQ25
+TQ75
+
+

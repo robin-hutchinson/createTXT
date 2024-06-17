@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster atropurpureus 10km
+Description=Check coordinate against known distribution of Cotoneaster atropurpureus
+ErrorMsg=Coordinate is outside known range for Cotoneaster atropurpureus
+DataFieldName=Species
+DataRecordId=NHMSYS0000457558
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS56
+NS66
+NS76
+NT48
+SC26
+SC37
+SN40
+SP84
+SS19
+SX47
+SX89
+
+

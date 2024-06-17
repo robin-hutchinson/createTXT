@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa arvensis x rugosa = R. x paulii 10km
+Description=Check coordinate against known distribution of Rosa arvensis x rugosa = R. x paulii
+ErrorMsg=Coordinate is outside known range for Rosa arvensis x rugosa = R. x paulii
+DataFieldName=Species
+DataRecordId=NBNSYS0100005189
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ37
+TQ38
+
+

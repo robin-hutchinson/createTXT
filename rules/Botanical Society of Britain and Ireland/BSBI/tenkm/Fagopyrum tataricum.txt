@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fagopyrum tataricum 10km
+Description=Check coordinate against known distribution of Fagopyrum tataricum
+ErrorMsg=Coordinate is outside known range for Fagopyrum tataricum
+DataFieldName=Species
+DataRecordId=NHMSYS0000458706
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE33
+TG11
+TL21
+TM13
+TQ08
+TQ28
+
+

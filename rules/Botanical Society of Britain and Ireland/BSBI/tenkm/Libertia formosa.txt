@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Libertia formosa 10km
+Description=Check coordinate against known distribution of Libertia formosa
+ErrorMsg=Coordinate is outside known range for Libertia formosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000014184
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J58
+O23
+V69
+V75
+V79
+W64
+
+
+[10km_GB]
+NR64
+NR89
+NS28
+NW95
+NX13
+NX40
+SC16
+SC17
+SC37
+SC39
+SC49
+SP30
+SP82
+SS69
+SU77
+SU97
+SV81
+SV91
+SW53
+SW54
+SW74
+SX05
+SY58
+SZ08
+
+
+NA
+
+

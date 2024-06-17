@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium hirsutum x tetragonum = E. x brevipilum 10km
+Description=Check coordinate against known distribution of Epilobium hirsutum x tetragonum = E. x brevipilum
+ErrorMsg=Coordinate is outside known range for Epilobium hirsutum x tetragonum = E. x brevipilum
+DataFieldName=Species
+DataRecordId=NBNSYS0000161615
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE43
+SK63
+SO86
+SO94
+SZ08
+TL15
+TL21
+TL46
+TQ35
+TQ38
+TQ48
+
+

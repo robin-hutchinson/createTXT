@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Xanthorhoe fluctuata thules
+Description=Checks date is within known flight period of Xanthorhoe fluctuata thules
+ErrorMsg=Date is outside known flight period of Xanthorhoe fluctuata thules
+Tvk=NHMSYS0021143919
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

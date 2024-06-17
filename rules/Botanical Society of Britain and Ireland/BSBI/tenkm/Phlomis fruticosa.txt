@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Phlomis fruticosa 10km
+Description=Check coordinate against known distribution of Phlomis fruticosa
+ErrorMsg=Coordinate is outside known range for Phlomis fruticosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000004247
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT67
+SC48
+SH88
+SP08
+SS94
+ST33
+ST62
+ST90
+SU36
+SU38
+SU68
+SU76
+SU77
+SU86
+SU88
+SU94
+SU97
+SW73
+SW84
+SX25
+SX96
+SY39
+SY68
+SZ08
+TM57
+TQ20
+TQ27
+TQ45
+TQ57
+
+
+[10km_Ireland]
+S13
+S25
+S76
+W39
+W54
+
+

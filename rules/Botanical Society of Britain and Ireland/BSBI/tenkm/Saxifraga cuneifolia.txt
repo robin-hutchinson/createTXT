@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Saxifraga cuneifolia 10km
+Description=Check coordinate against known distribution of Saxifraga cuneifolia
+ErrorMsg=Coordinate is outside known range for Saxifraga cuneifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000034028
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS75
+NS83
+NX77
+SC28
+SD74
+SD76
+SE03
+SK07
+SK14
+SK16
+SK17
+SN51
+SN70
+SO74
+SP43
+SS79
+ST64
+
+

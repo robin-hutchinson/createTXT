@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Ecclisopteryx dalecarlica
+Description=Checks date is within known recording period of Ecclisopteryx dalecarlica
+ErrorMsg=Date is outside known recording period of Ecclisopteryx dalecarlica
+Tvk=NHMSYS0021008755
+StartDate=18610101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

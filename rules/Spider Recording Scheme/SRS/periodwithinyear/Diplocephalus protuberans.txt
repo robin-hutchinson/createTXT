@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Diplocephalus protuberans
+Description=Checks date is within known flight period of Diplocephalus protuberans
+ErrorMsg=Date is outside known flight period of Diplocephalus protuberans
+Tvk=NBNSYS0000009092
+DataFieldName=
+StartDate=0319
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

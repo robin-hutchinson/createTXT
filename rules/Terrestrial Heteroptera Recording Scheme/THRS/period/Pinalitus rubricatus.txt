@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Pinalitus rubricatus
+Description=Checks date is within known recording period of Pinalitus rubricatus
+ErrorMsg=Date is outside known recording period of Pinalitus rubricatus
+Tvk=NHMSYS0020309674
+StartDate=18070101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

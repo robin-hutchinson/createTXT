@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum xanthostigma 10km
+Description=Check coordinate against known distribution of Taraxacum xanthostigma
+ErrorMsg=Coordinate is outside known range for Taraxacum xanthostigma
+DataFieldName=Species
+DataRecordId=NHMSYS0000464347
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG72
+NT13
+NT50
+SN30
+SN40
+SN42
+SN50
+SW61
+SX05
+SX17
+TL77
+TQ09
+
+

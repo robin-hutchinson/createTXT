@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Hoplangia durotrix 10km
+Description=Check coordinate against known distribution of Hoplangia durotrix
+ErrorMsg=Coordinate is outside known range for Hoplangia durotrix
+DataFieldName=Species
+DataRecordId=NBNSYS0000188421
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM70
+SS14
+SV91
+SX35
+SX44
+SX45
+SX54
+SX95
+SY38
+SY48
+SY58
+SY67
+SY77
+SY87
+SY97
+SZ07
+SZ08
+SZ99
+
+
+[10km_Ireland]
+Y85
+
+

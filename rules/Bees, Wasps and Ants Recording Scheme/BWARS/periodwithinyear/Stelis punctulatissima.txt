@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Stelis punctulatissima
+Description=Checks date is within known flight period of Stelis punctulatissima
+ErrorMsg=Date is outside known flight period of Stelis punctulatissima
+Tvk=NHMSYS0000876713
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

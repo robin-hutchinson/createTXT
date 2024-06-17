@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Erica erigena 10km
+Description=Check coordinate against known distribution of Erica erigena
+ErrorMsg=Coordinate is outside known range for Erica erigena
+DataFieldName=Species
+DataRecordId=NHMSYS0000458526
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+F50
+F60
+F70
+F71
+F72
+F80
+F82
+F90
+G00
+G02
+G11
+G12
+G21
+G73
+L64
+L68
+L69
+L76
+L78
+L79
+L89
+L99
+M09
+
+
+[10km_GB]
+SV81
+SX26
+TM35
+
+

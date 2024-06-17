@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Chlamydatus (Eurymerocoris) wilkinsoni
+Description=Checks date is within known recording period of Chlamydatus (Eurymerocoris) wilkinsoni
+ErrorMsg=Date is outside known recording period of Chlamydatus (Eurymerocoris) wilkinsoni
+Tvk=NHMSYS0020309080
+StartDate=18660101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Baetis scambus
+Description=Checks date is within known flight period of Baetis scambus
+ErrorMsg=Date is outside known flight period of Baetis scambus
+Tvk=NBNSYS0000010870
+DataFieldName=
+StartDate=0201
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

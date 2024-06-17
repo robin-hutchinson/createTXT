@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Meganola strigula
+Description=Checks date is within known flight period of Meganola strigula
+ErrorMsg=Date is outside known flight period of Meganola strigula
+Tvk=NHMSYS0021144953
+DataFieldName=
+StartDate=0607
+EndDate=0721
+LastChanged=20240617
+[EndMetadata]

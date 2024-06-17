@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Dichomeris ustalella 10km
+Description=Check coordinate against known distribution of Dichomeris ustalella
+ErrorMsg=Coordinate is outside known range for Dichomeris ustalella
+DataFieldName=Species
+DataRecordId=NHMSYS0000502155
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO40
+SO41
+SO50
+SO51
+SO52
+SO60
+SO61
+SO62
+SO70
+SO71
+SO72
+SO75
+SO76
+SO77
+SO85
+SO86
+SO87
+SO95
+SO96
+SO97
+ST48
+ST49
+ST58
+ST59
+ST68
+ST69
+
+

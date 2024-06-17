@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Cladosiphon zosterae 10km
+Description=Check coordinate against known distribution of Cladosiphon zosterae
+ErrorMsg=Coordinate is outside known range for Cladosiphon zosterae
+DataFieldName=Species
+DataRecordId=NHMSYS0000567891
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NF70
+NM42
+NR25
+NR38
+NR78
+NS15
+SH24
+SW83
+SY58
+SY68
+
+

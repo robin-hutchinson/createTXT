@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Scrobipalpa atriplicella
+Description=Checks date is within known flight period of Scrobipalpa atriplicella
+ErrorMsg=Date is outside known flight period of Scrobipalpa atriplicella
+Tvk=NHMSYS0000504140
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

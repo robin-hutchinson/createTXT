@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Corynophlaea crispa 10km
+Description=Check coordinate against known distribution of Corynophlaea crispa
+ErrorMsg=Coordinate is outside known range for Corynophlaea crispa
+DataFieldName=Species
+DataRecordId=NBNSYS0000174715
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM22
+NX03
+SS14
+SZ07
+
+

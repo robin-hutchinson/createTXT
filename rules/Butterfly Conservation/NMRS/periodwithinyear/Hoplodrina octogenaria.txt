@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Hoplodrina octogenaria
+Description=Checks date is within known flight period of Hoplodrina octogenaria
+ErrorMsg=Date is outside known flight period of Hoplodrina octogenaria
+Tvk=NHMSYS0021144579
+DataFieldName=
+StartDate=0521
+EndDate=1115
+LastChanged=20240617
+[EndMetadata]

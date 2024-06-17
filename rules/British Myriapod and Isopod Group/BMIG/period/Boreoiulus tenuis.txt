@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Boreoiulus tenuis
+Description=Checks date is within known recording period of Boreoiulus tenuis
+ErrorMsg=Date is outside known recording period of Boreoiulus tenuis
+Tvk=NBNSYS0000011377
+StartDate=19180101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

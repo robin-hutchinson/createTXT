@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Agraylea sexmaculata
+Description=Checks date is within known flight period of Agraylea sexmaculata
+ErrorMsg=Date is outside known flight period of Agraylea sexmaculata
+Tvk=NBNSYS0000008350
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

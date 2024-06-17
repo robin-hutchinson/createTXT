@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Thujopsis dolabrata 10km
+Description=Check coordinate against known distribution of Thujopsis dolabrata
+ErrorMsg=Coordinate is outside known range for Thujopsis dolabrata
+DataFieldName=Species
+DataRecordId=NBNSYS0200003888
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN24
+SN34
+SN44
+SN45
+SN55
+SN57
+SN58
+SN67
+SN69
+SN77
+ST07
+SW84
+
+

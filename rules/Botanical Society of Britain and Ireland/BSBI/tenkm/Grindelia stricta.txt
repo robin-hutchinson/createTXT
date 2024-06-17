@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Grindelia stricta 10km
+Description=Check coordinate against known distribution of Grindelia stricta
+ErrorMsg=Coordinate is outside known range for Grindelia stricta
+DataFieldName=Species
+DataRecordId=NBNSYS0000033947
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ80
+NZ81
+NZ90
+
+

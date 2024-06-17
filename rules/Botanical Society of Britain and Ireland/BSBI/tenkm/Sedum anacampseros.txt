@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sedum anacampseros 10km
+Description=Check coordinate against known distribution of Sedum anacampseros
+ErrorMsg=Coordinate is outside known range for Sedum anacampseros
+DataFieldName=Species
+DataRecordId=NBNSYS0000033624
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC49
+SK14
+
+

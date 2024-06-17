@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Marine Biological Association/MBA Recording Period
+ShortName=Brachynotus sexdentatus
+Description=Checks date is within known recording period of Brachynotus sexdentatus
+ErrorMsg=Date is outside known recording period of Brachynotus sexdentatus
+Tvk=NBNSYS0000179885
+StartDate=19570101
+EndDate=19570131
+LastChanged=20240617
+[EndMetadata]

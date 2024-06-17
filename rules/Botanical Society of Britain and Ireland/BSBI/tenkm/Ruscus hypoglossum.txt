@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ruscus hypoglossum 10km
+Description=Check coordinate against known distribution of Ruscus hypoglossum
+ErrorMsg=Coordinate is outside known range for Ruscus hypoglossum
+DataFieldName=Species
+DataRecordId=NBNSYS0000005353
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT27
+SO88
+SP93
+SU72
+
+

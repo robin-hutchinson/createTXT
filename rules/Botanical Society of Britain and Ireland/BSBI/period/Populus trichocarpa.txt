@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Populus trichocarpa
+Description=Checks date is within known recording period of Populus trichocarpa
+ErrorMsg=Date is outside known recording period of Populus trichocarpa
+Tvk=NHMSYS0000461974
+StartDate=19350101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ciclospermum leptophyllum 10km
+Description=Check coordinate against known distribution of Ciclospermum leptophyllum
+ErrorMsg=Coordinate is outside known range for Ciclospermum leptophyllum
+DataFieldName=Species
+DataRecordId=NHMSYS0000457329
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO83
+SP04
+TL03
+
+

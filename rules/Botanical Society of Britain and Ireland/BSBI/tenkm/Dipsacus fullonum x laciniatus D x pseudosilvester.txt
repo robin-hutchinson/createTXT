@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dipsacus fullonum x laciniatus = D. x pseudosilvester 10km
+Description=Check coordinate against known distribution of Dipsacus fullonum x laciniatus = D. x pseudosilvester
+ErrorMsg=Coordinate is outside known range for Dipsacus fullonum x laciniatus = D. x pseudosilvester
+DataFieldName=Species
+DataRecordId=NHMSYS0001754530
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP31
+TQ38
+
+

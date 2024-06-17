@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ectoedemia erythrogenella
+Description=Checks date is within known flight period of Ectoedemia erythrogenella
+ErrorMsg=Date is outside known flight period of Ectoedemia erythrogenella
+Tvk=NHMSYS0021142150
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

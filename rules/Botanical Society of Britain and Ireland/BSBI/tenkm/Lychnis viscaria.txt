@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lychnis viscaria 10km
+Description=Check coordinate against known distribution of Lychnis viscaria
+ErrorMsg=Coordinate is outside known range for Lychnis viscaria
+DataFieldName=Species
+DataRecordId=NBNSYS0000003002
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY40
+NN28
+NN65
+NN85
+NN86
+NN95
+NN96
+NO01
+NO11
+NO12
+NO14
+NO21
+NO25
+NO33
+NO40
+NO41
+NS89
+NS97
+NT17
+NT23
+NT26
+NT27
+NT28
+NT42
+NT52
+NX85
+NX95
+SJ21
+SK43
+SO25
+SP05
+SP08
+SU94
+TL70
+TQ16
+TQ22
+TQ36
+
+

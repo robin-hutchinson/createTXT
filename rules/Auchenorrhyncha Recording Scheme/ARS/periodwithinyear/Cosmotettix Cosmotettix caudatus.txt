@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Cosmotettix (Cosmotettix) caudatus
+Description=Checks date is within known flight period of Cosmotettix (Cosmotettix) caudatus
+ErrorMsg=Date is outside known flight period of Cosmotettix (Cosmotettix) caudatus
+Tvk=NHMSYS0020705299
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

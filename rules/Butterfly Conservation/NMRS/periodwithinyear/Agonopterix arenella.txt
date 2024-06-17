@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agonopterix arenella
+Description=Checks date is within known flight period of Agonopterix arenella
+ErrorMsg=Date is outside known flight period of Agonopterix arenella
+Tvk=NHMSYS0021142586
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

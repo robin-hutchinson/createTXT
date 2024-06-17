@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Armeria maritima x arenaria 10km
+Description=Check coordinate against known distribution of Armeria maritima x arenaria
+ErrorMsg=Coordinate is outside known range for Armeria maritima x arenaria
+DataFieldName=Species
+DataRecordId=NHMSYS0100000571
+LastChanged=20240617
+[EndMetadata]
+
+NA
+
+

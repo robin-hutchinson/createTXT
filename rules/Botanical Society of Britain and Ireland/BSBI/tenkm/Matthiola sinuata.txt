@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Matthiola sinuata 10km
+Description=Check coordinate against known distribution of Matthiola sinuata
+ErrorMsg=Coordinate is outside known range for Matthiola sinuata
+DataFieldName=Species
+DataRecordId=NHMSYS0000460621
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+L90
+M20
+Q72
+Q94
+R08
+T13
+T14
+T26
+
+
+[10km_GB]
+NC46
+NS56
+SH12
+SH46
+SH53
+SH61
+SK58
+SN10
+SO74
+SS09
+SS19
+SS20
+SS42
+SS43
+SS44
+SS48
+SS49
+SS58
+SS69
+SS78
+SS79
+SW83
+SX25
+TA12
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

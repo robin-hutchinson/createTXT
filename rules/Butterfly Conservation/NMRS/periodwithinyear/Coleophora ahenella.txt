@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora ahenella
+Description=Checks date is within known flight period of Coleophora ahenella
+ErrorMsg=Date is outside known flight period of Coleophora ahenella
+Tvk=NHMSYS0021142826
+DataFieldName=
+StartDate=0521
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

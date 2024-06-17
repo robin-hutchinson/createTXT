@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Mammal Society/MS 10km distribution
+ShortName=Macropus rufogriseus 10km
+Description=Check coordinate against known distribution of Macropus rufogriseus
+ErrorMsg=Coordinate is outside known range for Macropus rufogriseus
+DataFieldName=Species
+DataRecordId=NHMSYS0000080171
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS39
+
+

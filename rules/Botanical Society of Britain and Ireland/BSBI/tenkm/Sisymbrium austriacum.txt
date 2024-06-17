@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sisymbrium austriacum 10km
+Description=Check coordinate against known distribution of Sisymbrium austriacum
+ErrorMsg=Coordinate is outside known range for Sisymbrium austriacum
+DataFieldName=Species
+DataRecordId=NBNSYS0000014777
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ53
+SD32
+SP08
+TQ17
+TQ27
+TQ47
+
+

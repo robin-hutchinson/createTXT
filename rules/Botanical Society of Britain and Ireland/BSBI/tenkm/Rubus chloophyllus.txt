@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus chloophyllus 10km
+Description=Check coordinate against known distribution of Rubus chloophyllus
+ErrorMsg=Coordinate is outside known range for Rubus chloophyllus
+DataFieldName=Species
+DataRecordId=NHMSYS0000840992
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ01
+TQ13
+TQ16
+TQ19
+TQ23
+TQ33
+TQ34
+TQ42
+TQ43
+TQ53
+TQ54
+TQ63
+TQ70
+TQ71
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Scaeva albomaculata 10km
+Description=Check coordinate against known distribution of Scaeva albomaculata
+ErrorMsg=Coordinate is outside known range for Scaeva albomaculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000006949
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SZ38
+TQ50
+
+

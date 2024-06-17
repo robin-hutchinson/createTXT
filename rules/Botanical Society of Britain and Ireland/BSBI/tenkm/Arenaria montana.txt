@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Arenaria montana 10km
+Description=Check coordinate against known distribution of Arenaria montana
+ErrorMsg=Coordinate is outside known range for Arenaria montana
+DataFieldName=Species
+DataRecordId=NBNSYS0000003065
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ27
+TQ57
+
+
+NA
+
+

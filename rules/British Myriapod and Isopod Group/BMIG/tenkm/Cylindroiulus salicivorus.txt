@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Cylindroiulus salicivorus 10km
+Description=Check coordinate against known distribution of Cylindroiulus salicivorus
+ErrorMsg=Coordinate is outside known range for Cylindroiulus salicivorus
+DataFieldName=Species
+DataRecordId=NHMSYS0000356246
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO51
+NT27
+
+

@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Rhytidium 10km
+Description=Check coordinate against known distribution of Rhytidium
+ErrorMsg=Coordinate is outside known range for Rhytidium
+DataFieldName=Species
+DataRecordId=NHMSYS0000310442
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN42
+NN43
+NN53
+NN54
+NN61
+NN63
+NN64
+NN65
+NN67
+NN73
+NN75
+NN85
+NN96
+NN97
+NO07
+NO17
+NY61
+NY70
+NY71
+NY72
+SD17
+SD27
+SD37
+SD38
+SD46
+SD47
+SD48
+SD57
+TF70
+TF71
+TL67
+TL77
+TL78
+TL79
+TL87
+TL88
+TL89
+TL98
+
+

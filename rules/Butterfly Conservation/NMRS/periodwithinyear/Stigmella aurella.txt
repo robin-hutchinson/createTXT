@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella aurella
+Description=Checks date is within known flight period of Stigmella aurella
+ErrorMsg=Date is outside known flight period of Stigmella aurella
+Tvk=NHMSYS0000504333
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

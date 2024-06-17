@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sedum kamtschaticum 10km
+Description=Check coordinate against known distribution of Sedum kamtschaticum
+ErrorMsg=Coordinate is outside known range for Sedum kamtschaticum
+DataFieldName=Species
+DataRecordId=NHMSYS0100002914
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC27
+SC28
+SC37
+SC39
+SC47
+SP18
+SU38
+SU77
+SU86
+SU87
+SU88
+SU97
+SY39
+SY59
+
+

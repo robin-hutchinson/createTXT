@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Ectoedemia spinosella
+Description=Checks date is within known recording period of Ectoedemia spinosella
+ErrorMsg=Date is outside known recording period of Ectoedemia spinosella
+Tvk=NHMSYS0000502278
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

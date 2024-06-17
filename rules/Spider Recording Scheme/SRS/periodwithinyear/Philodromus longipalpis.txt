@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Philodromus longipalpis
+Description=Checks date is within known flight period of Philodromus longipalpis
+ErrorMsg=Date is outside known flight period of Philodromus longipalpis
+Tvk=NBNSYS0100004566
+DataFieldName=
+StartDate=0323
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

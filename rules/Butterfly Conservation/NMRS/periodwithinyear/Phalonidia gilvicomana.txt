@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phalonidia gilvicomana
+Description=Checks date is within known flight period of Phalonidia gilvicomana
+ErrorMsg=Date is outside known flight period of Phalonidia gilvicomana
+Tvk=NHMSYS0000503706
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Petasites albus
+Description=Checks date is within known recording period of Petasites albus
+ErrorMsg=Date is outside known recording period of Petasites albus
+Tvk=NHMSYS0000461629
+StartDate=18430101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Oscinella cariciphila
+Description=Checks date is within known recording period of Oscinella cariciphila
+ErrorMsg=Date is outside known recording period of Oscinella cariciphila
+Tvk=NBNSYS0000029911
+StartDate=19460101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

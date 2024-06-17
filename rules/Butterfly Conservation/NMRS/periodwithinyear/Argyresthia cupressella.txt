@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Argyresthia cupressella
+Description=Checks date is within known flight period of Argyresthia cupressella
+ErrorMsg=Date is outside known flight period of Argyresthia cupressella
+Tvk=NBNSYS0100001643
+DataFieldName=
+StartDate=0501
+EndDate=0807
+LastChanged=20240617
+[EndMetadata]

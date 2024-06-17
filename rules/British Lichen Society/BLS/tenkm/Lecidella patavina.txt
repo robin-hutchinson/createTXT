@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecidella patavina 10km
+Description=Check coordinate against known distribution of Lecidella patavina
+ErrorMsg=Coordinate is outside known range for Lecidella patavina
+DataFieldName=Species
+DataRecordId=BMSSYS0000010099
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG74
+NG75
+NN64
+
+

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cochlearia pyrenaica subsp. pyrenaica 10km
+Description=Check coordinate against known distribution of Cochlearia pyrenaica subsp. pyrenaica
+ErrorMsg=Coordinate is outside known range for Cochlearia pyrenaica subsp. pyrenaica
+DataFieldName=Species
+DataRecordId=NHMSYS0000457403
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU69
+NT31
+NY73
+NY74
+NY82
+NY83
+NY84
+NY92
+NY93
+NZ01
+NZ03
+NZ13
+NZ22
+
+

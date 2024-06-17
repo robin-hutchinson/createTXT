@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Limonium transwallianum 10km
+Description=Check coordinate against known distribution of Limonium transwallianum
+ErrorMsg=Coordinate is outside known range for Limonium transwallianum
+DataFieldName=Species
+DataRecordId=NBNSYS0000004608
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS19
+
+

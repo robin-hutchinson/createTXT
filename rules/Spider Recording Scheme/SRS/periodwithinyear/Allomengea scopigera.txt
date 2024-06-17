@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Allomengea scopigera
+Description=Checks date is within known flight period of Allomengea scopigera
+ErrorMsg=Date is outside known flight period of Allomengea scopigera
+Tvk=NBNSYS0000009240
+DataFieldName=
+StartDate=0621
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

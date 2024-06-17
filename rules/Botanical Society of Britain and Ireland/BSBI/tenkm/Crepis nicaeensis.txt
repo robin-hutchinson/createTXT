@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crepis nicaeensis 10km
+Description=Check coordinate against known distribution of Crepis nicaeensis
+ErrorMsg=Coordinate is outside known range for Crepis nicaeensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000457689
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J37
+
+
+[10km_GB]
+NT18
+NT47
+NT73
+NZ71
+SE14
+SJ92
+SO74
+SO85
+SO86
+SO87
+SP32
+SS60
+ST23
+SX45
+SX46
+TA16
+TL03
+TL50
+TL81
+TL87
+TL91
+TL92
+TM02
+TM05
+TQ08
+TQ16
+TQ18
+TQ25
+TQ27
+TQ59
+
+

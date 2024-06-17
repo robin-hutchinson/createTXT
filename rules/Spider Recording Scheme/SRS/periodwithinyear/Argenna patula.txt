@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Argenna patula
+Description=Checks date is within known flight period of Argenna patula
+ErrorMsg=Date is outside known flight period of Argenna patula
+Tvk=NBNSYS0000008625
+DataFieldName=
+StartDate=0418
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Tabanus bovinus
+Description=Checks date is within known flight period of Tabanus bovinus
+ErrorMsg=Date is outside known flight period of Tabanus bovinus
+Tvk=NBNSYS0000007888
+DataFieldName=
+StartDate=0601
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Enoplognatha thoracica
+Description=Checks date is within known flight period of Enoplognatha thoracica
+ErrorMsg=Date is outside known flight period of Enoplognatha thoracica
+Tvk=NBNSYS0000008904
+DataFieldName=
+StartDate=0323
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

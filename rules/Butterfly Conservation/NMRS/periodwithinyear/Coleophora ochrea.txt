@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora ochrea
+Description=Checks date is within known flight period of Coleophora ochrea
+ErrorMsg=Date is outside known flight period of Coleophora ochrea
+Tvk=NHMSYS0000501904
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Melanostoma dubium
+Description=Checks date is within known flight period of Melanostoma dubium
+ErrorMsg=Date is outside known flight period of Melanostoma dubium
+Tvk=NBNSYS0000006865
+DataFieldName=
+StartDate=0308
+EndDate=0908
+LastChanged=20240617
+[EndMetadata]

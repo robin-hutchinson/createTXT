@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ephemeroptera Recording Scheme/ERS Recording Period
+ShortName=Caenis macrura
+Description=Checks date is within known recording period of Caenis macrura
+ErrorMsg=Date is outside known recording period of Caenis macrura
+Tvk=NBNSYS0000010903
+StartDate=18350101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

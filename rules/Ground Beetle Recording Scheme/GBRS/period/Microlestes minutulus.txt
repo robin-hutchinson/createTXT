@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Microlestes minutulus
+Description=Checks date is within known recording period of Microlestes minutulus
+ErrorMsg=Date is outside known recording period of Microlestes minutulus
+Tvk=NBNSYS0000007479
+StartDate=19970101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

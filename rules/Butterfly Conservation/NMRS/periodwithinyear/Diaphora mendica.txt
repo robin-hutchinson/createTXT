@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Diaphora mendica
+Description=Checks date is within known flight period of Diaphora mendica
+ErrorMsg=Date is outside known flight period of Diaphora mendica
+Tvk=NBNSYS0000006149
+DataFieldName=
+StartDate=0321
+EndDate=0721
+LastChanged=20240617
+[EndMetadata]

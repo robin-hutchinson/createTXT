@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Matilella fusca
+Description=Checks date is within known recording period of Matilella fusca
+ErrorMsg=Date is outside known recording period of Matilella fusca
+Tvk=NHMSYS0021143629
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

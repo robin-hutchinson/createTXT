@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Weigela florida 10km
+Description=Check coordinate against known distribution of Weigela florida
+ErrorMsg=Coordinate is outside known range for Weigela florida
+DataFieldName=Species
+DataRecordId=NHMSYS0000464990
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ND01
+NM42
+NM49
+NS28
+NT17
+SC37
+SD49
+SD90
+SJ85
+SJ91
+SK07
+SO57
+SO98
+SP59
+ST56
+ST67
+SX17
+SY49
+SY78
+SY79
+TQ05
+TQ24
+TQ25
+TQ46
+TQ65
+
+
+[10km_Ireland]
+V49
+
+

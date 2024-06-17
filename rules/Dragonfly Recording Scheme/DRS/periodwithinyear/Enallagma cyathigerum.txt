@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Dragonfly Recording Scheme/DRS Flight Period
+ShortName=Enallagma cyathigerum
+Description=Checks date is within known flight period of Enallagma cyathigerum
+ErrorMsg=Date is outside known flight period of Enallagma cyathigerum
+Tvk=NBNSYS0000005602
+DataFieldName=
+StartDate=0510
+EndDate=0908
+LastChanged=20240617
+[EndMetadata]

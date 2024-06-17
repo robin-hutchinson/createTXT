@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pilosella peleteriana subsp. tenuiscapa 10km
+Description=Check coordinate against known distribution of Pilosella peleteriana subsp. tenuiscapa
+ErrorMsg=Coordinate is outside known range for Pilosella peleteriana subsp. tenuiscapa
+DataFieldName=Species
+DataRecordId=NHMSYS0000461679
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE06
+SK05
+SK15
+SX96
+
+
+NA
+
+

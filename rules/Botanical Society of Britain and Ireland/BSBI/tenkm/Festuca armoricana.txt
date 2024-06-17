@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca armoricana 10km
+Description=Check coordinate against known distribution of Festuca armoricana
+ErrorMsg=Coordinate is outside known range for Festuca armoricana
+DataFieldName=Species
+DataRecordId=NHMSYS0000458757
+LastChanged=20240617
+[EndMetadata]
+
+NA
+
+

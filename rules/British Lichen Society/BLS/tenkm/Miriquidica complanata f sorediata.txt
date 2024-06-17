@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Miriquidica complanata f. sorediata 10km
+Description=Check coordinate against known distribution of Miriquidica complanata f. sorediata
+ErrorMsg=Coordinate is outside known range for Miriquidica complanata f. sorediata
+DataFieldName=Species
+DataRecordId=NHMSYS0020990616
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG80
+NG81
+NG82
+NG90
+NG91
+NG92
+NH00
+NH01
+NH02
+NO16
+NO17
+NO18
+NO26
+NO27
+NO28
+NO36
+NO37
+NO38
+
+

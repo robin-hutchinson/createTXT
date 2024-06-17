@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Phytolacca icosandra 10km
+Description=Check coordinate against known distribution of Phytolacca icosandra
+ErrorMsg=Coordinate is outside known range for Phytolacca icosandra
+DataFieldName=Species
+DataRecordId=NBNSYS0200002878
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO85
+
+

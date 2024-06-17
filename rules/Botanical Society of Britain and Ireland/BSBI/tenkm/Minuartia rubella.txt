@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Minuartia rubella 10km
+Description=Check coordinate against known distribution of Minuartia rubella
+ErrorMsg=Coordinate is outside known range for Minuartia rubella
+DataFieldName=Species
+DataRecordId=NBNSYS0000003053
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HP60
+HP61
+NC44
+NN47
+NN53
+NN64
+NO17
+
+

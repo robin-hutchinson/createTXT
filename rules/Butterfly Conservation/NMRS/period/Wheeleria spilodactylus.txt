@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Wheeleria spilodactylus
+Description=Checks date is within known recording period of Wheeleria spilodactylus
+ErrorMsg=Date is outside known recording period of Wheeleria spilodactylus
+Tvk=NHMSYS0021142946
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

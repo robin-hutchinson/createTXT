@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Calicium adspersum 10km
+Description=Check coordinate against known distribution of Calicium adspersum
+ErrorMsg=Coordinate is outside known range for Calicium adspersum
+DataFieldName=Species
+DataRecordId=NBNSYS0000015534
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH36
+SO09
+SP41
+
+

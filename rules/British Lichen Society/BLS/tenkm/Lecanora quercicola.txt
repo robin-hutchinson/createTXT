@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecanora quercicola 10km
+Description=Check coordinate against known distribution of Lecanora quercicola
+ErrorMsg=Coordinate is outside known range for Lecanora quercicola
+DataFieldName=Species
+DataRecordId=NBNSYS0000018617
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM76
+NN72
+NY21
+NY30
+NZ01
+SH62
+SN96
+SO04
+SO05
+SO06
+SO09
+SO37
+ST24
+ST50
+ST84
+SU10
+SU20
+SU21
+SU26
+SU30
+SU42
+SU44
+SU71
+SX78
+TQ01
+TQ42
+TQ53
+TQ55
+TQ61
+TQ85
+
+

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lathyrus inconspicuus 10km
+Description=Check coordinate against known distribution of Lathyrus inconspicuus
+ErrorMsg=Coordinate is outside known range for Lathyrus inconspicuus
+DataFieldName=Species
+DataRecordId=NBNSYS0200002450
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW72
+SW83
+SW94
+TL31
+
+

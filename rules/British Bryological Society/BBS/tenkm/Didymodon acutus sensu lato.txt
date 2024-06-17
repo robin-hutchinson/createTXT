@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Didymodon acutus sensu lato 10km
+Description=Check coordinate against known distribution of Didymodon acutus sensu lato
+ErrorMsg=Coordinate is outside known range for Didymodon acutus sensu lato
+DataFieldName=Species
+DataRecordId=NBNSYS0000146084
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX90
+SD08
+SD09
+SD18
+SD35
+SD36
+SD38
+SM50
+SR89
+SS38
+SS39
+TQ30
+TQ50
+
+

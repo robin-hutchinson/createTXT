@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa stylosa x caesia 10km
+Description=Check coordinate against known distribution of Rosa stylosa x caesia
+ErrorMsg=Coordinate is outside known range for Rosa stylosa x caesia
+DataFieldName=Species
+DataRecordId=NHMSYS0100002714
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO73
+SO96
+SP04
+SP05
+ST55
+
+

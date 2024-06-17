@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Sciota rhenella
+Description=Checks date is within known flight period of Sciota rhenella
+ErrorMsg=Date is outside known flight period of Sciota rhenella
+Tvk=NHMSYS0001703764
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

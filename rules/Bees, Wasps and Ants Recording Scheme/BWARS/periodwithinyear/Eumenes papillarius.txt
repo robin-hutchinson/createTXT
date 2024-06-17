@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Eumenes papillarius
+Description=Checks date is within known flight period of Eumenes papillarius
+ErrorMsg=Date is outside known flight period of Eumenes papillarius
+Tvk=NBNSYS0100003105
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

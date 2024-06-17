@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Helophilus groenlandicus 10km
+Description=Check coordinate against known distribution of Helophilus groenlandicus
+ErrorMsg=Coordinate is outside known range for Helophilus groenlandicus
+DataFieldName=Species
+DataRecordId=NBNSYS0000007055
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC14
+NG20
+NG50
+NG54
+NG96
+NM48
+
+

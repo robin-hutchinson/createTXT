@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Opostega salaciella
+Description=Checks date is within known flight period of Opostega salaciella
+ErrorMsg=Date is outside known flight period of Opostega salaciella
+Tvk=NHMSYS0000503498
+DataFieldName=
+StartDate=0515
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

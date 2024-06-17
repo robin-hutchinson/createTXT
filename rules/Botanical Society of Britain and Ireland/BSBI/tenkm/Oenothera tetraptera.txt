@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Oenothera tetraptera 10km
+Description=Check coordinate against known distribution of Oenothera tetraptera
+ErrorMsg=Coordinate is outside known range for Oenothera tetraptera
+DataFieldName=Species
+DataRecordId=NBNSYS0200002729
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH86
+TQ26
+
+

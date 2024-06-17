@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Mythimna l-album
+Description=Checks date is within known flight period of Mythimna l-album
+ErrorMsg=Date is outside known flight period of Mythimna l-album
+Tvk=NBNSYS0000006295
+DataFieldName=
+StartDate=0507
+EndDate=1107
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Buxbaumia viridis 10km
+Description=Check coordinate against known distribution of Buxbaumia viridis
+ErrorMsg=Coordinate is outside known range for Buxbaumia viridis
+DataFieldName=Species
+DataRecordId=NHMSYS0000309525
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH43
+NH44
+NH45
+NH52
+NH53
+NH54
+NH55
+NH63
+NH64
+NH65
+NH70
+NH74
+NH75
+NH80
+NH81
+NH82
+NH84
+NH85
+NH90
+NH91
+NH92
+NH93
+NH94
+NH95
+NJ01
+NJ02
+NJ03
+NJ05
+NJ11
+NJ12
+NJ13
+NJ14
+NJ40
+NN79
+NO19
+NO39
+NO49
+NO59
+NO69
+
+

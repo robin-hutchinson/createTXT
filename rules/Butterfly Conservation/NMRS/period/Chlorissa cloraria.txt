@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Chlorissa cloraria
+Description=Checks date is within known recording period of Chlorissa cloraria
+ErrorMsg=Date is outside known recording period of Chlorissa cloraria
+Tvk=NHMSYS0021144334
+StartDate=18620101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

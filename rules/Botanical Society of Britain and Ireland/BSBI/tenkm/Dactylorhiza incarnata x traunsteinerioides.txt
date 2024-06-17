@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactylorhiza incarnata x traunsteinerioides 10km
+Description=Check coordinate against known distribution of Dactylorhiza incarnata x traunsteinerioides
+ErrorMsg=Coordinate is outside known range for Dactylorhiza incarnata x traunsteinerioides
+DataFieldName=Species
+DataRecordId=NHMSYS0020112220
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD96
+SE88
+SH33
+SH57
+SU65
+
+

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Placynthium dolichoterum sensu auct. brit. 10km
+Description=Check coordinate against known distribution of Placynthium dolichoterum sensu auct. brit.
+ErrorMsg=Coordinate is outside known range for Placynthium dolichoterum sensu auct. brit.
+DataFieldName=Species
+DataRecordId=NHMSYS0020990949
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN07
+NN47
+NN64
+NO07
+NO17
+SH65
+
+

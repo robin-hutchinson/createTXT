@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium attenuatifolium 10km
+Description=Check coordinate against known distribution of Hieracium attenuatifolium
+ErrorMsg=Coordinate is outside known range for Hieracium attenuatifolium
+DataFieldName=Species
+DataRecordId=NHMSYS0000459343
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU25
+HU46
+
+

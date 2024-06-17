@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Neofriseria singula
+Description=Checks date is within known flight period of Neofriseria singula
+ErrorMsg=Date is outside known flight period of Neofriseria singula
+Tvk=NHMSYS0000503367
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

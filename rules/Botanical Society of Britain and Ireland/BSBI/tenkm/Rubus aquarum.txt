@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus aquarum 10km
+Description=Check coordinate against known distribution of Rubus aquarum
+ErrorMsg=Coordinate is outside known range for Rubus aquarum
+DataFieldName=Species
+DataRecordId=NHMSYS0000462592
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN84
+SN94
+SO05
+
+

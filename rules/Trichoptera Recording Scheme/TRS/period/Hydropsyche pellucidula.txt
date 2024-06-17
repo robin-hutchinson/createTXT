@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Hydropsyche pellucidula
+Description=Checks date is within known recording period of Hydropsyche pellucidula
+ErrorMsg=Date is outside known recording period of Hydropsyche pellucidula
+Tvk=NBNSYS0000008419
+StartDate=18360101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

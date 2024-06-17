@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phyllocnistis saligna
+Description=Checks date is within known flight period of Phyllocnistis saligna
+ErrorMsg=Date is outside known flight period of Phyllocnistis saligna
+Tvk=NHMSYS0000503752
+DataFieldName=
+StartDate=0501
+EndDate=0531
+LastChanged=20240617
+[EndMetadata]

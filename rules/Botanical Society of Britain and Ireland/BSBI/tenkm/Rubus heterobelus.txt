@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus heterobelus 10km
+Description=Check coordinate against known distribution of Rubus heterobelus
+ErrorMsg=Coordinate is outside known range for Rubus heterobelus
+DataFieldName=Species
+DataRecordId=NHMSYS0000840692
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS31
+SS52
+ST73
+SU15
+SU16
+SW75
+SY08
+SY78
+SY88
+SY89
+SY98
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pempelia palumbella
+Description=Checks date is within known recording period of Pempelia palumbella
+ErrorMsg=Date is outside known recording period of Pempelia palumbella
+Tvk=NHMSYS0021143639
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

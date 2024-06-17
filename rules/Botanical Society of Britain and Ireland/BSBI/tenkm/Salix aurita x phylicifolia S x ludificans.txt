@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix aurita x phylicifolia = S. x ludificans 10km
+Description=Check coordinate against known distribution of Salix aurita x phylicifolia = S. x ludificans
+ErrorMsg=Coordinate is outside known range for Salix aurita x phylicifolia = S. x ludificans
+DataFieldName=Species
+DataRecordId=NHMSYS0001754723
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D11
+
+
+[10km_GB]
+NC22
+NH61
+NJ31
+NJ36
+NM66
+NN25
+NN43
+NN95
+NO37
+NS40
+NS56
+NT00
+NT02
+NT12
+NT22
+NT32
+NT45
+NT52
+NX89
+NY42
+NY82
+NZ02
+SD79
+SD86
+
+

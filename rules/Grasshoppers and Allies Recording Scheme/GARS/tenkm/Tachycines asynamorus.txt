@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Grasshoppers and Allies Recording Scheme/GARS 10km distribution
+ShortName=Tachycines asynamorus 10km
+Description=Check coordinate against known distribution of Tachycines asynamorus
+ErrorMsg=Coordinate is outside known range for Tachycines asynamorus
+DataFieldName=Species
+DataRecordId=NHMSYS0001387466
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD34
+SK47
+SK57
+SS84
+
+

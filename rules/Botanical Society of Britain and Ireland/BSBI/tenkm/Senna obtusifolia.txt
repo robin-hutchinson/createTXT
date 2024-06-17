@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Senna obtusifolia 10km
+Description=Check coordinate against known distribution of Senna obtusifolia
+ErrorMsg=Coordinate is outside known range for Senna obtusifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0200003136
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL31
+
+

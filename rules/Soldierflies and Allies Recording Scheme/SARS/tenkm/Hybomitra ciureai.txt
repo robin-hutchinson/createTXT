@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Hybomitra ciureai 10km
+Description=Check coordinate against known distribution of Hybomitra ciureai
+ErrorMsg=Coordinate is outside known range for Hybomitra ciureai
+DataFieldName=Species
+DataRecordId=NBNSYS0000007880
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SZ47
+TL91
+TM01
+TM02
+TM46
+TM47
+TM48
+TQ71
+TQ76
+TQ96
+TR26
+
+

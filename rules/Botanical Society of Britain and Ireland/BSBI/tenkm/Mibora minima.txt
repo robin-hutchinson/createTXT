@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Mibora minima 10km
+Description=Check coordinate against known distribution of Mibora minima
+ErrorMsg=Coordinate is outside known range for Mibora minima
+DataFieldName=Species
+DataRecordId=NBNSYS0000002647
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT47
+NT48
+NZ37
+SD31
+SH27
+SH28
+SH36
+SH37
+SH46
+SO85
+SS49
+ST42
+ST97
+SU00
+SU42
+SU96
+SX05
+SY98
+SZ08
+TL01
+TM02
+TM24
+
+
+NA
+
+

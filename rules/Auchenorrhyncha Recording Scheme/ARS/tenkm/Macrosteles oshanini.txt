@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Macrosteles oshanini 10km
+Description=Check coordinate against known distribution of Macrosteles oshanini
+ErrorMsg=Coordinate is outside known range for Macrosteles oshanini
+DataFieldName=Species
+DataRecordId=NHMSYS0020442431
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TG31
+TG32
+
+

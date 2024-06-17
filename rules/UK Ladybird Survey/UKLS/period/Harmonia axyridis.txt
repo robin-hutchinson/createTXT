@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Harmonia axyridis
+Description=Checks date is within known recording period of Harmonia axyridis
+ErrorMsg=Date is outside known recording period of Harmonia axyridis
+Tvk=NHMSYS0000712592
+StartDate=20040101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

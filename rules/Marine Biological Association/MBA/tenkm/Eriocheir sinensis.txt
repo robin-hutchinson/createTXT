@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Eriocheir sinensis 10km
+Description=Check coordinate against known distribution of Eriocheir sinensis
+ErrorMsg=Coordinate is outside known range for Eriocheir sinensis
+DataFieldName=Species
+DataRecordId=NHMSYS0001593547
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM48
+NZ16
+NZ26
+SE34
+SE50
+SE61
+SE62
+SE72
+SE82
+SE91
+SE92
+SK75
+SK79
+SK86
+SU97
+SX97
+SZ99
+TF63
+TL59
+TM01
+TQ00
+TQ16
+TQ17
+TQ20
+TQ27
+TQ28
+TQ48
+TQ57
+TQ60
+TQ75
+TQ91
+TQ99
+TR13
+TR35
+
+

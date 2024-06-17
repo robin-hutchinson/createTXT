@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Sesia bembeciformis
+Description=Checks date is within known flight period of Sesia bembeciformis
+ErrorMsg=Date is outside known flight period of Sesia bembeciformis
+Tvk=NHMSYS0021143404
+DataFieldName=
+StartDate=0601
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

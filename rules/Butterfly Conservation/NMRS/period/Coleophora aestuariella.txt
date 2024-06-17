@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Coleophora aestuariella
+Description=Checks date is within known recording period of Coleophora aestuariella
+ErrorMsg=Date is outside known recording period of Coleophora aestuariella
+Tvk=NHMSYS0000501816
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

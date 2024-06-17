@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Phyllonorycter geniculella
+Description=Checks date is within known recording period of Phyllonorycter geniculella
+ErrorMsg=Date is outside known recording period of Phyllonorycter geniculella
+Tvk=NHMSYS0000503777
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

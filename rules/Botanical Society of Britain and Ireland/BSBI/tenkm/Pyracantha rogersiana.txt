@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pyracantha rogersiana 10km
+Description=Check coordinate against known distribution of Pyracantha rogersiana
+ErrorMsg=Coordinate is outside known range for Pyracantha rogersiana
+DataFieldName=Species
+DataRecordId=NHMSYS0000462187
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK54
+SO84
+SO87
+SO98
+SP06
+SP08
+SP18
+ST40
+ST43
+ST63
+SU40
+SY58
+TL04
+TL45
+TL86
+TM23
+TQ00
+TQ23
+TQ26
+TQ27
+TQ37
+TQ46
+TQ55
+TQ57
+TQ66
+TQ67
+TQ75
+
+

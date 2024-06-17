@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Stenamma debile
+Description=Checks date is within known flight period of Stenamma debile
+ErrorMsg=Date is outside known flight period of Stenamma debile
+Tvk=NBNSYS0100005585
+DataFieldName=
+StartDate=0201
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

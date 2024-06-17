@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Mantisalca salmantica 10km
+Description=Check coordinate against known distribution of Mantisalca salmantica
+ErrorMsg=Coordinate is outside known range for Mantisalca salmantica
+DataFieldName=Species
+DataRecordId=NBNSYS0200002600
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW83
+TA12
+TA30
+
+

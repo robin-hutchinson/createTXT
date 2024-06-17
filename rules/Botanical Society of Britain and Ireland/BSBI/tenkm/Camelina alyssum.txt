@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Camelina alyssum 10km
+Description=Check coordinate against known distribution of Camelina alyssum
+ErrorMsg=Coordinate is outside known range for Camelina alyssum
+DataFieldName=Species
+DataRecordId=NHMSYS0000456344
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J47
+R66
+
+
+[10km_GB]
+NO02
+NO75
+NR26
+NR72
+NS56
+NT18
+NT27
+NY08
+NZ43
+SJ48
+SO74
+SP08
+SP50
+SZ58
+TG20
+TL21
+TQ14
+TQ57
+
+

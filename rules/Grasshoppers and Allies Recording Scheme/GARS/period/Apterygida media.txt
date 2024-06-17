@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Apterygida media
+Description=Checks date is within known recording period of Apterygida media
+ErrorMsg=Date is outside known recording period of Apterygida media
+Tvk=NHMSYS0001387259
+StartDate=19040101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

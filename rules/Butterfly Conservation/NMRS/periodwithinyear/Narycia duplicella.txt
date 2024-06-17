@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Narycia duplicella
+Description=Checks date is within known flight period of Narycia duplicella
+ErrorMsg=Date is outside known flight period of Narycia duplicella
+Tvk=NHMSYS0021142187
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

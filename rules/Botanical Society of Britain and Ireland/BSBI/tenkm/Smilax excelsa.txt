@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Smilax excelsa 10km
+Description=Check coordinate against known distribution of Smilax excelsa
+ErrorMsg=Coordinate is outside known range for Smilax excelsa
+DataFieldName=Species
+DataRecordId=NBNSYS0200003189
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS84
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Crassula helmsii
+Description=Checks date is within known recording period of Crassula helmsii
+ErrorMsg=Date is outside known recording period of Crassula helmsii
+Tvk=NBNSYS0000004639
+StartDate=19560101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

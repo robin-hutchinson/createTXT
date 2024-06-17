@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia confusa x foulaensis 10km
+Description=Check coordinate against known distribution of Euphrasia confusa x foulaensis
+ErrorMsg=Coordinate is outside known range for Euphrasia confusa x foulaensis
+DataFieldName=Species
+DataRecordId=NBNSYS0100003119
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU30
+HU31
+HU46
+ND17
+ND38
+NL58
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Adelococcus interlatens 10km
+Description=Check coordinate against known distribution of Adelococcus interlatens
+ErrorMsg=Coordinate is outside known range for Adelococcus interlatens
+DataFieldName=Species
+DataRecordId=NHMSYS0001472888
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST35
+
+

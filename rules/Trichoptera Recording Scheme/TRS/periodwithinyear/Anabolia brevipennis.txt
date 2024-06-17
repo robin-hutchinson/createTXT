@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Anabolia brevipennis
+Description=Checks date is within known flight period of Anabolia brevipennis
+ErrorMsg=Date is outside known flight period of Anabolia brevipennis
+Tvk=NHMSYS0020785001
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

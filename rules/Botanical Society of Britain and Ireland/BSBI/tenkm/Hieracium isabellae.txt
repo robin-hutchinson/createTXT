@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium isabellae 10km
+Description=Check coordinate against known distribution of Hieracium isabellae
+ErrorMsg=Coordinate is outside known range for Hieracium isabellae
+DataFieldName=Species
+DataRecordId=NHMSYS0000459470
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ10
+NM65
+NN22
+NN47
+NN59
+NN67
+NN69
+NO07
+
+

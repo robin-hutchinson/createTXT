@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus wedgwoodiae 10km
+Description=Check coordinate against known distribution of Rubus wedgwoodiae
+ErrorMsg=Coordinate is outside known range for Rubus wedgwoodiae
+DataFieldName=Species
+DataRecordId=NHMSYS0000462949
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+G95
+
+
+[10km_GB]
+SU82
+SU83
+SU84
+SU89
+SU93
+SU94
+TQ03
+TQ04
+
+

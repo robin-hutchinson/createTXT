@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Schendyla monoeci
+Description=Checks date is within known recording period of Schendyla monoeci
+ErrorMsg=Date is outside known recording period of Schendyla monoeci
+Tvk=NHMSYS0000570600
+StartDate=19431001
+EndDate=
+LastChanged=20240617
+[EndMetadata]

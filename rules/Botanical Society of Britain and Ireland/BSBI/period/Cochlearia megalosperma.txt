@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cochlearia megalosperma
+Description=Checks date is within known recording period of Cochlearia megalosperma
+ErrorMsg=Date is outside known recording period of Cochlearia megalosperma
+Tvk=NHMSYS0100001049
+StartDate=19100101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

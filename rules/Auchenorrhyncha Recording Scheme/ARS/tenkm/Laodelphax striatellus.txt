@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Laodelphax striatellus 10km
+Description=Check coordinate against known distribution of Laodelphax striatellus
+ErrorMsg=Coordinate is outside known range for Laodelphax striatellus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442417
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO91
+ST81
+SU20
+SU83
+SU99
+SW32
+SY69
+TG10
+TG20
+TQ05
+TQ26
+TQ47
+
+

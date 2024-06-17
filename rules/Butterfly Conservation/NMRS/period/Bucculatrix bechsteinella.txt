@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Bucculatrix bechsteinella
+Description=Checks date is within known recording period of Bucculatrix bechsteinella
+ErrorMsg=Date is outside known recording period of Bucculatrix bechsteinella
+Tvk=NBNSYS0100002131
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

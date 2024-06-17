@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus hylophilus 10km
+Description=Check coordinate against known distribution of Rubus hylophilus
+ErrorMsg=Coordinate is outside known range for Rubus hylophilus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462727
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP31
+SU26
+SU31
+SU34
+SU40
+SU53
+SU54
+SU72
+SU75
+SU82
+SU85
+SU86
+SU95
+SU98
+SZ48
+SZ59
+TQ05
+TQ06
+TQ08
+TQ16
+TQ25
+TQ27
+TQ28
+TQ37
+TQ42
+TQ46
+TQ47
+
+

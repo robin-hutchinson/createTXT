@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lithophane leautieri leautieri
+Description=Checks date is within known flight period of Lithophane leautieri leautieri
+ErrorMsg=Date is outside known flight period of Lithophane leautieri leautieri
+Tvk=NHMSYS0021144734
+DataFieldName=
+StartDate=0915
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

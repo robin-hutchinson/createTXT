@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Legnotus limbosus
+Description=Checks date is within known recording period of Legnotus limbosus
+ErrorMsg=Date is outside known recording period of Legnotus limbosus
+Tvk=NHMSYS0020309352
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

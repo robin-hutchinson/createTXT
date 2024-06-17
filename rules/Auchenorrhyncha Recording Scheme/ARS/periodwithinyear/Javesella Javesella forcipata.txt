@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Javesella (Javesella) forcipata
+Description=Checks date is within known flight period of Javesella (Javesella) forcipata
+ErrorMsg=Date is outside known flight period of Javesella (Javesella) forcipata
+Tvk=NHMSYS0020705661
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

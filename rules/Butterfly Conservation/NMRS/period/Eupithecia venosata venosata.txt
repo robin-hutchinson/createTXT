@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Eupithecia venosata venosata
+Description=Checks date is within known recording period of Eupithecia venosata venosata
+ErrorMsg=Date is outside known recording period of Eupithecia venosata venosata
+Tvk=NHMSYS0021144082
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Epigloea filifera 10km
+Description=Check coordinate against known distribution of Epigloea filifera
+ErrorMsg=Coordinate is outside known range for Epigloea filifera
+DataFieldName=Species
+DataRecordId=BMSSYS0000006624
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN56
+SN57
+SN58
+SN64
+SN65
+SN66
+SN67
+SN68
+SN74
+SN75
+SN76
+SN77
+SN78
+SN84
+SN85
+SN86
+SN87
+SN88
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Melaspilea diplasiospora sensu auct. brit. 10km
+Description=Check coordinate against known distribution of Melaspilea diplasiospora sensu auct. brit.
+ErrorMsg=Coordinate is outside known range for Melaspilea diplasiospora sensu auct. brit.
+DataFieldName=Species
+DataRecordId=NHMSYS0001489298
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+M95
+V98
+
+

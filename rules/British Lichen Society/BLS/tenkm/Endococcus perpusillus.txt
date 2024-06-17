@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Endococcus perpusillus 10km
+Description=Check coordinate against known distribution of Endococcus perpusillus
+ErrorMsg=Coordinate is outside known range for Endococcus perpusillus
+DataFieldName=Species
+DataRecordId=BMSSYS0000006370
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H01
+
+
+[10km_GB]
+HY20
+NF09
+NN15
+NT57
+NT58
+NT62
+NT69
+SH61
+SM72
+SN97
+SS43
+SS64
+SU16
+SW64
+SX67
+
+

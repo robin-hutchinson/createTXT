@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Scaeva mecogramma 10km
+Description=Check coordinate against known distribution of Scaeva mecogramma
+ErrorMsg=Coordinate is outside known range for Scaeva mecogramma
+DataFieldName=Species
+DataRecordId=NBNSYS0000006950
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT35
+NT36
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Jassargus (Arrailus) flori
+Description=Checks date is within known recording period of Jassargus (Arrailus) flori
+ErrorMsg=Date is outside known recording period of Jassargus (Arrailus) flori
+Tvk=NHMSYS0020705656
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

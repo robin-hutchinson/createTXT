@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Glaucium corniculatum 10km
+Description=Check coordinate against known distribution of Glaucium corniculatum
+ErrorMsg=Coordinate is outside known range for Glaucium corniculatum
+DataFieldName=Species
+DataRecordId=NBNSYS0000033587
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ05
+NT27
+NT36
+SE46
+SJ39
+SK22
+SK25
+SK57
+SO74
+SO83
+SO93
+SP08
+SP50
+ST17
+SW43
+SW73
+SX05
+SX25
+TA21
+TF26
+TL05
+TL45
+TL78
+TM14
+TM33
+TM59
+TQ17
+TQ41
+TQ44
+
+
+NA
+
+

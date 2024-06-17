@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Seseli libanotis 10km
+Description=Check coordinate against known distribution of Seseli libanotis
+ErrorMsg=Coordinate is outside known range for Seseli libanotis
+DataFieldName=Species
+DataRecordId=NHMSYS0000463473
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL13
+TL23
+TL45
+TV59
+
+

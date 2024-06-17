@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Riponnensia splendens
+Description=Checks date is within known flight period of Riponnensia splendens
+ErrorMsg=Date is outside known flight period of Riponnensia splendens
+Tvk=NBNSYS0100005170
+DataFieldName=
+StartDate=0220
+EndDate=1102
+LastChanged=20240617
+[EndMetadata]

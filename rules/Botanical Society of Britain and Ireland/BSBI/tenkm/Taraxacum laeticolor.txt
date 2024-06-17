@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum laeticolor 10km
+Description=Check coordinate against known distribution of Taraxacum laeticolor
+ErrorMsg=Coordinate is outside known range for Taraxacum laeticolor
+DataFieldName=Species
+DataRecordId=NHMSYS0000840756
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX85
+SJ27
+SN12
+SN42
+SN50
+SN61
+SS59
+TQ09
+
+

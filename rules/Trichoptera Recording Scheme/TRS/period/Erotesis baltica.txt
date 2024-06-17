@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Erotesis baltica
+Description=Checks date is within known recording period of Erotesis baltica
+ErrorMsg=Date is outside known recording period of Erotesis baltica
+Tvk=NBNSYS0000008530
+StartDate=18710101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

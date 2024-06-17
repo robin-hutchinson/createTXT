@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Papaver nudicaule 10km
+Description=Check coordinate against known distribution of Papaver nudicaule
+ErrorMsg=Coordinate is outside known range for Papaver nudicaule
+DataFieldName=Species
+DataRecordId=NBNSYS0200002793
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT53
+SD46
+SP08
+SU36
+SU77
+SU87
+SU88
+
+

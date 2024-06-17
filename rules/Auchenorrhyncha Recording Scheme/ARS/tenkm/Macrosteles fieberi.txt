@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Macrosteles fieberi 10km
+Description=Check coordinate against known distribution of Macrosteles fieberi
+ErrorMsg=Coordinate is outside known range for Macrosteles fieberi
+DataFieldName=Species
+DataRecordId=NHMSYS0020442428
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC76
+NC86
+NG88
+NH81
+NN68
+NN95
+NN99
+SE04
+SE36
+SE54
+SH63
+SJ88
+SZ38
+TG04
+TG14
+TM24
+TM35
+TM57
+TQ09
+
+

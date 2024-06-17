@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus stenopetalus 10km
+Description=Check coordinate against known distribution of Rubus stenopetalus
+ErrorMsg=Coordinate is outside known range for Rubus stenopetalus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462919
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST60
+ST61
+ST80
+ST81
+ST85
+ST93
+SU03
+SU13
+SU15
+SU22
+SU25
+SU32
+SU33
+SU35
+SU44
+SU53
+SU54
+SU55
+
+

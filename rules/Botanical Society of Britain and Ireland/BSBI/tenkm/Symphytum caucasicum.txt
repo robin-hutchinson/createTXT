@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Symphytum caucasicum 10km
+Description=Check coordinate against known distribution of Symphytum caucasicum
+ErrorMsg=Coordinate is outside known range for Symphytum caucasicum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464113
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ND25
+NS21
+NT27
+SH68
+SJ08
+SK50
+SK55
+SK84
+SN68
+SO45
+SP36
+SP50
+SP60
+SS53
+SW84
+SZ38
+SZ48
+TL45
+TL74
+TL93
+TM14
+TM15
+TM25
+TQ35
+TQ56
+
+

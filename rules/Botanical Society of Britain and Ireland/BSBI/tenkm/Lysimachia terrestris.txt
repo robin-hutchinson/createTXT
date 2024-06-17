@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lysimachia terrestris 10km
+Description=Check coordinate against known distribution of Lysimachia terrestris
+ErrorMsg=Coordinate is outside known range for Lysimachia terrestris
+DataFieldName=Species
+DataRecordId=NHMSYS0100001992
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY11
+NY30
+SD17
+SD34
+SD38
+SD39
+SD49
+TQ22
+
+

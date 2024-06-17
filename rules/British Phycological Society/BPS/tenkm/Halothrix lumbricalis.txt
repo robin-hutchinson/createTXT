@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Halothrix lumbricalis 10km
+Description=Check coordinate against known distribution of Halothrix lumbricalis
+ErrorMsg=Coordinate is outside known range for Halothrix lumbricalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000175656
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NR77
+NS15
+SC26
+
+

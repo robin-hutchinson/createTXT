@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella confusella
+Description=Checks date is within known flight period of Stigmella confusella
+ErrorMsg=Date is outside known flight period of Stigmella confusella
+Tvk=NHMSYS0000504344
+DataFieldName=
+StartDate=0501
+EndDate=0531
+LastChanged=20240617
+[EndMetadata]

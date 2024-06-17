@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Chrysis mediata
+Description=Checks date is within known flight period of Chrysis mediata
+ErrorMsg=Date is outside known flight period of Chrysis mediata
+Tvk=NHMSYS0000875665
+DataFieldName=
+StartDate=0301
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

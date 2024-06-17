@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella svenssoni
+Description=Checks date is within known flight period of Stigmella svenssoni
+ErrorMsg=Date is outside known flight period of Stigmella svenssoni
+Tvk=NHMSYS0000504389
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

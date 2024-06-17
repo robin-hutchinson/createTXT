@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Rhithrogena germanica
+Description=Checks date is within known flight period of Rhithrogena germanica
+ErrorMsg=Date is outside known flight period of Rhithrogena germanica
+Tvk=NBNSYS0000010886
+DataFieldName=
+StartDate=0301
+EndDate=0531
+LastChanged=20240617
+[EndMetadata]

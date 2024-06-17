@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Erigone atra
+Description=Checks date is within known flight period of Erigone atra
+ErrorMsg=Date is outside known flight period of Erigone atra
+Tvk=NBNSYS0000009103
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

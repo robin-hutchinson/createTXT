@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Malva nicaeensis
+Description=Checks date is within known recording period of Malva nicaeensis
+ErrorMsg=Date is outside known recording period of Malva nicaeensis
+Tvk=NBNSYS0000003132
+StartDate=18590101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

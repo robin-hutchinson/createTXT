@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Trechus (Epaphius) secalis
+Description=Checks date is within known flight period of Trechus (Epaphius) secalis
+ErrorMsg=Date is outside known flight period of Trechus (Epaphius) secalis
+Tvk=NHMSYS0001720410
+DataFieldName=
+StartDate=0401
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

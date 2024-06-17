@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Rosmarinus officinalis
+Description=Checks date is within known recording period of Rosmarinus officinalis
+ErrorMsg=Date is outside known recording period of Rosmarinus officinalis
+Tvk=NBNSYS0000033609
+StartDate=19690101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

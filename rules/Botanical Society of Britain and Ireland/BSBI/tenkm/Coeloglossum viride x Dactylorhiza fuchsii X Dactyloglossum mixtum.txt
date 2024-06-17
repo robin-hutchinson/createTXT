@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Coeloglossum viride x Dactylorhiza fuchsii = X Dactyloglossum mixtum 10km
+Description=Check coordinate against known distribution of Coeloglossum viride x Dactylorhiza fuchsii = X Dactyloglossum mixtum
+ErrorMsg=Coordinate is outside known range for Coeloglossum viride x Dactylorhiza fuchsii = X Dactyloglossum mixtum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754639
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J64
+
+
+[10km_GB]
+NB03
+NB13
+NF70
+NF72
+NF86
+NG09
+NM15
+NZ33
+SJ26
+SK25
+SO92
+SP80
+ST84
+SU06
+SU23
+SU28
+SU42
+SU45
+SU52
+SU73
+SU79
+TF46
+TF47
+TL00
+
+

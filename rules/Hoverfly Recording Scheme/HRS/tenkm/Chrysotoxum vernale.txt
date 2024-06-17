@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Chrysotoxum vernale 10km
+Description=Check coordinate against known distribution of Chrysotoxum vernale
+ErrorMsg=Coordinate is outside known range for Chrysotoxum vernale
+DataFieldName=Species
+DataRecordId=NBNSYS0000006899
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU00
+SU20
+SU30
+SU31
+SW43
+SX46
+SY78
+SY79
+SY88
+SY89
+SY98
+SZ08
+SZ09
+SZ19
+
+

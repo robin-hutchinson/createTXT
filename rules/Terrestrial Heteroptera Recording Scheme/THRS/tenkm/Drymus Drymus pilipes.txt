@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Drymus (Drymus) pilipes 10km
+Description=Check coordinate against known distribution of Drymus (Drymus) pilipes
+ErrorMsg=Coordinate is outside known range for Drymus (Drymus) pilipes
+DataFieldName=Species
+DataRecordId=NHMSYS0020309183
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP70
+SP80
+SP90
+SP91
+SP92
+SU77
+SU78
+SU87
+SU88
+SU89
+SU97
+SU98
+SU99
+TL00
+TL01
+TL10
+TL11
+TL12
+TL20
+TL21
+TL30
+TL31
+TQ06
+TQ07
+TQ08
+TQ09
+TQ16
+TQ17
+TQ19
+TQ26
+TQ27
+TQ29
+
+

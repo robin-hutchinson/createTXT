@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Microspongium globosum 10km
+Description=Check coordinate against known distribution of Microspongium globosum
+ErrorMsg=Coordinate is outside known range for Microspongium globosum
+DataFieldName=Species
+DataRecordId=NBNSYS0000176482
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU56
+HY21
+ND48
+NG19
+NM42
+NS15
+NT58
+NU05
+SH57
+SJ38
+SM70
+SS14
+
+

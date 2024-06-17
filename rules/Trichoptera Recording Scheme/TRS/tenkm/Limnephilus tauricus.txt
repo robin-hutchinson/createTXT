@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Limnephilus tauricus 10km
+Description=Check coordinate against known distribution of Limnephilus tauricus
+ErrorMsg=Coordinate is outside known range for Limnephilus tauricus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008493
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH48
+SU33
+
+

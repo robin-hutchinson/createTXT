@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stathmopoda pedella
+Description=Checks date is within known flight period of Stathmopoda pedella
+ErrorMsg=Date is outside known flight period of Stathmopoda pedella
+Tvk=NHMSYS0000504300
+DataFieldName=
+StartDate=0601
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

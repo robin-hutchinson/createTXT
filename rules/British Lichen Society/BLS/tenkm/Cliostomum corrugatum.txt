@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cliostomum corrugatum 10km
+Description=Check coordinate against known distribution of Cliostomum corrugatum
+ErrorMsg=Coordinate is outside known range for Cliostomum corrugatum
+DataFieldName=Species
+DataRecordId=NBNSYS0000018420
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TF84
+TF91
+TL09
+TM22
+TM35
+TM44
+TM47
+TQ88
+
+

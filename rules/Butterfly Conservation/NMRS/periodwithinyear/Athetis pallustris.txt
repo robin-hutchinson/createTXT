@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Athetis pallustris
+Description=Checks date is within known flight period of Athetis pallustris
+ErrorMsg=Date is outside known flight period of Athetis pallustris
+Tvk=NHMSYS0021144588
+DataFieldName=
+StartDate=0515
+EndDate=0615
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plecoptera Recording Scheme/PRS Flight Period
+ShortName=Capnia vidua
+Description=Checks date is within known flight period of Capnia vidua
+ErrorMsg=Date is outside known flight period of Capnia vidua
+Tvk=NHMSYS0020316247
+DataFieldName=
+StartDate=0301
+EndDate=0430
+LastChanged=20240617
+[EndMetadata]

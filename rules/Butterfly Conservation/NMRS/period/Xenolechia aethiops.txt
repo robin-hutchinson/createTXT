@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Xenolechia aethiops
+Description=Checks date is within known recording period of Xenolechia aethiops
+ErrorMsg=Date is outside known recording period of Xenolechia aethiops
+Tvk=NHMSYS0000504665
+StartDate=19460101
+EndDate=19571231
+LastChanged=20240617
+[EndMetadata]

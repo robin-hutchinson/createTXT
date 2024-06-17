@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphorbia portlandica x paralias 10km
+Description=Check coordinate against known distribution of Euphorbia portlandica x paralias
+ErrorMsg=Coordinate is outside known range for Euphorbia portlandica x paralias
+DataFieldName=Species
+DataRecordId=NHMSYS0100001502
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH36
+SH52
+SH53
+SN69
+SS78
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Capsodes sulcatus
+Description=Checks date is within known recording period of Capsodes sulcatus
+ErrorMsg=Date is outside known recording period of Capsodes sulcatus
+Tvk=NHMSYS0020309040
+StartDate=18610101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

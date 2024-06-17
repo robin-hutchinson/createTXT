@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium molybdochroum 10km
+Description=Check coordinate against known distribution of Hieracium molybdochroum
+ErrorMsg=Coordinate is outside known range for Hieracium molybdochroum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840812
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN75
+NN99
+NO07
+NO17
+NO18
+NO28
+NO37
+
+

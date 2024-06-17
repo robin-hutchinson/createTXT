@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Streblonema parasiticum 10km
+Description=Check coordinate against known distribution of Streblonema parasiticum
+ErrorMsg=Coordinate is outside known range for Streblonema parasiticum
+DataFieldName=Species
+DataRecordId=NBNSYS0000178190
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU37
+NF86
+NO51
+NT69
+NU23
+SM80
+SM81
+SS14
+
+

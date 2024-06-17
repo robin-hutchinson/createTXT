@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Potamophylax cingulatus
+Description=Checks date is within known flight period of Potamophylax cingulatus
+ErrorMsg=Date is outside known flight period of Potamophylax cingulatus
+Tvk=NBNSYS0000008456
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

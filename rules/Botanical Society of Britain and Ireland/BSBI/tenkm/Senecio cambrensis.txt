@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Senecio cambrensis 10km
+Description=Check coordinate against known distribution of Senecio cambrensis
+ErrorMsg=Coordinate is outside known range for Senecio cambrensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000004368
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT27
+SH87
+SH97
+SJ23
+SJ24
+SJ25
+SJ26
+SJ33
+SJ34
+SJ35
+SJ36
+
+

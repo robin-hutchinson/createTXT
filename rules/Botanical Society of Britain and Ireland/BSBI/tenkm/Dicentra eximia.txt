@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dicentra eximia 10km
+Description=Check coordinate against known distribution of Dicentra eximia
+ErrorMsg=Coordinate is outside known range for Dicentra eximia
+DataFieldName=Species
+DataRecordId=NHMSYS0000458070
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO36
+NO79
+NS93
+NY37
+SC26
+SH81
+ST12
+ST64
+SX15
+SX17
+SX28
+TQ24
+
+

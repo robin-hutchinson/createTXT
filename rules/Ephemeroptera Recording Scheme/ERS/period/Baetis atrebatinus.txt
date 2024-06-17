@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ephemeroptera Recording Scheme/ERS Recording Period
+ShortName=Baetis atrebatinus
+Description=Checks date is within known recording period of Baetis atrebatinus
+ErrorMsg=Date is outside known recording period of Baetis atrebatinus
+Tvk=NBNSYS0000010863
+StartDate=18700101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

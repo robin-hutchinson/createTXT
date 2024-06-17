@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Gracillaria syringella
+Description=Checks date is within known flight period of Gracillaria syringella
+ErrorMsg=Date is outside known flight period of Gracillaria syringella
+Tvk=NHMSYS0020973221
+DataFieldName=
+StartDate=0321
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

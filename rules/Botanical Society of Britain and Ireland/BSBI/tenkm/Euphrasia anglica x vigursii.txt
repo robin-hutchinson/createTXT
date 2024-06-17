@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia anglica x vigursii 10km
+Description=Check coordinate against known distribution of Euphrasia anglica x vigursii
+ErrorMsg=Coordinate is outside known range for Euphrasia anglica x vigursii
+DataFieldName=Species
+DataRecordId=NBNSYS0100003117
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SX37
+
+

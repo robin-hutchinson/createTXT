@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex lasiocarpa x riparia = C. x evoluta 10km
+Description=Check coordinate against known distribution of Carex lasiocarpa x riparia = C. x evoluta
+ErrorMsg=Coordinate is outside known range for Carex lasiocarpa x riparia = C. x evoluta
+DataFieldName=Species
+DataRecordId=NHMSYS0001754746
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST43
+TL28
+TL47
+TM07
+
+

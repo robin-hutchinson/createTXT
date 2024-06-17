@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Anasimyia transfuga
+Description=Checks date is within known flight period of Anasimyia transfuga
+ErrorMsg=Date is outside known flight period of Anasimyia transfuga
+Tvk=NBNSYS0000007043
+DataFieldName=
+StartDate=0427
+EndDate=1003
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora lusciniaepennella
+Description=Checks date is within known flight period of Coleophora lusciniaepennella
+ErrorMsg=Date is outside known flight period of Coleophora lusciniaepennella
+Tvk=NBNSYS0100002527
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora trigeminella
+Description=Checks date is within known flight period of Coleophora trigeminella
+ErrorMsg=Date is outside known flight period of Coleophora trigeminella
+Tvk=NHMSYS0000501935
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

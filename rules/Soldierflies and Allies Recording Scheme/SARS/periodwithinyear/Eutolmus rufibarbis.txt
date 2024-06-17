@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Eutolmus rufibarbis
+Description=Checks date is within known flight period of Eutolmus rufibarbis
+ErrorMsg=Date is outside known flight period of Eutolmus rufibarbis
+Tvk=NBNSYS0000007900
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

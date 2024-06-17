@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Reineckea carnea 10km
+Description=Check coordinate against known distribution of Reineckea carnea
+ErrorMsg=Coordinate is outside known range for Reineckea carnea
+DataFieldName=Species
+DataRecordId=NHMSYS0000462328
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW61
+SW72
+
+

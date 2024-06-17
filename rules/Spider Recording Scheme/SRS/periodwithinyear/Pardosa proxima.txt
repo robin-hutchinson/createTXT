@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Pardosa proxima
+Description=Checks date is within known flight period of Pardosa proxima
+ErrorMsg=Date is outside known flight period of Pardosa proxima
+Tvk=NBNSYS0000008804
+DataFieldName=
+StartDate=0319
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

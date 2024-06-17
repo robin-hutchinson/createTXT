@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Grasshoppers and Allies Recording Scheme/GARS Flight Period
+ShortName=Platycleis albopunctata
+Description=Checks date is within known flight period of Platycleis albopunctata
+ErrorMsg=Date is outside known flight period of Platycleis albopunctata
+Tvk=NHMSYS0001387438
+DataFieldName=
+StartDate=0401
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

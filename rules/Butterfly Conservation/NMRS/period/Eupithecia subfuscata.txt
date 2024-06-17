@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Eupithecia subfuscata
+Description=Checks date is within known recording period of Eupithecia subfuscata
+ErrorMsg=Date is outside known recording period of Eupithecia subfuscata
+Tvk=NBNSYS0000005925
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

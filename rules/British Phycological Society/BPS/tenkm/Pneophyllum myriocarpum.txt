@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Pneophyllum myriocarpum 10km
+Description=Check coordinate against known distribution of Pneophyllum myriocarpum
+ErrorMsg=Coordinate is outside known range for Pneophyllum myriocarpum
+DataFieldName=Species
+DataRecordId=NHMSYS0000568096
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH38
+SM70
+SM80
+SS14
+SV91
+SX54
+SX84
+SY39
+SY98
+SZ69
+TA26
+TQ20
+
+

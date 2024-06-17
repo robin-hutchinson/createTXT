@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epipactis dunensis 10km
+Description=Check coordinate against known distribution of Epipactis dunensis
+ErrorMsg=Coordinate is outside known range for Epipactis dunensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000458443
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS65
+NU04
+NU14
+NY65
+NY76
+NZ43
+SD17
+SD20
+SD21
+SD31
+SD32
+SD33
+SE63
+SE71
+SH36
+SH46
+SO59
+TF09
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Entomognathus brevis
+Description=Checks date is within known flight period of Entomognathus brevis
+ErrorMsg=Date is outside known flight period of Entomognathus brevis
+Tvk=NHMSYS0000875906
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

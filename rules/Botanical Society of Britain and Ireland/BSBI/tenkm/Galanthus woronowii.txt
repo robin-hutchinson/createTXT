@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Galanthus woronowii 10km
+Description=Check coordinate against known distribution of Galanthus woronowii
+ErrorMsg=Coordinate is outside known range for Galanthus woronowii
+DataFieldName=Species
+DataRecordId=NHMSYS0000458942
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ02
+NJ05
+NJ06
+NJ15
+NJ35
+NS38
+NY44
+NZ51
+NZ71
+SC27
+SE13
+SP50
+SP60
+SP80
+SP82
+SP83
+SP94
+ST13
+ST31
+ST51
+ST66
+ST72
+ST76
+SU39
+SU46
+SU47
+SU57
+SU67
+SU69
+SU77
+SU93
+SU94
+SU96
+SZ07
+SZ58
+SZ59
+TG32
+TL31
+TM37
+TQ23
+TQ25
+TQ26
+
+

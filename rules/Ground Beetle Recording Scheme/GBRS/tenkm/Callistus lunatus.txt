@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ground Beetle Recording Scheme/GBRS 10km distribution
+ShortName=Callistus lunatus 10km
+Description=Check coordinate against known distribution of Callistus lunatus
+ErrorMsg=Coordinate is outside known range for Callistus lunatus
+DataFieldName=Species
+DataRecordId=NHMSYS0001717463
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ04
+TQ05
+TQ06
+TQ14
+TQ15
+TQ16
+TQ24
+TQ25
+TQ26
+
+

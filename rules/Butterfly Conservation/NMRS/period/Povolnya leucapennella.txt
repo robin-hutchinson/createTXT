@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Povolnya leucapennella
+Description=Checks date is within known recording period of Povolnya leucapennella
+ErrorMsg=Date is outside known recording period of Povolnya leucapennella
+Tvk=NHMSYS0020973241
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

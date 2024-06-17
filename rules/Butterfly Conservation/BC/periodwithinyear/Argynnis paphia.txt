@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/BC Flight Period
+ShortName=Argynnis paphia
+Description=Checks date is within known flight period of Argynnis paphia
+ErrorMsg=Date is outside known flight period of Argynnis paphia
+Tvk=NHMSYS0000501356
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

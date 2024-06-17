@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Endophragmiella hughesii 10km
+Description=Check coordinate against known distribution of Endophragmiella hughesii
+ErrorMsg=Coordinate is outside known range for Endophragmiella hughesii
+DataFieldName=Species
+DataRecordId=BMSSYS0000006430
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+L78
+
+
+[10km_GB]
+NG51
+NG61
+NM67
+
+

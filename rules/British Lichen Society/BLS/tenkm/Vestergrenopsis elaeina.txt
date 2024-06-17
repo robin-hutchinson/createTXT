@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Vestergrenopsis elaeina 10km
+Description=Check coordinate against known distribution of Vestergrenopsis elaeina
+ErrorMsg=Coordinate is outside known range for Vestergrenopsis elaeina
+DataFieldName=Species
+DataRecordId=NBNSYS0000039820
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG34
+NG35
+NG36
+NG37
+NG38
+NG44
+NG45
+NG46
+NG47
+NG54
+NG55
+NG56
+NG64
+NG65
+NG66
+NN04
+NN05
+NN06
+NN14
+NN15
+NN16
+NN24
+NN25
+NN26
+SH54
+SH55
+SH56
+SH64
+SH65
+SH66
+SH74
+SH75
+SH76
+
+

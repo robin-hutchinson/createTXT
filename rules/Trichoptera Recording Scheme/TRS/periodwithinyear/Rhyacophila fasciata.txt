@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Rhyacophila fasciata
+Description=Checks date is within known flight period of Rhyacophila fasciata
+ErrorMsg=Date is outside known flight period of Rhyacophila fasciata
+Tvk=NBNSYS0000155925
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

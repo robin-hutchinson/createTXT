@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium variifolium 10km
+Description=Check coordinate against known distribution of Hieracium variifolium
+ErrorMsg=Coordinate is outside known range for Hieracium variifolium
+DataFieldName=Species
+DataRecordId=NHMSYS0000459697
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC15
+NC30
+NC35
+NC44
+NC45
+NC46
+NC54
+NC65
+NC66
+NG91
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Acrocephalus schoenobaenus
+Description=Checks date is within known flight period of Acrocephalus schoenobaenus
+ErrorMsg=Date is outside known flight period of Acrocephalus schoenobaenus
+Tvk=NHMSYS0000530129
+DataFieldName=
+StartDate=0405
+EndDate=1015
+LastChanged=20240617
+[EndMetadata]

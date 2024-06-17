@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Populus alba
+Description=Checks date is within known recording period of Populus alba
+ErrorMsg=Date is outside known recording period of Populus alba
+Tvk=NBNSYS0000003849
+StartDate=15970101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

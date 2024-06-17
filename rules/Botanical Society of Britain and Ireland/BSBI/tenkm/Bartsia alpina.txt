@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Bartsia alpina 10km
+Description=Check coordinate against known distribution of Bartsia alpina
+ErrorMsg=Coordinate is outside known range for Bartsia alpina
+DataFieldName=Species
+DataRecordId=NBNSYS0000004168
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN22
+NN32
+NN33
+NN34
+NN42
+NN43
+NN44
+NN53
+NN54
+NN63
+NN64
+NN65
+NY53
+NY60
+NY61
+NY62
+NY82
+NY83
+SD88
+SD96
+
+

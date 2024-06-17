@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Verrucaria sphaerospora 10km
+Description=Check coordinate against known distribution of Verrucaria sphaerospora
+ErrorMsg=Coordinate is outside known range for Verrucaria sphaerospora
+DataFieldName=Species
+DataRecordId=NHMSYS0020991021
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH53
+ST23
+
+

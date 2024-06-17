@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Orchestina sp.
+Description=Checks date is within known flight period of Orchestina sp.
+ErrorMsg=Date is outside known flight period of Orchestina sp.
+Tvk=NHMSYS0000355803
+DataFieldName=
+StartDate=0220
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbascum bombyciferum 10km
+Description=Check coordinate against known distribution of Verbascum bombyciferum
+ErrorMsg=Coordinate is outside known range for Verbascum bombyciferum
+DataFieldName=Species
+DataRecordId=NBNSYS0000013989
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC48
+SO83
+SU65
+TL22
+TL29
+TL31
+TL45
+TQ56
+TQ57
+TR35
+
+
+NA
+
+

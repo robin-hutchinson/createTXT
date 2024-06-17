@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Alloeotomus gothicus
+Description=Checks date is within known recording period of Alloeotomus gothicus
+ErrorMsg=Date is outside known recording period of Alloeotomus gothicus
+Tvk=NHMSYS0020308914
+StartDate=19510101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

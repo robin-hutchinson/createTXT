@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Phyllitis scolopendrium x Asplenium adiantum-nigrum = X Asplenophyllitis jacksonii 10km
+Description=Check coordinate against known distribution of Phyllitis scolopendrium x Asplenium adiantum-nigrum = X Asplenophyllitis jacksonii
+ErrorMsg=Coordinate is outside known range for Phyllitis scolopendrium x Asplenium adiantum-nigrum = X Asplenophyllitis jacksonii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754393
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS22
+SS53
+SW43
+SW74
+
+
+NA
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Parasyrphus punctulatus
+Description=Checks date is within known flight period of Parasyrphus punctulatus
+ErrorMsg=Date is outside known flight period of Parasyrphus punctulatus
+Tvk=NBNSYS0000006947
+DataFieldName=
+StartDate=0303
+EndDate=1107
+LastChanged=20240617
+[EndMetadata]

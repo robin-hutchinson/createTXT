@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agonopterix capreolella
+Description=Checks date is within known flight period of Agonopterix capreolella
+ErrorMsg=Date is outside known flight period of Agonopterix capreolella
+Tvk=NHMSYS0000501050
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

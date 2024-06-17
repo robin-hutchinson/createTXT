@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ephemeroptera Recording Scheme/ERS 10km distribution
+ShortName=Caenis pusilla 10km
+Description=Check coordinate against known distribution of Caenis pusilla
+ErrorMsg=Coordinate is outside known range for Caenis pusilla
+DataFieldName=Species
+DataRecordId=NHMSYS0000066969
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU20
+SU21
+SU22
+SU23
+SU24
+SU30
+SU31
+SU32
+SU33
+SU34
+SU40
+SU41
+SU42
+SU43
+SU44
+
+

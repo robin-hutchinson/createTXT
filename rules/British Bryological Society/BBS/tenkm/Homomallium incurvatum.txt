@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Homomallium incurvatum 10km
+Description=Check coordinate against known distribution of Homomallium incurvatum
+ErrorMsg=Coordinate is outside known range for Homomallium incurvatum
+DataFieldName=Species
+DataRecordId=NBNSYS0000036930
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD27
+SD37
+SD38
+SD47
+SD48
+SD57
+
+

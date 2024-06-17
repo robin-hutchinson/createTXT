@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus euanthinus 10km
+Description=Check coordinate against known distribution of Rubus euanthinus
+ErrorMsg=Coordinate is outside known range for Rubus euanthinus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462691
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN10
+SO51
+SO52
+SO61
+SO62
+SO65
+SO73
+SO74
+SO76
+SO84
+SO87
+SO94
+SO95
+SO97
+ST18
+
+

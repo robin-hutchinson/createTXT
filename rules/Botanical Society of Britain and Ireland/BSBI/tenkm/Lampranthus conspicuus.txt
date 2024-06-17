@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lampranthus conspicuus 10km
+Description=Check coordinate against known distribution of Lampranthus conspicuus
+ErrorMsg=Coordinate is outside known range for Lampranthus conspicuus
+DataFieldName=Species
+DataRecordId=NHMSYS0000460088
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV91
+
+

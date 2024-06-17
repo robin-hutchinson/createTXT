@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbascum pyramidatum 10km
+Description=Check coordinate against known distribution of Verbascum pyramidatum
+ErrorMsg=Coordinate is outside known range for Verbascum pyramidatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464795
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO74
+SO93
+SP40
+SU76
+SU95
+TL46
+TL52
+TL56
+TL65
+TL67
+TL76
+TL88
+TL89
+TQ60
+
+

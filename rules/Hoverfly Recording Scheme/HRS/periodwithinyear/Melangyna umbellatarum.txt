@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Melangyna umbellatarum
+Description=Checks date is within known flight period of Melangyna umbellatarum
+ErrorMsg=Date is outside known flight period of Melangyna umbellatarum
+Tvk=NBNSYS0000006929
+DataFieldName=
+StartDate=0311
+EndDate=1102
+LastChanged=20240617
+[EndMetadata]

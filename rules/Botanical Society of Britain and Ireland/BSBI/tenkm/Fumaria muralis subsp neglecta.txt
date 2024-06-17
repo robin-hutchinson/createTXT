@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fumaria muralis subsp. neglecta 10km
+Description=Check coordinate against known distribution of Fumaria muralis subsp. neglecta
+ErrorMsg=Coordinate is outside known range for Fumaria muralis subsp. neglecta
+DataFieldName=Species
+DataRecordId=NBNSYS0000002790
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS67
+SJ47
+SV80
+SV81
+SW73
+SW84
+SW97
+SW98
+
+

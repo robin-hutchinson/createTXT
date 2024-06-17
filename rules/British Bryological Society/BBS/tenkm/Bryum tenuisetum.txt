@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Bryum tenuisetum 10km
+Description=Check coordinate against known distribution of Bryum tenuisetum
+ErrorMsg=Coordinate is outside known range for Bryum tenuisetum
+DataFieldName=Species
+DataRecordId=NBNSYS0000036636
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY23
+SD91
+SE00
+SE10
+SE20
+SH51
+SK09
+SK19
+SK29
+SV80
+SV90
+SZ99
+
+

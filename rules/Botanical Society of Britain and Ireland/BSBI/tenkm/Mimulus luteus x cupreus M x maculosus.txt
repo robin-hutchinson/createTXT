@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Mimulus luteus x cupreus = M. x maculosus 10km
+Description=Check coordinate against known distribution of Mimulus luteus x cupreus = M. x maculosus
+ErrorMsg=Coordinate is outside known range for Mimulus luteus x cupreus = M. x maculosus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754463
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU15
+HU42
+NC13
+NG44
+NJ05
+NO00
+NS24
+NT06
+NT13
+NT23
+NT24
+NT33
+NT44
+NT63
+NT67
+NU01
+NY38
+NZ05
+NZ06
+SC48
+SD28
+SD38
+ST13
+ST29
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Anthriscus cerefolium
+Description=Checks date is within known recording period of Anthriscus cerefolium
+ErrorMsg=Date is outside known recording period of Anthriscus cerefolium
+Tvk=NBNSYS0000003642
+StartDate=16330101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

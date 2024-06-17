@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex paniculata x diandra = C. x beckmannii 10km
+Description=Check coordinate against known distribution of Carex paniculata x diandra = C. x beckmannii
+ErrorMsg=Coordinate is outside known range for Carex paniculata x diandra = C. x beckmannii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754480
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM80
+NM84
+NX19
+TA05
+
+
+[10km_Ireland]
+W57
+
+

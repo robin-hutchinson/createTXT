@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Udea ferrugalis
+Description=Checks date is within known flight period of Udea ferrugalis
+ErrorMsg=Date is outside known flight period of Udea ferrugalis
+Tvk=NHMSYS0000504609
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

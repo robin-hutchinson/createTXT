@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Gracilaria multipartita 10km
+Description=Check coordinate against known distribution of Gracilaria multipartita
+ErrorMsg=Coordinate is outside known range for Gracilaria multipartita
+DataFieldName=Species
+DataRecordId=NHMSYS0000567961
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW72
+SW73
+SX35
+SX45
+SX54
+SX73
+SX85
+SY18
+SY58
+SY67
+SY68
+SY97
+
+

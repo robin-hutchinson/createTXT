@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Commophila aeneana
+Description=Checks date is within known flight period of Commophila aeneana
+ErrorMsg=Date is outside known flight period of Commophila aeneana
+Tvk=NHMSYS0021143128
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

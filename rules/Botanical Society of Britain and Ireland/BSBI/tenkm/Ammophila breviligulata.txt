@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ammophila breviligulata 10km
+Description=Check coordinate against known distribution of Ammophila breviligulata
+ErrorMsg=Coordinate is outside known range for Ammophila breviligulata
+DataFieldName=Species
+DataRecordId=NHMSYS0000455878
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH36
+
+

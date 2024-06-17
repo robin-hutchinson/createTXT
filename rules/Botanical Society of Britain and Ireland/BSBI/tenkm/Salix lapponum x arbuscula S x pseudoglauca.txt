@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix lapponum x arbuscula = S. x pseudoglauca 10km
+Description=Check coordinate against known distribution of Salix lapponum x arbuscula = S. x pseudoglauca
+ErrorMsg=Coordinate is outside known range for Salix lapponum x arbuscula = S. x pseudoglauca
+DataFieldName=Species
+DataRecordId=NHMSYS0001754387
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN33
+NN42
+NN43
+NN53
+NN54
+NN64
+NO17
+NO27
+
+

@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pyrus cordata 10km
+Description=Check coordinate against known distribution of Pyrus cordata
+ErrorMsg=Coordinate is outside known range for Pyrus cordata
+DataFieldName=Species
+DataRecordId=NBNSYS0000003462
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO51
+ST78
+SW74
+SW84
+SX25
+SX35
+SX45
+SX55
+SX56
+
+

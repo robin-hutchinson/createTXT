@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Stelis breviuscula
+Description=Checks date is within known flight period of Stelis breviuscula
+ErrorMsg=Date is outside known flight period of Stelis breviuscula
+Tvk=NHMSYS0000876709
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

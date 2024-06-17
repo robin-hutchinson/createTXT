@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lichenoconium pyxidatae 10km
+Description=Check coordinate against known distribution of Lichenoconium pyxidatae
+ErrorMsg=Coordinate is outside known range for Lichenoconium pyxidatae
+DataFieldName=Species
+DataRecordId=BMSSYS0000010663
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH85
+NK04
+NT56
+NT67
+TL77
+TM13
+TM35
+TM44
+
+

@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Physocarpus opulifolius 10km
+Description=Check coordinate against known distribution of Physocarpus opulifolius
+ErrorMsg=Coordinate is outside known range for Physocarpus opulifolius
+DataFieldName=Species
+DataRecordId=NBNSYS0000003311
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+G73
+H49
+H58
+H79
+
+
+[10km_GB]
+NH55
+NJ05
+NJ71
+NN85
+NO02
+NO03
+NO04
+NO31
+NO40
+NS57
+NS66
+NT07
+NT17
+NT44
+NT46
+NT48
+NZ01
+NZ10
+SE15
+SE34
+SE65
+SK16
+SO87
+ST36
+ST81
+ST99
+SU85
+SY78
+SY89
+TQ04
+TQ06
+TQ16
+TQ25
+TQ36
+
+

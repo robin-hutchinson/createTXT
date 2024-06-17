@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Reuteria marqueti
+Description=Checks date is within known recording period of Reuteria marqueti
+ErrorMsg=Date is outside known recording period of Reuteria marqueti
+Tvk=NHMSYS0020309766
+StartDate=20060101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

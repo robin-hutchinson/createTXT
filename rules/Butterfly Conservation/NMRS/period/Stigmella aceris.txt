@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Stigmella aceris
+Description=Checks date is within known recording period of Stigmella aceris
+ErrorMsg=Date is outside known recording period of Stigmella aceris
+Tvk=NHMSYS0000504326
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

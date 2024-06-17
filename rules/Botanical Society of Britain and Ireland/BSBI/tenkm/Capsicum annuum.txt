@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Capsicum annuum 10km
+Description=Check coordinate against known distribution of Capsicum annuum
+ErrorMsg=Coordinate is outside known range for Capsicum annuum
+DataFieldName=Species
+DataRecordId=NBNSYS0000033294
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC49
+SP50
+ST61
+SU11
+SU73
+SU94
+TL02
+TL13
+TL24
+TL30
+TL31
+TL45
+TQ05
+TQ08
+TQ15
+TQ26
+TQ48
+TQ57
+TQ76
+
+

@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carduus pycnocephalus 10km
+Description=Check coordinate against known distribution of Carduus pycnocephalus
+ErrorMsg=Coordinate is outside known range for Carduus pycnocephalus
+DataFieldName=Species
+DataRecordId=NBNSYS0000004485
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C63
+
+
+[10km_GB]
+NJ46
+NT53
+SE22
+SE32
+SE38
+SE42
+SJ40
+SO10
+SP04
+ST17
+ST29
+ST57
+SU41
+SU73
+SW83
+SX45
+TA12
+TL03
+TL14
+TQ00
+TQ08
+TQ17
+TQ28
+TQ29
+TQ47
+TQ48
+TQ57
+TQ65
+TR26
+TR35
+
+

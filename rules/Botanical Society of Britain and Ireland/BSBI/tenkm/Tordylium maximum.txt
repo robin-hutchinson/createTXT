@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tordylium maximum 10km
+Description=Check coordinate against known distribution of Tordylium maximum
+ErrorMsg=Coordinate is outside known range for Tordylium maximum
+DataFieldName=Species
+DataRecordId=NBNSYS0000003713
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE48
+SP50
+SU12
+SU97
+SZ58
+TQ10
+TQ16
+TQ17
+TQ27
+TQ67
+TQ78
+
+

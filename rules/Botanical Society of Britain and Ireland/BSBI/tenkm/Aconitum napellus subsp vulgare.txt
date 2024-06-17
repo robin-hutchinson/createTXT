@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Aconitum napellus subsp. vulgare 10km
+Description=Check coordinate against known distribution of Aconitum napellus subsp. vulgare
+ErrorMsg=Coordinate is outside known range for Aconitum napellus subsp. vulgare
+DataFieldName=Species
+DataRecordId=NHMSYS0000455579
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL68
+
+

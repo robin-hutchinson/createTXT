@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium lanceolatum x roseum = E. x abortivum 10km
+Description=Check coordinate against known distribution of Epilobium lanceolatum x roseum = E. x abortivum
+ErrorMsg=Coordinate is outside known range for Epilobium lanceolatum x roseum = E. x abortivum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754750
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ41
+SU88
+TQ48
+
+

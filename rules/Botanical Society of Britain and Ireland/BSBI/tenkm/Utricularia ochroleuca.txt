@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Utricularia ochroleuca 10km
+Description=Check coordinate against known distribution of Utricularia ochroleuca
+ErrorMsg=Coordinate is outside known range for Utricularia ochroleuca
+DataFieldName=Species
+DataRecordId=NHMSYS0000464747
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+G99
+H07
+H08
+H17
+H27
+
+
+[10km_GB]
+NC13
+NC21
+NC22
+NC53
+NC54
+NF73
+NF75
+NH45
+NH94
+NH95
+NM26
+NM46
+NM47
+NM83
+NN02
+NN13
+NN14
+NN55
+NN57
+NR27
+NR68
+NR74
+NR75
+NR76
+NR87
+NX25
+ST50
+SY98
+SY99
+
+

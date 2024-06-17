@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Blepharidopterus diaphanus 10km
+Description=Check coordinate against known distribution of Blepharidopterus diaphanus
+ErrorMsg=Coordinate is outside known range for Blepharidopterus diaphanus
+DataFieldName=Species
+DataRecordId=NHMSYS0020308992
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE71
+SK13
+SK26
+SO53
+SO74
+SO84
+SP06
+SP37
+SP40
+SP71
+SP83
+SP92
+SP95
+SU22
+SZ58
+TF26
+TG01
+TG04
+TL03
+TL04
+TL05
+TL14
+TL19
+TL24
+TL29
+TL31
+TL36
+TL46
+TL48
+TL57
+TL69
+TL89
+TQ19
+TQ29
+TQ35
+TQ38
+TQ48
+TQ58
+TQ59
+
+

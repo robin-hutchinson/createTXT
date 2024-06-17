@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Cladophora flexuosa 10km
+Description=Check coordinate against known distribution of Cladophora flexuosa
+ErrorMsg=Coordinate is outside known range for Cladophora flexuosa
+DataFieldName=Species
+DataRecordId=NHMSYS0000567887
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY31
+NC86
+NF85
+NF86
+NF96
+NG18
+NH68
+
+

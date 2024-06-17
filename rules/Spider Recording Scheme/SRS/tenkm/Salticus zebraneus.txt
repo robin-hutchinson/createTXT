@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Salticus zebraneus 10km
+Description=Check coordinate against known distribution of Salticus zebraneus
+ErrorMsg=Coordinate is outside known range for Salticus zebraneus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008759
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO83
+SO84
+SU96
+TL30
+TL31
+TL71
+TL81
+TL82
+TM02
+TQ06
+TQ16
+TQ17
+TQ26
+TQ27
+TQ37
+TQ39
+TQ47
+TQ57
+TQ58
+TQ59
+TQ67
+TQ68
+TQ69
+TQ77
+TQ78
+TQ79
+TQ88
+TQ89
+
+

@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Eristalis cryptarum 10km
+Description=Check coordinate against known distribution of Eristalis cryptarum
+ErrorMsg=Coordinate is outside known range for Eristalis cryptarum
+DataFieldName=Species
+DataRecordId=NBNSYS0000007048
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST21
+SU10
+SU11
+SU20
+SU21
+SU30
+SU31
+SW83
+SW84
+SW96
+SX25
+SX65
+SX67
+SX68
+SX77
+SY78
+SY88
+SZ08
+
+

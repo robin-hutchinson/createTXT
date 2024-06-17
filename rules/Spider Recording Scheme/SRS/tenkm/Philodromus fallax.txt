@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Philodromus fallax 10km
+Description=Check coordinate against known distribution of Philodromus fallax
+ErrorMsg=Coordinate is outside known range for Philodromus fallax
+DataFieldName=Species
+DataRecordId=NBNSYS0000008747
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD20
+SH36
+SH53
+SN69
+SS58
+SS79
+ST25
+SZ08
+TF55
+TF64
+TF74
+TM46
+TQ91
+TR06
+
+

@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Cladophora prolifera 10km
+Description=Check coordinate against known distribution of Cladophora prolifera
+ErrorMsg=Coordinate is outside known range for Cladophora prolifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000180535
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NR39
+NT69
+SD09
+SY58
+SY68
+
+

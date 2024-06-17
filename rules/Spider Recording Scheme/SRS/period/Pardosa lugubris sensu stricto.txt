@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spider Recording Scheme/SRS Recording Period
+ShortName=Pardosa lugubris sensu stricto
+Description=Checks date is within known recording period of Pardosa lugubris sensu stricto
+ErrorMsg=Date is outside known recording period of Pardosa lugubris sensu stricto
+Tvk=NHMSYS0020001408
+StartDate=19990101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

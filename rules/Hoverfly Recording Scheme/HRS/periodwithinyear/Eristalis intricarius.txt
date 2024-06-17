@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Eristalis intricarius
+Description=Checks date is within known flight period of Eristalis intricarius
+ErrorMsg=Date is outside known flight period of Eristalis intricarius
+Tvk=NBNSYS0000007050
+DataFieldName=
+StartDate=0108
+EndDate=1206
+LastChanged=20240617
+[EndMetadata]

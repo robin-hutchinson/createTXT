@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sedum stoloniferum 10km
+Description=Check coordinate against known distribution of Sedum stoloniferum
+ErrorMsg=Coordinate is outside known range for Sedum stoloniferum
+DataFieldName=Species
+DataRecordId=NHMSYS0000463401
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT09
+SN35
+SN44
+SO97
+SS90
+ST01
+ST35
+ST36
+ST52
+ST60
+ST70
+ST71
+ST72
+ST80
+ST81
+ST90
+ST91
+SX98
+SY09
+SY39
+SY49
+SY58
+SY68
+SY69
+SY78
+SY89
+TL52
+TM47
+
+
+NA
+
+

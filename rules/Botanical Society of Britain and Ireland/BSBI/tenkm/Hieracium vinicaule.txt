@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium vinicaule 10km
+Description=Check coordinate against known distribution of Hieracium vinicaule
+ErrorMsg=Coordinate is outside known range for Hieracium vinicaule
+DataFieldName=Species
+DataRecordId=NHMSYS0000459700
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HP40
+HU25
+HU27
+HU36
+HU37
+HU38
+HU46
+HU49
+
+

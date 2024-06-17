@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Allium moly 10km
+Description=Check coordinate against known distribution of Allium moly
+ErrorMsg=Coordinate is outside known range for Allium moly
+DataFieldName=Species
+DataRecordId=NBNSYS0000014827
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT27
+NX40
+NZ35
+SC37
+SE75
+SH37
+SJ90
+SN57
+SO87
+SP40
+SS92
+ST63
+ST66
+SU12
+SU49
+SU76
+SU87
+SU88
+SU96
+SU97
+SY68
+SZ07
+TL02
+TL05
+TQ76
+
+
+NA
+
+

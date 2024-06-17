@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Colostygia pectinataria
+Description=Checks date is within known flight period of Colostygia pectinataria
+ErrorMsg=Date is outside known flight period of Colostygia pectinataria
+Tvk=NBNSYS0000005856
+DataFieldName=
+StartDate=0415
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

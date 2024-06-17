@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Perigrapha superveniens 10km
+Description=Check coordinate against known distribution of Perigrapha superveniens
+ErrorMsg=Coordinate is outside known range for Perigrapha superveniens
+DataFieldName=Species
+DataRecordId=BMSSYS0000013193
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG53
+NG84
+NG94
+
+
+[10km_Ireland]
+V76
+
+

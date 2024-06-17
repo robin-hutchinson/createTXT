@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Persicaria hydropiper x minor = P. x subglandulosa 10km
+Description=Check coordinate against known distribution of Persicaria hydropiper x minor = P. x subglandulosa
+ErrorMsg=Coordinate is outside known range for Persicaria hydropiper x minor = P. x subglandulosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000161787
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX76
+SE34
+SO73
+SU11
+
+

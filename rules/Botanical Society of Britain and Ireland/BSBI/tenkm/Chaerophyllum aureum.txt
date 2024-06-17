@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chaerophyllum aureum 10km
+Description=Check coordinate against known distribution of Chaerophyllum aureum
+ErrorMsg=Coordinate is outside known range for Chaerophyllum aureum
+DataFieldName=Species
+DataRecordId=NBNSYS0000003639
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN60
+NO51
+NT18
+NT27
+SK50
+SK96
+SM93
+SU01
+SU99
+TQ27
+TQ28
+
+

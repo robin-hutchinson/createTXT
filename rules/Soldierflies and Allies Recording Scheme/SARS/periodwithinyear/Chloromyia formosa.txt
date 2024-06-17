@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Chloromyia formosa
+Description=Checks date is within known flight period of Chloromyia formosa
+ErrorMsg=Date is outside known flight period of Chloromyia formosa
+Tvk=NBNSYS0000007825
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

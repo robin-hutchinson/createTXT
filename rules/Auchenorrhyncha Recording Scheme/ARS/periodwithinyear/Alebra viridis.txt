@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Alebra viridis
+Description=Checks date is within known flight period of Alebra viridis
+ErrorMsg=Date is outside known flight period of Alebra viridis
+Tvk=NHMSYS0020745855
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

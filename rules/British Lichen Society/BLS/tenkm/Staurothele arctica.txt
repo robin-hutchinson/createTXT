@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Staurothele arctica 10km
+Description=Check coordinate against known distribution of Staurothele arctica
+ErrorMsg=Coordinate is outside known range for Staurothele arctica
+DataFieldName=Species
+DataRecordId=NBNSYS0000039835
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN17
+
+

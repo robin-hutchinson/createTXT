@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster obtusus 10km
+Description=Check coordinate against known distribution of Cotoneaster obtusus
+ErrorMsg=Coordinate is outside known range for Cotoneaster obtusus
+DataFieldName=Species
+DataRecordId=NHMSYS0000457620
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH84
+SJ48
+SU94
+TQ16
+TQ17
+TQ27
+TQ38
+TQ57
+
+

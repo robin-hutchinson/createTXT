@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Echinops exaltatus
+Description=Checks date is within known recording period of Echinops exaltatus
+ErrorMsg=Date is outside known recording period of Echinops exaltatus
+Tvk=NHMSYS0000458273
+StartDate=19310101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

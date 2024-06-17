@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Ctenoplusia accentifera 10km
+Description=Check coordinate against known distribution of Ctenoplusia accentifera
+ErrorMsg=Coordinate is outside known range for Ctenoplusia accentifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000006536
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SX97
+SX98
+SX99
+SY07
+SY08
+SY09
+SY18
+SY19
+
+

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ground Beetle Recording Scheme/GBRS 10km distribution
+ShortName=Elaphropus walkerianus 10km
+Description=Check coordinate against known distribution of Elaphropus walkerianus
+ErrorMsg=Coordinate is outside known range for Elaphropus walkerianus
+DataFieldName=Species
+DataRecordId=NHMSYS0001718035
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU20
+SU21
+TR06
+
+

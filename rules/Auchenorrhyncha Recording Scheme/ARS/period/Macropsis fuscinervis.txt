@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Macropsis fuscinervis
+Description=Checks date is within known recording period of Macropsis fuscinervis
+ErrorMsg=Date is outside known recording period of Macropsis fuscinervis
+Tvk=NHMSYS0020705707
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

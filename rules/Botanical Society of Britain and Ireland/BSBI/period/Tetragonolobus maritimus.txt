@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Tetragonolobus maritimus
+Description=Checks date is within known recording period of Tetragonolobus maritimus
+ErrorMsg=Date is outside known recording period of Tetragonolobus maritimus
+Tvk=NBNSYS0000003263
+StartDate=18750101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

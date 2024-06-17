@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Cixius (Ceratocixius) remotus
+Description=Checks date is within known flight period of Cixius (Ceratocixius) remotus
+ErrorMsg=Date is outside known flight period of Cixius (Ceratocixius) remotus
+Tvk=NHMSYS0020705288
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

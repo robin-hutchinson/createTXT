@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Silo pallipes
+Description=Checks date is within known recording period of Silo pallipes
+ErrorMsg=Date is outside known recording period of Silo pallipes
+Tvk=NHMSYS0020704837
+StartDate=18360101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

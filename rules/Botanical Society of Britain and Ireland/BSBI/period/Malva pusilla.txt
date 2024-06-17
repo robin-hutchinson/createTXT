@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Malva pusilla
+Description=Checks date is within known recording period of Malva pusilla
+ErrorMsg=Date is outside known recording period of Malva pusilla
+Tvk=NHMSYS0000460577
+StartDate=17430101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

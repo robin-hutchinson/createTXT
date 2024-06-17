@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Holocentropus picicornis
+Description=Checks date is within known recording period of Holocentropus picicornis
+ErrorMsg=Date is outside known recording period of Holocentropus picicornis
+Tvk=NBNSYS0000008403
+StartDate=18360101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

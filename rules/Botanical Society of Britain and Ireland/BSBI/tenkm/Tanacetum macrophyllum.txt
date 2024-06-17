@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tanacetum macrophyllum 10km
+Description=Check coordinate against known distribution of Tanacetum macrophyllum
+ErrorMsg=Coordinate is outside known range for Tanacetum macrophyllum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464152
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ15
+NJ35
+NS56
+NS86
+NT07
+NT16
+NT17
+NT27
+NT28
+SE18
+SE38
+TM03
+TM24
+
+

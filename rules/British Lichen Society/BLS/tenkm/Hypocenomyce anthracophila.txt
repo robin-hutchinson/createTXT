@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Hypocenomyce anthracophila 10km
+Description=Check coordinate against known distribution of Hypocenomyce anthracophila
+ErrorMsg=Coordinate is outside known range for Hypocenomyce anthracophila
+DataFieldName=Species
+DataRecordId=NBNSYS0000018529
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH22
+NH23
+NO09
+
+

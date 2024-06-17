@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Helianthemum oelandicum subsp. incanum 10km
+Description=Check coordinate against known distribution of Helianthemum oelandicum subsp. incanum
+ErrorMsg=Coordinate is outside known range for Helianthemum oelandicum subsp. incanum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459269
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD49
+SH77
+SH78
+SH87
+SH88
+SH97
+SJ07
+SJ08
+
+

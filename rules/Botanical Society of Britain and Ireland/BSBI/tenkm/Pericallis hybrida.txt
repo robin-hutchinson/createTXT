@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pericallis hybrida 10km
+Description=Check coordinate against known distribution of Pericallis hybrida
+ErrorMsg=Coordinate is outside known range for Pericallis hybrida
+DataFieldName=Species
+DataRecordId=NHMSYS0000461585
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC16
+SC37
+SV81
+SV91
+SW54
+
+

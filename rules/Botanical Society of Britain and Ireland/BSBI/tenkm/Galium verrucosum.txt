@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Galium verrucosum 10km
+Description=Check coordinate against known distribution of Galium verrucosum
+ErrorMsg=Coordinate is outside known range for Galium verrucosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000458977
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS96
+
+

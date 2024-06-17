@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Papaver somniferum subsp. setigerum 10km
+Description=Check coordinate against known distribution of Papaver somniferum subsp. setigerum
+ErrorMsg=Coordinate is outside known range for Papaver somniferum subsp. setigerum
+DataFieldName=Species
+DataRecordId=NBNSYS0000014245
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ15
+SN40
+TA30
+TL31
+TL37
+TL46
+TQ15
+TQ46
+
+
+NA
+
+

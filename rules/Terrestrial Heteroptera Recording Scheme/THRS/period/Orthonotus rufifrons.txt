@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Orthonotus rufifrons
+Description=Checks date is within known recording period of Orthonotus rufifrons
+ErrorMsg=Date is outside known recording period of Orthonotus rufifrons
+Tvk=NHMSYS0020309575
+StartDate=18070101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

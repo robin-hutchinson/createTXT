@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Yucca filamentosa 10km
+Description=Check coordinate against known distribution of Yucca filamentosa
+ErrorMsg=Coordinate is outside known range for Yucca filamentosa
+DataFieldName=Species
+DataRecordId=NBNSYS0200003845
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU76
+SU77
+SU86
+SU87
+SU88
+
+

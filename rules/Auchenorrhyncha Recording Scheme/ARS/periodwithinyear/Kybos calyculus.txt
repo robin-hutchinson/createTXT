@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Kybos calyculus
+Description=Checks date is within known flight period of Kybos calyculus
+ErrorMsg=Date is outside known flight period of Kybos calyculus
+Tvk=NHMSYS0020442416
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

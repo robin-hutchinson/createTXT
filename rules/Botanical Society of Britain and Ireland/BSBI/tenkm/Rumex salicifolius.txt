@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex salicifolius 10km
+Description=Check coordinate against known distribution of Rumex salicifolius
+ErrorMsg=Coordinate is outside known range for Rumex salicifolius
+DataFieldName=Species
+DataRecordId=NHMSYS0000462993
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS47
+NS56
+NT27
+SD16
+SD81
+SJ38
+SJ39
+SJ99
+SK22
+SP32
+SP40
+SP50
+ST16
+ST17
+ST57
+ST67
+SU41
+SU59
+SU73
+SU77
+SX45
+SX57
+SZ08
+SZ48
+TA02
+TL31
+TM02
+TM24
+TQ08
+TQ17
+TQ26
+TQ27
+TQ28
+TQ37
+TQ38
+TQ39
+TQ48
+TQ57
+TQ67
+
+

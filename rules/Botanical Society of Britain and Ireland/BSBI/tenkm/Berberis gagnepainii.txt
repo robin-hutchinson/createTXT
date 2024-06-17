@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Berberis gagnepainii 10km
+Description=Check coordinate against known distribution of Berberis gagnepainii
+ErrorMsg=Coordinate is outside known range for Berberis gagnepainii
+DataFieldName=Species
+DataRecordId=NHMSYS0000456433
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE13
+SE24
+SJ80
+SJ89
+SN61
+SO97
+SO98
+SP03
+SP08
+SP80
+ST12
+ST66
+SU76
+SU77
+SU86
+SU87
+SU94
+SU97
+SY88
+SY99
+TL31
+TL45
+TL49
+TQ13
+TQ38
+
+

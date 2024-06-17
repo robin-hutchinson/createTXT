@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Juncus pygmaeus 10km
+Description=Check coordinate against known distribution of Juncus pygmaeus
+ErrorMsg=Coordinate is outside known range for Juncus pygmaeus
+DataFieldName=Species
+DataRecordId=NHMSYS0000459987
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW61
+SW62
+SW71
+SW72
+
+

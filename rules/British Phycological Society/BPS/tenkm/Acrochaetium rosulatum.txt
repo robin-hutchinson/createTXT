@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Acrochaetium rosulatum 10km
+Description=Check coordinate against known distribution of Acrochaetium rosulatum
+ErrorMsg=Coordinate is outside known range for Acrochaetium rosulatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000377525
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS14
+SZ99
+
+

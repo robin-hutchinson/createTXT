@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Chlorita viridula 10km
+Description=Check coordinate against known distribution of Chlorita viridula
+ErrorMsg=Coordinate is outside known range for Chlorita viridula
+DataFieldName=Species
+DataRecordId=NBNSYS0000010620
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP40
+SZ48
+SZ57
+SZ59
+TM07
+TQ67
+TQ77
+TQ78
+TQ86
+TQ87
+TQ96
+TQ97
+TQ99
+TR06
+
+

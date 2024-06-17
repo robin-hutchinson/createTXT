@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton coloratus x berchtoldii = P. x lanceolatus 10km
+Description=Check coordinate against known distribution of Potamogeton coloratus x berchtoldii = P. x lanceolatus
+ErrorMsg=Coordinate is outside known range for Potamogeton coloratus x berchtoldii = P. x lanceolatus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754407
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+M10
+M38
+M39
+M44
+M48
+M71
+M74
+M81
+M83
+M84
+
+
+[10km_GB]
+SH48
+TL56
+
+

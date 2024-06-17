@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Siphunculina aenea
+Description=Checks date is within known flight period of Siphunculina aenea
+ErrorMsg=Date is outside known flight period of Siphunculina aenea
+Tvk=NBNSYS0000029860
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

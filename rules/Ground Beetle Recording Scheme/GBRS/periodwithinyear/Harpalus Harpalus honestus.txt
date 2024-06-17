@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Harpalus (Harpalus) honestus
+Description=Checks date is within known flight period of Harpalus (Harpalus) honestus
+ErrorMsg=Date is outside known flight period of Harpalus (Harpalus) honestus
+Tvk=NBNSYS0100003342
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

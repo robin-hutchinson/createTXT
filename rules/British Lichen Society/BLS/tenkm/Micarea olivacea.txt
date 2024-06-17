@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Micarea olivacea 10km
+Description=Check coordinate against known distribution of Micarea olivacea
+ErrorMsg=Coordinate is outside known range for Micarea olivacea
+DataFieldName=Species
+DataRecordId=NBNSYS0000018831
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH30
+NM55
+
+

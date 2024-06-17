@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Scymnus interruptus
+Description=Checks date is within known recording period of Scymnus interruptus
+ErrorMsg=Date is outside known recording period of Scymnus interruptus
+Tvk=NHMSYS0020920019
+StartDate=19960101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

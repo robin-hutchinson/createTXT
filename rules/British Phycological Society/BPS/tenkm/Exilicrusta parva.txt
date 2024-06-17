@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Exilicrusta parva 10km
+Description=Check coordinate against known distribution of Exilicrusta parva
+ErrorMsg=Coordinate is outside known range for Exilicrusta parva
+DataFieldName=Species
+DataRecordId=NHMSYS0000568154
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SY98
+SZ78
+
+

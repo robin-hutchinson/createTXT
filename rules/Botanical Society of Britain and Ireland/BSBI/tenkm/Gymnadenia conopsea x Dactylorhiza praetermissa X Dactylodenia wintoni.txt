@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gymnadenia conopsea x Dactylorhiza praetermissa = X Dactylodenia wintoni 10km
+Description=Check coordinate against known distribution of Gymnadenia conopsea x Dactylorhiza praetermissa = X Dactylodenia wintoni
+ErrorMsg=Coordinate is outside known range for Gymnadenia conopsea x Dactylorhiza praetermissa = X Dactylodenia wintoni
+DataFieldName=Species
+DataRecordId=NHMSYS0001754473
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU43
+SU52
+SU60
+SU75
+SU81
+SX87
+TQ25
+TQ35
+
+

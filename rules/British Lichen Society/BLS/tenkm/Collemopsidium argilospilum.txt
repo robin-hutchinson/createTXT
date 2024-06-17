@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Collemopsidium argilospilum 10km
+Description=Check coordinate against known distribution of Collemopsidium argilospilum
+ErrorMsg=Coordinate is outside known range for Collemopsidium argilospilum
+DataFieldName=Species
+DataRecordId=NHMSYS0020535233
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK15
+SN35
+
+

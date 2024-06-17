@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Antistea elegans
+Description=Checks date is within known flight period of Antistea elegans
+ErrorMsg=Date is outside known flight period of Antistea elegans
+Tvk=NBNSYS0000008851
+DataFieldName=
+StartDate=0417
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

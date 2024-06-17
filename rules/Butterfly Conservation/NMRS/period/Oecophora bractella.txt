@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Oecophora bractella
+Description=Checks date is within known recording period of Oecophora bractella
+ErrorMsg=Date is outside known recording period of Oecophora bractella
+Tvk=NHMSYS0000503456
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

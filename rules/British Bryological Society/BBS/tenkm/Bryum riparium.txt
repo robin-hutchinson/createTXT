@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Bryum riparium 10km
+Description=Check coordinate against known distribution of Bryum riparium
+ErrorMsg=Coordinate is outside known range for Bryum riparium
+DataFieldName=Species
+DataRecordId=NHMSYS0000309513
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NA10
+NM51
+NN23
+NN32
+NN33
+NN42
+
+

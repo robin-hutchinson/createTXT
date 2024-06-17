@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Buellia pulverulenta 10km
+Description=Check coordinate against known distribution of Buellia pulverulenta
+ErrorMsg=Coordinate is outside known range for Buellia pulverulenta
+DataFieldName=Species
+DataRecordId=NBNSYS0000018280
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC85
+NN75
+
+

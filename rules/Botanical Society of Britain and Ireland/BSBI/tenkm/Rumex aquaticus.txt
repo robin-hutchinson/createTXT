@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex aquaticus 10km
+Description=Check coordinate against known distribution of Rumex aquaticus
+ErrorMsg=Coordinate is outside known range for Rumex aquaticus
+DataFieldName=Species
+DataRecordId=NBNSYS0000003783
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS38
+NS48
+NS49
+
+

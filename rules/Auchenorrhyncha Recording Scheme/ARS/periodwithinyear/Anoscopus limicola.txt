@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Anoscopus limicola
+Description=Checks date is within known flight period of Anoscopus limicola
+ErrorMsg=Date is outside known flight period of Anoscopus limicola
+Tvk=NHMSYS0020917141
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

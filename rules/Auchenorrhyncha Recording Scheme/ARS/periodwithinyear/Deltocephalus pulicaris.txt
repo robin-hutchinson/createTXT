@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Deltocephalus pulicaris
+Description=Checks date is within known flight period of Deltocephalus pulicaris
+ErrorMsg=Date is outside known flight period of Deltocephalus pulicaris
+Tvk=NHMSYS0020705327
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

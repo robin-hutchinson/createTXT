@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Anchusa ochroleuca x officinalis = A. x baumgartenii 10km
+Description=Check coordinate against known distribution of Anchusa ochroleuca x officinalis = A. x baumgartenii
+ErrorMsg=Coordinate is outside known range for Anchusa ochroleuca x officinalis = A. x baumgartenii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754658
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW53
+SW54
+
+

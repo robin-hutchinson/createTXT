@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Campanula fragilis 10km
+Description=Check coordinate against known distribution of Campanula fragilis
+ErrorMsg=Coordinate is outside known range for Campanula fragilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000033770
+LastChanged=20240617
+[EndMetadata]
+
+NA
+
+

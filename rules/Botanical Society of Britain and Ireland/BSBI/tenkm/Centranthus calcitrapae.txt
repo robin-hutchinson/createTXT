@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Centranthus calcitrapae 10km
+Description=Check coordinate against known distribution of Centranthus calcitrapae
+ErrorMsg=Coordinate is outside known range for Centranthus calcitrapae
+DataFieldName=Species
+DataRecordId=NBNSYS0000034034
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ17
+TQ27
+TQ39
+TQ47
+
+

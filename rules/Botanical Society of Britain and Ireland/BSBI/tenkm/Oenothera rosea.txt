@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Oenothera rosea 10km
+Description=Check coordinate against known distribution of Oenothera rosea
+ErrorMsg=Coordinate is outside known range for Oenothera rosea
+DataFieldName=Species
+DataRecordId=NBNSYS0200003883
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS69
+SX45
+TL45
+
+

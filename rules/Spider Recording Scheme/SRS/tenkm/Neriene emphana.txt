@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Neriene emphana 10km
+Description=Check coordinate against known distribution of Neriene emphana
+ErrorMsg=Coordinate is outside known range for Neriene emphana
+DataFieldName=Species
+DataRecordId=NBNSYS0100004233
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SZ48
+
+

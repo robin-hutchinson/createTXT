@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Paeonia lactiflora 10km
+Description=Check coordinate against known distribution of Paeonia lactiflora
+ErrorMsg=Coordinate is outside known range for Paeonia lactiflora
+DataFieldName=Species
+DataRecordId=NHMSYS0000461443
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP31
+SP40
+SU77
+SU97
+
+

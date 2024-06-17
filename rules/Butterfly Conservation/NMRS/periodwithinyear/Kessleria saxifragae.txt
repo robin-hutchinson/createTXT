@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Kessleria saxifragae
+Description=Checks date is within known flight period of Kessleria saxifragae
+ErrorMsg=Date is outside known flight period of Kessleria saxifragae
+Tvk=NHMSYS0000502980
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

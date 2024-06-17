@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Pholcomma gibbum
+Description=Checks date is within known flight period of Pholcomma gibbum
+ErrorMsg=Date is outside known flight period of Pholcomma gibbum
+Tvk=NBNSYS0000008913
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

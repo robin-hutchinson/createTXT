@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Veronica paniculata 10km
+Description=Check coordinate against known distribution of Veronica paniculata
+ErrorMsg=Coordinate is outside known range for Veronica paniculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000033534
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW94
+TL77
+TL86
+TQ28
+
+

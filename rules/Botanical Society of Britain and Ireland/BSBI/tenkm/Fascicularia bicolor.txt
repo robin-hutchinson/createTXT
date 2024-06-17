@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fascicularia bicolor 10km
+Description=Check coordinate against known distribution of Fascicularia bicolor
+ErrorMsg=Coordinate is outside known range for Fascicularia bicolor
+DataFieldName=Species
+DataRecordId=NHMSYS0100001565
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV81
+SV91
+SW32
+SW62
+
+
+NA
+
+

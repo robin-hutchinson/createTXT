@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Diasemiopsis ramburialis
+Description=Checks date is within known recording period of Diasemiopsis ramburialis
+ErrorMsg=Date is outside known recording period of Diasemiopsis ramburialis
+Tvk=NHMSYS0000502147
+StartDate=20111002
+EndDate=
+LastChanged=20240617
+[EndMetadata]

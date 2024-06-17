@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hydroptila martini
+Description=Checks date is within known flight period of Hydroptila martini
+ErrorMsg=Date is outside known flight period of Hydroptila martini
+Tvk=NBNSYS0000008356
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Leucoptera sinuella
+Description=Checks date is within known flight period of Leucoptera sinuella
+ErrorMsg=Date is outside known flight period of Leucoptera sinuella
+Tvk=NBNSYS0100003745
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

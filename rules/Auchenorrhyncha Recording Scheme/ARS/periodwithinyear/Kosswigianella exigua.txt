@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Kosswigianella exigua
+Description=Checks date is within known flight period of Kosswigianella exigua
+ErrorMsg=Date is outside known flight period of Kosswigianella exigua
+Tvk=NHMSYS0020705675
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

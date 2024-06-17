@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Odontomyia tigrina
+Description=Checks date is within known flight period of Odontomyia tigrina
+ErrorMsg=Date is outside known flight period of Odontomyia tigrina
+Tvk=NBNSYS0000007837
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

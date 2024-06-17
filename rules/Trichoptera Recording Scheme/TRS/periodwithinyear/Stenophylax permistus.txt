@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Stenophylax permistus
+Description=Checks date is within known flight period of Stenophylax permistus
+ErrorMsg=Date is outside known flight period of Stenophylax permistus
+Tvk=NBNSYS0000008459
+DataFieldName=
+StartDate=0201
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

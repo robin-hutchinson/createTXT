@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster obscurus 10km
+Description=Check coordinate against known distribution of Cotoneaster obscurus
+ErrorMsg=Coordinate is outside known range for Cotoneaster obscurus
+DataFieldName=Species
+DataRecordId=NBNSYS0100002632
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH78
+SZ69
+
+

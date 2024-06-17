@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cyperus fuscus 10km
+Description=Check coordinate against known distribution of Cyperus fuscus
+ErrorMsg=Coordinate is outside known range for Cyperus fuscus
+DataFieldName=Species
+DataRecordId=NBNSYS0000002404
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST47
+ST90
+SU10
+SU11
+SU67
+SU88
+SU97
+SY89
+TQ04
+TQ07
+TQ27
+
+
+NA
+
+

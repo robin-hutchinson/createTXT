@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Luperina nickerlii gueneei
+Description=Checks date is within known flight period of Luperina nickerlii gueneei
+ErrorMsg=Date is outside known flight period of Luperina nickerlii gueneei
+Tvk=NHMSYS0021144623
+DataFieldName=
+StartDate=0721
+EndDate=0915
+LastChanged=20240617
+[EndMetadata]

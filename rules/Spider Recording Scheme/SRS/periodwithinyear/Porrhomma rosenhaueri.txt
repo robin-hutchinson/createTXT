@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Porrhomma rosenhaueri
+Description=Checks date is within known flight period of Porrhomma rosenhaueri
+ErrorMsg=Date is outside known flight period of Porrhomma rosenhaueri
+Tvk=NBNSYS0000009140
+DataFieldName=
+StartDate=0415
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

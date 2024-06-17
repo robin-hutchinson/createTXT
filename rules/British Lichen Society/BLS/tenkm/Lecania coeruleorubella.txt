@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecania coeruleorubella 10km
+Description=Check coordinate against known distribution of Lecania coeruleorubella
+ErrorMsg=Coordinate is outside known range for Lecania coeruleorubella
+DataFieldName=Species
+DataRecordId=NBNSYS0000039643
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL22
+
+

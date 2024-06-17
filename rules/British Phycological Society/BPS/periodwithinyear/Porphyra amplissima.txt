@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Phycological Society/BPS Flight Period
+ShortName=Porphyra amplissima
+Description=Checks date is within known flight period of Porphyra amplissima
+ErrorMsg=Date is outside known flight period of Porphyra amplissima
+Tvk=NHMSYS0000568111
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

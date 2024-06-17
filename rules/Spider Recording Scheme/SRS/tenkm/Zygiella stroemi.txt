@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Zygiella stroemi 10km
+Description=Check coordinate against known distribution of Zygiella stroemi
+ErrorMsg=Coordinate is outside known range for Zygiella stroemi
+DataFieldName=Species
+DataRecordId=NBNSYS0000008933
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO34
+SO65
+SP41
+SP50
+SP74
+SP86
+SU26
+SU32
+SU56
+SU59
+SU82
+SU83
+SU92
+SU94
+
+

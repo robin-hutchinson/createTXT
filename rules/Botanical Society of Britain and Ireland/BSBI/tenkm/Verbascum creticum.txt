@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbascum creticum 10km
+Description=Check coordinate against known distribution of Verbascum creticum
+ErrorMsg=Coordinate is outside known range for Verbascum creticum
+DataFieldName=Species
+DataRecordId=NBNSYS0200003765
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW74
+SW75
+SW76
+
+

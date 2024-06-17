@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Xanthodelphax flaveolus 10km
+Description=Check coordinate against known distribution of Xanthodelphax flaveolus
+ErrorMsg=Coordinate is outside known range for Xanthodelphax flaveolus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442475
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU96
+SU98
+SW61
+SX05
+SX25
+SX55
+SX56
+SY98
+TL78
+TQ15
+TQ27
+
+

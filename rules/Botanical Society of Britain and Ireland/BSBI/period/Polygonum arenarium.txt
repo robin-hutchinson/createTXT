@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Polygonum arenarium
+Description=Checks date is within known recording period of Polygonum arenarium
+ErrorMsg=Date is outside known recording period of Polygonum arenarium
+Tvk=NBNSYS0000033431
+StartDate=18600101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

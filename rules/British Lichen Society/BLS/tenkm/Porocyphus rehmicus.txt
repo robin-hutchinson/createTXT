@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Porocyphus rehmicus 10km
+Description=Check coordinate against known distribution of Porocyphus rehmicus
+ErrorMsg=Coordinate is outside known range for Porocyphus rehmicus
+DataFieldName=Species
+DataRecordId=NBNSYS0000039718
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN33
+NN64
+
+

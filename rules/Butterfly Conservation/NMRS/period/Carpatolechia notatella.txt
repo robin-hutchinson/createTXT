@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Carpatolechia notatella
+Description=Checks date is within known recording period of Carpatolechia notatella
+ErrorMsg=Date is outside known recording period of Carpatolechia notatella
+Tvk=NHMSYS0021142787
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

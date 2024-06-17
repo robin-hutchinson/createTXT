@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Theridion pinastri 10km
+Description=Check coordinate against known distribution of Theridion pinastri
+ErrorMsg=Coordinate is outside known range for Theridion pinastri
+DataFieldName=Species
+DataRecordId=NBNSYS0000008891
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU96
+TL14
+TL15
+TL30
+TL40
+TM34
+TQ05
+TQ17
+TQ25
+TQ38
+TQ39
+TQ49
+TQ57
+TQ58
+TQ59
+TQ68
+TQ69
+
+

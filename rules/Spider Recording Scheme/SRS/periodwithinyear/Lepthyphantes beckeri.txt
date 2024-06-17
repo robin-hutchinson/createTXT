@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Lepthyphantes beckeri
+Description=Checks date is within known flight period of Lepthyphantes beckeri
+ErrorMsg=Date is outside known flight period of Lepthyphantes beckeri
+Tvk=NBNSYS0100003707
+DataFieldName=
+StartDate=0215
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

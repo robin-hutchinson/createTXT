@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex conglomeratus x rupestris = R. x rosemurphyae 10km
+Description=Check coordinate against known distribution of Rumex conglomeratus x rupestris = R. x rosemurphyae
+ErrorMsg=Coordinate is outside known range for Rumex conglomeratus x rupestris = R. x rosemurphyae
+DataFieldName=Species
+DataRecordId=NBNSYS0500000358
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW75
+
+

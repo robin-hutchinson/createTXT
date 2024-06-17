@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Lepthyphantes beckeri 10km
+Description=Check coordinate against known distribution of Lepthyphantes beckeri
+ErrorMsg=Coordinate is outside known range for Lepthyphantes beckeri
+DataFieldName=Species
+DataRecordId=NBNSYS0100003707
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL07
+
+

@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Fuscopannaria praetermissa 10km
+Description=Check coordinate against known distribution of Fuscopannaria praetermissa
+ErrorMsg=Coordinate is outside known range for Fuscopannaria praetermissa
+DataFieldName=Species
+DataRecordId=BMSSYS0000006973
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN06
+NN07
+NN08
+NN16
+NN17
+NN18
+NN26
+NN27
+NN28
+NN32
+NN33
+NN34
+NN42
+NN43
+NN44
+NN45
+NN52
+NN53
+NN54
+NN55
+NN56
+NN62
+NN63
+NN64
+NN65
+NN66
+NN73
+NN74
+NN75
+NN76
+NO06
+NO07
+NO08
+NO16
+NO17
+NO18
+NO26
+NO27
+NO28
+
+

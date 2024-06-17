@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Axyris amaranthoides 10km
+Description=Check coordinate against known distribution of Axyris amaranthoides
+ErrorMsg=Coordinate is outside known range for Axyris amaranthoides
+DataFieldName=Species
+DataRecordId=NBNSYS0000014760
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD32
+SH53
+SO83
+SX05
+TF26
+TL31
+TM02
+TQ08
+TQ18
+TQ26
+TQ48
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Rhopalus (Rhopalus) subrufus
+Description=Checks date is within known recording period of Rhopalus (Rhopalus) subrufus
+ErrorMsg=Date is outside known recording period of Rhopalus (Rhopalus) subrufus
+Tvk=NHMSYS0020309777
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

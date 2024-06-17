@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Spiriverpa lunulata
+Description=Checks date is within known flight period of Spiriverpa lunulata
+ErrorMsg=Date is outside known flight period of Spiriverpa lunulata
+Tvk=NBNSYS0000189495
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

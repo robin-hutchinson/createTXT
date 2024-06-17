@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Apotomis lineana
+Description=Checks date is within known recording period of Apotomis lineana
+ErrorMsg=Date is outside known recording period of Apotomis lineana
+Tvk=NHMSYS0021143155
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

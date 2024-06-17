@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Dactylospora amygdalariae 10km
+Description=Check coordinate against known distribution of Dactylospora amygdalariae
+ErrorMsg=Coordinate is outside known range for Dactylospora amygdalariae
+DataFieldName=Species
+DataRecordId=BMSSYS0000005637
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO17
+NO19
+NS68
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Neureclipsis bimaculata
+Description=Checks date is within known flight period of Neureclipsis bimaculata
+ErrorMsg=Date is outside known flight period of Neureclipsis bimaculata
+Tvk=NBNSYS0000008405
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

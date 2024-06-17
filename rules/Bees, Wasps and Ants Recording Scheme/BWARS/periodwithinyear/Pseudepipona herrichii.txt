@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Pseudepipona herrichii
+Description=Checks date is within known flight period of Pseudepipona herrichii
+ErrorMsg=Date is outside known flight period of Pseudepipona herrichii
+Tvk=NHMSYS0000876638
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

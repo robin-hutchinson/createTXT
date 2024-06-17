@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphorbia peplis 10km
+Description=Check coordinate against known distribution of Euphorbia peplis
+ErrorMsg=Coordinate is outside known range for Euphorbia peplis
+DataFieldName=Species
+DataRecordId=NBNSYS0000003724
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN58
+SS14
+SS43
+SS54
+SS69
+SS87
+SV80
+SV90
+SV91
+SW43
+SW53
+SX15
+SX25
+SX35
+SX45
+SX84
+SX85
+SX96
+SX97
+SX98
+SY49
+SZ68
+TF71
+TR35
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+
+[10km_Ireland]
+X59
+
+

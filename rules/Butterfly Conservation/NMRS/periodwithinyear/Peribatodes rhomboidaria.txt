@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Peribatodes rhomboidaria
+Description=Checks date is within known flight period of Peribatodes rhomboidaria
+ErrorMsg=Date is outside known flight period of Peribatodes rhomboidaria
+Tvk=NHMSYS0021144226
+DataFieldName=
+StartDate=0507
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

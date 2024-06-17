@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Phycological Society/BPS Flight Period
+ShortName=Erythropeltis discigera subsp. flustrae
+Description=Checks date is within known flight period of Erythropeltis discigera subsp. flustrae
+ErrorMsg=Date is outside known flight period of Erythropeltis discigera subsp. flustrae
+Tvk=NHMSYS0000377570
+DataFieldName=
+StartDate=0401
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

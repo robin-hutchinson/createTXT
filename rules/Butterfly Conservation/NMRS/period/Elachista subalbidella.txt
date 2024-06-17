@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Elachista subalbidella
+Description=Checks date is within known recording period of Elachista subalbidella
+ErrorMsg=Date is outside known recording period of Elachista subalbidella
+Tvk=NHMSYS0000502328
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Liguropia juniperi
+Description=Checks date is within known flight period of Liguropia juniperi
+ErrorMsg=Date is outside known flight period of Liguropia juniperi
+Tvk=NHMSYS0020745856
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

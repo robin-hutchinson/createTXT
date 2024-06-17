@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hydroptila tineoides
+Description=Checks date is within known flight period of Hydroptila tineoides
+ErrorMsg=Date is outside known flight period of Hydroptila tineoides
+Tvk=NBNSYS0000008363
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

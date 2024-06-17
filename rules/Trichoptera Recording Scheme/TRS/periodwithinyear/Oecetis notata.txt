@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Oecetis notata
+Description=Checks date is within known flight period of Oecetis notata
+ErrorMsg=Date is outside known flight period of Oecetis notata
+Tvk=NBNSYS0000008537
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Carpobrotus acinaciformis
+Description=Checks date is within known recording period of Carpobrotus acinaciformis
+ErrorMsg=Date is outside known recording period of Carpobrotus acinaciformis
+Tvk=NHMSYS0000456941
+StartDate=19110101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

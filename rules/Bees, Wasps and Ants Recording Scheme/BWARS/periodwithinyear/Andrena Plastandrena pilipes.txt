@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Andrena (Plastandrena) pilipes
+Description=Checks date is within known flight period of Andrena (Plastandrena) pilipes
+ErrorMsg=Date is outside known flight period of Andrena (Plastandrena) pilipes
+Tvk=NHMSYS0000875126
+DataFieldName=
+StartDate=0401
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

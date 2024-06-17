@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sorbus vexans 10km
+Description=Check coordinate against known distribution of Sorbus vexans
+ErrorMsg=Coordinate is outside known range for Sorbus vexans
+DataFieldName=Species
+DataRecordId=NHMSYS0000463817
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS54
+SS64
+SS74
+SS84
+
+

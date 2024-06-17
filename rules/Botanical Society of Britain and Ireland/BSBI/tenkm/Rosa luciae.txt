@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa luciae 10km
+Description=Check coordinate against known distribution of Rosa luciae
+ErrorMsg=Coordinate is outside known range for Rosa luciae
+DataFieldName=Species
+DataRecordId=NHMSYS0000462466
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS28
+NS47
+NY96
+SC16
+SC28
+SC37
+SC49
+SE24
+SN31
+SN40
+SN50
+SN52
+SN53
+SN72
+SS59
+TG11
+TL46
+TL66
+TQ35
+TQ53
+
+
+NA
+
+

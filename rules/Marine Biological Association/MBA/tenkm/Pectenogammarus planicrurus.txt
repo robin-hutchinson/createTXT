@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Pectenogammarus planicrurus 10km
+Description=Check coordinate against known distribution of Pectenogammarus planicrurus
+ErrorMsg=Coordinate is outside known range for Pectenogammarus planicrurus
+DataFieldName=Species
+DataRecordId=NBNSYS0000177044
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH33
+SH52
+SH53
+SN58
+SN59
+TA32
+TA33
+TG14
+TL80
+TQ30
+TQ40
+TV49
+
+

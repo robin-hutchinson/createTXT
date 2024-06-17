@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Harpocera thoracica
+Description=Checks date is within known recording period of Harpocera thoracica
+ErrorMsg=Date is outside known recording period of Harpocera thoracica
+Tvk=NHMSYS0020109258
+StartDate=18070101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

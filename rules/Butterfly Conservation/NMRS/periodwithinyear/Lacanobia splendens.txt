@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lacanobia splendens
+Description=Checks date is within known flight period of Lacanobia splendens
+ErrorMsg=Date is outside known flight period of Lacanobia splendens
+Tvk=NHMSYS0001703672
+DataFieldName=
+StartDate=0601
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

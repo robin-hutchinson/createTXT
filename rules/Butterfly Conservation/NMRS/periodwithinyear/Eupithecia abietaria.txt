@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eupithecia abietaria
+Description=Checks date is within known flight period of Eupithecia abietaria
+ErrorMsg=Date is outside known flight period of Eupithecia abietaria
+Tvk=NBNSYS0000005897
+DataFieldName=
+StartDate=0507
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Wormaldia mediana
+Description=Checks date is within known flight period of Wormaldia mediana
+ErrorMsg=Date is outside known flight period of Wormaldia mediana
+Tvk=NBNSYS0000008381
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

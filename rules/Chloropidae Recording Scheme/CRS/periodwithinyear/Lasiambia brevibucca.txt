@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Lasiambia brevibucca
+Description=Checks date is within known flight period of Lasiambia brevibucca
+ErrorMsg=Date is outside known flight period of Lasiambia brevibucca
+Tvk=NBNSYS0100003664
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

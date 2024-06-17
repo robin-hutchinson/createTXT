@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Coeloglossum viride x Dactylorhiza purpurella = X Dactyloglossum viridella 10km
+Description=Check coordinate against known distribution of Coeloglossum viride x Dactylorhiza purpurella = X Dactyloglossum viridella
+ErrorMsg=Coordinate is outside known range for Coeloglossum viride x Dactylorhiza purpurella = X Dactyloglossum viridella
+DataFieldName=Species
+DataRecordId=NHMSYS0001754653
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC25
+NF87
+NF98
+NG09
+NZ33
+
+

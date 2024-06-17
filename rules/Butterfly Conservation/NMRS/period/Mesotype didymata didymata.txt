@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Mesotype didymata didymata
+Description=Checks date is within known recording period of Mesotype didymata didymata
+ErrorMsg=Date is outside known recording period of Mesotype didymata didymata
+Tvk=NHMSYS0021144050
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Limonium recurvum subsp. humile 10km
+Description=Check coordinate against known distribution of Limonium recurvum subsp. humile
+ErrorMsg=Coordinate is outside known range for Limonium recurvum subsp. humile
+DataFieldName=Species
+DataRecordId=NHMSYS0000460359
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX05
+NX13
+NX25
+NX91
+
+

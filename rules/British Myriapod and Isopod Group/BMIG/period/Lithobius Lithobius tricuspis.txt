@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Lithobius (Lithobius) tricuspis
+Description=Checks date is within known recording period of Lithobius (Lithobius) tricuspis
+ErrorMsg=Date is outside known recording period of Lithobius (Lithobius) tricuspis
+Tvk=NHMSYS0020500678
+StartDate=19650101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Erotettix cyane
+Description=Checks date is within known flight period of Erotettix cyane
+ErrorMsg=Date is outside known flight period of Erotettix cyane
+Tvk=NHMSYS0020977145
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

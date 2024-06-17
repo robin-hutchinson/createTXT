@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trachyspermum ammi 10km
+Description=Check coordinate against known distribution of Trachyspermum ammi
+ErrorMsg=Coordinate is outside known range for Trachyspermum ammi
+DataFieldName=Species
+DataRecordId=NBNSYS0000034163
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS56
+NS76
+NS77
+SD52
+SD53
+SE02
+SE13
+SO98
+ST23
+ST57
+ST67
+SU95
+SU98
+TA30
+TL02
+TL05
+TL13
+TL21
+TL31
+TQ07
+TQ08
+TQ09
+TQ37
+TQ38
+TQ48
+TQ57
+TQ58
+TQ67
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Myriapod and Isopod Group/BMIG Flight Period
+ShortName=Lamyctes emarginatus
+Description=Checks date is within known flight period of Lamyctes emarginatus
+ErrorMsg=Date is outside known flight period of Lamyctes emarginatus
+Tvk=NHMSYS0000570579
+DataFieldName=
+StartDate=0101
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

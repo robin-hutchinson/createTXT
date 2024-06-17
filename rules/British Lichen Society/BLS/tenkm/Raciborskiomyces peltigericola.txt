@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Raciborskiomyces peltigericola 10km
+Description=Check coordinate against known distribution of Raciborskiomyces peltigericola
+ErrorMsg=Coordinate is outside known range for Raciborskiomyces peltigericola
+DataFieldName=Species
+DataRecordId=NHMSYS0001495978
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH43
+NJ10
+NM71
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pelosia obtusa
+Description=Checks date is within known flight period of Pelosia obtusa
+ErrorMsg=Date is outside known flight period of Pelosia obtusa
+Tvk=NHMSYS0021144412
+DataFieldName=
+StartDate=0621
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

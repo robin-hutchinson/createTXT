@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cotoneaster salicifolius
+Description=Checks date is within known recording period of Cotoneaster salicifolius
+ErrorMsg=Date is outside known recording period of Cotoneaster salicifolius
+Tvk=NHMSYS0000457626
+StartDate=19660101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

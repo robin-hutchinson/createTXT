@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pilosella peleteriana x officinarum = P. x longisquama 10km
+Description=Check coordinate against known distribution of Pilosella peleteriana x officinarum = P. x longisquama
+ErrorMsg=Coordinate is outside known range for Pilosella peleteriana x officinarum = P. x longisquama
+DataFieldName=Species
+DataRecordId=NHMSYS0001754575
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK05
+TR23
+
+
+NA
+
+

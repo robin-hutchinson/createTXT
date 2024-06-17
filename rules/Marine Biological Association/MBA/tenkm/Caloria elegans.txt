@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Caloria elegans 10km
+Description=Check coordinate against known distribution of Caloria elegans
+ErrorMsg=Coordinate is outside known range for Caloria elegans
+DataFieldName=Species
+DataRecordId=NBNSYS0000174310
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D41
+Y73
+
+
+[10km_GB]
+NW66
+NZ90
+SH24
+SH52
+SM98
+SR68
+SS14
+
+

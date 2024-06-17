@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium pugsleyi 10km
+Description=Check coordinate against known distribution of Hieracium pugsleyi
+ErrorMsg=Coordinate is outside known range for Hieracium pugsleyi
+DataFieldName=Species
+DataRecordId=NHMSYS0000459570
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU35
+HU42
+HU46
+HU58
+
+

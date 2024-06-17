@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Arenocoris falleni
+Description=Checks date is within known recording period of Arenocoris falleni
+ErrorMsg=Date is outside known recording period of Arenocoris falleni
+Tvk=NHMSYS0020308961
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

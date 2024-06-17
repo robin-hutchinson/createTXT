@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus accrescens 10km
+Description=Check coordinate against known distribution of Rubus accrescens
+ErrorMsg=Coordinate is outside known range for Rubus accrescens
+DataFieldName=Species
+DataRecordId=NHMSYS0000462572
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD30
+SD40
+SD60
+SD61
+SD62
+SD70
+SD71
+SD72
+SD80
+SD90
+SE00
+SJ56
+SJ57
+SJ58
+SJ59
+SJ66
+SJ69
+SJ73
+SJ74
+SJ75
+SJ76
+SJ77
+SJ79
+SJ83
+SJ84
+SJ85
+SJ86
+SJ87
+SJ88
+SJ89
+SJ94
+SJ95
+SJ96
+SJ97
+SJ98
+SJ99
+SK05
+SK06
+SK08
+SK09
+
+

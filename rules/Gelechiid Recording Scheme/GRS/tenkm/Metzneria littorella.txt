@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Metzneria littorella 10km
+Description=Check coordinate against known distribution of Metzneria littorella
+ErrorMsg=Coordinate is outside known range for Metzneria littorella
+DataFieldName=Species
+DataRecordId=NBNSYS0000026227
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SZ47
+SZ57
+TQ80
+
+

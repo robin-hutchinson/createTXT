@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum ancistrolobum 10km
+Description=Check coordinate against known distribution of Taraxacum ancistrolobum
+ErrorMsg=Coordinate is outside known range for Taraxacum ancistrolobum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840831
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX55
+NX69
+NX85
+NX86
+NZ02
+SN21
+SN42
+SN52
+SN60
+SN64
+SN83
+SN84
+SO02
+ST22
+ST39
+SW62
+SW73
+SW83
+SX45
+TQ42
+
+

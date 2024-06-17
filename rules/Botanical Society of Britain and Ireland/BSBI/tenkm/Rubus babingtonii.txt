@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus babingtonii 10km
+Description=Check coordinate against known distribution of Rubus babingtonii
+ErrorMsg=Coordinate is outside known range for Rubus babingtonii
+DataFieldName=Species
+DataRecordId=NHMSYS0000462604
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ50
+SN80
+SN81
+SN82
+SN83
+SN90
+SN92
+SN93
+SN94
+SN95
+SO02
+SO03
+SO04
+SO05
+SO12
+SO13
+SO14
+SO16
+SO22
+SO24
+SO25
+SO36
+SO43
+SO45
+SO46
+SO53
+SO54
+SO55
+SO59
+SO62
+ST59
+SU12
+SU53
+SU63
+SU64
+SU73
+TQ16
+TQ18
+TQ71
+
+

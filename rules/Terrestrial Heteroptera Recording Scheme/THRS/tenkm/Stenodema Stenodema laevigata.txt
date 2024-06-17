@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Stenodema (Stenodema) laevigata 10km
+Description=Check coordinate against known distribution of Stenodema (Stenodema) laevigata
+ErrorMsg=Coordinate is outside known range for Stenodema (Stenodema) laevigata
+DataFieldName=Species
+DataRecordId=NHMSYS0020309851
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS80
+SS90
+SV80
+SV90
+SW44
+SW65
+SW81
+
+

@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tropaeolum speciosum 10km
+Description=Check coordinate against known distribution of Tropaeolum speciosum
+ErrorMsg=Coordinate is outside known range for Tropaeolum speciosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464642
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H46
+H47
+H86
+H99
+J47
+Q63
+
+
+[10km_GB]
+HU35
+HU69
+NC03
+NJ72
+NM54
+NR39
+NR64
+NX29
+NX30
+NZ31
+SD97
+SJ31
+SX46
+SX75
+TQ05
+
+

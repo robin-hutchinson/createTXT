@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Pikea californica 10km
+Description=Check coordinate against known distribution of Pikea californica
+ErrorMsg=Coordinate is outside known range for Pikea californica
+DataFieldName=Species
+DataRecordId=NBNSYS0000188783
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV81
+SV91
+
+

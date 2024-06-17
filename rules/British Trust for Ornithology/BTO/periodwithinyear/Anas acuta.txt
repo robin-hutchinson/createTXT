@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Anas acuta
+Description=Checks date is within known flight period of Anas acuta
+ErrorMsg=Date is outside known flight period of Anas acuta
+Tvk=NBNSYS0000000189
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

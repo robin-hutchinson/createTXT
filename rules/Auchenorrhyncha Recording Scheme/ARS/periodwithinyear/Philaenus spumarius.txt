@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Philaenus spumarius
+Description=Checks date is within known flight period of Philaenus spumarius
+ErrorMsg=Date is outside known flight period of Philaenus spumarius
+Tvk=NHMSYS0020705811
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

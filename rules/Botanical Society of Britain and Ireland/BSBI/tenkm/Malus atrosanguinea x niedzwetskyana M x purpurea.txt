@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Malus atrosanguinea x niedzwetskyana = M. x purpurea 10km
+Description=Check coordinate against known distribution of Malus atrosanguinea x niedzwetskyana = M. x purpurea
+ErrorMsg=Coordinate is outside known range for Malus atrosanguinea x niedzwetskyana = M. x purpurea
+DataFieldName=Species
+DataRecordId=NHMSYS0001754566
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ31
+SD32
+SD41
+SD60
+SD70
+SD83
+SD90
+SJ73
+SJ80
+SJ84
+SJ89
+SN68
+SP04
+SP91
+SU01
+SU21
+SU50
+SU95
+SY99
+TA22
+TL46
+TM33
+TQ15
+TQ17
+TQ27
+TQ57
+TQ59
+
+

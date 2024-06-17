@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Austroagallia sinuata
+Description=Checks date is within known flight period of Austroagallia sinuata
+ErrorMsg=Date is outside known flight period of Austroagallia sinuata
+Tvk=NHMSYS0020442294
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

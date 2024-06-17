@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Ozyptila pullata 10km
+Description=Check coordinate against known distribution of Ozyptila pullata
+ErrorMsg=Coordinate is outside known range for Ozyptila pullata
+DataFieldName=Species
+DataRecordId=NBNSYS0100004374
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ76
+
+

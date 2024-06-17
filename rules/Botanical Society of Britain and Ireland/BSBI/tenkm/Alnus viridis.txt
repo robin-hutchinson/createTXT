@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Alnus viridis 10km
+Description=Check coordinate against known distribution of Alnus viridis
+ErrorMsg=Coordinate is outside known range for Alnus viridis
+DataFieldName=Species
+DataRecordId=NBNSYS0000033463
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ54
+NJ73
+NJ74
+NJ92
+NJ95
+NJ96
+NN50
+NO88
+SD75
+SD88
+SE27
+SU16
+SX05
+TQ27
+
+

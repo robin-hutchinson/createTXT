@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Neriene peltata
+Description=Checks date is within known flight period of Neriene peltata
+ErrorMsg=Date is outside known flight period of Neriene peltata
+Tvk=NBNSYS0100004235
+DataFieldName=
+StartDate=0317
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lolium remotum 10km
+Description=Check coordinate against known distribution of Lolium remotum
+ErrorMsg=Coordinate is outside known range for Lolium remotum
+DataFieldName=Species
+DataRecordId=NBNSYS0000002531
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C60
+H12
+J37
+
+
+[10km_GB]
+SD47
+SE13
+SK94
+TA05
+TQ27
+
+

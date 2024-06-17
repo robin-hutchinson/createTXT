@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbascum pulverulentum x lychnitis = V. x regelianum 10km
+Description=Check coordinate against known distribution of Verbascum pulverulentum x lychnitis = V. x regelianum
+ErrorMsg=Coordinate is outside known range for Verbascum pulverulentum x lychnitis = V. x regelianum
+DataFieldName=Species
+DataRecordId=NBNSYS0000162123
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS43
+SY18
+
+

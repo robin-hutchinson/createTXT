@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Polygonum arenarium 10km
+Description=Check coordinate against known distribution of Polygonum arenarium
+ErrorMsg=Coordinate is outside known range for Polygonum arenarium
+DataFieldName=Species
+DataRecordId=NBNSYS0000033431
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NR72
+NT06
+NT18
+NT44
+NT53
+NX64
+NY16
+NY98
+SD62
+SE27
+SE31
+SE37
+SH78
+SJ08
+SJ17
+SJ26
+SK87
+SN12
+SN61
+SN72
+ST57
+ST67
+ST90
+SU95
+SZ48
+TA20
+TA30
+TA41
+TL31
+TL67
+TM14
+TQ05
+TQ07
+TQ08
+TQ09
+TQ18
+TQ37
+TQ57
+TQ89
+TQ99
+
+

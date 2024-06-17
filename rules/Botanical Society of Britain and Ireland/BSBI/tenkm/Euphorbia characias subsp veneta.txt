@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphorbia characias subsp. veneta 10km
+Description=Check coordinate against known distribution of Euphorbia characias subsp. veneta
+ErrorMsg=Coordinate is outside known range for Euphorbia characias subsp. veneta
+DataFieldName=Species
+DataRecordId=NHMSYS0000458632
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH78
+SO13
+ST12
+ST31
+ST36
+ST41
+ST42
+SY18
+TQ09
+TQ25
+TQ26
+
+

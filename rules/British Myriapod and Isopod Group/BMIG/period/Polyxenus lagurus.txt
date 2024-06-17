@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Polyxenus lagurus
+Description=Checks date is within known recording period of Polyxenus lagurus
+ErrorMsg=Date is outside known recording period of Polyxenus lagurus
+Tvk=NBNSYS0000011347
+StartDate=18140101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

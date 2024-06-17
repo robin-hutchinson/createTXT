@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Leptogium intermedium 10km
+Description=Check coordinate against known distribution of Leptogium intermedium
+ErrorMsg=Coordinate is outside known range for Leptogium intermedium
+DataFieldName=Species
+DataRecordId=NBNSYS0000018784
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY22
+NC84
+NG93
+NG96
+NM86
+NN64
+NN65
+NN73
+NN96
+NT21
+SH75
+SJ17
+SN69
+SN76
+SN87
+SN88
+SN89
+SO72
+SU10
+SU20
+SU23
+SU30
+SU73
+SZ29
+
+

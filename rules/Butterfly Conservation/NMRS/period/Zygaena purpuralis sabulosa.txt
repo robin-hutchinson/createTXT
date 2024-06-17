@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Zygaena purpuralis sabulosa
+Description=Checks date is within known recording period of Zygaena purpuralis sabulosa
+ErrorMsg=Date is outside known recording period of Zygaena purpuralis sabulosa
+Tvk=NHMSYS0021143425
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Persicaria maculosa x minor = P. x brauniana 10km
+Description=Check coordinate against known distribution of Persicaria maculosa x minor = P. x brauniana
+ErrorMsg=Coordinate is outside known range for Persicaria maculosa x minor = P. x brauniana
+DataFieldName=Species
+DataRecordId=NBNSYS0000161791
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT53
+NU00
+SH36
+SU10
+SU31
+SY58
+SZ19
+TL56
+TQ17
+
+
+[10km_Ireland]
+W37
+W47
+W57
+
+

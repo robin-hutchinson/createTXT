@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Pohlia elongata subsp. polymorpha 10km
+Description=Check coordinate against known distribution of Pohlia elongata subsp. polymorpha
+ErrorMsg=Coordinate is outside known range for Pohlia elongata subsp. polymorpha
+DataFieldName=Species
+DataRecordId=NBNSYS0000036548
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN33
+NN34
+NN42
+NN43
+NN44
+NN47
+NN53
+NN54
+NN64
+NN65
+NN67
+NN73
+NN89
+NN97
+
+

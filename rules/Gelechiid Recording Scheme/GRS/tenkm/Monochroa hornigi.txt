@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Monochroa hornigi 10km
+Description=Check coordinate against known distribution of Monochroa hornigi
+ErrorMsg=Coordinate is outside known range for Monochroa hornigi
+DataFieldName=Species
+DataRecordId=NHMSYS0000503274
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE36
+SK69
+ST73
+SU17
+SU18
+SU26
+SU30
+SU43
+SU60
+SU61
+SU84
+SU94
+SY88
+SZ69
+TF11
+TF64
+TG02
+TL07
+TL11
+TL16
+TL24
+TL37
+TL50
+TL53
+TL57
+TL60
+TM23
+TM24
+TQ06
+TQ15
+TQ19
+TQ24
+TQ27
+TQ39
+TQ67
+
+

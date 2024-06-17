@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Chrysops viduatus
+Description=Checks date is within known flight period of Chrysops viduatus
+ErrorMsg=Date is outside known flight period of Chrysops viduatus
+Tvk=NBNSYS0000007870
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

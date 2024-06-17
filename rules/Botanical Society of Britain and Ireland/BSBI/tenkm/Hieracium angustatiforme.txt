@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium angustatiforme 10km
+Description=Check coordinate against known distribution of Hieracium angustatiforme
+ErrorMsg=Coordinate is outside known range for Hieracium angustatiforme
+DataFieldName=Species
+DataRecordId=NHMSYS0000459338
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN92
+SO01
+
+

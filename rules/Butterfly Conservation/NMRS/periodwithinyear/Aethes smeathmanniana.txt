@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Aethes smeathmanniana
+Description=Checks date is within known flight period of Aethes smeathmanniana
+ErrorMsg=Date is outside known flight period of Aethes smeathmanniana
+Tvk=NHMSYS0000501017
+DataFieldName=
+StartDate=0501
+EndDate=1007
+LastChanged=20240617
+[EndMetadata]

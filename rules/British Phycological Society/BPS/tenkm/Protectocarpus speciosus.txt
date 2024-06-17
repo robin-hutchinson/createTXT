@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Protectocarpus speciosus 10km
+Description=Check coordinate against known distribution of Protectocarpus speciosus
+ErrorMsg=Coordinate is outside known range for Protectocarpus speciosus
+DataFieldName=Species
+DataRecordId=NHMSYS0000568250
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU27
+HU33
+HU37
+NA92
+NB54
+ND48
+NM43
+NT58
+NT69
+SH57
+SH77
+SJ38
+SU60
+SV80
+SV91
+SX44
+
+

@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium triviale 10km
+Description=Check coordinate against known distribution of Hieracium triviale
+ErrorMsg=Coordinate is outside known range for Hieracium triviale
+DataFieldName=Species
+DataRecordId=NHMSYS0000459690
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ12
+NM80
+NT24
+NT53
+NT63
+SH56
+SH57
+SH66
+SH67
+SH87
+SJ06
+SO79
+
+

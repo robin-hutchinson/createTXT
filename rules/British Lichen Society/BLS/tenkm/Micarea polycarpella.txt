@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Micarea polycarpella 10km
+Description=Check coordinate against known distribution of Micarea polycarpella
+ErrorMsg=Coordinate is outside known range for Micarea polycarpella
+DataFieldName=Species
+DataRecordId=BMSSYS0000011222
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY99
+SE23
+SK38
+
+

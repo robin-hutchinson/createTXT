@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chimonobambusa quadrangularis 10km
+Description=Check coordinate against known distribution of Chimonobambusa quadrangularis
+ErrorMsg=Coordinate is outside known range for Chimonobambusa quadrangularis
+DataFieldName=Species
+DataRecordId=NHMSYS0000457287
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW73
+
+

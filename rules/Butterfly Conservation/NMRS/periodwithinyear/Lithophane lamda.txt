@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lithophane lamda
+Description=Checks date is within known flight period of Lithophane lamda
+ErrorMsg=Date is outside known flight period of Lithophane lamda
+Tvk=NBNSYS0000006332
+DataFieldName=
+StartDate=0901
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

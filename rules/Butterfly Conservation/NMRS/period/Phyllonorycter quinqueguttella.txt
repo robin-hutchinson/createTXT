@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Phyllonorycter quinqueguttella
+Description=Checks date is within known recording period of Phyllonorycter quinqueguttella
+ErrorMsg=Date is outside known recording period of Phyllonorycter quinqueguttella
+Tvk=NHMSYS0000503798
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

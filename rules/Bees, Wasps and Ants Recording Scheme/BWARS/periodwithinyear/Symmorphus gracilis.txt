@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Symmorphus gracilis
+Description=Checks date is within known flight period of Symmorphus gracilis
+ErrorMsg=Date is outside known flight period of Symmorphus gracilis
+Tvk=NHMSYS0000876725
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

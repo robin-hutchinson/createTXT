@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Plume Moth Recording Scheme/PMRS 10km distribution
+ShortName=Stenoptilia islandicus 10km
+Description=Check coordinate against known distribution of Stenoptilia islandicus
+ErrorMsg=Coordinate is outside known range for Stenoptilia islandicus
+DataFieldName=Species
+DataRecordId=NBNSYS0100005592
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN42
+NN43
+NN44
+NN52
+NN53
+NN54
+NN62
+NN63
+NN64
+
+

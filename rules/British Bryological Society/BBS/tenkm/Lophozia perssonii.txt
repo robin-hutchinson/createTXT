@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Lophozia perssonii 10km
+Description=Check coordinate against known distribution of Lophozia perssonii
+ErrorMsg=Coordinate is outside known range for Lophozia perssonii
+DataFieldName=Species
+DataRecordId=NHMSYS0000309925
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE33
+SE34
+SE35
+SE36
+SE41
+SE42
+SE43
+SE44
+SE50
+SE51
+SE53
+SE54
+SE55
+SK58
+SK59
+
+

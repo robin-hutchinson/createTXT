@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Melangyna lasiophthalma
+Description=Checks date is within known flight period of Melangyna lasiophthalma
+ErrorMsg=Date is outside known flight period of Melangyna lasiophthalma
+Tvk=NBNSYS0000006927
+DataFieldName=
+StartDate=0210
+EndDate=1004
+LastChanged=20240617
+[EndMetadata]

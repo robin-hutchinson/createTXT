@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Larix kaempferi
+Description=Checks date is within known recording period of Larix kaempferi
+ErrorMsg=Date is outside known recording period of Larix kaempferi
+Tvk=NHMSYS0000460129
+StartDate=19570101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

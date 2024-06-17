@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Euzophera bigella
+Description=Checks date is within known recording period of Euzophera bigella
+ErrorMsg=Date is outside known recording period of Euzophera bigella
+Tvk=NHMSYS0000502659
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

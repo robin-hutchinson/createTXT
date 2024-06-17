@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rinodina mniaraea var. cinnamomea 10km
+Description=Check coordinate against known distribution of Rinodina mniaraea var. cinnamomea
+ErrorMsg=Coordinate is outside known range for Rinodina mniaraea var. cinnamomea
+DataFieldName=Species
+DataRecordId=BMSSYS0000016426
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG96
+
+

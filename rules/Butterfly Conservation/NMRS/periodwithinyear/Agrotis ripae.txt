@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agrotis ripae
+Description=Checks date is within known flight period of Agrotis ripae
+ErrorMsg=Date is outside known flight period of Agrotis ripae
+Tvk=NHMSYS0021144897
+DataFieldName=
+StartDate=0507
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

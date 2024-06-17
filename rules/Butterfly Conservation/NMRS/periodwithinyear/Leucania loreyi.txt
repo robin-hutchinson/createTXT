@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Leucania loreyi
+Description=Checks date is within known flight period of Leucania loreyi
+ErrorMsg=Date is outside known flight period of Leucania loreyi
+Tvk=NHMSYS0021144875
+DataFieldName=
+StartDate=0207
+EndDate=1215
+LastChanged=20240617
+[EndMetadata]

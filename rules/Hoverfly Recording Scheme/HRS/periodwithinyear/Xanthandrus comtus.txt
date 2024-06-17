@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Xanthandrus comtus
+Description=Checks date is within known flight period of Xanthandrus comtus
+ErrorMsg=Date is outside known flight period of Xanthandrus comtus
+Tvk=NBNSYS0000006889
+DataFieldName=
+StartDate=0425
+EndDate=1128
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ground Beetle Recording Scheme/GBRS 10km distribution
+ShortName=Harpalus (Cryptophonus) melancholicus 10km
+Description=Check coordinate against known distribution of Harpalus (Cryptophonus) melancholicus
+ErrorMsg=Coordinate is outside known range for Harpalus (Cryptophonus) melancholicus
+DataFieldName=Species
+DataRecordId=NHMSYS0001718348
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM80
+SM90
+SN00
+SR89
+SR99
+SS09
+TQ52
+TQ53
+TQ54
+TQ62
+TQ63
+TQ64
+TQ72
+TQ73
+TQ74
+
+

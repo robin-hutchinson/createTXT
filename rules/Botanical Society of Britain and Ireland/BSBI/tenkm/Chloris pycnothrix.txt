@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chloris pycnothrix 10km
+Description=Check coordinate against known distribution of Chloris pycnothrix
+ErrorMsg=Coordinate is outside known range for Chloris pycnothrix
+DataFieldName=Species
+DataRecordId=NBNSYS0200003544
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST51
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=National Amphibian and Reptile Recording Scheme/NARRS Flight Period
+ShortName=Epidalea calamita
+Description=Checks date is within known flight period of Epidalea calamita
+ErrorMsg=Date is outside known flight period of Epidalea calamita
+Tvk=NHMSYS0020194825
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Daucus glochidiatus 10km
+Description=Check coordinate against known distribution of Daucus glochidiatus
+ErrorMsg=Coordinate is outside known range for Daucus glochidiatus
+DataFieldName=Species
+DataRecordId=NHMSYS0000458016
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ05
+NT53
+SO94
+SX87
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Marava arachidis
+Description=Checks date is within known recording period of Marava arachidis
+ErrorMsg=Date is outside known recording period of Marava arachidis
+Tvk=NHMSYS0001387415
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

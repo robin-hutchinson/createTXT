@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rinodina colobinoides 10km
+Description=Check coordinate against known distribution of Rinodina colobinoides
+ErrorMsg=Coordinate is outside known range for Rinodina colobinoides
+DataFieldName=Species
+DataRecordId=NBNSYS0000162239
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS32
+SU30
+TL86
+TM36
+
+

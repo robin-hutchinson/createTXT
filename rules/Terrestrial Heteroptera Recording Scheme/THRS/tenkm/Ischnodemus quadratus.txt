@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Ischnodemus quadratus 10km
+Description=Check coordinate against known distribution of Ischnodemus quadratus
+ErrorMsg=Coordinate is outside known range for Ischnodemus quadratus
+DataFieldName=Species
+DataRecordId=NHMSYS0020309336
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TR23
+
+

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lopadium pezizoideum 10km
+Description=Check coordinate against known distribution of Lopadium pezizoideum
+ErrorMsg=Coordinate is outside known range for Lopadium pezizoideum
+DataFieldName=Species
+DataRecordId=NHMSYS0001488490
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH28
+NM86
+NN15
+NN22
+NN53
+NN64
+NN74
+NN81
+NO04
+NO49
+NR89
+
+

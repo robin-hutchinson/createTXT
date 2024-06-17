@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Bucculatrix ulmella
+Description=Checks date is within known recording period of Bucculatrix ulmella
+ErrorMsg=Date is outside known recording period of Bucculatrix ulmella
+Tvk=NHMSYS0000501577
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

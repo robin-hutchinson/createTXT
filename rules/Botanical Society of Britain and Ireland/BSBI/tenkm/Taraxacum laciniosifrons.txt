@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum laciniosifrons 10km
+Description=Check coordinate against known distribution of Taraxacum laciniosifrons
+ErrorMsg=Coordinate is outside known range for Taraxacum laciniosifrons
+DataFieldName=Species
+DataRecordId=NHMSYS0000464241
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW53
+TL64
+
+

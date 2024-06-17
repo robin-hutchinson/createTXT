@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Trechus (Trechus) subnotatus
+Description=Checks date is within known recording period of Trechus (Trechus) subnotatus
+ErrorMsg=Date is outside known recording period of Trechus (Trechus) subnotatus
+Tvk=NBNSYS0100005876
+StartDate=19100101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

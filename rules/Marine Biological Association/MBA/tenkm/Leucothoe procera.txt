@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Leucothoe procera 10km
+Description=Check coordinate against known distribution of Leucothoe procera
+ErrorMsg=Coordinate is outside known range for Leucothoe procera
+DataFieldName=Species
+DataRecordId=NBNSYS0000176122
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT88
+NT98
+NT99
+NX63
+SC07
+SC32
+SC42
+SC90
+SH25
+SH31
+SH78
+SM70
+SN15
+SW72
+SX73
+TB31
+TM64
+TV34
+TV85
+TV89
+
+
+[10km_Ireland]
+Y85
+
+

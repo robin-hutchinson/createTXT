@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Artemisia annua 10km
+Description=Check coordinate against known distribution of Artemisia annua
+ErrorMsg=Coordinate is outside known range for Artemisia annua
+DataFieldName=Species
+DataRecordId=NBNSYS0000033325
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD90
+SE22
+SE32
+SJ18
+SK73
+SO94
+ST27
+TF74
+TL31
+TQ08
+TQ17
+TQ28
+TQ36
+
+
+NA
+
+

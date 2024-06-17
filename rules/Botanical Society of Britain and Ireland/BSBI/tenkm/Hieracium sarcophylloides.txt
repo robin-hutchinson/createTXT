@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium sarcophylloides 10km
+Description=Check coordinate against known distribution of Hieracium sarcophylloides
+ErrorMsg=Coordinate is outside known range for Hieracium sarcophylloides
+DataFieldName=Species
+DataRecordId=NHMSYS0000840772
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY10
+HY20
+NC10
+NC27
+NC35
+NC44
+NC53
+NC56
+NM71
+NM72
+NM80
+NN25
+NR50
+NR51
+
+

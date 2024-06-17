@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex dentatus 10km
+Description=Check coordinate against known distribution of Rumex dentatus
+ErrorMsg=Coordinate is outside known range for Rumex dentatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014025
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS56
+SD33
+SD62
+SE22
+SE23
+SE32
+SJ39
+ST27
+ST57
+ST67
+SX05
+SZ48
+TA02
+TA12
+TF43
+TL03
+TL31
+TQ08
+
+

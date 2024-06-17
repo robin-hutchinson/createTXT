@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus mercicus 10km
+Description=Check coordinate against known distribution of Rubus mercicus
+ErrorMsg=Coordinate is outside known range for Rubus mercicus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462781
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP19
+TF00
+TF01
+TF02
+TF07
+TF38
+
+

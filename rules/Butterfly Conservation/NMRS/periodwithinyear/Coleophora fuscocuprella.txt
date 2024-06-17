@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora fuscocuprella
+Description=Checks date is within known flight period of Coleophora fuscocuprella
+ErrorMsg=Date is outside known flight period of Coleophora fuscocuprella
+Tvk=NHMSYS0021142818
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

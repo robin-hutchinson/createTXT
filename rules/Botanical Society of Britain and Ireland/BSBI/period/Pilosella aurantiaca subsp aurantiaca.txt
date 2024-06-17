@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Pilosella aurantiaca subsp. aurantiaca
+Description=Checks date is within known recording period of Pilosella aurantiaca subsp. aurantiaca
+ErrorMsg=Date is outside known recording period of Pilosella aurantiaca subsp. aurantiaca
+Tvk=NHMSYS0000461271
+StartDate=17930101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

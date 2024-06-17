@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trigonella foenum-graecum 10km
+Description=Check coordinate against known distribution of Trigonella foenum-graecum
+ErrorMsg=Coordinate is outside known range for Trigonella foenum-graecum
+DataFieldName=Species
+DataRecordId=NBNSYS0000014628
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE02
+SE32
+SE37
+SJ79
+SJ84
+SK22
+SK33
+SK97
+SO96
+SP44
+SU41
+SU57
+SW43
+SW53
+SX04
+TA20
+TA21
+TA30
+TG20
+TL13
+TL31
+TM02
+TM14
+TQ08
+TQ27
+TQ38
+TQ48
+TQ57
+TQ67
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Drepanotylus uncatus
+Description=Checks date is within known flight period of Drepanotylus uncatus
+ErrorMsg=Date is outside known flight period of Drepanotylus uncatus
+Tvk=NBNSYS0000009119
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

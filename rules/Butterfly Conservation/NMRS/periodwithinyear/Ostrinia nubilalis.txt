@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ostrinia nubilalis
+Description=Checks date is within known flight period of Ostrinia nubilalis
+ErrorMsg=Date is outside known flight period of Ostrinia nubilalis
+Tvk=NHMSYS0000503527
+DataFieldName=
+StartDate=0521
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

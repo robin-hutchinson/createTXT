@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus aghadergensis 10km
+Description=Check coordinate against known distribution of Rubus aghadergensis
+ErrorMsg=Coordinate is outside known range for Rubus aghadergensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462579
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D22
+J01
+J04
+J13
+J14
+
+
+[10km_GB]
+NG74
+
+

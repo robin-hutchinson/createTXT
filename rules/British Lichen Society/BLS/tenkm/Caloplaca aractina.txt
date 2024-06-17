@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Caloplaca aractina 10km
+Description=Check coordinate against known distribution of Caloplaca aractina
+ErrorMsg=Coordinate is outside known range for Caloplaca aractina
+DataFieldName=Species
+DataRecordId=NBNSYS0000020512
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH34
+SW61
+SW71
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Rhingia rostrata
+Description=Checks date is within known flight period of Rhingia rostrata
+ErrorMsg=Date is outside known flight period of Rhingia rostrata
+Tvk=NBNSYS0000007011
+DataFieldName=
+StartDate=0402
+EndDate=1105
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Iva microcephala 10km
+Description=Check coordinate against known distribution of Iva microcephala
+ErrorMsg=Coordinate is outside known range for Iva microcephala
+DataFieldName=Species
+DataRecordId=NBNSYS0200002392
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ09
+
+

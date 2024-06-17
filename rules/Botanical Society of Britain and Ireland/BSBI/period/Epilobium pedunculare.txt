@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Epilobium pedunculare
+Description=Checks date is within known recording period of Epilobium pedunculare
+ErrorMsg=Date is outside known recording period of Epilobium pedunculare
+Tvk=NHMSYS0000458404
+StartDate=19310101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

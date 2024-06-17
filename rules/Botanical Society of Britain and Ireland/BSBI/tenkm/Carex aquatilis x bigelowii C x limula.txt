@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex aquatilis x bigelowii = C. x limula 10km
+Description=Check coordinate against known distribution of Carex aquatilis x bigelowii = C. x limula
+ErrorMsg=Coordinate is outside known range for Carex aquatilis x bigelowii = C. x limula
+DataFieldName=Species
+DataRecordId=NHMSYS0001754733
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN67
+NO17
+NO27
+
+

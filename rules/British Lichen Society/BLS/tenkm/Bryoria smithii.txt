@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Bryoria smithii 10km
+Description=Check coordinate against known distribution of Bryoria smithii
+ErrorMsg=Coordinate is outside known range for Bryoria smithii
+DataFieldName=Species
+DataRecordId=NBNSYS0000018265
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH52
+SH63
+SH87
+SX58
+SX59
+SX67
+
+

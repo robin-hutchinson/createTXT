@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pleuroptya ruralis
+Description=Checks date is within known flight period of Pleuroptya ruralis
+ErrorMsg=Date is outside known flight period of Pleuroptya ruralis
+Tvk=NHMSYS0000503870
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Scymnus limbatus
+Description=Checks date is within known recording period of Scymnus limbatus
+ErrorMsg=Date is outside known recording period of Scymnus limbatus
+Tvk=NBNSYS0000008302
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

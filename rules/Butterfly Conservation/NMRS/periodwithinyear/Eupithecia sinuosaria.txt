@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eupithecia sinuosaria
+Description=Checks date is within known flight period of Eupithecia sinuosaria
+ErrorMsg=Date is outside known flight period of Eupithecia sinuosaria
+Tvk=NBNSYS0000005231
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

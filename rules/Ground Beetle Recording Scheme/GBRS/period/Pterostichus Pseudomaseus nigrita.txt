@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Pterostichus (Pseudomaseus) nigrita
+Description=Checks date is within known recording period of Pterostichus (Pseudomaseus) nigrita
+ErrorMsg=Date is outside known recording period of Pterostichus (Pseudomaseus) nigrita
+Tvk=NHMSYS0001719793
+StartDate=19900101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

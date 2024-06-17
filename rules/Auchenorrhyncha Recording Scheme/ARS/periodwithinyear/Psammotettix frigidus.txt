@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Psammotettix frigidus
+Description=Checks date is within known flight period of Psammotettix frigidus
+ErrorMsg=Date is outside known flight period of Psammotettix frigidus
+Tvk=NHMSYS0020705828
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

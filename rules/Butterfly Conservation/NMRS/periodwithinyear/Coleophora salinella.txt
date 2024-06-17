@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora salinella
+Description=Checks date is within known flight period of Coleophora salinella
+ErrorMsg=Date is outside known flight period of Coleophora salinella
+Tvk=NHMSYS0000501917
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

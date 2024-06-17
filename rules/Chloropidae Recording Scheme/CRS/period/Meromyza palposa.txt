@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Meromyza palposa
+Description=Checks date is within known recording period of Meromyza palposa
+ErrorMsg=Date is outside known recording period of Meromyza palposa
+Tvk=NBNSYS0000029954
+StartDate=19600101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

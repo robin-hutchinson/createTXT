@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Diplopseustis perieresalis
+Description=Checks date is within known flight period of Diplopseustis perieresalis
+ErrorMsg=Date is outside known flight period of Diplopseustis perieresalis
+Tvk=NHMSYS0001703654
+DataFieldName=
+StartDate=0401
+EndDate=1107
+LastChanged=20240617
+[EndMetadata]

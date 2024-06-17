@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agriphila poliellus
+Description=Checks date is within known flight period of Agriphila poliellus
+ErrorMsg=Date is outside known flight period of Agriphila poliellus
+Tvk=NHMSYS0000501083
+DataFieldName=
+StartDate=0801
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

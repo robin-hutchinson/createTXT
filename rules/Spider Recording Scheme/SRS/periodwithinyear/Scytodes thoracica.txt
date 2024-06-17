@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Scytodes thoracica
+Description=Checks date is within known flight period of Scytodes thoracica
+ErrorMsg=Date is outside known flight period of Scytodes thoracica
+Tvk=NBNSYS0000008638
+DataFieldName=
+StartDate=0417
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

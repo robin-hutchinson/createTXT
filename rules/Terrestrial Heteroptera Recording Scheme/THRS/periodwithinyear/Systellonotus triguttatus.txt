@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Systellonotus triguttatus
+Description=Checks date is within known flight period of Systellonotus triguttatus
+ErrorMsg=Date is outside known flight period of Systellonotus triguttatus
+Tvk=NHMSYS0020309874
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

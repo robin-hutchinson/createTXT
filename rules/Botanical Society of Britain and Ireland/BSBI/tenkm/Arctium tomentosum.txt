@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Arctium tomentosum 10km
+Description=Check coordinate against known distribution of Arctium tomentosum
+ErrorMsg=Coordinate is outside known range for Arctium tomentosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000456031
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK85
+SO44
+SO83
+TL02
+TL30
+TL76
+TM14
+TQ08
+TQ09
+
+

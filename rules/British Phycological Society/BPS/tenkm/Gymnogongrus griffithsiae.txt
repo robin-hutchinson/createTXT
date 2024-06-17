@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Gymnogongrus griffithsiae 10km
+Description=Check coordinate against known distribution of Gymnogongrus griffithsiae
+ErrorMsg=Coordinate is outside known range for Gymnogongrus griffithsiae
+DataFieldName=Species
+DataRecordId=NHMSYS0000567970
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NB42
+NF86
+NM71
+NU23
+NX91
+SH27
+SH33
+SM80
+SM90
+SS43
+SS48
+SS54
+SS58
+SS68
+SV91
+SW72
+SW83
+SX04
+SX36
+SX44
+SX45
+SX54
+SX64
+SX73
+SX95
+SX96
+SY08
+SY18
+SY67
+TG50
+TR34
+
+

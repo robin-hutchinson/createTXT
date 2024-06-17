@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Scotopteryx luridata
+Description=Checks date is within known flight period of Scotopteryx luridata
+ErrorMsg=Date is outside known flight period of Scotopteryx luridata
+Tvk=NHMSYS0000521358
+DataFieldName=
+StartDate=0515
+EndDate=0821
+LastChanged=20240617
+[EndMetadata]

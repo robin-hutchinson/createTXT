@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Caecidotea communis
+Description=Checks date is within known recording period of Caecidotea communis
+ErrorMsg=Date is outside known recording period of Caecidotea communis
+Tvk=NHMSYS0020302559
+StartDate=19620101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

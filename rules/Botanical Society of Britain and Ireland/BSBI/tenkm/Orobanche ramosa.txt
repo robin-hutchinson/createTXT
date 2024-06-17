@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Orobanche ramosa 10km
+Description=Check coordinate against known distribution of Orobanche ramosa
+ErrorMsg=Coordinate is outside known range for Orobanche ramosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000004171
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+O13
+
+
+[10km_GB]
+SE44
+SK32
+SO79
+SP76
+ST53
+ST67
+SU17
+TA12
+TA22
+TF40
+TF50
+TF62
+TG14
+TG24
+TL45
+TM17
+TM38
+TM39
+TM49
+TQ76
+TQ97
+TR06
+TR24
+
+
+NA
+
+

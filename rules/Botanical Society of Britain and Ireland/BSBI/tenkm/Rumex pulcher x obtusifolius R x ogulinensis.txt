@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex pulcher x obtusifolius = R. x ogulinensis 10km
+Description=Check coordinate against known distribution of Rumex pulcher x obtusifolius = R. x ogulinensis
+ErrorMsg=Coordinate is outside known range for Rumex pulcher x obtusifolius = R. x ogulinensis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754574
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+S70
+S71
+
+
+[10km_GB]
+SP04
+SP31
+SP51
+SS94
+ST41
+SU34
+SV91
+SW43
+SW53
+SW54
+SW64
+SW75
+SW85
+SX45
+SY28
+SY48
+SY97
+SY98
+SZ38
+SZ48
+TL12
+TL14
+TL46
+TL89
+TQ27
+TQ57
+TQ67
+
+
+NA
+
+

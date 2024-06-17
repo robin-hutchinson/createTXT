@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Hallodapus montandoni
+Description=Checks date is within known recording period of Hallodapus montandoni
+ErrorMsg=Date is outside known recording period of Hallodapus montandoni
+Tvk=NHMSYS0020309276
+StartDate=18950101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

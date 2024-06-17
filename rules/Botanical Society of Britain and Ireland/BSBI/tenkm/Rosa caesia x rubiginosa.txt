@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa caesia x rubiginosa 10km
+Description=Check coordinate against known distribution of Rosa caesia x rubiginosa
+ErrorMsg=Coordinate is outside known range for Rosa caesia x rubiginosa
+DataFieldName=Species
+DataRecordId=NHMSYS0000462450
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH52
+NJ06
+NM94
+NO20
+NO31
+NO32
+NO50
+NO59
+NU14
+NY92
+NZ33
+SJ87
+SK24
+SK95
+SU94
+
+

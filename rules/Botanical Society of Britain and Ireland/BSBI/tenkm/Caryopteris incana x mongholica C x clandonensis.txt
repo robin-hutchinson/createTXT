@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Caryopteris incana x mongholica = C. x clandonensis 10km
+Description=Check coordinate against known distribution of Caryopteris incana x mongholica = C. x clandonensis
+ErrorMsg=Coordinate is outside known range for Caryopteris incana x mongholica = C. x clandonensis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754557
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC37
+SO85
+
+

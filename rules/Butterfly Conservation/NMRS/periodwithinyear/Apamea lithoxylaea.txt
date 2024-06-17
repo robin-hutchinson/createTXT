@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Apamea lithoxylaea
+Description=Checks date is within known flight period of Apamea lithoxylaea
+ErrorMsg=Date is outside known flight period of Apamea lithoxylaea
+Tvk=NHMSYS0021144674
+DataFieldName=
+StartDate=0601
+EndDate=0921
+LastChanged=20240617
+[EndMetadata]

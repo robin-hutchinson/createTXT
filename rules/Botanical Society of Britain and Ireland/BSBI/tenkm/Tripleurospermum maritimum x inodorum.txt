@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tripleurospermum maritimum x inodorum 10km
+Description=Check coordinate against known distribution of Tripleurospermum maritimum x inodorum
+ErrorMsg=Coordinate is outside known range for Tripleurospermum maritimum x inodorum
+DataFieldName=Species
+DataRecordId=NHMSYS0100003147
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HT93
+HY40
+HY41
+HY42
+HY50
+HY64
+NO48
+NZ16
+NZ52
+SJ08
+SJ18
+SN14
+SN15
+SN56
+SN58
+SN69
+SS69
+SU32
+SW53
+SW54
+SX08
+SZ39
+TR16
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Acronicta leporina
+Description=Checks date is within known flight period of Acronicta leporina
+ErrorMsg=Date is outside known flight period of Acronicta leporina
+Tvk=NBNSYS0000006375
+DataFieldName=
+StartDate=0401
+EndDate=0821
+LastChanged=20240617
+[EndMetadata]

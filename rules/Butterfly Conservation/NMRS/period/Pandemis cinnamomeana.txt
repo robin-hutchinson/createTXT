@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pandemis cinnamomeana
+Description=Checks date is within known recording period of Pandemis cinnamomeana
+ErrorMsg=Date is outside known recording period of Pandemis cinnamomeana
+Tvk=NHMSYS0000503575
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

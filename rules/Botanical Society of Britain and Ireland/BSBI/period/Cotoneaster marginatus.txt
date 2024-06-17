@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cotoneaster marginatus
+Description=Checks date is within known recording period of Cotoneaster marginatus
+ErrorMsg=Date is outside known recording period of Cotoneaster marginatus
+Tvk=NHMSYS0100001111
+StartDate=19230101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

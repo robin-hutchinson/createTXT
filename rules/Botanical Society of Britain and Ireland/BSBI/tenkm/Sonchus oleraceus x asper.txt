@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sonchus oleraceus x asper 10km
+Description=Check coordinate against known distribution of Sonchus oleraceus x asper
+ErrorMsg=Coordinate is outside known range for Sonchus oleraceus x asper
+DataFieldName=Species
+DataRecordId=NHMSYS0100003022
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS47
+SJ32
+SP01
+SU14
+SV80
+TL34
+TL45
+
+

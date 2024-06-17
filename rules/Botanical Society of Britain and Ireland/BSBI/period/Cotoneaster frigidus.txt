@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cotoneaster frigidus
+Description=Checks date is within known recording period of Cotoneaster frigidus
+ErrorMsg=Date is outside known recording period of Cotoneaster frigidus
+Tvk=NHMSYS0000457582
+StartDate=19180101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

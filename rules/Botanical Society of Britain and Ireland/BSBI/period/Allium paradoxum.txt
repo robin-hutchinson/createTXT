@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Allium paradoxum
+Description=Checks date is within known recording period of Allium paradoxum
+ErrorMsg=Date is outside known recording period of Allium paradoxum
+Tvk=NHMSYS0000455760
+StartDate=18490101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

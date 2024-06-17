@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Glossosoma intermedium
+Description=Checks date is within known flight period of Glossosoma intermedium
+ErrorMsg=Date is outside known flight period of Glossosoma intermedium
+Tvk=NBNSYS0000008345
+DataFieldName=
+StartDate=0401
+EndDate=0531
+LastChanged=20240617
+[EndMetadata]

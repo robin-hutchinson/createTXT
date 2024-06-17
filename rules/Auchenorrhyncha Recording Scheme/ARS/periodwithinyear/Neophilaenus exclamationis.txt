@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Neophilaenus exclamationis
+Description=Checks date is within known flight period of Neophilaenus exclamationis
+ErrorMsg=Date is outside known flight period of Neophilaenus exclamationis
+Tvk=NHMSYS0020705766
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

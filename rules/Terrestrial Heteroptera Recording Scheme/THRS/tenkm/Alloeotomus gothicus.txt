@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Alloeotomus gothicus 10km
+Description=Check coordinate against known distribution of Alloeotomus gothicus
+ErrorMsg=Coordinate is outside known range for Alloeotomus gothicus
+DataFieldName=Species
+DataRecordId=NHMSYS0020308914
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE71
+SK23
+SK26
+SK33
+SO74
+SO77
+SO97
+SP03
+SP28
+SP64
+SP92
+ST19
+SU20
+SU30
+SU66
+SU83
+SU84
+SU94
+SU95
+SU96
+TF04
+TF18
+TF26
+TF61
+TF62
+TG10
+TL11
+TL14
+TL20
+TL24
+TL77
+TL78
+TQ03
+TQ05
+TQ26
+TQ44
+TQ59
+TQ93
+TR04
+TR05
+TR16
+
+

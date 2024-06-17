@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Malcolmia maritima
+Description=Checks date is within known recording period of Malcolmia maritima
+ErrorMsg=Date is outside known recording period of Malcolmia maritima
+Tvk=NHMSYS0000460563
+StartDate=18630101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

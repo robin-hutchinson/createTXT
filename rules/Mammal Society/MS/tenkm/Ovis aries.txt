@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Mammal Society/MS 10km distribution
+ShortName=Ovis aries 10km
+Description=Check coordinate against known distribution of Ovis aries
+ErrorMsg=Coordinate is outside known range for Ovis aries
+DataFieldName=Species
+DataRecordId=NHMSYS0000080202
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NA00
+NA10
+NF09
+NF19
+
+

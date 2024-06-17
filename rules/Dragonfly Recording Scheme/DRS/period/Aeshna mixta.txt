@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Dragonfly Recording Scheme/DRS Recording Period
+ShortName=Aeshna mixta
+Description=Checks date is within known recording period of Aeshna mixta
+ErrorMsg=Date is outside known recording period of Aeshna mixta
+Tvk=NBNSYS0000005627
+StartDate=19390101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

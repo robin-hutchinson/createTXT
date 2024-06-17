@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ornithopus compressus 10km
+Description=Check coordinate against known distribution of Ornithopus compressus
+ErrorMsg=Coordinate is outside known range for Ornithopus compressus
+DataFieldName=Species
+DataRecordId=NBNSYS0000034420
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ36
+SO81
+ST57
+ST76
+SW84
+SW94
+SZ09
+SZ58
+TQ38
+TQ46
+TQ56
+
+
+NA
+
+

@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salvia glutinosa 10km
+Description=Check coordinate against known distribution of Salvia glutinosa
+ErrorMsg=Coordinate is outside known range for Salvia glutinosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000014568
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO03
+NO04
+SO98
+SP50
+ST76
+SU78
+TM03
+TM04
+TQ95
+
+

@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Holmsella pachyderma 10km
+Description=Check coordinate against known distribution of Holmsella pachyderma
+ErrorMsg=Coordinate is outside known range for Holmsella pachyderma
+DataFieldName=Species
+DataRecordId=NBNSYS0000175798
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC16
+SH27
+SH57
+SM70
+SM80
+SM90
+SS14
+SS49
+SS58
+SV81
+SV91
+SX73
+SY39
+SZ07
+SZ08
+SZ19
+SZ49
+SZ69
+SZ89
+
+

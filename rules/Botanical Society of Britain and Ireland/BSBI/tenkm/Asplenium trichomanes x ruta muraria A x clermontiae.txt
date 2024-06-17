@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Asplenium trichomanes x ruta-muraria = A. x clermontiae 10km
+Description=Check coordinate against known distribution of Asplenium trichomanes x ruta-muraria = A. x clermontiae
+ErrorMsg=Coordinate is outside known range for Asplenium trichomanes x ruta-muraria = A. x clermontiae
+DataFieldName=Species
+DataRecordId=NHMSYS0001754614
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J01
+
+
+[10km_GB]
+NU21
+
+

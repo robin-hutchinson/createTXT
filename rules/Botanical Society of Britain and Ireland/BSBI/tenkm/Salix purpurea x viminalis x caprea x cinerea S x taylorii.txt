@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix purpurea x viminalis x caprea x cinerea = S. x taylorii 10km
+Description=Check coordinate against known distribution of Salix purpurea x viminalis x caprea x cinerea = S. x taylorii
+ErrorMsg=Coordinate is outside known range for Salix purpurea x viminalis x caprea x cinerea = S. x taylorii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754634
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO53
+
+

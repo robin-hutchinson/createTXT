@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dianthus gratianopolitanus x plumarius 10km
+Description=Check coordinate against known distribution of Dianthus gratianopolitanus x plumarius
+ErrorMsg=Coordinate is outside known range for Dianthus gratianopolitanus x plumarius
+DataFieldName=Species
+DataRecordId=NBNSYS0000014330
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP81
+
+

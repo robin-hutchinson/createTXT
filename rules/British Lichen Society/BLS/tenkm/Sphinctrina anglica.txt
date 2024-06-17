@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Sphinctrina anglica 10km
+Description=Check coordinate against known distribution of Sphinctrina anglica
+ErrorMsg=Coordinate is outside known range for Sphinctrina anglica
+DataFieldName=Species
+DataRecordId=NBNSYS0000015582
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU90
+SU91
+SU92
+SU93
+SU94
+SU95
+TQ00
+TQ01
+TQ02
+TQ03
+TQ04
+TQ05
+TQ10
+TQ11
+TQ12
+TQ13
+TQ14
+TQ15
+TQ71
+TQ72
+TQ73
+TQ81
+TQ82
+TQ83
+TQ84
+TQ85
+TQ91
+TQ92
+TQ93
+TQ94
+TQ95
+TR03
+TR04
+TR05
+
+

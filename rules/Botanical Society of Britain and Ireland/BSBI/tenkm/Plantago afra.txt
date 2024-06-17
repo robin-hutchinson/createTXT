@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Plantago afra 10km
+Description=Check coordinate against known distribution of Plantago afra
+ErrorMsg=Coordinate is outside known range for Plantago afra
+DataFieldName=Species
+DataRecordId=NBNSYS0000033683
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH64
+NH85
+NT27
+SE13
+SO51
+ST12
+ST27
+SU96
+TA30
+TF34
+TL02
+TL14
+TL46
+TL66
+TQ27
+TQ29
+TQ57
+TQ67
+
+

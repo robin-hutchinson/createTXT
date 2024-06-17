@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Xysticus ulmi
+Description=Checks date is within known flight period of Xysticus ulmi
+ErrorMsg=Date is outside known flight period of Xysticus ulmi
+Tvk=NBNSYS0000008725
+DataFieldName=
+StartDate=0320
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

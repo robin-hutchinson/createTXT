@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Saxifraga stolonifera 10km
+Description=Check coordinate against known distribution of Saxifraga stolonifera
+ErrorMsg=Coordinate is outside known range for Saxifraga stolonifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000033921
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM49
+SC27
+SC37
+ST57
+SU57
+SW72
+SW83
+SW84
+TQ27
+
+

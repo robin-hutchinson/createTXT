@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Caloptilia cuculipennella
+Description=Checks date is within known recording period of Caloptilia cuculipennella
+ErrorMsg=Date is outside known recording period of Caloptilia cuculipennella
+Tvk=NHMSYS0000501605
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

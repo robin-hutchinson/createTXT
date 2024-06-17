@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Monochroa divisella
+Description=Checks date is within known flight period of Monochroa divisella
+ErrorMsg=Date is outside known flight period of Monochroa divisella
+Tvk=NHMSYS0000503272
+DataFieldName=
+StartDate=0721
+EndDate=0821
+LastChanged=20240617
+[EndMetadata]

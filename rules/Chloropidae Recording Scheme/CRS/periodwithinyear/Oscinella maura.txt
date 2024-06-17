@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Oscinella maura
+Description=Checks date is within known flight period of Oscinella maura
+ErrorMsg=Date is outside known flight period of Oscinella maura
+Tvk=NBNSYS0000029914
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

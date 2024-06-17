@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Endothenia nigricostana
+Description=Checks date is within known flight period of Endothenia nigricostana
+ErrorMsg=Date is outside known flight period of Endothenia nigricostana
+Tvk=NHMSYS0000502364
+DataFieldName=
+StartDate=0521
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

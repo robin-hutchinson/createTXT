@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex conglomeratus x maritimus = R. x knafii 10km
+Description=Check coordinate against known distribution of Rumex conglomeratus x maritimus = R. x knafii
+ErrorMsg=Coordinate is outside known range for Rumex conglomeratus x maritimus = R. x knafii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754701
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ20
+SE63
+SJ55
+SJ78
+SO82
+SO83
+SO87
+SO93
+SP40
+ST44
+ST69
+SU77
+TF62
+TL58
+TL98
+TM13
+TQ28
+TQ35
+TQ58
+TQ77
+TQ78
+TQ87
+
+

@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Mercenaria mercenaria 10km
+Description=Check coordinate against known distribution of Mercenaria mercenaria
+ErrorMsg=Coordinate is outside known range for Mercenaria mercenaria
+DataFieldName=Species
+DataRecordId=NBNSYS0000176422
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH13
+SH26
+SM70
+SM73
+SU40
+SX95
+SY98
+SZ49
+SZ59
+TQ30
+
+
+[10km_Ireland]
+Y85
+Y97
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Halesus digitatus
+Description=Checks date is within known flight period of Halesus digitatus
+ErrorMsg=Date is outside known flight period of Halesus digitatus
+Tvk=NBNSYS0000008446
+DataFieldName=
+StartDate=0601
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Cixius (Ceratocixius) caledonicus
+Description=Checks date is within known recording period of Cixius (Ceratocixius) caledonicus
+ErrorMsg=Date is outside known recording period of Cixius (Ceratocixius) caledonicus
+Tvk=NHMSYS0020705283
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

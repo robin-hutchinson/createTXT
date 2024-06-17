@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Sitticus saltator
+Description=Checks date is within known flight period of Sitticus saltator
+ErrorMsg=Date is outside known flight period of Sitticus saltator
+Tvk=NBNSYS0100005539
+DataFieldName=
+StartDate=0324
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Gypsonoma aceriana
+Description=Checks date is within known flight period of Gypsonoma aceriana
+ErrorMsg=Date is outside known flight period of Gypsonoma aceriana
+Tvk=NHMSYS0021143300
+DataFieldName=
+StartDate=0621
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

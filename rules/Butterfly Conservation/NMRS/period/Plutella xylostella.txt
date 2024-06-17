@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Plutella xylostella
+Description=Checks date is within known recording period of Plutella xylostella
+ErrorMsg=Date is outside known recording period of Plutella xylostella
+Tvk=NHMSYS0000503886
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Phaeophyscia sciastra 10km
+Description=Check coordinate against known distribution of Phaeophyscia sciastra
+ErrorMsg=Coordinate is outside known range for Phaeophyscia sciastra
+DataFieldName=Species
+DataRecordId=NHMSYS0001493020
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C01
+L68
+
+
+[10km_GB]
+NC54
+NC63
+NC75
+NG97
+NH25
+NH28
+NH63
+NM26
+NM39
+NN55
+NN62
+NN63
+NN64
+NO07
+NO38
+NS93
+NT80
+NT91
+NY31
+NY76
+NY82
+SH66
+SN24
+SN25
+SO05
+SS60
+ST10
+ST11
+ST14
+SU14
+SX47
+
+

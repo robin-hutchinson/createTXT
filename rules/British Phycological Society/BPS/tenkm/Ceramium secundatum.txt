@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Ceramium secundatum 10km
+Description=Check coordinate against known distribution of Ceramium secundatum
+ErrorMsg=Coordinate is outside known range for Ceramium secundatum
+DataFieldName=Species
+DataRecordId=NBNSYS0000174429
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY30
+HY51
+SH31
+SH32
+SH33
+SH41
+SH51
+SH52
+SS14
+SZ28
+SZ47
+
+

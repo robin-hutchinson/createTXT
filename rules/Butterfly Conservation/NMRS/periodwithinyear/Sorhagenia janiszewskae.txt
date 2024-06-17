@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Sorhagenia janiszewskae
+Description=Checks date is within known flight period of Sorhagenia janiszewskae
+ErrorMsg=Date is outside known flight period of Sorhagenia janiszewskae
+Tvk=NHMSYS0000504257
+DataFieldName=
+StartDate=0621
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

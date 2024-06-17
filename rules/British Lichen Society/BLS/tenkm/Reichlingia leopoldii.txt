@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Reichlingia leopoldii 10km
+Description=Check coordinate against known distribution of Reichlingia leopoldii
+ErrorMsg=Coordinate is outside known range for Reichlingia leopoldii
+DataFieldName=Species
+DataRecordId=NHMSYS0001496149
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO14
+NO15
+NO16
+NO24
+NO25
+NO26
+NO34
+NO35
+NO36
+NT46
+NT47
+NT48
+NT56
+NT57
+NT58
+NT66
+NT67
+NT68
+
+

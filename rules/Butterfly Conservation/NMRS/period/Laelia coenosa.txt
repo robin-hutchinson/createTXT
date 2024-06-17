@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Laelia coenosa
+Description=Checks date is within known recording period of Laelia coenosa
+ErrorMsg=Date is outside known recording period of Laelia coenosa
+Tvk=NHMSYS0021144380
+StartDate=18190101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pseudocyphellaria lacerata 10km
+Description=Check coordinate against known distribution of Pseudocyphellaria lacerata
+ErrorMsg=Coordinate is outside known range for Pseudocyphellaria lacerata
+DataFieldName=Species
+DataRecordId=NBNSYS0000019353
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC01
+NG50
+NM55
+NM64
+NM71
+NM73
+NN31
+NR71
+NR77
+NR78
+SH64
+SH65
+
+
+[10km_Ireland]
+V98
+
+

@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Corylus maxima 10km
+Description=Check coordinate against known distribution of Corylus maxima
+ErrorMsg=Coordinate is outside known range for Corylus maxima
+DataFieldName=Species
+DataRecordId=NHMSYS0000457540
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC26
+SJ41
+SK54
+SN45
+SO99
+SP90
+SP92
+SU89
+SX46
+TF24
+TF60
+TL05
+TL14
+TL34
+TQ05
+TQ25
+TQ44
+
+

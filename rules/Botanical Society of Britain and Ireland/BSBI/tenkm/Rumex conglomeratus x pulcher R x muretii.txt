@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex conglomeratus x pulcher = R. x muretii 10km
+Description=Check coordinate against known distribution of Rumex conglomeratus x pulcher = R. x muretii
+ErrorMsg=Coordinate is outside known range for Rumex conglomeratus x pulcher = R. x muretii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754748
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+S71
+W02
+
+
+[10km_GB]
+SM72
+SO90
+SP04
+SP31
+ST43
+ST45
+ST59
+SU11
+SU30
+SU33
+SU34
+SU80
+SV81
+SV91
+SW53
+SW75
+SW83
+SW98
+SX45
+SY98
+SZ07
+SZ38
+SZ47
+SZ48
+TF71
+TL45
+TQ16
+
+

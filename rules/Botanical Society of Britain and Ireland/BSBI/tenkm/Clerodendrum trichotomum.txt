@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Clerodendrum trichotomum 10km
+Description=Check coordinate against known distribution of Clerodendrum trichotomum
+ErrorMsg=Coordinate is outside known range for Clerodendrum trichotomum
+DataFieldName=Species
+DataRecordId=NBNSYS0200003587
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST42
+
+

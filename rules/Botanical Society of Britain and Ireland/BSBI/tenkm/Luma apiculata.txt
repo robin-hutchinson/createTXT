@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Luma apiculata 10km
+Description=Check coordinate against known distribution of Luma apiculata
+ErrorMsg=Coordinate is outside known range for Luma apiculata
+DataFieldName=Species
+DataRecordId=NHMSYS0000460481
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC37
+SC48
+SC49
+SV81
+SW43
+SW71
+SW72
+SW74
+SW83
+SX45
+SY58
+
+
+[10km_Ireland]
+V47
+V76
+V95
+W33
+
+

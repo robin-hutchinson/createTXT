@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fuchsia x hybrida 10km
+Description=Check coordinate against known distribution of Fuchsia x hybrida
+ErrorMsg=Coordinate is outside known range for Fuchsia x hybrida
+DataFieldName=Species
+DataRecordId=NBNSYS0200002204
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY31
+SN40
+SS59
+
+

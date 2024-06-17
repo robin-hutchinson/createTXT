@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Molanna angustata
+Description=Checks date is within known recording period of Molanna angustata
+ErrorMsg=Date is outside known recording period of Molanna angustata
+Tvk=NBNSYS0000008509
+StartDate=18190101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

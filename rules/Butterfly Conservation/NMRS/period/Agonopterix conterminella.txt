@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Agonopterix conterminella
+Description=Checks date is within known recording period of Agonopterix conterminella
+ErrorMsg=Date is outside known recording period of Agonopterix conterminella
+Tvk=NHMSYS0000501054
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

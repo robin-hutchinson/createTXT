@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ulmus procera x plotii 10km
+Description=Check coordinate against known distribution of Ulmus procera x plotii
+ErrorMsg=Coordinate is outside known range for Ulmus procera x plotii
+DataFieldName=Species
+DataRecordId=NBNSYS0000005461
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH33
+SP15
+SP58
+TL45
+
+

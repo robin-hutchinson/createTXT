@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus milfordensis 10km
+Description=Check coordinate against known distribution of Rubus milfordensis
+ErrorMsg=Coordinate is outside known range for Rubus milfordensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000840935
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H05
+
+
+[10km_GB]
+NB14
+NB20
+NB24
+SJ40
+SJ52
+SP50
+SU32
+SU46
+SU56
+SU64
+SU71
+SU75
+SU83
+SU84
+SU85
+SU86
+SU91
+SU93
+SU94
+SU95
+SU96
+SU98
+TL92
+TQ01
+TQ04
+TQ06
+TQ13
+TQ15
+TQ16
+TQ24
+TQ28
+TQ47
+
+

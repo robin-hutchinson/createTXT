@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crocus kotschyanus 10km
+Description=Check coordinate against known distribution of Crocus kotschyanus
+ErrorMsg=Coordinate is outside known range for Crocus kotschyanus
+DataFieldName=Species
+DataRecordId=NBNSYS0000033798
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TM05
+TM15
+TQ01
+TQ05
+TQ25
+TQ57
+
+

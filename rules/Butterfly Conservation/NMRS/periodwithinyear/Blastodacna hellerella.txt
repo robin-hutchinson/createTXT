@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Blastodacna hellerella
+Description=Checks date is within known flight period of Blastodacna hellerella
+ErrorMsg=Date is outside known flight period of Blastodacna hellerella
+Tvk=NHMSYS0000501499
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

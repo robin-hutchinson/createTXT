@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Acartauchenius scurrilis 10km
+Description=Check coordinate against known distribution of Acartauchenius scurrilis
+ErrorMsg=Coordinate is outside known range for Acartauchenius scurrilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000009048
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU73
+SU84
+SU94
+SX73
+TR01
+
+

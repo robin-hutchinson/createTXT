@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Iris orientalis 10km
+Description=Check coordinate against known distribution of Iris orientalis
+ErrorMsg=Coordinate is outside known range for Iris orientalis
+DataFieldName=Species
+DataRecordId=NHMSYS0000459903
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE03
+SK54
+SP03
+SP13
+SP50
+SP82
+SP92
+ST36
+SU38
+SU49
+SU68
+SU70
+SU76
+SU77
+SU86
+SU87
+SU88
+SU96
+SW71
+SY58
+SY67
+SY68
+SY88
+SZ57
+TL02
+TL03
+TL05
+TL23
+TQ20
+TQ27
+TQ37
+TQ48
+TQ72
+TQ96
+TR02
+TR07
+TR23
+
+

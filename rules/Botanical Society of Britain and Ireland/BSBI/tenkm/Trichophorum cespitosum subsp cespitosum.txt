@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trichophorum cespitosum subsp. cespitosum 10km
+Description=Check coordinate against known distribution of Trichophorum cespitosum subsp. cespitosum
+ErrorMsg=Coordinate is outside known range for Trichophorum cespitosum subsp. cespitosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464551
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H05
+H35
+J46
+M45
+N32
+R79
+S22
+S30
+S31
+
+
+[10km_GB]
+HU38
+NC25
+NG51
+NH91
+NN96
+NO07
+NT16
+NT45
+NT64
+NY69
+NY76
+NY77
+NY89
+SJ32
+SJ74
+SN77
+ST44
+
+

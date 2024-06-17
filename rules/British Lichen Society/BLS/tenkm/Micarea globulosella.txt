@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Micarea globulosella 10km
+Description=Check coordinate against known distribution of Micarea globulosella
+ErrorMsg=Coordinate is outside known range for Micarea globulosella
+DataFieldName=Species
+DataRecordId=NBNSYS0000018816
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN69
+SO46
+SP91
+TQ94
+
+

@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus newtonii 10km
+Description=Check coordinate against known distribution of Rubus newtonii
+ErrorMsg=Coordinate is outside known range for Rubus newtonii
+DataFieldName=Species
+DataRecordId=NHMSYS0000462807
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT73
+NT77
+NT84
+NT93
+NT95
+NT96
+NU00
+NU01
+NU02
+NU03
+NU10
+NU11
+NU12
+NU13
+NU20
+NU21
+NU22
+NY86
+NY95
+NY96
+NZ09
+NZ17
+NZ18
+NZ19
+NZ27
+NZ28
+NZ29
+TL66
+
+

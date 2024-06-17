@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Xylota sylvarum
+Description=Checks date is within known flight period of Xylota sylvarum
+ErrorMsg=Date is outside known flight period of Xylota sylvarum
+Tvk=NBNSYS0000007116
+DataFieldName=
+StartDate=0108
+EndDate=1201
+LastChanged=20240617
+[EndMetadata]

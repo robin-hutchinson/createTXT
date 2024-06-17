@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Gryllotalpa gryllotalpa
+Description=Checks date is within known recording period of Gryllotalpa gryllotalpa
+ErrorMsg=Date is outside known recording period of Gryllotalpa gryllotalpa
+Tvk=NBNSYS0000006830
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

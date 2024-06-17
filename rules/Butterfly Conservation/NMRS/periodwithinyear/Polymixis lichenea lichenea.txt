@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Polymixis lichenea lichenea
+Description=Checks date is within known flight period of Polymixis lichenea lichenea
+ErrorMsg=Date is outside known flight period of Polymixis lichenea lichenea
+Tvk=NHMSYS0021144773
+DataFieldName=
+StartDate=0807
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

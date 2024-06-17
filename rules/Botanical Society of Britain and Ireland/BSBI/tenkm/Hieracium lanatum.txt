@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium lanatum 10km
+Description=Check coordinate against known distribution of Hieracium lanatum
+ErrorMsg=Coordinate is outside known range for Hieracium lanatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459476
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TG50
+TR15
+
+

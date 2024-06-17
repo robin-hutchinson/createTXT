@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Liparis loeselii 10km
+Description=Check coordinate against known distribution of Liparis loeselii
+ErrorMsg=Coordinate is outside known range for Liparis loeselii
+DataFieldName=Species
+DataRecordId=NHMSYS0000460402
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK97
+SN20
+SN30
+SS43
+SS49
+SS58
+SS78
+SS79
+TF71
+TG21
+TG31
+TG32
+TG41
+TL28
+TL44
+TL45
+TL55
+TL56
+TL57
+TL66
+TL77
+TL97
+TM07
+TM09
+TM17
+TR35
+
+

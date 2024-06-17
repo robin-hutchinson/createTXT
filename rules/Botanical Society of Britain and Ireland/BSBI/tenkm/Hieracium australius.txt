@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium australius 10km
+Description=Check coordinate against known distribution of Hieracium australius
+ErrorMsg=Coordinate is outside known range for Hieracium australius
+DataFieldName=Species
+DataRecordId=NHMSYS0000840800
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HP61
+HP62
+HU36
+HU68
+
+

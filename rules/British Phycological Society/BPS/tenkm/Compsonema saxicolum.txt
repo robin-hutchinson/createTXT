@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Compsonema saxicolum 10km
+Description=Check coordinate against known distribution of Compsonema saxicolum
+ErrorMsg=Coordinate is outside known range for Compsonema saxicolum
+DataFieldName=Species
+DataRecordId=NHMSYS0000377561
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM70
+SX95
+SZ07
+SZ08
+TR37
+TR47
+
+

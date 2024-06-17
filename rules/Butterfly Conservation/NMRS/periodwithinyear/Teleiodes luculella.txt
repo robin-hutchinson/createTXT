@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Teleiodes luculella
+Description=Checks date is within known flight period of Teleiodes luculella
+ErrorMsg=Date is outside known flight period of Teleiodes luculella
+Tvk=NHMSYS0021142781
+DataFieldName=
+StartDate=0421
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

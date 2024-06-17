@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Metaiulus pratensis
+Description=Checks date is within known recording period of Metaiulus pratensis
+ErrorMsg=Date is outside known recording period of Metaiulus pratensis
+Tvk=NBNSYS0000039488
+StartDate=19390601
+EndDate=
+LastChanged=20240617
+[EndMetadata]

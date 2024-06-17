@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Leucothoe fontanesiana 10km
+Description=Check coordinate against known distribution of Leucothoe fontanesiana
+ErrorMsg=Coordinate is outside known range for Leucothoe fontanesiana
+DataFieldName=Species
+DataRecordId=NHMSYS0000460313
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN69
+
+

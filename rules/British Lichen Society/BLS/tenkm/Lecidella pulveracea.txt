@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecidella pulveracea 10km
+Description=Check coordinate against known distribution of Lecidella pulveracea
+ErrorMsg=Coordinate is outside known range for Lecidella pulveracea
+DataFieldName=Species
+DataRecordId=NHMSYS0020990485
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HT93
+HU31
+NY61
+
+

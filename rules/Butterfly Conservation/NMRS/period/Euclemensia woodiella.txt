@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Euclemensia woodiella
+Description=Checks date is within known recording period of Euclemensia woodiella
+ErrorMsg=Date is outside known recording period of Euclemensia woodiella
+Tvk=NHMSYS0000502524
+StartDate=18290101
+EndDate=18291231
+LastChanged=20240617
+[EndMetadata]

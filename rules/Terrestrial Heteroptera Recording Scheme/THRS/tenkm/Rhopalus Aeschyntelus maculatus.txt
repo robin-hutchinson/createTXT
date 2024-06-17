@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Rhopalus (Aeschyntelus) maculatus 10km
+Description=Check coordinate against known distribution of Rhopalus (Aeschyntelus) maculatus
+ErrorMsg=Coordinate is outside known range for Rhopalus (Aeschyntelus) maculatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020309773
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU10
+SU30
+SU32
+SU41
+SU73
+SU75
+SU84
+SU85
+SU86
+SU94
+SU95
+SU96
+SY88
+SY89
+SY98
+SZ08
+SZ19
+SZ29
+TF70
+TL77
+TM07
+
+

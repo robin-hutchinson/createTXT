@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Senecio cineraria x erucifolius = S. x thuretii 10km
+Description=Check coordinate against known distribution of Senecio cineraria x erucifolius = S. x thuretii
+ErrorMsg=Coordinate is outside known range for Senecio cineraria x erucifolius = S. x thuretii
+DataFieldName=Species
+DataRecordId=NBNSYS0000162068
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE23
+TR34
+
+

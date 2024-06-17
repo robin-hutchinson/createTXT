@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Stenoptilia bipunctidactyla
+Description=Checks date is within known recording period of Stenoptilia bipunctidactyla
+ErrorMsg=Date is outside known recording period of Stenoptilia bipunctidactyla
+Tvk=NHMSYS0000504309
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

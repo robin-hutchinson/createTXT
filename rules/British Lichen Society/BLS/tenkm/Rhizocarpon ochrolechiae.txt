@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rhizocarpon ochrolechiae 10km
+Description=Check coordinate against known distribution of Rhizocarpon ochrolechiae
+ErrorMsg=Coordinate is outside known range for Rhizocarpon ochrolechiae
+DataFieldName=Species
+DataRecordId=NBNSYS0000041625
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG26
+NM46
+NM47
+SO17
+
+

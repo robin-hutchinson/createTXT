@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Phlox paniculata 10km
+Description=Check coordinate against known distribution of Phlox paniculata
+ErrorMsg=Coordinate is outside known range for Phlox paniculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000004927
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ16
+NS28
+NT53
+SD46
+SD53
+SO48
+SP50
+SU68
+SU76
+SU77
+SU85
+SU86
+SU87
+SU88
+SU97
+TL02
+TM18
+TQ05
+TQ08
+TQ18
+TQ37
+TQ38
+TQ46
+TQ66
+
+

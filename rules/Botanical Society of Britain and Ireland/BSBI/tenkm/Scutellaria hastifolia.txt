@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Scutellaria hastifolia 10km
+Description=Check coordinate against known distribution of Scutellaria hastifolia
+ErrorMsg=Coordinate is outside known range for Scutellaria hastifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000004262
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL78
+
+

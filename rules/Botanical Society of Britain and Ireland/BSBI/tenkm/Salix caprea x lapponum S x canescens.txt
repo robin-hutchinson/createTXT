@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix caprea x lapponum = S. x canescens 10km
+Description=Check coordinate against known distribution of Salix caprea x lapponum = S. x canescens
+ErrorMsg=Coordinate is outside known range for Salix caprea x lapponum = S. x canescens
+DataFieldName=Species
+DataRecordId=NHMSYS0001754745
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN54
+NO07
+NO27
+NO28
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Bethylus fuscicornis
+Description=Checks date is within known flight period of Bethylus fuscicornis
+ErrorMsg=Date is outside known flight period of Bethylus fuscicornis
+Tvk=NHMSYS0000875461
+DataFieldName=
+StartDate=0201
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

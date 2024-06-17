@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Cymonomus normani 10km
+Description=Check coordinate against known distribution of Cymonomus normani
+ErrorMsg=Coordinate is outside known range for Cymonomus normani
+DataFieldName=Species
+DataRecordId=NHMSYS0020962473
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HV29
+HW08
+
+

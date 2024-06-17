@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carrichtera annua 10km
+Description=Check coordinate against known distribution of Carrichtera annua
+ErrorMsg=Coordinate is outside known range for Carrichtera annua
+DataFieldName=Species
+DataRecordId=NHMSYS0000456951
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH64
+NO41
+NT26
+NT27
+NT37
+NT43
+NT75
+NT85
+NT87
+SE13
+SK97
+SO60
+SO83
+SU73
+SU98
+SX87
+TA20
+TA21
+TL15
+TL31
+TQ17
+TQ27
+TQ29
+
+

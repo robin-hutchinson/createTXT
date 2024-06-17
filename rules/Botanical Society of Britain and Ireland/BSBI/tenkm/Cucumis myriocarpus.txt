@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cucumis myriocarpus 10km
+Description=Check coordinate against known distribution of Cucumis myriocarpus
+ErrorMsg=Coordinate is outside known range for Cucumis myriocarpus
+DataFieldName=Species
+DataRecordId=NBNSYS0200003682
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL03
+
+

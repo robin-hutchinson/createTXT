@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Sonronius dahlbomi
+Description=Checks date is within known flight period of Sonronius dahlbomi
+ErrorMsg=Date is outside known flight period of Sonronius dahlbomi
+Tvk=NHMSYS0020705894
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

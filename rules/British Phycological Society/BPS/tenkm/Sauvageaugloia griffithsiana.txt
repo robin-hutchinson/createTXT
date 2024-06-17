@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Sauvageaugloia griffithsiana 10km
+Description=Check coordinate against known distribution of Sauvageaugloia griffithsiana
+ErrorMsg=Coordinate is outside known range for Sauvageaugloia griffithsiana
+DataFieldName=Species
+DataRecordId=NHMSYS0000377614
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU33
+HU34
+HU37
+HY20
+NG52
+NO87
+NR77
+NR78
+NT58
+SC48
+SH46
+SM80
+SN58
+SV91
+SW83
+SZ89
+
+

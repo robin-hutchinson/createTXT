@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Chionodes distinctella
+Description=Checks date is within known flight period of Chionodes distinctella
+ErrorMsg=Date is outside known flight period of Chionodes distinctella
+Tvk=NHMSYS0000501753
+DataFieldName=
+StartDate=0621
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

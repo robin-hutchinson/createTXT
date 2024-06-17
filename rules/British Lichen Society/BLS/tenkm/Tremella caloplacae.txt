@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Tremella caloplacae 10km
+Description=Check coordinate against known distribution of Tremella caloplacae
+ErrorMsg=Coordinate is outside known range for Tremella caloplacae
+DataFieldName=Species
+DataRecordId=NHMSYS0001499997
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH89
+NH91
+NO76
+NU04
+SS84
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Noctua interjecta caliginosa
+Description=Checks date is within known flight period of Noctua interjecta caliginosa
+ErrorMsg=Date is outside known flight period of Noctua interjecta caliginosa
+Tvk=NHMSYS0021144925
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

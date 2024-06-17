@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Brassica rapa subsp. oleifera
+Description=Checks date is within known recording period of Brassica rapa subsp. oleifera
+ErrorMsg=Date is outside known recording period of Brassica rapa subsp. oleifera
+Tvk=NHMSYS0000456607
+StartDate=19050101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

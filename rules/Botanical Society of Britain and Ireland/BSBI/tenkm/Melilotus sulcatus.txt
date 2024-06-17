@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Melilotus sulcatus 10km
+Description=Check coordinate against known distribution of Melilotus sulcatus
+ErrorMsg=Coordinate is outside known range for Melilotus sulcatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014321
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS32
+NT17
+NT18
+NT26
+NT27
+NT28
+NZ42
+NZ52
+SD62
+SE14
+SE32
+SJ84
+SO60
+SO86
+ST18
+ST27
+ST57
+ST61
+SU96
+TG20
+TL20
+TL21
+TL31
+TL92
+TQ17
+TQ27
+TQ29
+TQ30
+TQ48
+TQ57
+
+

@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Deutzia scabra 10km
+Description=Check coordinate against known distribution of Deutzia scabra
+ErrorMsg=Coordinate is outside known range for Deutzia scabra
+DataFieldName=Species
+DataRecordId=NHMSYS0100001289
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ05
+NS03
+NS38
+NS56
+NU20
+NX16
+NY53
+NY61
+SD29
+SD47
+SE13
+SK24
+SN31
+SN55
+SN56
+SN62
+SN67
+ST57
+ST72
+ST74
+ST83
+SU00
+SU58
+SU83
+SX68
+SY68
+SY88
+SY99
+TQ46
+
+

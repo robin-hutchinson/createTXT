@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Centromerus incilium
+Description=Checks date is within known flight period of Centromerus incilium
+ErrorMsg=Date is outside known flight period of Centromerus incilium
+Tvk=NBNSYS0000009174
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

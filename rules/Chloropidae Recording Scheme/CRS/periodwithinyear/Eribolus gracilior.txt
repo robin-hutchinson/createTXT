@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Eribolus gracilior
+Description=Checks date is within known flight period of Eribolus gracilior
+ErrorMsg=Date is outside known flight period of Eribolus gracilior
+Tvk=NBNSYS0000029899
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

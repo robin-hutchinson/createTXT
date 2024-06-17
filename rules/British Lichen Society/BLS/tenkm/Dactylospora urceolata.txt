@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Dactylospora urceolata 10km
+Description=Check coordinate against known distribution of Dactylospora urceolata
+ErrorMsg=Coordinate is outside known range for Dactylospora urceolata
+DataFieldName=Species
+DataRecordId=NBNSYS0000018471
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ10
+NN43
+NN64
+NO17
+
+

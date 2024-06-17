@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Psammotettix helvolus
+Description=Checks date is within known flight period of Psammotettix helvolus
+ErrorMsg=Date is outside known flight period of Psammotettix helvolus
+Tvk=NHMSYS0020745853
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

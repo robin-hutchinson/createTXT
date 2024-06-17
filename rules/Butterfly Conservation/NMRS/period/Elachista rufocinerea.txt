@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Elachista rufocinerea
+Description=Checks date is within known recording period of Elachista rufocinerea
+ErrorMsg=Date is outside known recording period of Elachista rufocinerea
+Tvk=NHMSYS0000502327
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Brachypodium distachyon 10km
+Description=Check coordinate against known distribution of Brachypodium distachyon
+ErrorMsg=Coordinate is outside known range for Brachypodium distachyon
+DataFieldName=Species
+DataRecordId=NHMSYS0000456582
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO32
+NO33
+NO41
+NT43
+SE13
+SE22
+SK22
+SO60
+SO83
+SP04
+SP20
+ST57
+SU73
+SX05
+TA02
+TA30
+TL27
+TQ18
+TQ54
+
+

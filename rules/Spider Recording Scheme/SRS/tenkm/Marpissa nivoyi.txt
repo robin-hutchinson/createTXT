@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Marpissa nivoyi 10km
+Description=Check coordinate against known distribution of Marpissa nivoyi
+ErrorMsg=Coordinate is outside known range for Marpissa nivoyi
+DataFieldName=Species
+DataRecordId=NBNSYS0000008766
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY25
+SD48
+SH46
+SN69
+SS78
+SS79
+SY18
+SY28
+SY39
+SY49
+SY78
+SY89
+TA41
+TF55
+TF64
+TF84
+TF94
+TR02
+TR23
+TR33
+TR35
+TR36
+
+

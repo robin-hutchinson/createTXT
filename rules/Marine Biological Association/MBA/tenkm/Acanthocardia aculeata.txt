@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Acanthocardia aculeata 10km
+Description=Check coordinate against known distribution of Acanthocardia aculeata
+ErrorMsg=Coordinate is outside known range for Acanthocardia aculeata
+DataFieldName=Species
+DataRecordId=NBNSYS0000173547
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+JV99
+NB13
+NB84
+NG88
+NP19
+NX40
+NX63
+NX73
+OL94
+OV17
+SC94
+SG34
+SH53
+SH58
+SS39
+SV91
+SX45
+SX54
+SX73
+SX95
+SX96
+SY78
+TA09
+TQ30
+TV39
+
+
+[10km_Ireland]
+T49
+
+

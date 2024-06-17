@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ambrosia acanthicarpa 10km
+Description=Check coordinate against known distribution of Ambrosia acanthicarpa
+ErrorMsg=Coordinate is outside known range for Ambrosia acanthicarpa
+DataFieldName=Species
+DataRecordId=NBNSYS0200001751
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD32
+
+

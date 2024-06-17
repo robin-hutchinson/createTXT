@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Eristalis similis
+Description=Checks date is within known flight period of Eristalis similis
+ErrorMsg=Date is outside known flight period of Eristalis similis
+Tvk=NBNSYS0100003072
+DataFieldName=
+StartDate=0328
+EndDate=0706
+LastChanged=20240617
+[EndMetadata]

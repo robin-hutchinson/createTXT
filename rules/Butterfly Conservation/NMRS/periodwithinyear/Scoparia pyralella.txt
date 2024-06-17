@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Scoparia pyralella
+Description=Checks date is within known flight period of Scoparia pyralella
+ErrorMsg=Date is outside known flight period of Scoparia pyralella
+Tvk=NHMSYS0021143745
+DataFieldName=
+StartDate=0421
+EndDate=0821
+LastChanged=20240617
+[EndMetadata]

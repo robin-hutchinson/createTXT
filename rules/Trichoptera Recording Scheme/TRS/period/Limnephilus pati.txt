@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Limnephilus pati
+Description=Checks date is within known recording period of Limnephilus pati
+ErrorMsg=Date is outside known recording period of Limnephilus pati
+Tvk=NBNSYS0000008487
+StartDate=18900101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

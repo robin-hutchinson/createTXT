@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster ellipticus nom. inval. 10km
+Description=Check coordinate against known distribution of Cotoneaster ellipticus nom. inval.
+ErrorMsg=Coordinate is outside known range for Cotoneaster ellipticus nom. inval.
+DataFieldName=Species
+DataRecordId=NHMSYS0000465515
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD34
+SE34
+TQ17
+TQ27
+TQ38
+TQ57
+TQ67
+
+

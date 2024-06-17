@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cucurbita pepo
+Description=Checks date is within known recording period of Cucurbita pepo
+ErrorMsg=Date is outside known recording period of Cucurbita pepo
+Tvk=NBNSYS0000014747
+StartDate=19270101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

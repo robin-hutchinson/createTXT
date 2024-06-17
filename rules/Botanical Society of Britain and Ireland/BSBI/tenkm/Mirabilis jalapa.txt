@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Mirabilis jalapa 10km
+Description=Check coordinate against known distribution of Mirabilis jalapa
+ErrorMsg=Coordinate is outside known range for Mirabilis jalapa
+DataFieldName=Species
+DataRecordId=NBNSYS0000014830
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV91
+SW53
+SZ69
+TM14
+TM24
+TM38
+TM47
+TQ17
+TQ37
+TQ48
+
+

@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Plume Moth Recording Scheme/PMRS 10km distribution
+ShortName=Stenoptilia annadactyla 10km
+Description=Check coordinate against known distribution of Stenoptilia annadactyla
+ErrorMsg=Coordinate is outside known range for Stenoptilia annadactyla
+DataFieldName=Species
+DataRecordId=NHMSYS0020547811
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TF60
+TF70
+TF80
+TL66
+TL67
+TL68
+TL69
+TL76
+TL77
+TL78
+TL79
+TL86
+TL87
+TL88
+TL89
+TL96
+TL97
+TL98
+
+

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lavatera plebeia 10km
+Description=Check coordinate against known distribution of Lavatera plebeia
+ErrorMsg=Coordinate is outside known range for Lavatera plebeia
+DataFieldName=Species
+DataRecordId=NBNSYS0000033950
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE13
+SE14
+TL03
+
+

@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Galanthus plicatus subsp. byzantinus 10km
+Description=Check coordinate against known distribution of Galanthus plicatus subsp. byzantinus
+ErrorMsg=Coordinate is outside known range for Galanthus plicatus subsp. byzantinus
+DataFieldName=Species
+DataRecordId=NHMSYS0000458939
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS49
+ST02
+ST13
+ST14
+ST22
+ST32
+ST64
+ST74
+ST76
+ST85
+SU57
+TF92
+TL13
+TL23
+TL24
+TM47
+TQ26
+
+

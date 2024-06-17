@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Ancylis diminutana
+Description=Checks date is within known recording period of Ancylis diminutana
+ErrorMsg=Date is outside known recording period of Ancylis diminutana
+Tvk=NHMSYS0000501096
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dipsacus laciniatus 10km
+Description=Check coordinate against known distribution of Dipsacus laciniatus
+ErrorMsg=Coordinate is outside known range for Dipsacus laciniatus
+DataFieldName=Species
+DataRecordId=NBNSYS0100002864
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN40
+SP31
+SP40
+SP50
+SP86
+ST40
+TQ03
+
+

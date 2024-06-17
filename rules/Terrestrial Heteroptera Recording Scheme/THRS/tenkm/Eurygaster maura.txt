@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Eurygaster maura 10km
+Description=Check coordinate against known distribution of Eurygaster maura
+ErrorMsg=Coordinate is outside known range for Eurygaster maura
+DataFieldName=Species
+DataRecordId=NHMSYS0020309230
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS43
+SU11
+SU22
+SU40
+SU41
+SU50
+SY88
+TQ04
+TQ14
+TQ15
+TQ21
+TQ25
+TQ35
+TQ36
+TQ57
+TQ58
+TQ67
+TQ68
+TQ76
+TQ77
+TQ78
+TR23
+TR25
+TR34
+TR35
+
+

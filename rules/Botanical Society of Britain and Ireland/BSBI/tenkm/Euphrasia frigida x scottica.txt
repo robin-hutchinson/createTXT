@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia frigida x scottica 10km
+Description=Check coordinate against known distribution of Euphrasia frigida x scottica
+ErrorMsg=Coordinate is outside known range for Euphrasia frigida x scottica
+DataFieldName=Species
+DataRecordId=NBNSYS0000033936
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HT94
+NB02
+NB03
+NC44
+NC85
+NF19
+NF73
+NG42
+NG53
+NG96
+NH01
+NH13
+NH22
+NM76
+NN17
+NN20
+NN63
+NO17
+NO27
+NS90
+NY21
+NY31
+SD29
+
+

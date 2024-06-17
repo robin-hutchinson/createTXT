@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa gallica 10km
+Description=Check coordinate against known distribution of Rosa gallica
+ErrorMsg=Coordinate is outside known range for Rosa gallica
+DataFieldName=Species
+DataRecordId=NBNSYS0000034283
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE27
+SK00
+SK53
+SN65
+SN66
+ST63
+SU20
+SU40
+SU89
+TQ24
+
+

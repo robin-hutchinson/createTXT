@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia rostkoviana x micrantha 10km
+Description=Check coordinate against known distribution of Euphrasia rostkoviana x micrantha
+ErrorMsg=Coordinate is outside known range for Euphrasia rostkoviana x micrantha
+DataFieldName=Species
+DataRecordId=NBNSYS0100003132
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX55
+
+

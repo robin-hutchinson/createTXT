@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Zelleria hepariella
+Description=Checks date is within known recording period of Zelleria hepariella
+ErrorMsg=Date is outside known recording period of Zelleria hepariella
+Tvk=NHMSYS0000504718
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

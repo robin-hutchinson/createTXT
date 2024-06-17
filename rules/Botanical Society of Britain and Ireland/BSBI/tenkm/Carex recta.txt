@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex recta 10km
+Description=Check coordinate against known distribution of Carex recta
+ErrorMsg=Coordinate is outside known range for Carex recta
+DataFieldName=Species
+DataRecordId=NBNSYS0000002459
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ND35
+NH54
+NH59
+NH68
+NH69
+
+

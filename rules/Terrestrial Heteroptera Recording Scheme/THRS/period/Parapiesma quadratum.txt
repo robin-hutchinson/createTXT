@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Parapiesma quadratum
+Description=Checks date is within known recording period of Parapiesma quadratum
+ErrorMsg=Date is outside known recording period of Parapiesma quadratum
+Tvk=NHMSYS0020309619
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

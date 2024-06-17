@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Bugula neritina 10km
+Description=Check coordinate against known distribution of Bugula neritina
+ErrorMsg=Coordinate is outside known range for Bugula neritina
+DataFieldName=Species
+DataRecordId=NBNSYS0000179958
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM70
+SM80
+SM90
+SN00
+SU40
+SU41
+SU60
+SW73
+SX45
+SX96
+SY67
+SZ09
+SZ69
+TQ30
+
+
+[10km_Ireland]
+Y95
+
+

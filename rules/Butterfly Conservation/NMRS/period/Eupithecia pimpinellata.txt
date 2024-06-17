@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Eupithecia pimpinellata
+Description=Checks date is within known recording period of Eupithecia pimpinellata
+ErrorMsg=Date is outside known recording period of Eupithecia pimpinellata
+Tvk=NHMSYS0021144097
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

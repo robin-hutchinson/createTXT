@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Laburnum alpinum
+Description=Checks date is within known recording period of Laburnum alpinum
+ErrorMsg=Date is outside known recording period of Laburnum alpinum
+Tvk=NHMSYS0000460055
+StartDate=19050101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

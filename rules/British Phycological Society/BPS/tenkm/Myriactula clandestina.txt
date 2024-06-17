@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Myriactula clandestina 10km
+Description=Check coordinate against known distribution of Myriactula clandestina
+ErrorMsg=Coordinate is outside known range for Myriactula clandestina
+DataFieldName=Species
+DataRecordId=NHMSYS0000568029
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU37
+NG77
+SH57
+SM70
+SS14
+SV80
+SV91
+SW62
+SW71
+SW72
+SX73
+SZ07
+TR37
+
+

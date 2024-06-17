@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Cydia cosmophorana
+Description=Checks date is within known flight period of Cydia cosmophorana
+ErrorMsg=Date is outside known flight period of Cydia cosmophorana
+Tvk=NHMSYS0000502059
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

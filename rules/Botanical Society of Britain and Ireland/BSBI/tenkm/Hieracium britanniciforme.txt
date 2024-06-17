@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium britanniciforme 10km
+Description=Check coordinate against known distribution of Hieracium britanniciforme
+ErrorMsg=Coordinate is outside known range for Hieracium britanniciforme
+DataFieldName=Species
+DataRecordId=NHMSYS0000840811
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NR61
+NR62
+NR92
+NS67
+NT94
+NT95
+NT96
+SD48
+SH67
+SH78
+SH87
+SH88
+SJ16
+
+

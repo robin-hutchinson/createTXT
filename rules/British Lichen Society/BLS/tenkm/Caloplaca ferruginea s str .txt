@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Caloplaca ferruginea s. str. 10km
+Description=Check coordinate against known distribution of Caloplaca ferruginea s. str.
+ErrorMsg=Coordinate is outside known range for Caloplaca ferruginea s. str.
+DataFieldName=Species
+DataRecordId=NHMSYS0020987548
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH15
+NH16
+NH17
+NH25
+NH26
+NH27
+NH35
+NH36
+NH37
+NH45
+NH46
+NH47
+
+

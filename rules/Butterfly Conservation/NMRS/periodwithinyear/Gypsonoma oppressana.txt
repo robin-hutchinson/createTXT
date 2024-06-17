@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Gypsonoma oppressana
+Description=Checks date is within known flight period of Gypsonoma oppressana
+ErrorMsg=Date is outside known flight period of Gypsonoma oppressana
+Tvk=NHMSYS0000502785
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

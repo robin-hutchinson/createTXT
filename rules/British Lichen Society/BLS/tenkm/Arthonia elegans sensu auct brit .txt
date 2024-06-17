@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Arthonia elegans sensu auct. brit. 10km
+Description=Check coordinate against known distribution of Arthonia elegans sensu auct. brit.
+ErrorMsg=Coordinate is outside known range for Arthonia elegans sensu auct. brit.
+DataFieldName=Species
+DataRecordId= non (Ach.) Almq. (1880)
+LastChanged=20240617
+[EndMetadata]
+
+NA
+
+

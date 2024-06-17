@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Oenanthe oenanthe
+Description=Checks date is within known flight period of Oenanthe oenanthe
+ErrorMsg=Date is outside known flight period of Oenanthe oenanthe
+Tvk=NHMSYS0000530514
+DataFieldName=
+StartDate=0301
+EndDate=1115
+LastChanged=20240617
+[EndMetadata]

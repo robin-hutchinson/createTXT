@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Roselliniella cladoniae 10km
+Description=Check coordinate against known distribution of Roselliniella cladoniae
+ErrorMsg=Coordinate is outside known range for Roselliniella cladoniae
+DataFieldName=Species
+DataRecordId=NBNSYS0000020195
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ND27
+NF98
+NH96
+NJ06
+NM26
+NM66
+NN11
+NN15
+NR45
+NT67
+SS43
+SS49
+SS82
+TF49
+
+
+[10km_Ireland]
+O01
+
+

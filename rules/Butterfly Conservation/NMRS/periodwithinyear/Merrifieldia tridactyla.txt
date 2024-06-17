@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Merrifieldia tridactyla
+Description=Checks date is within known flight period of Merrifieldia tridactyla
+ErrorMsg=Date is outside known flight period of Merrifieldia tridactyla
+Tvk=NBNSYS0100004011
+DataFieldName=
+StartDate=0621
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

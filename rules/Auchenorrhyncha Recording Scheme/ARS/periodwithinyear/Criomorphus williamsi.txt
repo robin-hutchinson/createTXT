@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Criomorphus williamsi
+Description=Checks date is within known flight period of Criomorphus williamsi
+ErrorMsg=Date is outside known flight period of Criomorphus williamsi
+Tvk=NHMSYS0020442317
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

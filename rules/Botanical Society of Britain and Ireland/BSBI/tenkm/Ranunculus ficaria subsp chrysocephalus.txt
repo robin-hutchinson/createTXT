@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ranunculus ficaria subsp. chrysocephalus 10km
+Description=Check coordinate against known distribution of Ranunculus ficaria subsp. chrysocephalus
+ErrorMsg=Coordinate is outside known range for Ranunculus ficaria subsp. chrysocephalus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462242
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP85
+ST92
+SU24
+SU84
+SU94
+TL31
+TL45
+TQ24
+TQ34
+
+

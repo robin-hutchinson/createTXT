@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Olearia paniculata 10km
+Description=Check coordinate against known distribution of Olearia paniculata
+ErrorMsg=Coordinate is outside known range for Olearia paniculata
+DataFieldName=Species
+DataRecordId=NHMSYS0000461166
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ86
+SV81
+SW53
+
+
+[10km_CI]
+WA50
+WA60
+
+
+NA
+
+

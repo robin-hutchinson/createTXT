@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora flavipennella
+Description=Checks date is within known flight period of Coleophora flavipennella
+ErrorMsg=Date is outside known flight period of Coleophora flavipennella
+Tvk=NHMSYS0021142811
+DataFieldName=
+StartDate=0515
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

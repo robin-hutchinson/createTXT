@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Sphaerocarpos michelii 10km
+Description=Check coordinate against known distribution of Sphaerocarpos michelii
+ErrorMsg=Coordinate is outside known range for Sphaerocarpos michelii
+DataFieldName=Species
+DataRecordId=NBNSYS0000036042
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV90
+TF94
+TG04
+TG14
+TG22
+TG23
+TG24
+TG32
+TG33
+TG40
+TG41
+TG42
+TG50
+TG51
+TL80
+TL90
+TL91
+TM00
+TM01
+TM02
+TM03
+TM11
+TM12
+TM13
+TM14
+TM21
+TM22
+TM23
+TM24
+TM25
+TM33
+TM34
+TM35
+TM45
+TM46
+TM47
+TM49
+TM57
+TM58
+TM59
+
+

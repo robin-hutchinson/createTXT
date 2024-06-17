@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Homoeosoma sinuella
+Description=Checks date is within known flight period of Homoeosoma sinuella
+ErrorMsg=Date is outside known flight period of Homoeosoma sinuella
+Tvk=NHMSYS0000502872
+DataFieldName=
+StartDate=0515
+EndDate=0915
+LastChanged=20240617
+[EndMetadata]

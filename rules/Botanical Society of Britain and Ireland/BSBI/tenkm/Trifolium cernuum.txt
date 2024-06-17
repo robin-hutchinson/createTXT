@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trifolium cernuum 10km
+Description=Check coordinate against known distribution of Trifolium cernuum
+ErrorMsg=Coordinate is outside known range for Trifolium cernuum
+DataFieldName=Species
+DataRecordId=NBNSYS0000034240
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT53
+SD90
+SE13
+SO81
+TL03
+TL23
+TQ05
+TQ17
+
+

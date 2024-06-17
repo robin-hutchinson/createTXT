@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Araniella opisthographa
+Description=Checks date is within known flight period of Araniella opisthographa
+ErrorMsg=Date is outside known flight period of Araniella opisthographa
+Tvk=NBNSYS0100001625
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

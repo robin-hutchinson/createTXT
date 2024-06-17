@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora gardesanella
+Description=Checks date is within known flight period of Coleophora gardesanella
+ErrorMsg=Date is outside known flight period of Coleophora gardesanella
+Tvk=NHMSYS0000501867
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

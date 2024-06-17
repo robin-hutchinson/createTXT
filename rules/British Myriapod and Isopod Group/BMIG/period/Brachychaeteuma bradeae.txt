@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Brachychaeteuma bradeae
+Description=Checks date is within known recording period of Brachychaeteuma bradeae
+ErrorMsg=Date is outside known recording period of Brachychaeteuma bradeae
+Tvk=NBNSYS0000011358
+StartDate=19170101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

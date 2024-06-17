@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Holocnemus pluchei 10km
+Description=Check coordinate against known distribution of Holocnemus pluchei
+ErrorMsg=Coordinate is outside known range for Holocnemus pluchei
+DataFieldName=Species
+DataRecordId=NHMSYS0020953667
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP15
+
+

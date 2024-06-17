@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Elachista cinereopunctella
+Description=Checks date is within known flight period of Elachista cinereopunctella
+ErrorMsg=Date is outside known flight period of Elachista cinereopunctella
+Tvk=NHMSYS0021142301
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

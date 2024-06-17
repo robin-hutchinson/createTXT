@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pyrausta nigrata
+Description=Checks date is within known flight period of Pyrausta nigrata
+ErrorMsg=Date is outside known flight period of Pyrausta nigrata
+Tvk=NHMSYS0000504006
+DataFieldName=
+StartDate=0415
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rapistrum rugosum subsp. linnaeanum 10km
+Description=Check coordinate against known distribution of Rapistrum rugosum subsp. linnaeanum
+ErrorMsg=Coordinate is outside known range for Rapistrum rugosum subsp. linnaeanum
+DataFieldName=Species
+DataRecordId=NHMSYS0100002663
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST23
+ST33
+ST35
+ST42
+ST43
+ST51
+ST52
+ST53
+ST54
+ST64
+SW43
+SW53
+SW73
+SW74
+SW75
+SW83
+SW84
+SX05
+
+

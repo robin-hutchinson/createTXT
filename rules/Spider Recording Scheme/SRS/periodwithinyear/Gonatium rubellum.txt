@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Gonatium rubellum
+Description=Checks date is within known flight period of Gonatium rubellum
+ErrorMsg=Date is outside known flight period of Gonatium rubellum
+Tvk=NBNSYS0000009018
+DataFieldName=
+StartDate=0417
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

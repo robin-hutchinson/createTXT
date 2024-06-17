@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Aquatic Heteroptera Recording Scheme/AHRS Recording Period
+ShortName=Cymatia rogenhoferi
+Description=Checks date is within known recording period of Cymatia rogenhoferi
+ErrorMsg=Date is outside known recording period of Cymatia rogenhoferi
+Tvk=NHMSYS0020063202
+StartDate=20050101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

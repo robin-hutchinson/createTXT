@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Bacidia igniarii 10km
+Description=Check coordinate against known distribution of Bacidia igniarii
+ErrorMsg=Coordinate is outside known range for Bacidia igniarii
+DataFieldName=Species
+DataRecordId=NBNSYS0000041604
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH70
+NH91
+NJ02
+NJ12
+NJ22
+NJ24
+NN58
+NN69
+NN74
+NO29
+NO49
+NO59
+
+

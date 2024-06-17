@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Betula papyrifera 10km
+Description=Check coordinate against known distribution of Betula papyrifera
+ErrorMsg=Coordinate is outside known range for Betula papyrifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000033441
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL92
+
+
+NA
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Chlorops strigulus
+Description=Checks date is within known flight period of Chlorops strigulus
+ErrorMsg=Date is outside known flight period of Chlorops strigulus
+Tvk=NBNSYS0100002375
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crataegus intricata 10km
+Description=Check coordinate against known distribution of Crataegus intricata
+ErrorMsg=Coordinate is outside known range for Crataegus intricata
+DataFieldName=Species
+DataRecordId=NBNSYS0000042087
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG32
+NH87
+TL25
+
+

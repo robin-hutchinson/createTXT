@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia pleurota 10km
+Description=Check coordinate against known distribution of Cladonia pleurota
+ErrorMsg=Coordinate is outside known range for Cladonia pleurota
+DataFieldName=Species
+DataRecordId=NBNSYS0000018393
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C34
+G74
+N06
+O11
+
+
+[10km_GB]
+NB01
+NB10
+NB21
+NB46
+NC22
+NH45
+NH54
+NH56
+NH65
+NH78
+NN15
+NO09
+NO23
+NO57
+SE03
+SH93
+SH94
+SK19
+SK20
+SK27
+SK28
+SP29
+SS52
+SX39
+SX65
+SX66
+TG41
+TG51
+TL88
+
+

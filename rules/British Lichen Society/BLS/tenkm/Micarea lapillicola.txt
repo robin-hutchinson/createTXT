@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Micarea lapillicola 10km
+Description=Check coordinate against known distribution of Micarea lapillicola
+ErrorMsg=Coordinate is outside known range for Micarea lapillicola
+DataFieldName=Species
+DataRecordId=BMSSYS0000011216
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH96
+NJ06
+NM93
+NO49
+
+

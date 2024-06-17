@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Elatophilus (Elatophilus) nigricornis
+Description=Checks date is within known recording period of Elatophilus (Elatophilus) nigricornis
+ErrorMsg=Date is outside known recording period of Elatophilus (Elatophilus) nigricornis
+Tvk=NHMSYS0020309203
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

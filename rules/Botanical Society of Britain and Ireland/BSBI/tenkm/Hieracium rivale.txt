@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium rivale 10km
+Description=Check coordinate against known distribution of Hieracium rivale
+ErrorMsg=Coordinate is outside known range for Hieracium rivale
+DataFieldName=Species
+DataRecordId=NHMSYS0000459587
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC10
+NC22
+NC26
+NC32
+NC35
+NC43
+NC44
+NC54
+NC66
+NC83
+NF96
+NH27
+NN05
+NN15
+NN20
+NN22
+NN97
+NO07
+NO08
+NR77
+NR78
+NR87
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Cleptes semiauratus
+Description=Checks date is within known flight period of Cleptes semiauratus
+ErrorMsg=Date is outside known flight period of Cleptes semiauratus
+Tvk=NHMSYS0000875683
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

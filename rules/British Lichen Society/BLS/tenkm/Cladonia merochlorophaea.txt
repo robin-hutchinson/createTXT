@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia merochlorophaea 10km
+Description=Check coordinate against known distribution of Cladonia merochlorophaea
+ErrorMsg=Coordinate is outside known range for Cladonia merochlorophaea
+DataFieldName=Species
+DataRecordId=NBNSYS0000018386
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C02
+C34
+H58
+O00
+
+
+[10km_GB]
+NG97
+NH06
+NH78
+NH96
+NK05
+NN17
+NN31
+NN99
+NO19
+NO42
+NO52
+NR99
+NT64
+NX88
+NY21
+SN03
+SN60
+SN86
+SN96
+SO00
+SO05
+SP09
+SS14
+SS99
+ST08
+ST18
+SV81
+SV91
+TF26
+
+

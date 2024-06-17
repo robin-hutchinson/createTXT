@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecidea fuscoatra s. str. 10km
+Description=Check coordinate against known distribution of Lecidea fuscoatra s. str.
+ErrorMsg=Coordinate is outside known range for Lecidea fuscoatra s. str.
+DataFieldName=Species
+DataRecordId=NHMSYS0020987752
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NU01
+SC16
+SH12
+SH22
+SO51
+SO91
+SP91
+
+

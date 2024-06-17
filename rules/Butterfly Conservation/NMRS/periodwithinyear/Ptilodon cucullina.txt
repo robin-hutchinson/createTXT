@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ptilodon cucullina
+Description=Checks date is within known flight period of Ptilodon cucullina
+ErrorMsg=Date is outside known flight period of Ptilodon cucullina
+Tvk=NHMSYS0021144355
+DataFieldName=
+StartDate=0421
+EndDate=0907
+LastChanged=20240617
+[EndMetadata]

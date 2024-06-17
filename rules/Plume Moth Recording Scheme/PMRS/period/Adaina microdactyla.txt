@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Adaina microdactyla
+Description=Checks date is within known recording period of Adaina microdactyla
+ErrorMsg=Date is outside known recording period of Adaina microdactyla
+Tvk=NHMSYS0000500988
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

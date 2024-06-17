@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Dragonfly Recording Scheme/DRS Recording Period
+ShortName=Leucorrhinia dubia
+Description=Checks date is within known recording period of Leucorrhinia dubia
+ErrorMsg=Date is outside known recording period of Leucorrhinia dubia
+Tvk=NHMSYS0020546892
+StartDate=19140101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

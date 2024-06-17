@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Orthotylus (Orthotylus) nassatus
+Description=Checks date is within known recording period of Orthotylus (Orthotylus) nassatus
+ErrorMsg=Date is outside known recording period of Orthotylus (Orthotylus) nassatus
+Tvk=NHMSYS0020309593
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

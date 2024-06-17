@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Lasius platythorax
+Description=Checks date is within known flight period of Lasius platythorax
+ErrorMsg=Date is outside known flight period of Lasius platythorax
+Tvk=NBNSYS0100003683
+DataFieldName=
+StartDate=0301
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Astilbe japonica x chinensis x rosea = A. x arendsii 10km
+Description=Check coordinate against known distribution of Astilbe japonica x chinensis x rosea = A. x arendsii
+ErrorMsg=Coordinate is outside known range for Astilbe japonica x chinensis x rosea = A. x arendsii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754435
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN95
+NS27
+NS28
+NS35
+NS38
+NS45
+NS47
+NS56
+NS57
+NS59
+NT63
+NY30
+NY33
+NY34
+NY66
+SD68
+SE04
+SK07
+SN51
+SP40
+SU42
+SX15
+SX55
+SX56
+SY19
+TQ05
+
+
+[10km_Ireland]
+X29
+
+

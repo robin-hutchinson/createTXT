@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Micarea deminuta 10km
+Description=Check coordinate against known distribution of Micarea deminuta
+ErrorMsg=Coordinate is outside known range for Micarea deminuta
+DataFieldName=Species
+DataRecordId=BMSSYS0000011210
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH81
+NN31
+NN81
+NS19
+NX48
+SN77
+SU20
+SW74
+SX15
+SX77
+TQ65
+
+

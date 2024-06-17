@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spider Recording Scheme/SRS Recording Period
+ShortName=Araniella cucurbitina sensu stricto
+Description=Checks date is within known recording period of Araniella cucurbitina sensu stricto
+ErrorMsg=Date is outside known recording period of Araniella cucurbitina sensu stricto
+Tvk=NBNSYS0200000063
+StartDate=18580101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

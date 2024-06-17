@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Enoplognatha oelandica 10km
+Description=Check coordinate against known distribution of Enoplognatha oelandica
+ErrorMsg=Coordinate is outside known range for Enoplognatha oelandica
+DataFieldName=Species
+DataRecordId=NBNSYS0000008907
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU96
+TQ39
+
+

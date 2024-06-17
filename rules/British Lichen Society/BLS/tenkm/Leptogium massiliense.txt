@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Leptogium massiliense 10km
+Description=Check coordinate against known distribution of Leptogium massiliense
+ErrorMsg=Coordinate is outside known range for Leptogium massiliense
+DataFieldName=Species
+DataRecordId=NBNSYS0000018783
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+M20
+
+
+[10km_GB]
+NM52
+NM54
+NM84
+NT83
+NY61
+NY96
+SD47
+SD77
+SE08
+SK16
+SP14
+SP21
+ST06
+ST45
+ST46
+ST54
+SU09
+TQ01
+
+

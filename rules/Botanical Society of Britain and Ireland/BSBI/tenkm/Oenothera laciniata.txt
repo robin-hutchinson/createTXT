@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Oenothera laciniata 10km
+Description=Check coordinate against known distribution of Oenothera laciniata
+ErrorMsg=Coordinate is outside known range for Oenothera laciniata
+DataFieldName=Species
+DataRecordId=NBNSYS0200002723
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD32
+SX05
+TA12
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Hybomitra micans 10km
+Description=Check coordinate against known distribution of Hybomitra micans
+ErrorMsg=Coordinate is outside known range for Hybomitra micans
+DataFieldName=Species
+DataRecordId=NBNSYS0000007884
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY22
+NY25
+NY35
+SD38
+SD39
+SN40
+SN83
+
+

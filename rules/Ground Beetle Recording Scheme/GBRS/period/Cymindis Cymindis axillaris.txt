@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Cymindis (Cymindis) axillaris
+Description=Checks date is within known recording period of Cymindis (Cymindis) axillaris
+ErrorMsg=Date is outside known recording period of Cymindis (Cymindis) axillaris
+Tvk=NHMSYS0001717793
+StartDate=19820101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

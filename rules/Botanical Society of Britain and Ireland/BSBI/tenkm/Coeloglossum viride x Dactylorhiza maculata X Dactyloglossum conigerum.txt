@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Coeloglossum viride x Dactylorhiza maculata = X Dactyloglossum conigerum 10km
+Description=Check coordinate against known distribution of Coeloglossum viride x Dactylorhiza maculata = X Dactyloglossum conigerum
+ErrorMsg=Coordinate is outside known range for Coeloglossum viride x Dactylorhiza maculata = X Dactyloglossum conigerum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754645
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NA91
+NF98
+NZ08
+SU38
+
+

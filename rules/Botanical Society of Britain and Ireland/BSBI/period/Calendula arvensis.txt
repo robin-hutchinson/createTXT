@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Calendula arvensis
+Description=Checks date is within known recording period of Calendula arvensis
+ErrorMsg=Date is outside known recording period of Calendula arvensis
+Tvk=NBNSYS0000004393
+StartDate=18230101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton friesii x acutifolius = P. x pseudofriesii 10km
+Description=Check coordinate against known distribution of Potamogeton friesii x acutifolius = P. x pseudofriesii
+ErrorMsg=Coordinate is outside known range for Potamogeton friesii x acutifolius = P. x pseudofriesii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754349
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TG30
+
+

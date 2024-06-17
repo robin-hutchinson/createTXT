@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex crispus subsp. uliginosus 10km
+Description=Check coordinate against known distribution of Rumex crispus subsp. uliginosus
+ErrorMsg=Coordinate is outside known range for Rumex crispus subsp. uliginosus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014463
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+R37
+R45
+R46
+R55
+S51
+S63
+S73
+S81
+
+
+[10km_GB]
+SN14
+SN41
+SN68
+SN69
+SO50
+SO70
+SO71
+SS53
+ST57
+SZ58
+SZ69
+TM45
+TQ17
+TQ27
+TQ75
+TR06
+
+

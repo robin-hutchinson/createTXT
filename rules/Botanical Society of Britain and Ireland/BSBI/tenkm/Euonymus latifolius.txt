@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euonymus latifolius 10km
+Description=Check coordinate against known distribution of Euonymus latifolius
+ErrorMsg=Coordinate is outside known range for Euonymus latifolius
+DataFieldName=Species
+DataRecordId=NHMSYS0000458627
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH54
+NO60
+NT07
+NT17
+NT26
+NT50
+NT96
+NY53
+SD57
+SJ82
+SK05
+SK96
+SO79
+SP50
+ST31
+ST34
+ST45
+ST53
+ST59
+ST71
+ST80
+ST90
+SU59
+SU93
+SU94
+SY78
+SZ49
+TL96
+TM34
+TQ04
+TQ06
+TQ15
+TQ16
+TQ25
+TQ30
+TQ35
+TQ46
+
+

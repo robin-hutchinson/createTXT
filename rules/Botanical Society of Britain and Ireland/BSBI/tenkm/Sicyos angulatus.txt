@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sicyos angulatus 10km
+Description=Check coordinate against known distribution of Sicyos angulatus
+ErrorMsg=Coordinate is outside known range for Sicyos angulatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000034270
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW63
+TL32
+
+

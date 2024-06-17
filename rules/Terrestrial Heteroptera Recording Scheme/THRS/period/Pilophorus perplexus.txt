@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Pilophorus perplexus
+Description=Checks date is within known recording period of Pilophorus perplexus
+ErrorMsg=Date is outside known recording period of Pilophorus perplexus
+Tvk=NHMSYS0020309670
+StartDate=18750101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

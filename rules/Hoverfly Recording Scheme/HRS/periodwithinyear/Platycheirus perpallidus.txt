@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Platycheirus perpallidus
+Description=Checks date is within known flight period of Platycheirus perpallidus
+ErrorMsg=Date is outside known flight period of Platycheirus perpallidus
+Tvk=NBNSYS0000006880
+DataFieldName=
+StartDate=0503
+EndDate=0915
+LastChanged=20240617
+[EndMetadata]

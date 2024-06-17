@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Trapezonotus (Trapezonotus) arenarius
+Description=Checks date is within known recording period of Trapezonotus (Trapezonotus) arenarius
+ErrorMsg=Date is outside known recording period of Trapezonotus (Trapezonotus) arenarius
+Tvk=NHMSYS0020309910
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

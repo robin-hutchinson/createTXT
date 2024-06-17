@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium insulare 10km
+Description=Check coordinate against known distribution of Hieracium insulare
+ErrorMsg=Coordinate is outside known range for Hieracium insulare
+DataFieldName=Species
+DataRecordId=NHMSYS0000459464
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN25
+NN27
+NN32
+NN42
+NN53
+NN64
+NN74
+
+

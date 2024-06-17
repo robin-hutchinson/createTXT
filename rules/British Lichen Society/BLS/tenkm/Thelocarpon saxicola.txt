@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Thelocarpon saxicola 10km
+Description=Check coordinate against known distribution of Thelocarpon saxicola
+ErrorMsg=Coordinate is outside known range for Thelocarpon saxicola
+DataFieldName=Species
+DataRecordId=NHMSYS0001499653
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN85
+
+

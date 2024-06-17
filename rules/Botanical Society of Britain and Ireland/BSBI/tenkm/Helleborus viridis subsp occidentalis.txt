@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Helleborus viridis subsp. occidentalis 10km
+Description=Check coordinate against known distribution of Helleborus viridis subsp. occidentalis
+ErrorMsg=Coordinate is outside known range for Helleborus viridis subsp. occidentalis
+DataFieldName=Species
+DataRecordId=NHMSYS0100001728
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS93
+ST02
+ST13
+ST21
+ST22
+ST23
+ST24
+ST30
+ST33
+ST41
+ST43
+ST45
+ST53
+ST54
+ST55
+ST64
+
+

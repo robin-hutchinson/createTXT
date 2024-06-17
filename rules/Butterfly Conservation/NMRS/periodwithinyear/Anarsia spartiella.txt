@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Anarsia spartiella
+Description=Checks date is within known flight period of Anarsia spartiella
+ErrorMsg=Date is outside known flight period of Anarsia spartiella
+Tvk=NHMSYS0000501235
+DataFieldName=
+StartDate=0615
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

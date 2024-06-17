@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plecoptera Recording Scheme/PRS Flight Period
+ShortName=Xanthoperla apicalis
+Description=Checks date is within known flight period of Xanthoperla apicalis
+ErrorMsg=Date is outside known flight period of Xanthoperla apicalis
+Tvk=NBNSYS0000159130
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

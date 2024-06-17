@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Conosanus obsoletus
+Description=Checks date is within known flight period of Conosanus obsoletus
+ErrorMsg=Date is outside known flight period of Conosanus obsoletus
+Tvk=NHMSYS0020705297
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

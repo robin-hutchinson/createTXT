@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Kybos butleri
+Description=Checks date is within known flight period of Kybos butleri
+ErrorMsg=Date is outside known flight period of Kybos butleri
+Tvk=NHMSYS0020705679
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

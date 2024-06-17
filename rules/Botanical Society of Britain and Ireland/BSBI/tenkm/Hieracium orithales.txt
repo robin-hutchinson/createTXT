@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium orithales 10km
+Description=Check coordinate against known distribution of Hieracium orithales
+ErrorMsg=Coordinate is outside known range for Hieracium orithales
+DataFieldName=Species
+DataRecordId=NHMSYS0000459531
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM83
+NN02
+NN22
+NN33
+NN34
+NN42
+NN53
+NN57
+NN67
+NN89
+NO17
+NO19
+NO37
+NO47
+NS47
+
+

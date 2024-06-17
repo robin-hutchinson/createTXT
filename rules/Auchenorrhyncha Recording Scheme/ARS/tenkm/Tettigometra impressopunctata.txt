@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Tettigometra impressopunctata 10km
+Description=Check coordinate against known distribution of Tettigometra impressopunctata
+ErrorMsg=Coordinate is outside known range for Tettigometra impressopunctata
+DataFieldName=Species
+DataRecordId=NHMSYS0020442472
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO70
+SO80
+SP80
+SR89
+SS49
+ST60
+ST81
+SU01
+SU23
+SU62
+SU67
+SU79
+SX27
+SY68
+SZ49
+SZ68
+TQ04
+TQ14
+TQ15
+TQ25
+TQ66
+TR23
+TR35
+
+

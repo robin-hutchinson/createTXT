@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Grapholita orobana
+Description=Checks date is within known recording period of Grapholita orobana
+ErrorMsg=Date is outside known recording period of Grapholita orobana
+Tvk=NHMSYS0021143368
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

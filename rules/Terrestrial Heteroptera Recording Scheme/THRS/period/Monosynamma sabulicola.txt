@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Monosynamma sabulicola
+Description=Checks date is within known recording period of Monosynamma sabulicola
+ErrorMsg=Date is outside known recording period of Monosynamma sabulicola
+Tvk=NHMSYS0020309482
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

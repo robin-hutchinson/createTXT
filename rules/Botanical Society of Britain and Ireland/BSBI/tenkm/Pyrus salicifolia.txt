@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pyrus salicifolia 10km
+Description=Check coordinate against known distribution of Pyrus salicifolia
+ErrorMsg=Coordinate is outside known range for Pyrus salicifolia
+DataFieldName=Species
+DataRecordId=NHMSYS0000462205
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS88
+
+

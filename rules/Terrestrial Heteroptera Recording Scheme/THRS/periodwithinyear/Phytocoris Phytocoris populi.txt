@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Phytocoris (Phytocoris) populi
+Description=Checks date is within known flight period of Phytocoris (Phytocoris) populi
+ErrorMsg=Date is outside known flight period of Phytocoris (Phytocoris) populi
+Tvk=NHMSYS0020309656
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

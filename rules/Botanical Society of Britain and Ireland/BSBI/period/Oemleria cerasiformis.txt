@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Oemleria cerasiformis
+Description=Checks date is within known recording period of Oemleria cerasiformis
+ErrorMsg=Date is outside known recording period of Oemleria cerasiformis
+Tvk=NHMSYS0000461140
+StartDate=19770101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

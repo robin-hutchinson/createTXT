@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Acleris variegana
+Description=Checks date is within known flight period of Acleris variegana
+ErrorMsg=Date is outside known flight period of Acleris variegana
+Tvk=NHMSYS0021143094
+DataFieldName=
+StartDate=0501
+EndDate=1121
+LastChanged=20240617
+[EndMetadata]

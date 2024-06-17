@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Oonops domesticus
+Description=Checks date is within known flight period of Oonops domesticus
+ErrorMsg=Date is outside known flight period of Oonops domesticus
+Tvk=NBNSYS0000008630
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

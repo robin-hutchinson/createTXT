@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Parastichtis suspecta
+Description=Checks date is within known flight period of Parastichtis suspecta
+ErrorMsg=Date is outside known flight period of Parastichtis suspecta
+Tvk=NHMSYS0021144754
+DataFieldName=
+StartDate=0601
+EndDate=0915
+LastChanged=20240617
+[EndMetadata]

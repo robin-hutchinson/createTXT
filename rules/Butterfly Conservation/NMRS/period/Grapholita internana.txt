@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Grapholita internana
+Description=Checks date is within known recording period of Grapholita internana
+ErrorMsg=Date is outside known recording period of Grapholita internana
+Tvk=NBNSYS0100003286
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

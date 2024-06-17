@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epipogium aphyllum 10km
+Description=Check coordinate against known distribution of Epipogium aphyllum
+ErrorMsg=Coordinate is outside known range for Epipogium aphyllum
+DataFieldName=Species
+DataRecordId=NBNSYS0000002295
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO47
+SO52
+SO53
+SO65
+SO75
+SU68
+SU78
+SU88
+
+

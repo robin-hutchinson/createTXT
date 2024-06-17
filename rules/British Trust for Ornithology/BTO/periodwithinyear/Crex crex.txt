@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Crex crex
+Description=Checks date is within known flight period of Crex crex
+ErrorMsg=Date is outside known flight period of Crex crex
+Tvk=NHMSYS0000530322
+DataFieldName=
+StartDate=0415
+EndDate=1101
+LastChanged=20240617
+[EndMetadata]

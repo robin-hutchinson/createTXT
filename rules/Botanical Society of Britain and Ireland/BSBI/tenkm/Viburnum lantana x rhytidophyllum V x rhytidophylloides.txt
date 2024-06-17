@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Viburnum lantana x rhytidophyllum = V. x rhytidophylloides 10km
+Description=Check coordinate against known distribution of Viburnum lantana x rhytidophyllum = V. x rhytidophylloides
+ErrorMsg=Coordinate is outside known range for Viburnum lantana x rhytidophyllum = V. x rhytidophylloides
+DataFieldName=Species
+DataRecordId=NBNSYS0000162136
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU84
+TL45
+TQ26
+TQ56
+TQ57
+
+

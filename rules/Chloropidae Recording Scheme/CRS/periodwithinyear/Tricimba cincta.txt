@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Tricimba cincta
+Description=Checks date is within known flight period of Tricimba cincta
+ErrorMsg=Date is outside known flight period of Tricimba cincta
+Tvk=NBNSYS0000029883
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

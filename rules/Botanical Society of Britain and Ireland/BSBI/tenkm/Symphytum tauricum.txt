@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Symphytum tauricum 10km
+Description=Check coordinate against known distribution of Symphytum tauricum
+ErrorMsg=Coordinate is outside known range for Symphytum tauricum
+DataFieldName=Species
+DataRecordId=NBNSYS0000003991
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO74
+SP06
+SP26
+TL56
+TL85
+TL86
+
+

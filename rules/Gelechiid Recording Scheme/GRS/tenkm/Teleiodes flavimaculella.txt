@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Teleiodes flavimaculella 10km
+Description=Check coordinate against known distribution of Teleiodes flavimaculella
+ErrorMsg=Coordinate is outside known range for Teleiodes flavimaculella
+DataFieldName=Species
+DataRecordId=NHMSYS0000504462
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU22
+SU90
+TQ54
+TR16
+
+

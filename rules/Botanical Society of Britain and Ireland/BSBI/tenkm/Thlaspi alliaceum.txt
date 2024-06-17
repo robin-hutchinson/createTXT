@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Thlaspi alliaceum 10km
+Description=Check coordinate against known distribution of Thlaspi alliaceum
+ErrorMsg=Coordinate is outside known range for Thlaspi alliaceum
+DataFieldName=Species
+DataRecordId=NBNSYS0000002842
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH97
+SP01
+SU77
+SU86
+SZ19
+TF74
+TF92
+TL24
+TL44
+TL77
+TL80
+TL81
+TM02
+TQ38
+TQ79
+TQ88
+TQ94
+
+

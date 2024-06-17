@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Depressaria badiella
+Description=Checks date is within known recording period of Depressaria badiella
+ErrorMsg=Date is outside known recording period of Depressaria badiella
+Tvk=NHMSYS0000502114
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

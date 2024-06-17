@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus parviflorus 10km
+Description=Check coordinate against known distribution of Rubus parviflorus
+ErrorMsg=Coordinate is outside known range for Rubus parviflorus
+DataFieldName=Species
+DataRecordId=NBNSYS0000003321
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+G20
+
+
+[10km_GB]
+NH55
+NO10
+NO40
+NO64
+NR89
+NS28
+NS56
+NZ43
+NZ44
+SD57
+SJ35
+SJ70
+SJ80
+SK36
+SK38
+SP50
+ST70
+SU94
+SZ09
+TL21
+TL31
+TQ05
+TQ28
+
+

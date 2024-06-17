@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Dromia personata 10km
+Description=Check coordinate against known distribution of Dromia personata
+ErrorMsg=Coordinate is outside known range for Dromia personata
+DataFieldName=Species
+DataRecordId=NBNSYS0000175034
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH12
+SH23
+SH24
+SH40
+SH41
+SH51
+SH52
+SM70
+SM71
+SM81
+SM83
+SS03
+SS14
+SS34
+SW52
+SW82
+SW86
+SX02
+SX45
+SX52
+SX72
+SZ99
+TM59
+TQ80
+TR24
+TR27
+TR50
+TR74
+TV39
+TV59
+TV70
+TV80
+
+
+[10km_Ireland]
+Y85
+Y95
+Y98
+
+

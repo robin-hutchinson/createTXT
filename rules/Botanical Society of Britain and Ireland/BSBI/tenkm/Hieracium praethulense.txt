@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium praethulense 10km
+Description=Check coordinate against known distribution of Hieracium praethulense
+ErrorMsg=Coordinate is outside known range for Hieracium praethulense
+DataFieldName=Species
+DataRecordId=NHMSYS0000840761
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU28
+HU36
+HU38
+
+

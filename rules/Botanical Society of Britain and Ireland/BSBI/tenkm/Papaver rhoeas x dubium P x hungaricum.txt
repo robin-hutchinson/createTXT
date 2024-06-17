@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Papaver rhoeas x dubium = P. x hungaricum 10km
+Description=Check coordinate against known distribution of Papaver rhoeas x dubium = P. x hungaricum
+ErrorMsg=Coordinate is outside known range for Papaver rhoeas x dubium = P. x hungaricum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754486
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH61
+SO84
+SU36
+SU49
+SY29
+TQ17
+
+

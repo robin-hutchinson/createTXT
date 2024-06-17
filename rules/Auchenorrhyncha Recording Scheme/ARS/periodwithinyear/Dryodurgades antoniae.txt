@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Dryodurgades antoniae
+Description=Checks date is within known flight period of Dryodurgades antoniae
+ErrorMsg=Date is outside known flight period of Dryodurgades antoniae
+Tvk=NHMSYS0020745852
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

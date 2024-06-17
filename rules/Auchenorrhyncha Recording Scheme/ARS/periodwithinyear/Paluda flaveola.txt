@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Paluda flaveola
+Description=Checks date is within known flight period of Paluda flaveola
+ErrorMsg=Date is outside known flight period of Paluda flaveola
+Tvk=NHMSYS0020705790
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

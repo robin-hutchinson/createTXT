@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Dasya corymbifera 10km
+Description=Check coordinate against known distribution of Dasya corymbifera
+ErrorMsg=Coordinate is outside known range for Dasya corymbifera
+DataFieldName=Species
+DataRecordId=NHMSYS0000567936
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS14
+SV80
+SX19
+SY88
+
+

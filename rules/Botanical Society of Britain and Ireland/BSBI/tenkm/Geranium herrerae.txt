@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Geranium herrerae 10km
+Description=Check coordinate against known distribution of Geranium herrerae
+ErrorMsg=Coordinate is outside known range for Geranium herrerae
+DataFieldName=Species
+DataRecordId=NHMSYS0000459036
+LastChanged=20240617
+[EndMetadata]
+
+[10km_CI]
+WA50
+
+
+NA
+
+

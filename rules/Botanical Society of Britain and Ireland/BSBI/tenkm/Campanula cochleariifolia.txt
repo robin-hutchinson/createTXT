@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Campanula cochleariifolia 10km
+Description=Check coordinate against known distribution of Campanula cochleariifolia
+ErrorMsg=Coordinate is outside known range for Campanula cochleariifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0500000306
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST66
+TF34
+
+

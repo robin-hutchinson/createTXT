@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Odontoscelis (Odontoscelis) fuliginosa 10km
+Description=Check coordinate against known distribution of Odontoscelis (Odontoscelis) fuliginosa
+ErrorMsg=Coordinate is outside known range for Odontoscelis (Odontoscelis) fuliginosa
+DataFieldName=Species
+DataRecordId=NHMSYS0020309545
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM80
+SM90
+SR89
+SR99
+SS09
+SW97
+TR35
+TR36
+
+

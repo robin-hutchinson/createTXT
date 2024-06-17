@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sisymbrium polyceratium 10km
+Description=Check coordinate against known distribution of Sisymbrium polyceratium
+ErrorMsg=Coordinate is outside known range for Sisymbrium polyceratium
+DataFieldName=Species
+DataRecordId=NBNSYS0000002912
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM53
+NT08
+NT85
+SD62
+SJ38
+SP29
+ST57
+ST59
+ST67
+SW43
+TF62
+TL86
+TQ10
+
+

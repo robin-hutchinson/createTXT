@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lolium rigidum 10km
+Description=Check coordinate against known distribution of Lolium rigidum
+ErrorMsg=Coordinate is outside known range for Lolium rigidum
+DataFieldName=Species
+DataRecordId=NBNSYS0000004868
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO41
+NS76
+SD90
+SE13
+SE22
+SE32
+SE38
+SJ84
+SO60
+SO81
+SO83
+SP04
+SP50
+ST38
+SU73
+TA12
+TA20
+TA21
+TA30
+TG20
+TL03
+TL10
+TL62
+TQ07
+TQ09
+TQ16
+TQ17
+TQ18
+TQ27
+TQ28
+TQ57
+TQ58
+
+
+NA
+
+

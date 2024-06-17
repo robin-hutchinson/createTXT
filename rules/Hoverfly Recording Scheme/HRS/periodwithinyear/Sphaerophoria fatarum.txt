@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Sphaerophoria fatarum
+Description=Checks date is within known flight period of Sphaerophoria fatarum
+ErrorMsg=Date is outside known flight period of Sphaerophoria fatarum
+Tvk=NBNSYS0000006953
+DataFieldName=
+StartDate=0206
+EndDate=0924
+LastChanged=20240617
+[EndMetadata]

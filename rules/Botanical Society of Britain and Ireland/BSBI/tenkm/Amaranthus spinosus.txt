@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Amaranthus spinosus 10km
+Description=Check coordinate against known distribution of Amaranthus spinosus
+ErrorMsg=Coordinate is outside known range for Amaranthus spinosus
+DataFieldName=Species
+DataRecordId=NBNSYS0200001745
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST51
+
+

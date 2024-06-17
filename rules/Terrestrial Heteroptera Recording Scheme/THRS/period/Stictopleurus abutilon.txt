@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Stictopleurus abutilon
+Description=Checks date is within known recording period of Stictopleurus abutilon
+ErrorMsg=Date is outside known recording period of Stictopleurus abutilon
+Tvk=NHMSYS0020309860
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

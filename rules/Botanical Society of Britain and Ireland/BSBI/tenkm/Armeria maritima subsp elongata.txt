@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Armeria maritima subsp. elongata 10km
+Description=Check coordinate against known distribution of Armeria maritima subsp. elongata
+ErrorMsg=Coordinate is outside known range for Armeria maritima subsp. elongata
+DataFieldName=Species
+DataRecordId=NBNSYS0000004611
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK82
+SK83
+SK92
+SK93
+SK94
+TF04
+
+

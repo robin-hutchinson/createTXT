@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sorbus domestica 10km
+Description=Check coordinate against known distribution of Sorbus domestica
+ErrorMsg=Coordinate is outside known range for Sorbus domestica
+DataFieldName=Species
+DataRecordId=NBNSYS0000003439
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NU11
+NZ21
+NZ32
+SC28
+SK35
+SO60
+SO77
+SO84
+SO94
+SP44
+SP94
+ST06
+ST57
+ST59
+SU49
+SY68
+TA00
+TL31
+TM47
+TQ37
+TQ38
+
+

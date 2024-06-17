@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Bactra lacteana
+Description=Checks date is within known recording period of Bactra lacteana
+ErrorMsg=Date is outside known recording period of Bactra lacteana
+Tvk=NHMSYS0000501439
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

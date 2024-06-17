@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Camelina microcarpa 10km
+Description=Check coordinate against known distribution of Camelina microcarpa
+ErrorMsg=Coordinate is outside known range for Camelina microcarpa
+DataFieldName=Species
+DataRecordId=NBNSYS0000002915
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+N93
+O17
+
+
+[10km_GB]
+NH64
+NH95
+NJ05
+NS76
+NT18
+NT27
+NT36
+SE44
+SK97
+SO52
+SO60
+SO74
+SO81
+SO83
+SP11
+SP33
+SP93
+ST16
+ST36
+SU14
+SU49
+SX45
+TA02
+TF00
+TF09
+TF26
+TF28
+TG24
+TL03
+TL45
+TL78
+TQ20
+TQ27
+TQ48
+
+

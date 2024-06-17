@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Fuchsia magellanica
+Description=Checks date is within known recording period of Fuchsia magellanica
+ErrorMsg=Date is outside known recording period of Fuchsia magellanica
+Tvk=NBNSYS0000003603
+StartDate=18570101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

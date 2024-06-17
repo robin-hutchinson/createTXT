@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus monensis 10km
+Description=Check coordinate against known distribution of Rubus monensis
+ErrorMsg=Coordinate is outside known range for Rubus monensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462789
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH23
+SH27
+SH28
+SH34
+SH37
+SH38
+SH43
+SH44
+SH47
+SH48
+SH52
+SH54
+SH56
+SH57
+SH58
+SH63
+SH64
+SH65
+SH71
+SH72
+SH74
+SH83
+SH85
+SH93
+SN68
+SN77
+SN78
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Caradrina clavipalpis
+Description=Checks date is within known recording period of Caradrina clavipalpis
+ErrorMsg=Date is outside known recording period of Caradrina clavipalpis
+Tvk=NBNSYS0000006494
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

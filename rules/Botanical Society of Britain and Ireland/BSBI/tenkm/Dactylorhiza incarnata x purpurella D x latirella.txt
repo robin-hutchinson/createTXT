@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactylorhiza incarnata x purpurella = D. x latirella 10km
+Description=Check coordinate against known distribution of Dactylorhiza incarnata x purpurella = D. x latirella
+ErrorMsg=Coordinate is outside known range for Dactylorhiza incarnata x purpurella = D. x latirella
+DataFieldName=Species
+DataRecordId=NHMSYS0001754660
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU44
+NA91
+NB23
+NB56
+NF60
+NF70
+NF77
+NF87
+NF99
+NG08
+NG09
+NL69
+NL94
+NM26
+NM39
+NM44
+NM49
+NO53
+NR67
+NR78
+NS37
+NT42
+NT51
+NT52
+NT64
+NT86
+NU21
+NX40
+NY60
+NZ33
+NZ52
+SC39
+SD17
+SD27
+SD76
+SD86
+SH36
+SH52
+SH58
+SM80
+SN69
+SN81
+SN90
+
+

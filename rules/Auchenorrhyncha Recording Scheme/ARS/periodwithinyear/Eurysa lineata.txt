@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Eurysa lineata
+Description=Checks date is within known flight period of Eurysa lineata
+ErrorMsg=Date is outside known flight period of Eurysa lineata
+Tvk=NHMSYS0020705585
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

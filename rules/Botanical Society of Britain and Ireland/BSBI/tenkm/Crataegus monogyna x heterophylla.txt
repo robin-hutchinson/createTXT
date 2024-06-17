@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crataegus monogyna x heterophylla 10km
+Description=Check coordinate against known distribution of Crataegus monogyna x heterophylla
+ErrorMsg=Coordinate is outside known range for Crataegus monogyna x heterophylla
+DataFieldName=Species
+DataRecordId=NHMSYS0100001142
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ64
+TQ67
+
+

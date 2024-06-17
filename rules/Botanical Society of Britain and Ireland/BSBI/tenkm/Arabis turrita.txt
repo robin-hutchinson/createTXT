@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Arabis turrita 10km
+Description=Check coordinate against known distribution of Arabis turrita
+ErrorMsg=Coordinate is outside known range for Arabis turrita
+DataFieldName=Species
+DataRecordId=NBNSYS0000002886
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ11
+NS97
+NS98
+NT09
+NT42
+SK40
+SK75
+SK86
+SK87
+SK96
+SK97
+SP20
+SP50
+SP75
+ST59
+SU52
+SU72
+SU73
+SW53
+SZ48
+TL10
+TL45
+TM14
+TQ21
+TQ37
+TQ43
+TQ56
+
+

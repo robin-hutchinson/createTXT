@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Avena barbata 10km
+Description=Check coordinate against known distribution of Avena barbata
+ErrorMsg=Coordinate is outside known range for Avena barbata
+DataFieldName=Species
+DataRecordId=NBNSYS0000004859
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE22
+SO60
+ST43
+ST53
+SU73
+TL03
+
+
+NA
+
+

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Veronica spicata subsp. spicata 10km
+Description=Check coordinate against known distribution of Veronica spicata subsp. spicata
+ErrorMsg=Coordinate is outside known range for Veronica spicata subsp. spicata
+DataFieldName=Species
+DataRecordId=NHMSYS0000464834
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL55
+TL56
+TL64
+TL66
+TL77
+TL78
+TL79
+TL87
+TL88
+TL98
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Austroagallia sinuata
+Description=Checks date is within known recording period of Austroagallia sinuata
+ErrorMsg=Date is outside known recording period of Austroagallia sinuata
+Tvk=NHMSYS0020442294
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

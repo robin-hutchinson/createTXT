@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Pringsheimiella scutata 10km
+Description=Check coordinate against known distribution of Pringsheimiella scutata
+ErrorMsg=Coordinate is outside known range for Pringsheimiella scutata
+DataFieldName=Species
+DataRecordId=NHMSYS0000568248
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU36
+HU37
+ND59
+NF86
+NJ17
+NM35
+NM67
+NO51
+NS14
+NS15
+NW95
+NX44
+NZ90
+SD36
+SD45
+SD46
+SH57
+SH68
+SJ18
+SM70
+SS14
+SW61
+SW86
+TF58
+TR23
+TR37
+
+

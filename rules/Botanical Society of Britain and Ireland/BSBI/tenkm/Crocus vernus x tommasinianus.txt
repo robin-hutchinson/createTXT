@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crocus vernus x tommasinianus 10km
+Description=Check coordinate against known distribution of Crocus vernus x tommasinianus
+ErrorMsg=Coordinate is outside known range for Crocus vernus x tommasinianus
+DataFieldName=Species
+DataRecordId=NHMSYS0100001163
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ51
+SE13
+SO77
+SO94
+SO97
+SP50
+SP73
+SP82
+SU95
+TQ25
+TQ27
+TQ30
+TQ31
+TQ36
+TQ40
+TQ41
+TQ44
+
+

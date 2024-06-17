@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Chilocorus bipustulatus
+Description=Checks date is within known recording period of Chilocorus bipustulatus
+ErrorMsg=Date is outside known recording period of Chilocorus bipustulatus
+Tvk=NBNSYS0000008309
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

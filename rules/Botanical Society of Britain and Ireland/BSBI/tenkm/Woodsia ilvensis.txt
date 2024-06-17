@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Woodsia ilvensis 10km
+Description=Check coordinate against known distribution of Woodsia ilvensis
+ErrorMsg=Coordinate is outside known range for Woodsia ilvensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000465076
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN89
+NO27
+NT01
+NT11
+NY10
+NY31
+NY41
+NY82
+SH54
+SH65
+SH66
+SH71
+
+

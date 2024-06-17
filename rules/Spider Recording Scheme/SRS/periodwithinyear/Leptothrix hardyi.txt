@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Leptothrix hardyi
+Description=Checks date is within known flight period of Leptothrix hardyi
+ErrorMsg=Date is outside known flight period of Leptothrix hardyi
+Tvk=NBNSYS0000009120
+DataFieldName=
+StartDate=0214
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

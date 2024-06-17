@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Zelkova carpinifolia 10km
+Description=Check coordinate against known distribution of Zelkova carpinifolia
+ErrorMsg=Coordinate is outside known range for Zelkova carpinifolia
+DataFieldName=Species
+DataRecordId=NHMSYS0000465229
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ28
+SE28
+
+

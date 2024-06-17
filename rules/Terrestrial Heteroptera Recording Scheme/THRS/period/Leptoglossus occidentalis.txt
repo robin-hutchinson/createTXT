@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Leptoglossus occidentalis
+Description=Checks date is within known recording period of Leptoglossus occidentalis
+ErrorMsg=Date is outside known recording period of Leptoglossus occidentalis
+Tvk=NHMSYS0020476639
+StartDate=20060101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

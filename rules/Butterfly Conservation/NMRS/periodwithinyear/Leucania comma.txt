@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Leucania comma
+Description=Checks date is within known flight period of Leucania comma
+ErrorMsg=Date is outside known flight period of Leucania comma
+Tvk=NBNSYS0000150498
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

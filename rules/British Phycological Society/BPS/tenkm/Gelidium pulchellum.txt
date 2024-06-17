@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Gelidium pulchellum 10km
+Description=Check coordinate against known distribution of Gelidium pulchellum
+ErrorMsg=Coordinate is outside known range for Gelidium pulchellum
+DataFieldName=Species
+DataRecordId=NBNSYS0000175450
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM70
+SS14
+SY97
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster vilmorinianus 10km
+Description=Check coordinate against known distribution of Cotoneaster vilmorinianus
+ErrorMsg=Coordinate is outside known range for Cotoneaster vilmorinianus
+DataFieldName=Species
+DataRecordId=NBNSYS0100002637
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD30
+SS80
+ST57
+ST66
+ST67
+SU60
+TL45
+
+

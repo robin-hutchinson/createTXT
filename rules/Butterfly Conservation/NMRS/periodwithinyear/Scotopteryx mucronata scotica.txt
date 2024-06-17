@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Scotopteryx mucronata scotica
+Description=Checks date is within known flight period of Scotopteryx mucronata scotica
+ErrorMsg=Date is outside known flight period of Scotopteryx mucronata scotica
+Tvk=NHMSYS0021143902
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

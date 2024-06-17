@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum corynodes 10km
+Description=Check coordinate against known distribution of Taraxacum corynodes
+ErrorMsg=Coordinate is outside known range for Taraxacum corynodes
+DataFieldName=Species
+DataRecordId=NHMSYS0000464196
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO02
+TQ43
+
+

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Dipoena tristis 10km
+Description=Check coordinate against known distribution of Dipoena tristis
+ErrorMsg=Coordinate is outside known range for Dipoena tristis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008869
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU20
+SU84
+SU85
+SU91
+SU94
+SU96
+SX77
+SY08
+SY79
+SY89
+SY99
+TR15
+TR16
+
+

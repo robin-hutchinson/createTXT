@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Tinodes rostocki
+Description=Checks date is within known flight period of Tinodes rostocki
+ErrorMsg=Date is outside known flight period of Tinodes rostocki
+Tvk=NBNSYS0000008394
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

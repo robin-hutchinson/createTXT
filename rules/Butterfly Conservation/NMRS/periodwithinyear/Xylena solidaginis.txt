@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Xylena solidaginis
+Description=Checks date is within known flight period of Xylena solidaginis
+ErrorMsg=Date is outside known flight period of Xylena solidaginis
+Tvk=NHMSYS0021144740
+DataFieldName=
+StartDate=0801
+EndDate=1015
+LastChanged=20240617
+[EndMetadata]

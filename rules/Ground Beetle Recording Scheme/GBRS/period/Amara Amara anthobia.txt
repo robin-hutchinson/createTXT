@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Amara (Amara) anthobia
+Description=Checks date is within known recording period of Amara (Amara) anthobia
+ErrorMsg=Date is outside known recording period of Amara (Amara) anthobia
+Tvk=NHMSYS0001716721
+StartDate=19050101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

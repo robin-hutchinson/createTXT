@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Ficopomatus enigmaticus 10km
+Description=Check coordinate against known distribution of Ficopomatus enigmaticus
+ErrorMsg=Coordinate is outside known range for Ficopomatus enigmaticus
+DataFieldName=Species
+DataRecordId=NBNSYS0000175337
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+L86
+O13
+Q95
+T27
+Y95
+Y97
+
+
+[10km_GB]
+SG19
+SG23
+SM73
+SM80
+SS69
+SU40
+SU41
+SX85
+SY28
+SY67
+SY87
+
+

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cephalanthera rubra 10km
+Description=Check coordinate against known distribution of Cephalanthera rubra
+ErrorMsg=Coordinate is outside known range for Cephalanthera rubra
+DataFieldName=Species
+DataRecordId=NHMSYS0000457046
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO81
+SO90
+SO91
+SP80
+ST23
+ST79
+SU34
+SU72
+TQ00
+TR04
+
+

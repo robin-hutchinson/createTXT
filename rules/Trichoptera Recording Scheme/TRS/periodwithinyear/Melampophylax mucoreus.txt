@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Melampophylax mucoreus
+Description=Checks date is within known flight period of Melampophylax mucoreus
+ErrorMsg=Date is outside known flight period of Melampophylax mucoreus
+Tvk=NBNSYS0000008449
+DataFieldName=
+StartDate=0901
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

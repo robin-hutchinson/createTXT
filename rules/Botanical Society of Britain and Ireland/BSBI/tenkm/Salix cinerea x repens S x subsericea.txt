@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix cinerea x repens = S. x subsericea 10km
+Description=Check coordinate against known distribution of Salix cinerea x repens = S. x subsericea
+ErrorMsg=Coordinate is outside known range for Salix cinerea x repens = S. x subsericea
+DataFieldName=Species
+DataRecordId=NHMSYS0001754707
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D11
+D12
+D21
+D22
+D30
+
+
+[10km_GB]
+NG40
+NG53
+NM39
+NO17
+NO37
+NO41
+NO42
+NO51
+NR79
+NX76
+NY76
+NY86
+NY97
+SD20
+SD31
+SD33
+SD42
+SH46
+SH52
+SJ67
+SK85
+SN30
+SN56
+SU20
+SU86
+SY79
+TF62
+TF81
+TG42
+TL28
+TL57
+TL98
+TM07
+TM39
+
+

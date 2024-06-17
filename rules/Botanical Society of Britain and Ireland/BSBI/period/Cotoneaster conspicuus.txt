@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cotoneaster conspicuus
+Description=Checks date is within known recording period of Cotoneaster conspicuus
+ErrorMsg=Date is outside known recording period of Cotoneaster conspicuus
+Tvk=NHMSYS0000457572
+StartDate=19840101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

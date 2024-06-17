@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Platymetopius undatus 10km
+Description=Check coordinate against known distribution of Platymetopius undatus
+ErrorMsg=Coordinate is outside known range for Platymetopius undatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442453
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST50
+ST91
+SU12
+SU25
+SU26
+SU49
+SX05
+SX55
+SX56
+TL10
+TL78
+TQ04
+TQ41
+TQ75
+TQ93
+TR03
+TR04
+
+

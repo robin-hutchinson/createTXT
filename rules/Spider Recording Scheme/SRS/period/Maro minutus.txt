@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spider Recording Scheme/SRS Recording Period
+ShortName=Maro minutus
+Description=Checks date is within known recording period of Maro minutus
+ErrorMsg=Date is outside known recording period of Maro minutus
+Tvk=NBNSYS0000009163
+StartDate=19000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

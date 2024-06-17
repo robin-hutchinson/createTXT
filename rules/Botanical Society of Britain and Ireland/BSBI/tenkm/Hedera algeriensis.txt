@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hedera algeriensis 10km
+Description=Check coordinate against known distribution of Hedera algeriensis
+ErrorMsg=Coordinate is outside known range for Hedera algeriensis
+DataFieldName=Species
+DataRecordId=NBNSYS0100003376
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS28
+SC27
+SC28
+SC37
+SC49
+SH61
+SJ08
+SK54
+SO70
+ST67
+SX85
+TQ65
+TR34
+
+

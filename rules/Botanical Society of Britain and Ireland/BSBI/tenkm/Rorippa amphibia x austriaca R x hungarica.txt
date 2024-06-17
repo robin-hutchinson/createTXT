@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rorippa amphibia x austriaca = R. x hungarica 10km
+Description=Check coordinate against known distribution of Rorippa amphibia x austriaca = R. x hungarica
+ErrorMsg=Coordinate is outside known range for Rorippa amphibia x austriaca = R. x hungarica
+DataFieldName=Species
+DataRecordId=NHMSYS0001754687
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ49
+
+

@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Empicoris baerensprungi 10km
+Description=Check coordinate against known distribution of Empicoris baerensprungi
+ErrorMsg=Coordinate is outside known range for Empicoris baerensprungi
+DataFieldName=Species
+DataRecordId=NHMSYS0020309209
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU00
+SU10
+SU11
+SU20
+SU21
+SU30
+SU31
+SU40
+SU41
+SU50
+SU51
+SY98
+SY99
+SZ08
+SZ09
+SZ19
+SZ29
+SZ39
+SZ49
+SZ59
+
+

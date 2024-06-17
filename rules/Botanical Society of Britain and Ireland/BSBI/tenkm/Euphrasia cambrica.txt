@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia cambrica 10km
+Description=Check coordinate against known distribution of Euphrasia cambrica
+ErrorMsg=Coordinate is outside known range for Euphrasia cambrica
+DataFieldName=Species
+DataRecordId=NBNSYS0000004153
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS97
+SH65
+SH66
+SH71
+SH75
+SH76
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lathyrus hirsutus
+Description=Checks date is within known recording period of Lathyrus hirsutus
+ErrorMsg=Date is outside known recording period of Lathyrus hirsutus
+Tvk=NBNSYS0000003300
+StartDate=16660101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

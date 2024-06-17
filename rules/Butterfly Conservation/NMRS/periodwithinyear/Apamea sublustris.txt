@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Apamea sublustris
+Description=Checks date is within known flight period of Apamea sublustris
+ErrorMsg=Date is outside known flight period of Apamea sublustris
+Tvk=NBNSYS0000006419
+DataFieldName=
+StartDate=0521
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Rhopalopyx adumbrata
+Description=Checks date is within known flight period of Rhopalopyx adumbrata
+ErrorMsg=Date is outside known flight period of Rhopalopyx adumbrata
+Tvk=NHMSYS0020705789
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Antichloris eriphia 10km
+Description=Check coordinate against known distribution of Antichloris eriphia
+ErrorMsg=Coordinate is outside known range for Antichloris eriphia
+DataFieldName=Species
+DataRecordId=NHMSYS0000501261
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ77
+SJ78
+SJ79
+SJ87
+SJ88
+SJ89
+SJ97
+SJ98
+SJ99
+TG40
+TG41
+TG50
+TG51
+TM49
+TM59
+
+

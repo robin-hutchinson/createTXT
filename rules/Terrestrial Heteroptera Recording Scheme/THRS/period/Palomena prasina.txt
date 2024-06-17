@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Palomena prasina
+Description=Checks date is within known recording period of Palomena prasina
+ErrorMsg=Date is outside known recording period of Palomena prasina
+Tvk=NHMSYS0020109266
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

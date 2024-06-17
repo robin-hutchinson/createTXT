@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Scenopinus fenestralis
+Description=Checks date is within known flight period of Scenopinus fenestralis
+ErrorMsg=Date is outside known flight period of Scenopinus fenestralis
+Tvk=NBNSYS0000007935
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

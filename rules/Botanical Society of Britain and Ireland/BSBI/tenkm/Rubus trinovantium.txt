@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus trinovantium 10km
+Description=Check coordinate against known distribution of Rubus trinovantium
+ErrorMsg=Coordinate is outside known range for Rubus trinovantium
+DataFieldName=Species
+DataRecordId=NHMSYS0000462936
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TF60
+TL59
+TL70
+TL77
+TL81
+TL82
+TL91
+TL92
+TL93
+TL99
+TM02
+TM03
+TM04
+TM11
+TM12
+TM13
+TM28
+TR05
+
+

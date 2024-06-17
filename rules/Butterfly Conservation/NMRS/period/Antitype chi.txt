@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Antitype chi
+Description=Checks date is within known recording period of Antitype chi
+ErrorMsg=Date is outside known recording period of Antitype chi
+Tvk=NBNSYS0000006347
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

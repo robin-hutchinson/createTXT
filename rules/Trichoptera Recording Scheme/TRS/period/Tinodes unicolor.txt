@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Tinodes unicolor
+Description=Checks date is within known recording period of Tinodes unicolor
+ErrorMsg=Date is outside known recording period of Tinodes unicolor
+Tvk=NBNSYS0000008395
+StartDate=18620101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

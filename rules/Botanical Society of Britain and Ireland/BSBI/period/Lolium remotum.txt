@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lolium remotum
+Description=Checks date is within known recording period of Lolium remotum
+ErrorMsg=Date is outside known recording period of Lolium remotum
+Tvk=NBNSYS0000002531
+StartDate=18580101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

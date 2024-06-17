@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Heringia brevidens
+Description=Checks date is within known flight period of Heringia brevidens
+ErrorMsg=Date is outside known flight period of Heringia brevidens
+Tvk=NBNSYS0100003448
+DataFieldName=
+StartDate=0425
+EndDate=0811
+LastChanged=20240617
+[EndMetadata]

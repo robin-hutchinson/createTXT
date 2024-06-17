@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium hastiforme 10km
+Description=Check coordinate against known distribution of Hieracium hastiforme
+ErrorMsg=Coordinate is outside known range for Hieracium hastiforme
+DataFieldName=Species
+DataRecordId=NHMSYS0000459455
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC10
+NH13
+NH25
+NH28
+NH37
+NN22
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Carpocoris purpureipennis 10km
+Description=Check coordinate against known distribution of Carpocoris purpureipennis
+ErrorMsg=Coordinate is outside known range for Carpocoris purpureipennis
+DataFieldName=Species
+DataRecordId=NHMSYS0020309048
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST68
+SY66
+
+

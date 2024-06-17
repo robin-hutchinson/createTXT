@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Forsythia suspensa 10km
+Description=Check coordinate against known distribution of Forsythia suspensa
+ErrorMsg=Coordinate is outside known range for Forsythia suspensa
+DataFieldName=Species
+DataRecordId=NBNSYS0000034291
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS56
+SC49
+SE13
+SE23
+SJ60
+SK36
+SO42
+SO51
+SS84
+ST12
+ST40
+TL86
+TQ27
+TQ46
+TQ56
+
+

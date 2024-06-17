@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pittosporum ralphii 10km
+Description=Check coordinate against known distribution of Pittosporum ralphii
+ErrorMsg=Coordinate is outside known range for Pittosporum ralphii
+DataFieldName=Species
+DataRecordId=NBNSYS0200002895
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV81
+SW42
+
+

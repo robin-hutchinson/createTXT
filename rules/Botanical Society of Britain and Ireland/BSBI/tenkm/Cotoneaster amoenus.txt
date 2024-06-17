@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster amoenus 10km
+Description=Check coordinate against known distribution of Cotoneaster amoenus
+ErrorMsg=Coordinate is outside known range for Cotoneaster amoenus
+DataFieldName=Species
+DataRecordId=NHMSYS0000457554
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU43
+TL45
+TQ37
+
+

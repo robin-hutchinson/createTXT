@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Harpalus (Pseudoophonus) calceatus
+Description=Checks date is within known recording period of Harpalus (Pseudoophonus) calceatus
+ErrorMsg=Date is outside known recording period of Harpalus (Pseudoophonus) calceatus
+Tvk=NHMSYS0001718359
+StartDate=
+EndDate=19571213
+LastChanged=20240617
+[EndMetadata]

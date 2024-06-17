@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Urochloa panicoides 10km
+Description=Check coordinate against known distribution of Urochloa panicoides
+ErrorMsg=Coordinate is outside known range for Urochloa panicoides
+DataFieldName=Species
+DataRecordId=NHMSYS0000464730
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU94
+SZ69
+TA30
+TL10
+TQ30
+TQ48
+TQ57
+
+

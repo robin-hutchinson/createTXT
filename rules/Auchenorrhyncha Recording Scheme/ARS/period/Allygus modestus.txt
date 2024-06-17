@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Allygus modestus
+Description=Checks date is within known recording period of Allygus modestus
+ErrorMsg=Date is outside known recording period of Allygus modestus
+Tvk=NHMSYS0020705190
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

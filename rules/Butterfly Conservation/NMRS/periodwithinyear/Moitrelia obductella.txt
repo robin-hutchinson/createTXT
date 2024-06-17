@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Moitrelia obductella
+Description=Checks date is within known flight period of Moitrelia obductella
+ErrorMsg=Date is outside known flight period of Moitrelia obductella
+Tvk=NHMSYS0021143631
+DataFieldName=
+StartDate=0621
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

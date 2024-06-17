@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hydropsyche angustipennis
+Description=Checks date is within known flight period of Hydropsyche angustipennis
+ErrorMsg=Date is outside known flight period of Hydropsyche angustipennis
+Tvk=NBNSYS0000008413
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

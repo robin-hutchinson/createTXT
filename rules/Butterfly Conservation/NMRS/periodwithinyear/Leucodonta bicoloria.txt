@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Leucodonta bicoloria
+Description=Checks date is within known flight period of Leucodonta bicoloria
+ErrorMsg=Date is outside known flight period of Leucodonta bicoloria
+Tvk=NHMSYS0021144353
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

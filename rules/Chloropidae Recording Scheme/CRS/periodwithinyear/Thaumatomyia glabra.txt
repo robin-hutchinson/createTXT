@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Thaumatomyia glabra
+Description=Checks date is within known flight period of Thaumatomyia glabra
+ErrorMsg=Date is outside known flight period of Thaumatomyia glabra
+Tvk=NBNSYS0100005790
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Anthogona britannica
+Description=Checks date is within known recording period of Anthogona britannica
+ErrorMsg=Date is outside known recording period of Anthogona britannica
+Tvk=NHMSYS0000356226
+StartDate=19831018
+EndDate=
+LastChanged=20240617
+[EndMetadata]

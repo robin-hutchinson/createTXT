@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotula australis 10km
+Description=Check coordinate against known distribution of Cotula australis
+ErrorMsg=Coordinate is outside known range for Cotula australis
+DataFieldName=Species
+DataRecordId=NHMSYS0000457643
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT43
+NT53
+SE38
+SU73
+SV91
+SX87
+
+

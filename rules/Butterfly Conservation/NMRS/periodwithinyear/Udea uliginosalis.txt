@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Udea uliginosalis
+Description=Checks date is within known flight period of Udea uliginosalis
+ErrorMsg=Date is outside known flight period of Udea uliginosalis
+Tvk=NBNSYS0000026924
+DataFieldName=
+StartDate=0615
+EndDate=0907
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Adscita statices
+Description=Checks date is within known flight period of Adscita statices
+ErrorMsg=Date is outside known flight period of Adscita statices
+Tvk=NBNSYS0000005663
+DataFieldName=
+StartDate=0507
+EndDate=0807
+LastChanged=20240617
+[EndMetadata]

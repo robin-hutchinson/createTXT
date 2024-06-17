@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pseudeustrotia candidula
+Description=Checks date is within known recording period of Pseudeustrotia candidula
+ErrorMsg=Date is outside known recording period of Pseudeustrotia candidula
+Tvk=NHMSYS0020758202
+StartDate=20061028
+EndDate=
+LastChanged=20240617
+[EndMetadata]

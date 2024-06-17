@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Senecio elegans 10km
+Description=Check coordinate against known distribution of Senecio elegans
+ErrorMsg=Coordinate is outside known range for Senecio elegans
+DataFieldName=Species
+DataRecordId=NBNSYS0200003123
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV91
+
+
+NA
+
+

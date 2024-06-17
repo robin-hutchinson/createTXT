@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Spinularia spinularia 10km
+Description=Check coordinate against known distribution of Spinularia spinularia
+ErrorMsg=Coordinate is outside known range for Spinularia spinularia
+DataFieldName=Species
+DataRecordId=NHMSYS0020752471
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NU14
+NU23
+NZ90
+SS14
+SV80
+SX44
+SX45
+SZ87
+TR37
+
+

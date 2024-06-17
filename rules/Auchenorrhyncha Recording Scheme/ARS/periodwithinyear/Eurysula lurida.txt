@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Eurysula lurida
+Description=Checks date is within known flight period of Eurysula lurida
+ErrorMsg=Date is outside known flight period of Eurysula lurida
+Tvk=NHMSYS0020442336
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

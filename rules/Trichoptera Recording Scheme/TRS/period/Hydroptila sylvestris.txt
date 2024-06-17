@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Hydroptila sylvestris
+Description=Checks date is within known recording period of Hydroptila sylvestris
+ErrorMsg=Date is outside known recording period of Hydroptila sylvestris
+Tvk=NBNSYS0000008361
+StartDate=18810101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella glutinosae
+Description=Checks date is within known flight period of Stigmella glutinosae
+ErrorMsg=Date is outside known flight period of Stigmella glutinosae
+Tvk=NHMSYS0000504354
+DataFieldName=
+StartDate=0801
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

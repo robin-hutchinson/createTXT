@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Marpissa muscosa
+Description=Checks date is within known flight period of Marpissa muscosa
+ErrorMsg=Date is outside known flight period of Marpissa muscosa
+Tvk=NBNSYS0000008764
+DataFieldName=
+StartDate=0318
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Acrobasis advenella
+Description=Checks date is within known recording period of Acrobasis advenella
+ErrorMsg=Date is outside known recording period of Acrobasis advenella
+Tvk=NHMSYS0021128173
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Gonatium paradoxum 10km
+Description=Check coordinate against known distribution of Gonatium paradoxum
+ErrorMsg=Coordinate is outside known range for Gonatium paradoxum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009019
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ15
+TQ66
+TR16
+
+

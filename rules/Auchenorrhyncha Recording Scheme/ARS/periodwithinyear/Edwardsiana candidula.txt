@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Edwardsiana candidula
+Description=Checks date is within known flight period of Edwardsiana candidula
+ErrorMsg=Date is outside known flight period of Edwardsiana candidula
+Tvk=NHMSYS0020705353
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

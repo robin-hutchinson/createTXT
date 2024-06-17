@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Edwardsiana lethierryi
+Description=Checks date is within known flight period of Edwardsiana lethierryi
+ErrorMsg=Date is outside known flight period of Edwardsiana lethierryi
+Tvk=NHMSYS0020705359
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

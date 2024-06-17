@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Chaenotheca gracilenta 10km
+Description=Check coordinate against known distribution of Chaenotheca gracilenta
+ErrorMsg=Coordinate is outside known range for Chaenotheca gracilenta
+DataFieldName=Species
+DataRecordId=NHMSYS0020990057
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH52
+NH54
+NO19
+NO25
+NZ71
+SE26
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Acrocephalus scirpaceus
+Description=Checks date is within known flight period of Acrocephalus scirpaceus
+ErrorMsg=Date is outside known flight period of Acrocephalus scirpaceus
+Tvk=NHMSYS0000530130
+DataFieldName=
+StartDate=0410
+EndDate=1115
+LastChanged=20240617
+[EndMetadata]

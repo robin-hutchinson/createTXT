@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella torminalis
+Description=Checks date is within known flight period of Stigmella torminalis
+ErrorMsg=Date is outside known flight period of Stigmella torminalis
+Tvk=NHMSYS0000504392
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

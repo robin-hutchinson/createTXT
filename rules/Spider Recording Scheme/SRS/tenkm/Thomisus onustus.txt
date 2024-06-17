@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Thomisus onustus 10km
+Description=Check coordinate against known distribution of Thomisus onustus
+ErrorMsg=Coordinate is outside known range for Thomisus onustus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008716
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU10
+SU20
+SU75
+SU82
+SU84
+SU85
+SU91
+SU93
+SU94
+SU95
+SU96
+SY89
+SY98
+SZ08
+SZ09
+SZ19
+TQ43
+
+

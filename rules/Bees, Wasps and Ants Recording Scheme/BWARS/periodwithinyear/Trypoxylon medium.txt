@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Trypoxylon medium
+Description=Checks date is within known flight period of Trypoxylon medium
+ErrorMsg=Date is outside known flight period of Trypoxylon medium
+Tvk=NHMSYS0000876766
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

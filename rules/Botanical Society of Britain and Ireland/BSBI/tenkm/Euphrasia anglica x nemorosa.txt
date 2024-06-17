@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia anglica x nemorosa 10km
+Description=Check coordinate against known distribution of Euphrasia anglica x nemorosa
+ErrorMsg=Coordinate is outside known range for Euphrasia anglica x nemorosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000161667
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH53
+SN54
+SO03
+SO05
+SO77
+SU30
+SU81
+TQ15
+TQ27
+TQ66
+TQ72
+TQ85
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Thelocarpon sphaerosporum 10km
+Description=Check coordinate against known distribution of Thelocarpon sphaerosporum
+ErrorMsg=Coordinate is outside known range for Thelocarpon sphaerosporum
+DataFieldName=Species
+DataRecordId=BMSSYS0000018497
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO16
+NO19
+
+

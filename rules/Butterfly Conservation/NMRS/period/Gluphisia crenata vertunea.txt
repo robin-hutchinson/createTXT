@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Gluphisia crenata vertunea
+Description=Checks date is within known recording period of Gluphisia crenata vertunea
+ErrorMsg=Date is outside known recording period of Gluphisia crenata vertunea
+Tvk=NHMSYS0021144360
+StartDate=18390601
+EndDate=
+LastChanged=20240617
+[EndMetadata]

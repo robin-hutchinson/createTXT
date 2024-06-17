@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lepidium draba subsp. chalepense 10km
+Description=Check coordinate against known distribution of Lepidium draba subsp. chalepense
+ErrorMsg=Coordinate is outside known range for Lepidium draba subsp. chalepense
+DataFieldName=Species
+DataRecordId=NBNSYS0000002838
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT07
+NT27
+NT37
+NT73
+NY45
+SE12
+SE22
+SK22
+SO60
+SO82
+ST20
+ST57
+ST65
+SU97
+SX05
+TA02
+TA20
+TA21
+TF09
+TF10
+TF28
+TL24
+TL31
+TL45
+TM33
+TQ07
+TQ26
+TQ37
+
+

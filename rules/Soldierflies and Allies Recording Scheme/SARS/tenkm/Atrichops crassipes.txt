@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Atrichops crassipes 10km
+Description=Check coordinate against known distribution of Atrichops crassipes
+ErrorMsg=Coordinate is outside known range for Atrichops crassipes
+DataFieldName=Species
+DataRecordId=NBNSYS0000007860
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU97
+SX87
+TQ01
+TQ31
+TQ32
+TQ41
+TQ42
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Fieberocapsus flaveolus
+Description=Checks date is within known recording period of Fieberocapsus flaveolus
+ErrorMsg=Date is outside known recording period of Fieberocapsus flaveolus
+Tvk=NHMSYS0020309237
+StartDate=18700101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

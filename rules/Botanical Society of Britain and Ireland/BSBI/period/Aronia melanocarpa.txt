@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Aronia melanocarpa
+Description=Checks date is within known recording period of Aronia melanocarpa
+ErrorMsg=Date is outside known recording period of Aronia melanocarpa
+Tvk=NHMSYS0000456091
+StartDate=19800101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

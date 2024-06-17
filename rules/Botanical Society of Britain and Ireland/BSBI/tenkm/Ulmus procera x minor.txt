@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ulmus procera x minor 10km
+Description=Check coordinate against known distribution of Ulmus procera x minor
+ErrorMsg=Coordinate is outside known range for Ulmus procera x minor
+DataFieldName=Species
+DataRecordId=NBNSYS0000014116
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ36
+SK90
+SP56
+SP58
+SP59
+SU10
+SU11
+SU70
+SX95
+SZ29
+SZ39
+
+

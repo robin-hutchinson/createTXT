@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Seirospora interrupta 10km
+Description=Check coordinate against known distribution of Seirospora interrupta
+ErrorMsg=Coordinate is outside known range for Seirospora interrupta
+DataFieldName=Species
+DataRecordId=NHMSYS0000568322
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU37
+HY30
+NB20
+NB90
+NF72
+NF81
+NF82
+NF83
+NG23
+NG30
+NG52
+NG73
+NG83
+NG85
+NG87
+NG88
+NH09
+NH19
+NM32
+NM34
+NM43
+NM44
+NM56
+NM71
+NM73
+NM82
+NO50
+NR67
+NZ35
+SH32
+SH33
+SH57
+SH67
+SM90
+SW72
+SW83
+SW84
+SX45
+SY08
+SY18
+SY67
+
+

@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix repens x herbacea = S. x cernua 10km
+Description=Check coordinate against known distribution of Salix repens x herbacea = S. x cernua
+ErrorMsg=Coordinate is outside known range for Salix repens x herbacea = S. x cernua
+DataFieldName=Species
+DataRecordId=NHMSYS0001754511
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC21
+ND17
+ND27
+NF09
+NG30
+NH08
+NO07
+NO19
+NR87
+
+

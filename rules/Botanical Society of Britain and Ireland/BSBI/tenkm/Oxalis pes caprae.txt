@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Oxalis pes-caprae 10km
+Description=Check coordinate against known distribution of Oxalis pes-caprae
+ErrorMsg=Coordinate is outside known range for Oxalis pes-caprae
+DataFieldName=Species
+DataRecordId=NBNSYS0000003184
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE13
+SN56
+SP50
+SS44
+ST90
+SV80
+SV81
+SV90
+SV91
+SW43
+SW54
+TA22
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

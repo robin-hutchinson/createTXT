@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Caryocolum blandulella 10km
+Description=Check coordinate against known distribution of Caryocolum blandulella
+ErrorMsg=Coordinate is outside known range for Caryocolum blandulella
+DataFieldName=Species
+DataRecordId=NHMSYS0000501648
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN30
+SN40
+SN50
+SS38
+SS39
+SS48
+SS49
+SS58
+SS59
+SU60
+SU61
+SU70
+SU71
+SU80
+SU81
+SZ69
+SZ79
+SZ89
+TR24
+TR25
+TR26
+TR34
+TR35
+TR36
+TR46
+
+

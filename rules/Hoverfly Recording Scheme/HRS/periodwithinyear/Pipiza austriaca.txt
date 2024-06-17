@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Pipiza austriaca
+Description=Checks date is within known flight period of Pipiza austriaca
+ErrorMsg=Date is outside known flight period of Pipiza austriaca
+Tvk=NBNSYS0000007080
+DataFieldName=
+StartDate=0422
+EndDate=1002
+LastChanged=20240617
+[EndMetadata]

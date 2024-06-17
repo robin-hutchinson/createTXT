@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Mompha raschkiella
+Description=Checks date is within known flight period of Mompha raschkiella
+ErrorMsg=Date is outside known flight period of Mompha raschkiella
+Tvk=NHMSYS0000503264
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

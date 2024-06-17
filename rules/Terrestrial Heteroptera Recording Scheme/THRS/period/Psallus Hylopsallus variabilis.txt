@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Psallus (Hylopsallus) variabilis
+Description=Checks date is within known recording period of Psallus (Hylopsallus) variabilis
+ErrorMsg=Date is outside known recording period of Psallus (Hylopsallus) variabilis
+Tvk=NHMSYS0020309725
+StartDate=18290101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

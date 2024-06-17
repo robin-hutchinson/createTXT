@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Astilbe japonica 10km
+Description=Check coordinate against known distribution of Astilbe japonica
+ErrorMsg=Coordinate is outside known range for Astilbe japonica
+DataFieldName=Species
+DataRecordId=NHMSYS0000456257
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ35
+NN30
+NS28
+NS29
+NS38
+NS67
+NT27
+SC49
+SD46
+SD56
+SD60
+SE02
+SE13
+SK14
+SO50
+SO98
+ST03
+
+

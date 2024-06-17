@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Amblytylus nasutus
+Description=Checks date is within known flight period of Amblytylus nasutus
+ErrorMsg=Date is outside known flight period of Amblytylus nasutus
+Tvk=NHMSYS0020308920
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

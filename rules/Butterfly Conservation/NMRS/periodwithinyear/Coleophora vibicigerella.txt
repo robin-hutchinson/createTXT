@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora vibicigerella
+Description=Checks date is within known flight period of Coleophora vibicigerella
+ErrorMsg=Date is outside known flight period of Coleophora vibicigerella
+Tvk=NHMSYS0000501942
+DataFieldName=
+StartDate=0621
+EndDate=0707
+LastChanged=20240617
+[EndMetadata]

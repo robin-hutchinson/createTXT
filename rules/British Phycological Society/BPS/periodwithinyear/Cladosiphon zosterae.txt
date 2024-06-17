@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Phycological Society/BPS Flight Period
+ShortName=Cladosiphon zosterae
+Description=Checks date is within known flight period of Cladosiphon zosterae
+ErrorMsg=Date is outside known flight period of Cladosiphon zosterae
+Tvk=NHMSYS0000567891
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

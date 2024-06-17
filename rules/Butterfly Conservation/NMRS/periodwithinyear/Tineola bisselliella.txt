@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Tineola bisselliella
+Description=Checks date is within known flight period of Tineola bisselliella
+ErrorMsg=Date is outside known flight period of Tineola bisselliella
+Tvk=NHMSYS0000504546
+DataFieldName=
+StartDate=0201
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

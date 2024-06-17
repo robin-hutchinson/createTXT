@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Skyttea tephromelarum 10km
+Description=Check coordinate against known distribution of Skyttea tephromelarum
+ErrorMsg=Coordinate is outside known range for Skyttea tephromelarum
+DataFieldName=Species
+DataRecordId=BMSSYS0000017191
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG09
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Fucus evanescens 10km
+Description=Check coordinate against known distribution of Fucus evanescens
+ErrorMsg=Coordinate is outside known range for Fucus evanescens
+DataFieldName=Species
+DataRecordId=NHMSYS0000568163
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU33
+HU37
+HU42
+HU54
+HW83
+HZ27
+NJ76
+
+

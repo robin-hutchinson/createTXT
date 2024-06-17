@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Agrypnetes crassicornis
+Description=Checks date is within known recording period of Agrypnetes crassicornis
+ErrorMsg=Date is outside known recording period of Agrypnetes crassicornis
+Tvk=NHMSYS0021008788
+StartDate=19520101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

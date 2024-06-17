@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Staurothele geoica 10km
+Description=Check coordinate against known distribution of Staurothele geoica
+ErrorMsg=Coordinate is outside known range for Staurothele geoica
+DataFieldName=Species
+DataRecordId=NHMSYS0001498851
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM86
+NN13
+NN17
+NN43
+NN63
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ranunculus trichophyllus x peltatus 10km
+Description=Check coordinate against known distribution of Ranunculus trichophyllus x peltatus
+ErrorMsg=Coordinate is outside known range for Ranunculus trichophyllus x peltatus
+DataFieldName=Species
+DataRecordId=NHMSYS0100002654
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP06
+ST78
+
+

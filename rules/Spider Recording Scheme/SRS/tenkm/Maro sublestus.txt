@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Maro sublestus 10km
+Description=Check coordinate against known distribution of Maro sublestus
+ErrorMsg=Coordinate is outside known range for Maro sublestus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009164
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ND05
+NH80
+NX66
+NX67
+TG30
+TL68
+TL97
+
+

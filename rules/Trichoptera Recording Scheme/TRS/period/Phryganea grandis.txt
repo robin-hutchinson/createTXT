@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Phryganea grandis
+Description=Checks date is within known recording period of Phryganea grandis
+ErrorMsg=Date is outside known recording period of Phryganea grandis
+Tvk=NBNSYS0000008431
+StartDate=18230101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

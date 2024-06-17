@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Caecidotea communis 10km
+Description=Check coordinate against known distribution of Caecidotea communis
+ErrorMsg=Coordinate is outside known range for Caecidotea communis
+DataFieldName=Species
+DataRecordId=NHMSYS0020302559
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ08
+
+

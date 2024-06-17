@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Plesiodema pinetella
+Description=Checks date is within known recording period of Plesiodema pinetella
+ErrorMsg=Date is outside known recording period of Plesiodema pinetella
+Tvk=NHMSYS0020309694
+StartDate=18280101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Persicaria maculosa x mitis = P. x condensata 10km
+Description=Check coordinate against known distribution of Persicaria maculosa x mitis = P. x condensata
+ErrorMsg=Coordinate is outside known range for Persicaria maculosa x mitis = P. x condensata
+DataFieldName=Species
+DataRecordId=NHMSYS0001754553
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS99
+SO51
+SO82
+SP40
+SP50
+SU31
+SZ19
+TL04
+TL15
+TQ05
+TQ07
+TQ17
+TQ26
+TQ27
+
+

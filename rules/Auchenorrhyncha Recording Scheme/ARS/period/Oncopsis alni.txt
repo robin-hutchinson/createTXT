@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Oncopsis alni
+Description=Checks date is within known recording period of Oncopsis alni
+ErrorMsg=Date is outside known recording period of Oncopsis alni
+Tvk=NHMSYS0020705775
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

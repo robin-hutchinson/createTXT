@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum boekmanii 10km
+Description=Check coordinate against known distribution of Taraxacum boekmanii
+ErrorMsg=Coordinate is outside known range for Taraxacum boekmanii
+DataFieldName=Species
+DataRecordId=NHMSYS0000840754
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS37
+NS45
+NS47
+SJ27
+SN12
+SN20
+SN21
+SN22
+SN23
+SN24
+SN30
+SN32
+SN33
+SN40
+SN41
+SN42
+SN50
+SN52
+SN53
+SN54
+SN61
+SN64
+SN71
+SO02
+SS59
+ST39
+SW64
+SW71
+SW72
+TQ19
+
+

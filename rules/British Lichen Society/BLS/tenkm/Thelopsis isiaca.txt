@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Thelopsis isiaca 10km
+Description=Check coordinate against known distribution of Thelopsis isiaca
+ErrorMsg=Coordinate is outside known range for Thelopsis isiaca
+DataFieldName=Species
+DataRecordId=BMSSYS0000018499
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH28
+SH29
+SH38
+SH39
+SH48
+SH49
+SS10
+SS11
+SS21
+SS22
+SS31
+SS32
+ST50
+ST51
+ST60
+ST61
+ST70
+ST71
+SW98
+SX08
+SX09
+SX18
+SX19
+SX54
+SX55
+SX63
+SX64
+SX65
+SX73
+SX74
+SX75
+SX83
+SX84
+SY58
+SY59
+SY66
+SY67
+SY68
+SY69
+SY77
+SY78
+SY79
+
+

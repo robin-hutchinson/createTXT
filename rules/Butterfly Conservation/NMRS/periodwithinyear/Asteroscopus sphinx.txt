@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Asteroscopus sphinx
+Description=Checks date is within known flight period of Asteroscopus sphinx
+ErrorMsg=Date is outside known flight period of Asteroscopus sphinx
+Tvk=NHMSYS0000501413
+DataFieldName=
+StartDate=1001
+EndDate=1207
+LastChanged=20240617
+[EndMetadata]

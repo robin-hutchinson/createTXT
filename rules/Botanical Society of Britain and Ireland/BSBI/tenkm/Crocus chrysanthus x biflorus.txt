@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crocus chrysanthus x biflorus 10km
+Description=Check coordinate against known distribution of Crocus chrysanthus x biflorus
+ErrorMsg=Coordinate is outside known range for Crocus chrysanthus x biflorus
+DataFieldName=Species
+DataRecordId=NHMSYS0100001156
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP72
+SP83
+SW64
+TQ39
+
+

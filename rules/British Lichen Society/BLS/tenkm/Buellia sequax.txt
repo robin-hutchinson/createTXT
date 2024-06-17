@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Buellia sequax 10km
+Description=Check coordinate against known distribution of Buellia sequax
+ErrorMsg=Coordinate is outside known range for Buellia sequax
+DataFieldName=Species
+DataRecordId=BMSSYS0000002985
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX13
+SD96
+SH12
+SH37
+SN35
+SS09
+SV80
+SV81
+SV91
+SX73
+
+

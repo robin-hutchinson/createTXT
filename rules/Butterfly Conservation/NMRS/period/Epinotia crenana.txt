@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Epinotia crenana
+Description=Checks date is within known recording period of Epinotia crenana
+ErrorMsg=Date is outside known recording period of Epinotia crenana
+Tvk=NHMSYS0021143266
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

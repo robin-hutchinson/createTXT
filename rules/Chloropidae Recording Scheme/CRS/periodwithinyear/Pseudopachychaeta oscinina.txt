@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Pseudopachychaeta oscinina
+Description=Checks date is within known flight period of Pseudopachychaeta oscinina
+ErrorMsg=Date is outside known flight period of Pseudopachychaeta oscinina
+Tvk=NHMSYS0021007932
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

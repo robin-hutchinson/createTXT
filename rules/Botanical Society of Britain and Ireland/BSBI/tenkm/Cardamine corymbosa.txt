@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cardamine corymbosa 10km
+Description=Check coordinate against known distribution of Cardamine corymbosa
+ErrorMsg=Coordinate is outside known range for Cardamine corymbosa
+DataFieldName=Species
+DataRecordId=NHMSYS0000456788
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J47
+W97
+
+
+[10km_GB]
+NH30
+NH55
+NH74
+NH80
+NJ05
+NS38
+NT13
+NT27
+NT51
+NT86
+NY44
+SC37
+SC48
+SH57
+SK27
+SK96
+SN34
+SP07
+SP08
+SP58
+ST49
+SZ89
+TQ76
+TQ88
+
+

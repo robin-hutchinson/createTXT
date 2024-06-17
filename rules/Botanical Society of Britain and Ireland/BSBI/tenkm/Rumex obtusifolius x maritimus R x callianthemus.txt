@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex obtusifolius x maritimus = R. x callianthemus 10km
+Description=Check coordinate against known distribution of Rumex obtusifolius x maritimus = R. x callianthemus
+ErrorMsg=Coordinate is outside known range for Rumex obtusifolius x maritimus = R. x callianthemus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754547
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ55
+SO77
+SO87
+SO93
+ST43
+ST44
+SU77
+SU93
+TF61
+TL10
+TL58
+
+

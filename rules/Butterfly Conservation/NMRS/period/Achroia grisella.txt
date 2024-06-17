@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Achroia grisella
+Description=Checks date is within known recording period of Achroia grisella
+ErrorMsg=Date is outside known recording period of Achroia grisella
+Tvk=NHMSYS0000500919
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

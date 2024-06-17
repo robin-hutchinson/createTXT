@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Zeiraphera rufimitrana
+Description=Checks date is within known flight period of Zeiraphera rufimitrana
+ErrorMsg=Date is outside known flight period of Zeiraphera rufimitrana
+Tvk=NHMSYS0000504716
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

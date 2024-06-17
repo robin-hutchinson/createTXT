@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Ramulus thaii
+Description=Checks date is within known recording period of Ramulus thaii
+ErrorMsg=Date is outside known recording period of Ramulus thaii
+Tvk=NHMSYS0020978506
+StartDate=20010101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

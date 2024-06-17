@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Aristolochia clematitis
+Description=Checks date is within known recording period of Aristolochia clematitis
+ErrorMsg=Date is outside known recording period of Aristolochia clematitis
+Tvk=NBNSYS0000003719
+StartDate=16850101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Aplocera plagiata
+Description=Checks date is within known flight period of Aplocera plagiata
+ErrorMsg=Date is outside known flight period of Aplocera plagiata
+Tvk=NBNSYS0000005958
+DataFieldName=
+StartDate=0415
+EndDate=1015
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Idaea dilutaria
+Description=Checks date is within known flight period of Idaea dilutaria
+ErrorMsg=Date is outside known flight period of Idaea dilutaria
+Tvk=NHMSYS0021143845
+DataFieldName=
+StartDate=0607
+EndDate=0721
+LastChanged=20240617
+[EndMetadata]

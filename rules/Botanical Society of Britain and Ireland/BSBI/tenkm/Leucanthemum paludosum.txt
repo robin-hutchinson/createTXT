@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Leucanthemum paludosum 10km
+Description=Check coordinate against known distribution of Leucanthemum paludosum
+ErrorMsg=Coordinate is outside known range for Leucanthemum paludosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000460303
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH78
+SS69
+SU53
+
+

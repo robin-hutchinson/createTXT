@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pulmonaria obscura 10km
+Description=Check coordinate against known distribution of Pulmonaria obscura
+ErrorMsg=Coordinate is outside known range for Pulmonaria obscura
+DataFieldName=Species
+DataRecordId=NBNSYS0000039918
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TM07
+
+

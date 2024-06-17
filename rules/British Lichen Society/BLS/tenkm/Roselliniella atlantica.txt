@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Roselliniella atlantica 10km
+Description=Check coordinate against known distribution of Roselliniella atlantica
+ErrorMsg=Coordinate is outside known range for Roselliniella atlantica
+DataFieldName=Species
+DataRecordId=BMSSYS0000016467
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM86
+
+

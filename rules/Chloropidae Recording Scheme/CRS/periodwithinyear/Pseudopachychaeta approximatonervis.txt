@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Pseudopachychaeta approximatonervis
+Description=Checks date is within known flight period of Pseudopachychaeta approximatonervis
+ErrorMsg=Date is outside known flight period of Pseudopachychaeta approximatonervis
+Tvk=NBNSYS0000029968
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

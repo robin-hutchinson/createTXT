@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Ribautiana debilis
+Description=Checks date is within known recording period of Ribautiana debilis
+ErrorMsg=Date is outside known recording period of Ribautiana debilis
+Tvk=NHMSYS0020705879
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

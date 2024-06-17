@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Elachista kilmunella
+Description=Checks date is within known flight period of Elachista kilmunella
+ErrorMsg=Date is outside known flight period of Elachista kilmunella
+Tvk=NHMSYS0000502311
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

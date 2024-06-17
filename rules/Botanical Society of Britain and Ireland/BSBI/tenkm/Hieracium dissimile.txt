@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium dissimile 10km
+Description=Check coordinate against known distribution of Hieracium dissimile
+ErrorMsg=Coordinate is outside known range for Hieracium dissimile
+DataFieldName=Species
+DataRecordId=NHMSYS0000459413
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH27
+NR88
+NX26
+
+

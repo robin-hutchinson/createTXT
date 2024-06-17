@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Asplenium ruta-muraria x septentrionale = A. x murbeckii 10km
+Description=Check coordinate against known distribution of Asplenium ruta-muraria x septentrionale = A. x murbeckii
+ErrorMsg=Coordinate is outside known range for Asplenium ruta-muraria x septentrionale = A. x murbeckii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754709
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO04
+NT27
+NY21
+NY31
+SH65
+
+

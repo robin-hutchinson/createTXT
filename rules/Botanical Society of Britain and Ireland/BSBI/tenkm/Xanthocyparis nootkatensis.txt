@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Xanthocyparis nootkatensis 10km
+Description=Check coordinate against known distribution of Xanthocyparis nootkatensis
+ErrorMsg=Coordinate is outside known range for Xanthocyparis nootkatensis
+DataFieldName=Species
+DataRecordId=NHMSYS0020110594
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J45
+
+
+[10km_GB]
+NH84
+NM49
+NS02
+NT27
+NT52
+NT77
+SD52
+SD62
+SD88
+SJ80
+SJ84
+SJ92
+SK96
+SN51
+SN65
+SN67
+SN97
+SO80
+SO91
+ST10
+ST20
+ST45
+SX96
+SY29
+SZ09
+TL89
+TL92
+TM45
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Campanula carpatica 10km
+Description=Check coordinate against known distribution of Campanula carpatica
+ErrorMsg=Coordinate is outside known range for Campanula carpatica
+DataFieldName=Species
+DataRecordId=NBNSYS0000033455
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ41
+SJ88
+
+

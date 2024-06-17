@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium memorabile 10km
+Description=Check coordinate against known distribution of Hieracium memorabile
+ErrorMsg=Coordinate is outside known range for Hieracium memorabile
+DataFieldName=Species
+DataRecordId=NHMSYS0000459500
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH11
+NH90
+NJ00
+NN17
+NN25
+NN27
+NN34
+NN37
+NN43
+NN48
+NN49
+NN59
+NN64
+NN99
+NO09
+NO18
+NO27
+
+

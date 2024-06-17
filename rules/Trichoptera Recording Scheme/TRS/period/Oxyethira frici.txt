@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Oxyethira frici
+Description=Checks date is within known recording period of Oxyethira frici
+ErrorMsg=Date is outside known recording period of Oxyethira frici
+Tvk=NBNSYS0000008369
+StartDate=18800101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

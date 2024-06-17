@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Megalaria laureri 10km
+Description=Check coordinate against known distribution of Megalaria laureri
+ErrorMsg=Coordinate is outside known range for Megalaria laureri
+DataFieldName=Species
+DataRecordId=NHMSYS0001489022
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU20
+SU21
+SU30
+SU31
+
+

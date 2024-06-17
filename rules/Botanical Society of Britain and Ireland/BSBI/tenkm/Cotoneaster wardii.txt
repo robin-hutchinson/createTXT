@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster wardii 10km
+Description=Check coordinate against known distribution of Cotoneaster wardii
+ErrorMsg=Coordinate is outside known range for Cotoneaster wardii
+DataFieldName=Species
+DataRecordId=NBNSYS0100002638
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+N00
+
+

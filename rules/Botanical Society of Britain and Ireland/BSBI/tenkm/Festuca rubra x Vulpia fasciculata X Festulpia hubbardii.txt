@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca rubra x Vulpia fasciculata = X Festulpia hubbardii 10km
+Description=Check coordinate against known distribution of Festuca rubra x Vulpia fasciculata = X Festulpia hubbardii
+ErrorMsg=Coordinate is outside known range for Festuca rubra x Vulpia fasciculata = X Festulpia hubbardii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754804
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ06
+SD17
+SD20
+SD21
+SD31
+SD41
+SH32
+SH33
+SH36
+SH46
+SH53
+SH77
+SH78
+SJ18
+SJ29
+SS43
+SS49
+SS78
+SS79
+SS94
+ST25
+SW75
+SX97
+SY67
+SZ69
+TQ00
+TR35
+
+
+[10km_Ireland]
+O17
+T11
+T12
+T27
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

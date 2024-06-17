@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Bucculatrix ulmifoliae
+Description=Checks date is within known flight period of Bucculatrix ulmifoliae
+ErrorMsg=Date is outside known flight period of Bucculatrix ulmifoliae
+Tvk=NHMSYS0021142413
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

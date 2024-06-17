@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Crocus speciosus
+Description=Checks date is within known recording period of Crocus speciosus
+ErrorMsg=Date is outside known recording period of Crocus speciosus
+Tvk=NHMSYS0000457732
+StartDate=19720101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

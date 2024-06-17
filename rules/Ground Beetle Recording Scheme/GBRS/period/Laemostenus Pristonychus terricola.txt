@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Laemostenus (Pristonychus) terricola
+Description=Checks date is within known recording period of Laemostenus (Pristonychus) terricola
+ErrorMsg=Date is outside known recording period of Laemostenus (Pristonychus) terricola
+Tvk=NHMSYS0001718679
+StartDate=19020101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Vulpia ciliata 10km
+Description=Check coordinate against known distribution of Vulpia ciliata
+ErrorMsg=Coordinate is outside known range for Vulpia ciliata
+DataFieldName=Species
+DataRecordId=NBNSYS0000014885
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK38
+SK48
+
+

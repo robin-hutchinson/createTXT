@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Xanthorhoe montanata montanata
+Description=Checks date is within known flight period of Xanthorhoe montanata montanata
+ErrorMsg=Date is outside known flight period of Xanthorhoe montanata montanata
+Tvk=NHMSYS0021143925
+DataFieldName=
+StartDate=0501
+EndDate=0821
+LastChanged=20240617
+[EndMetadata]

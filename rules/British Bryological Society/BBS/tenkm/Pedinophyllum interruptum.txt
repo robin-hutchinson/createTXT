@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Pedinophyllum interruptum 10km
+Description=Check coordinate against known distribution of Pedinophyllum interruptum
+ErrorMsg=Coordinate is outside known range for Pedinophyllum interruptum
+DataFieldName=Species
+DataRecordId=NBNSYS0000035958
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY50
+NY60
+NY61
+NY70
+NY71
+NY80
+NY81
+NY90
+NY91
+NZ00
+NZ10
+SD47
+SD48
+SD56
+SD57
+SD58
+SD59
+SD67
+SD76
+SD77
+SD78
+SD79
+SD85
+SD86
+SD87
+SD88
+SD89
+SD95
+SD96
+SD97
+SD98
+SD99
+SE06
+SE07
+SE08
+SE09
+
+

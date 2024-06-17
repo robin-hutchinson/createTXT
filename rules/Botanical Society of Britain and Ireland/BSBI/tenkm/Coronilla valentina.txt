@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Coronilla valentina 10km
+Description=Check coordinate against known distribution of Coronilla valentina
+ErrorMsg=Coordinate is outside known range for Coronilla valentina
+DataFieldName=Species
+DataRecordId=NBNSYS0000003277
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ36
+SC49
+SE73
+SO51
+ST12
+ST33
+SX64
+SX85
+SX96
+SY08
+TA05
+TQ27
+TQ38
+TV69
+
+

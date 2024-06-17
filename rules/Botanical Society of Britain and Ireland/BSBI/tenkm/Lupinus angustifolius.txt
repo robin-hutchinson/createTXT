@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lupinus angustifolius 10km
+Description=Check coordinate against known distribution of Lupinus angustifolius
+ErrorMsg=Coordinate is outside known range for Lupinus angustifolius
+DataFieldName=Species
+DataRecordId=NBNSYS0000034086
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY45
+SD30
+SH56
+SH78
+SO92
+ST57
+SU73
+SX87
+TF60
+TF62
+TF80
+TL23
+TL77
+TL78
+TL79
+TQ35
+
+

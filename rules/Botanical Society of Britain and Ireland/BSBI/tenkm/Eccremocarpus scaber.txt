@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Eccremocarpus scaber 10km
+Description=Check coordinate against known distribution of Eccremocarpus scaber
+ErrorMsg=Coordinate is outside known range for Eccremocarpus scaber
+DataFieldName=Species
+DataRecordId=NHMSYS0000458252
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN42
+SO81
+SP07
+ST33
+ST61
+SW43
+
+

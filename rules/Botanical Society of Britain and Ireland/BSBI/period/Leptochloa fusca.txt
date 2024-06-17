@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Leptochloa fusca
+Description=Checks date is within known recording period of Leptochloa fusca
+ErrorMsg=Date is outside known recording period of Leptochloa fusca
+Tvk=NBNSYS0000033382
+StartDate=19180101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactylorhiza praetermissa x purpurella = D. x insignis 10km
+Description=Check coordinate against known distribution of Dactylorhiza praetermissa x purpurella = D. x insignis
+ErrorMsg=Coordinate is outside known range for Dactylorhiza praetermissa x purpurella = D. x insignis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754665
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ16
+NZ52
+SE01
+SE14
+SE19
+SE42
+SH53
+SJ77
+SN30
+SN58
+SN68
+SN69
+SR89
+SS59
+SU41
+
+

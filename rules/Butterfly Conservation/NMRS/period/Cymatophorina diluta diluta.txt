@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Cymatophorina diluta diluta
+Description=Checks date is within known recording period of Cymatophorina diluta diluta
+ErrorMsg=Date is outside known recording period of Cymatophorina diluta diluta
+Tvk=NHMSYS0021143799
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

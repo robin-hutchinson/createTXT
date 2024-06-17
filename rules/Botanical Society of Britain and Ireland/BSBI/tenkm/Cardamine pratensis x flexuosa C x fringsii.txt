@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cardamine pratensis x flexuosa = C. x fringsii 10km
+Description=Check coordinate against known distribution of Cardamine pratensis x flexuosa = C. x fringsii
+ErrorMsg=Coordinate is outside known range for Cardamine pratensis x flexuosa = C. x fringsii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754495
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK26
+SO60
+SO73
+SO76
+SO85
+SO86
+SO97
+SP27
+SS83
+ST17
+ST29
+ST59
+ST69
+ST71
+ST90
+ST95
+SU24
+SU91
+SU92
+SU96
+TA13
+TQ17
+TQ19
+TQ24
+TQ27
+TQ32
+TQ33
+TQ35
+TQ51
+TQ52
+TQ55
+
+

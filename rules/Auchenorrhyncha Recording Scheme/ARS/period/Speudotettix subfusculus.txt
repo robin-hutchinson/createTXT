@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Speudotettix subfusculus
+Description=Checks date is within known recording period of Speudotettix subfusculus
+ErrorMsg=Date is outside known recording period of Speudotettix subfusculus
+Tvk=NHMSYS0020705901
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

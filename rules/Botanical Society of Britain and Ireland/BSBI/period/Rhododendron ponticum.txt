@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Rhododendron ponticum
+Description=Checks date is within known recording period of Rhododendron ponticum
+ErrorMsg=Date is outside known recording period of Rhododendron ponticum
+Tvk=NBNSYS0000003888
+StartDate=18940101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

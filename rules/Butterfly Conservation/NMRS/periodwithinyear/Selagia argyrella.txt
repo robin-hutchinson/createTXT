@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Selagia argyrella
+Description=Checks date is within known flight period of Selagia argyrella
+ErrorMsg=Date is outside known flight period of Selagia argyrella
+Tvk=NHMSYS0000504181
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

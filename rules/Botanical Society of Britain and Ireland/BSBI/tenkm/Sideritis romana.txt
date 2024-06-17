@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sideritis romana 10km
+Description=Check coordinate against known distribution of Sideritis romana
+ErrorMsg=Coordinate is outside known range for Sideritis romana
+DataFieldName=Species
+DataRecordId=NBNSYS0200003151
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TF27
+
+

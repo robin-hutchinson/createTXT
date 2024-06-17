@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Alectoria ochroleuca 10km
+Description=Check coordinate against known distribution of Alectoria ochroleuca
+ErrorMsg=Coordinate is outside known range for Alectoria ochroleuca
+DataFieldName=Species
+DataRecordId=NBNSYS0000018168
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY20
+NH81
+NH90
+NH91
+NJ00
+NJ01
+NJ10
+NJ13
+NJ20
+NJ21
+NJ31
+NN89
+NN99
+NO17
+
+

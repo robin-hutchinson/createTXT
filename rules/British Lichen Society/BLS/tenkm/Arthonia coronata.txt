@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Arthonia coronata 10km
+Description=Check coordinate against known distribution of Arthonia coronata
+ErrorMsg=Coordinate is outside known range for Arthonia coronata
+DataFieldName=Species
+DataRecordId=NHMSYS0001474938
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH89
+NH96
+
+

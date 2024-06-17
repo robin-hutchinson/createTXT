@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Thereva fulva 10km
+Description=Check coordinate against known distribution of Thereva fulva
+ErrorMsg=Coordinate is outside known range for Thereva fulva
+DataFieldName=Species
+DataRecordId=NBNSYS0000007928
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH46
+SS49
+SS58
+SS78
+SS87
+SU14
+SU60
+TQ57
+TQ91
+
+

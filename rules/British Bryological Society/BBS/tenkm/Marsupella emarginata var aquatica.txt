@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Marsupella emarginata var. aquatica 10km
+Description=Check coordinate against known distribution of Marsupella emarginata var. aquatica
+ErrorMsg=Coordinate is outside known range for Marsupella emarginata var. aquatica
+DataFieldName=Species
+DataRecordId=NHMSYS0000309961
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY10
+NY10
+NY11
+NY20
+NY21
+NY31
+SD29
+SH54
+SH55
+SH60
+SH61
+SH62
+SH63
+SH64
+SH65
+SH71
+SH72
+SH82
+SN71
+SN74
+SN75
+SN76
+SN77
+SN78
+SN79
+SN81
+SN82
+SN83
+SN84
+SN85
+SN86
+SN87
+SN88
+SN89
+SN91
+SS99
+
+

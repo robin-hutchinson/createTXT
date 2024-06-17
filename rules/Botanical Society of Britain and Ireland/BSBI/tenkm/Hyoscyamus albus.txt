@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hyoscyamus albus 10km
+Description=Check coordinate against known distribution of Hyoscyamus albus
+ErrorMsg=Coordinate is outside known range for Hyoscyamus albus
+DataFieldName=Species
+DataRecordId=NBNSYS0200002356
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ36
+TL05
+TL12
+
+

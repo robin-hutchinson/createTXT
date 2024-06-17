@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Criorhina ranunculi
+Description=Checks date is within known flight period of Criorhina ranunculi
+ErrorMsg=Date is outside known flight period of Criorhina ranunculi
+Tvk=NBNSYS0000007108
+DataFieldName=
+StartDate=0302
+EndDate=1113
+LastChanged=20240617
+[EndMetadata]

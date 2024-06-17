@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Conostethus griseus
+Description=Checks date is within known recording period of Conostethus griseus
+ErrorMsg=Date is outside known recording period of Conostethus griseus
+Tvk=NHMSYS0020309096
+StartDate=18700101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

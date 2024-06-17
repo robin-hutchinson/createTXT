@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Orthotrichia costalis 10km
+Description=Check coordinate against known distribution of Orthotrichia costalis
+ErrorMsg=Coordinate is outside known range for Orthotrichia costalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008378
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD54
+SD55
+SJ47
+SJ48
+SJ67
+SK48
+SO54
+SP31
+SP41
+SP49
+SP83
+SP84
+ST47
+SU70
+TL13
+TQ28
+
+

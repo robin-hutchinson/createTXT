@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Batrachedra praeangusta
+Description=Checks date is within known flight period of Batrachedra praeangusta
+ErrorMsg=Date is outside known flight period of Batrachedra praeangusta
+Tvk=NHMSYS0000501457
+DataFieldName=
+StartDate=0601
+EndDate=1007
+LastChanged=20240617
+[EndMetadata]

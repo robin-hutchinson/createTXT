@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus ludensis 10km
+Description=Check coordinate against known distribution of Rubus ludensis
+ErrorMsg=Coordinate is outside known range for Rubus ludensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462771
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ15
+SN14
+SN44
+SN65
+SN74
+SN77
+SN81
+SN82
+SN83
+SN84
+SN85
+SN91
+SN92
+SN93
+SN94
+SN95
+SN96
+SO00
+SO01
+SO02
+SO03
+SO04
+SO05
+SO06
+SO07
+SO13
+SO14
+SO16
+SO24
+SO47
+SO50
+SO57
+
+

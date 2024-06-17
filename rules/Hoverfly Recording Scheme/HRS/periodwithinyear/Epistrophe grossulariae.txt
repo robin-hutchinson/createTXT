@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Epistrophe grossulariae
+Description=Checks date is within known flight period of Epistrophe grossulariae
+ErrorMsg=Date is outside known flight period of Epistrophe grossulariae
+Tvk=NBNSYS0000006913
+DataFieldName=
+StartDate=0127
+EndDate=1212
+LastChanged=20240617
+[EndMetadata]

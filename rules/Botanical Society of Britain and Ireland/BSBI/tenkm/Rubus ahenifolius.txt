@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus ahenifolius 10km
+Description=Check coordinate against known distribution of Rubus ahenifolius
+ErrorMsg=Coordinate is outside known range for Rubus ahenifolius
+DataFieldName=Species
+DataRecordId=NHMSYS0000462580
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU93
+SU95
+SU96
+TQ04
+TQ05
+TQ06
+TQ15
+TQ27
+TQ32
+TQ36
+
+

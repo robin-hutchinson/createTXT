@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gentiana nivalis 10km
+Description=Check coordinate against known distribution of Gentiana nivalis
+ErrorMsg=Coordinate is outside known range for Gentiana nivalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000003968
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN53
+NN54
+NN64
+NO17
+
+

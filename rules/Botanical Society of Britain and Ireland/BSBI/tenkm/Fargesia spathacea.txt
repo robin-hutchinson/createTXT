@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fargesia spathacea 10km
+Description=Check coordinate against known distribution of Fargesia spathacea
+ErrorMsg=Coordinate is outside known range for Fargesia spathacea
+DataFieldName=Species
+DataRecordId=NBNSYS0100003186
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J36
+
+
+[10km_GB]
+NT41
+NT73
+SD38
+SN44
+SN57
+SO77
+SP22
+SP42
+SS49
+ST17
+SU00
+SU86
+SU96
+TQ25
+TQ55
+
+
+NA
+
+

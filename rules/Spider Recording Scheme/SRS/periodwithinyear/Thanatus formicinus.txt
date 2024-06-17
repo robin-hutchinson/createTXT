@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Thanatus formicinus
+Description=Checks date is within known flight period of Thanatus formicinus
+ErrorMsg=Date is outside known flight period of Thanatus formicinus
+Tvk=NBNSYS0000008753
+DataFieldName=
+StartDate=0620
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

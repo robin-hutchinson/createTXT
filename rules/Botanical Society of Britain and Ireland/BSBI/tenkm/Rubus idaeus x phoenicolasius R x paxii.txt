@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus idaeus x phoenicolasius = R. x paxii 10km
+Description=Check coordinate against known distribution of Rubus idaeus x phoenicolasius = R. x paxii
+ErrorMsg=Coordinate is outside known range for Rubus idaeus x phoenicolasius = R. x paxii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754727
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD30
+TL20
+TL56
+TL76
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Zabrus tenebrioides
+Description=Checks date is within known flight period of Zabrus tenebrioides
+ErrorMsg=Date is outside known flight period of Zabrus tenebrioides
+Tvk=NBNSYS0000007374
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

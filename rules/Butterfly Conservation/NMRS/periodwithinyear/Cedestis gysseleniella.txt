@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Cedestis gysseleniella
+Description=Checks date is within known flight period of Cedestis gysseleniella
+ErrorMsg=Date is outside known flight period of Cedestis gysseleniella
+Tvk=NHMSYS0021142475
+DataFieldName=
+StartDate=0515
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

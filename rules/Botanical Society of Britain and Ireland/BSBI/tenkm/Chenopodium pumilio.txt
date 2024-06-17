@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chenopodium pumilio 10km
+Description=Check coordinate against known distribution of Chenopodium pumilio
+ErrorMsg=Coordinate is outside known range for Chenopodium pumilio
+DataFieldName=Species
+DataRecordId=NHMSYS0000345175
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT36
+NT53
+SE11
+SE13
+SP04
+ST17
+SU41
+SU73
+SU74
+SU84
+TL03
+TL66
+TQ65
+
+

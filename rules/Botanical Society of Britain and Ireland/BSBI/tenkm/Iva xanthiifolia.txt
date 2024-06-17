@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Iva xanthiifolia 10km
+Description=Check coordinate against known distribution of Iva xanthiifolia
+ErrorMsg=Coordinate is outside known range for Iva xanthiifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000033423
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD32
+SO83
+SO92
+SP09
+ST08
+ST17
+SX05
+TA02
+TF62
+TL03
+TL31
+TM14
+TM23
+TQ57
+TQ88
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Stenobothrus lineatus
+Description=Checks date is within known recording period of Stenobothrus lineatus
+ErrorMsg=Date is outside known recording period of Stenobothrus lineatus
+Tvk=NBNSYS0000006835
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

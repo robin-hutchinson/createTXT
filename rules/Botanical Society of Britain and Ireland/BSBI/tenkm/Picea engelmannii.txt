@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Picea engelmannii 10km
+Description=Check coordinate against known distribution of Picea engelmannii
+ErrorMsg=Coordinate is outside known range for Picea engelmannii
+DataFieldName=Species
+DataRecordId=NHMSYS0000461250
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC27
+SC38
+SJ11
+SN77
+SN78
+SN79
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Peritrechus geniculatus
+Description=Checks date is within known recording period of Peritrechus geniculatus
+ErrorMsg=Date is outside known recording period of Peritrechus geniculatus
+Tvk=NHMSYS0020309631
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

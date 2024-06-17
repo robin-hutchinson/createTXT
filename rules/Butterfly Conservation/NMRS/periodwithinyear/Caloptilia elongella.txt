@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Caloptilia elongella
+Description=Checks date is within known flight period of Caloptilia elongella
+ErrorMsg=Date is outside known flight period of Caloptilia elongella
+Tvk=NHMSYS0000501606
+DataFieldName=
+StartDate=0501
+EndDate=0531
+LastChanged=20240617
+[EndMetadata]

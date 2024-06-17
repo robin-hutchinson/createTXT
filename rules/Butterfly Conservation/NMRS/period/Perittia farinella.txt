@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Perittia farinella
+Description=Checks date is within known recording period of Perittia farinella
+ErrorMsg=Date is outside known recording period of Perittia farinella
+Tvk=NHMSYS0021142252
+StartDate=18970527
+EndDate=
+LastChanged=20240617
+[EndMetadata]

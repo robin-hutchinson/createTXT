@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium dipteroides 10km
+Description=Check coordinate against known distribution of Hieracium dipteroides
+ErrorMsg=Coordinate is outside known range for Hieracium dipteroides
+DataFieldName=Species
+DataRecordId=NHMSYS0000840892
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC22
+NG52
+NH09
+NH17
+NH85
+NJ45
+NN10
+NN21
+NN48
+NN64
+NN69
+NN76
+NN84
+NO17
+NS27
+NS47
+
+

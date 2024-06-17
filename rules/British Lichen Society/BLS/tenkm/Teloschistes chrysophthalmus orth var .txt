@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Teloschistes chrysophthalmus orth. var. 10km
+Description=Check coordinate against known distribution of Teloschistes chrysophthalmus orth. var.
+ErrorMsg=Coordinate is outside known range for Teloschistes chrysophthalmus orth. var.
+DataFieldName=Species
+DataRecordId=NBNSYS0000020577
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO64
+SU00
+SU41
+SU60
+SU72
+SW42
+SW72
+SW84
+SX75
+SX83
+SY88
+SY98
+SY99
+SZ08
+SZ38
+SZ39
+SZ49
+SZ89
+TQ30
+TQ31
+TQ40
+TR14
+
+
+[10km_Ireland]
+W44
+
+

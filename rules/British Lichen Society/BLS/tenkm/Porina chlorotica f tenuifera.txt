@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Porina chlorotica f. tenuifera 10km
+Description=Check coordinate against known distribution of Porina chlorotica f. tenuifera
+ErrorMsg=Coordinate is outside known range for Porina chlorotica f. tenuifera
+DataFieldName=Species
+DataRecordId=NHMSYS0020990980
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY88
+TM25
+
+

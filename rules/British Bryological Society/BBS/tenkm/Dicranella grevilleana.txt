@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Dicranella grevilleana 10km
+Description=Check coordinate against known distribution of Dicranella grevilleana
+ErrorMsg=Coordinate is outside known range for Dicranella grevilleana
+DataFieldName=Species
+DataRecordId=NBNSYS0000036209
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN67
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Lycophotia porphyrea
+Description=Checks date is within known recording period of Lycophotia porphyrea
+ErrorMsg=Date is outside known recording period of Lycophotia porphyrea
+Tvk=NHMSYS0021144917
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

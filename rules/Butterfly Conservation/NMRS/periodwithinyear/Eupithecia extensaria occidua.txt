@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eupithecia extensaria occidua
+Description=Checks date is within known flight period of Eupithecia extensaria occidua
+ErrorMsg=Date is outside known flight period of Eupithecia extensaria occidua
+Tvk=NHMSYS0021144116
+DataFieldName=
+StartDate=0601
+EndDate=0707
+LastChanged=20240617
+[EndMetadata]

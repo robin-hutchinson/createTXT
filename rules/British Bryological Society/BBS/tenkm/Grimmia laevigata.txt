@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Grimmia laevigata 10km
+Description=Check coordinate against known distribution of Grimmia laevigata
+ErrorMsg=Coordinate is outside known range for Grimmia laevigata
+DataFieldName=Species
+DataRecordId=NBNSYS0000036461
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM50
+SM62
+SM71
+SM73
+SM84
+SO30
+SO31
+SO32
+SO33
+SO34
+SO35
+SO40
+SO41
+SO42
+SO43
+SO44
+SO45
+SO52
+SO55
+SO62
+SO63
+SO64
+SO65
+SV80
+SV90
+
+

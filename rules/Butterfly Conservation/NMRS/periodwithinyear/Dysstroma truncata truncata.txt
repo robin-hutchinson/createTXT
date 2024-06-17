@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Dysstroma truncata truncata
+Description=Checks date is within known flight period of Dysstroma truncata truncata
+ErrorMsg=Date is outside known flight period of Dysstroma truncata truncata
+Tvk=NHMSYS0021143993
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Apamea furva furva
+Description=Checks date is within known recording period of Apamea furva furva
+ErrorMsg=Date is outside known recording period of Apamea furva furva
+Tvk=NHMSYS0021144675
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

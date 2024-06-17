@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Metalimnus formosus
+Description=Checks date is within known recording period of Metalimnus formosus
+ErrorMsg=Date is outside known recording period of Metalimnus formosus
+Tvk=NHMSYS0020442437
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

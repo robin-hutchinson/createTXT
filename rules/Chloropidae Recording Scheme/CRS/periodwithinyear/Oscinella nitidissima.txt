@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Oscinella nitidissima
+Description=Checks date is within known flight period of Oscinella nitidissima
+ErrorMsg=Date is outside known flight period of Oscinella nitidissima
+Tvk=NBNSYS0000029916
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

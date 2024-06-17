@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Halyzia sedecimguttata
+Description=Checks date is within known recording period of Halyzia sedecimguttata
+ErrorMsg=Date is outside known recording period of Halyzia sedecimguttata
+Tvk=NBNSYS0000008332
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

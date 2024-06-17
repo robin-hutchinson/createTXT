@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Crematogaster scutellaris
+Description=Checks date is within known flight period of Crematogaster scutellaris
+ErrorMsg=Date is outside known flight period of Crematogaster scutellaris
+Tvk=NHMSYS0000875739
+DataFieldName=
+StartDate=0401
+EndDate=0430
+LastChanged=20240617
+[EndMetadata]

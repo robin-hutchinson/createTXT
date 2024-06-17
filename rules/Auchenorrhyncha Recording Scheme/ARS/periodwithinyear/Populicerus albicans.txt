@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Populicerus albicans
+Description=Checks date is within known flight period of Populicerus albicans
+ErrorMsg=Date is outside known flight period of Populicerus albicans
+Tvk=NHMSYS0020705631
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

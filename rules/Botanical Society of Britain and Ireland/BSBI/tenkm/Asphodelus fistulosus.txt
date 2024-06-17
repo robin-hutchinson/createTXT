@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Asphodelus fistulosus 10km
+Description=Check coordinate against known distribution of Asphodelus fistulosus
+ErrorMsg=Coordinate is outside known range for Asphodelus fistulosus
+DataFieldName=Species
+DataRecordId=NBNSYS0200001835
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD32
+SJ07
+SP04
+SW43
+SX05
+SX15
+TA12
+TL31
+
+

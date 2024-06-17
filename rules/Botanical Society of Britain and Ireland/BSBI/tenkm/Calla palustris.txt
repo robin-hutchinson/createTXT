@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Calla palustris 10km
+Description=Check coordinate against known distribution of Calla palustris
+ErrorMsg=Coordinate is outside known range for Calla palustris
+DataFieldName=Species
+DataRecordId=NBNSYS0000002349
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H91
+
+
+[10km_GB]
+NS24
+NS34
+NS97
+NT27
+NY96
+NZ41
+NZ42
+NZ43
+SD51
+SD58
+SD69
+SD92
+SE33
+SE84
+SJ11
+SJ52
+SJ57
+SJ63
+SK02
+SK33
+SK34
+SO72
+SP09
+SP60
+ST77
+ST78
+SU79
+SU83
+SU93
+TQ05
+TQ09
+TQ16
+TQ19
+TQ35
+TQ43
+TQ64
+
+

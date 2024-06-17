@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pammene aurana
+Description=Checks date is within known recording period of Pammene aurana
+ErrorMsg=Date is outside known recording period of Pammene aurana
+Tvk=NBNSYS0100004398
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

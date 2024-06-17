@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Boudinotiana notha
+Description=Checks date is within known flight period of Boudinotiana notha
+ErrorMsg=Date is outside known flight period of Boudinotiana notha
+Tvk=NHMSYS0021144157
+DataFieldName=
+StartDate=0315
+EndDate=0515
+LastChanged=20240617
+[EndMetadata]

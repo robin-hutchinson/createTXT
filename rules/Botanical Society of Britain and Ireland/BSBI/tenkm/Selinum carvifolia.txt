@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Selinum carvifolia 10km
+Description=Check coordinate against known distribution of Selinum carvifolia
+ErrorMsg=Coordinate is outside known range for Selinum carvifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000003701
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE90
+SK46
+TL44
+TL57
+TL66
+
+

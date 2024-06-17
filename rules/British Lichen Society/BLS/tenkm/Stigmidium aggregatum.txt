@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Stigmidium aggregatum 10km
+Description=Check coordinate against known distribution of Stigmidium aggregatum
+ErrorMsg=Coordinate is outside known range for Stigmidium aggregatum
+DataFieldName=Species
+DataRecordId=NHMSYS0001499088
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D40
+M22
+
+
+[10km_GB]
+NC22
+NO19
+NT13
+NT55
+NT66
+NT71
+NT82
+SN78
+SS84
+TM48
+
+

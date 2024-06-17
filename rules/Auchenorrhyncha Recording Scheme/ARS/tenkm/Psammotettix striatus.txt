@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Psammotettix striatus 10km
+Description=Check coordinate against known distribution of Psammotettix striatus
+ErrorMsg=Coordinate is outside known range for Psammotettix striatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000010536
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SZ38
+SZ58
+TL67
+TL78
+
+

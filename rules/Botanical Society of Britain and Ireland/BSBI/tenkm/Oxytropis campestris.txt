@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Oxytropis campestris 10km
+Description=Check coordinate against known distribution of Oxytropis campestris
+ErrorMsg=Coordinate is outside known range for Oxytropis campestris
+DataFieldName=Species
+DataRecordId=NBNSYS0000003273
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN97
+NO27
+NR51
+
+

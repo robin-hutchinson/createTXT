@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Polypogon maritimus 10km
+Description=Check coordinate against known distribution of Polypogon maritimus
+ErrorMsg=Coordinate is outside known range for Polypogon maritimus
+DataFieldName=Species
+DataRecordId=NBNSYS0200002948
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP04
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Anteon scapulare
+Description=Checks date is within known flight period of Anteon scapulare
+ErrorMsg=Date is outside known flight period of Anteon scapulare
+Tvk=NHMSYS0000875369
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

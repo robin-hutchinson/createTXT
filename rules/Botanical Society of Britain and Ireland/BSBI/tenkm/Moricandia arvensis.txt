@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Moricandia arvensis 10km
+Description=Check coordinate against known distribution of Moricandia arvensis
+ErrorMsg=Coordinate is outside known range for Moricandia arvensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000460779
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO41
+NT27
+NT37
+NY15
+SW43
+SW83
+TL31
+TQ27
+
+

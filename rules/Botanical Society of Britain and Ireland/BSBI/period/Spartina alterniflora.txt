@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Spartina alterniflora
+Description=Checks date is within known recording period of Spartina alterniflora
+ErrorMsg=Date is outside known recording period of Spartina alterniflora
+Tvk=NHMSYS0000463854
+StartDate=18160101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

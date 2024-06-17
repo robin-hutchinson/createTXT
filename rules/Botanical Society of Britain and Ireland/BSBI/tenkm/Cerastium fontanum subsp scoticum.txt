@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cerastium fontanum subsp. scoticum 10km
+Description=Check coordinate against known distribution of Cerastium fontanum subsp. scoticum
+ErrorMsg=Coordinate is outside known range for Cerastium fontanum subsp. scoticum
+DataFieldName=Species
+DataRecordId=NHMSYS0000457068
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO27
+
+

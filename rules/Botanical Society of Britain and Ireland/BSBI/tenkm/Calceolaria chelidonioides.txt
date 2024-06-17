@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Calceolaria chelidonioides 10km
+Description=Check coordinate against known distribution of Calceolaria chelidonioides
+ErrorMsg=Coordinate is outside known range for Calceolaria chelidonioides
+DataFieldName=Species
+DataRecordId=NBNSYS0000004984
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT43
+NU12
+SC49
+SE11
+SE14
+SE24
+SE37
+SH54
+SO10
+SP50
+SS42
+ST51
+ST96
+SX15
+SY78
+SY79
+SY89
+SZ29
+TG20
+TG24
+TL30
+TQ05
+TQ17
+TQ25
+TQ27
+TQ28
+TQ92
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Grasshoppers and Allies Recording Scheme/GARS 10km distribution
+ShortName=Gryllotalpa 10km
+Description=Check coordinate against known distribution of Gryllotalpa
+ErrorMsg=Coordinate is outside known range for Gryllotalpa
+DataFieldName=Species
+DataRecordId=NHMSYS0001387359
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU16
+
+

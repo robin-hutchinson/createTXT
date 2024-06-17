@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Diplotaxis viminea 10km
+Description=Check coordinate against known distribution of Diplotaxis viminea
+ErrorMsg=Coordinate is outside known range for Diplotaxis viminea
+DataFieldName=Species
+DataRecordId=NBNSYS0000033594
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK50
+ST57
+
+

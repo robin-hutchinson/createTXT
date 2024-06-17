@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Gravesteiniella boldi
+Description=Checks date is within known flight period of Gravesteiniella boldi
+ErrorMsg=Date is outside known flight period of Gravesteiniella boldi
+Tvk=NHMSYS0020705612
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

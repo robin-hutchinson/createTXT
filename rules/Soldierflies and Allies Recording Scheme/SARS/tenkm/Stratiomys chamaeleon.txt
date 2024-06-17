@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Stratiomys chamaeleon 10km
+Description=Check coordinate against known distribution of Stratiomys chamaeleon
+ErrorMsg=Coordinate is outside known range for Stratiomys chamaeleon
+DataFieldName=Species
+DataRecordId=NBNSYS0000007812
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TF71
+TL89
+
+

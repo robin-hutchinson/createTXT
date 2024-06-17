@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Microdon analis
+Description=Checks date is within known flight period of Microdon analis
+ErrorMsg=Date is outside known flight period of Microdon analis
+Tvk=NBNSYS0100004052
+DataFieldName=
+StartDate=0203
+EndDate=1107
+LastChanged=20240617
+[EndMetadata]

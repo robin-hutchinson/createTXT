@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Melitta haemorrhoidalis
+Description=Checks date is within known flight period of Melitta haemorrhoidalis
+ErrorMsg=Date is outside known flight period of Melitta haemorrhoidalis
+Tvk=NHMSYS0000876312
+DataFieldName=
+StartDate=0201
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

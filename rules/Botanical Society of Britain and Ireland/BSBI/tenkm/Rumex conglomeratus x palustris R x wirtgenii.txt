@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex conglomeratus x palustris = R. x wirtgenii 10km
+Description=Check coordinate against known distribution of Rumex conglomeratus x palustris = R. x wirtgenii
+ErrorMsg=Coordinate is outside known range for Rumex conglomeratus x palustris = R. x wirtgenii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754737
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE70
+SK88
+SO87
+SP86
+ST42
+ST43
+TL14
+TL15
+TM39
+TQ17
+TQ18
+TQ26
+TQ28
+TQ38
+TQ39
+TQ47
+TQ58
+TQ67
+
+

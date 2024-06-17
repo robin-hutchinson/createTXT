@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Aralia chinensis
+Description=Checks date is within known recording period of Aralia chinensis
+ErrorMsg=Date is outside known recording period of Aralia chinensis
+Tvk=NBNSYS0000033715
+StartDate=19900101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

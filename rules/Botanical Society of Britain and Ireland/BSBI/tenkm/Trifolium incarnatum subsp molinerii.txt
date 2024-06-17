@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trifolium incarnatum subsp. molinerii 10km
+Description=Check coordinate against known distribution of Trifolium incarnatum subsp. molinerii
+ErrorMsg=Coordinate is outside known range for Trifolium incarnatum subsp. molinerii
+DataFieldName=Species
+DataRecordId=NHMSYS0100003139
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW43
+SW61
+SW62
+SW71
+SX85
+SY98
+SZ09
+SZ19
+TL78
+
+
+NA
+
+

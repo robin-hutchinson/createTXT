@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Heterocladium wulfsbergii 10km
+Description=Check coordinate against known distribution of Heterocladium wulfsbergii
+ErrorMsg=Coordinate is outside known range for Heterocladium wulfsbergii
+DataFieldName=Species
+DataRecordId=NHMSYS0000310048
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NA10
+SC36
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Baetis buceratus
+Description=Checks date is within known flight period of Baetis buceratus
+ErrorMsg=Date is outside known flight period of Baetis buceratus
+Tvk=NBNSYS0000010864
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

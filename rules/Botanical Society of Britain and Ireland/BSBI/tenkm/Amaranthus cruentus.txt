@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Amaranthus cruentus 10km
+Description=Check coordinate against known distribution of Amaranthus cruentus
+ErrorMsg=Coordinate is outside known range for Amaranthus cruentus
+DataFieldName=Species
+DataRecordId=NBNSYS0000033863
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD32
+SD33
+SE13
+SK09
+SP40
+SS94
+ST41
+ST57
+ST61
+ST90
+SU76
+SX45
+SX46
+TL02
+TL13
+TL21
+TL31
+TL32
+TL51
+TM23
+TQ09
+TQ20
+TQ27
+TQ30
+TQ47
+TQ48
+TQ57
+TQ78
+
+
+NA
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Solidago canadensis
+Description=Checks date is within known recording period of Solidago canadensis
+ErrorMsg=Date is outside known recording period of Solidago canadensis
+Tvk=NBNSYS0000004418
+StartDate=18490101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

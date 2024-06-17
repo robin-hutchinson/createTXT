@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Cicindela hybrida
+Description=Checks date is within known flight period of Cicindela hybrida
+ErrorMsg=Date is outside known flight period of Cicindela hybrida
+Tvk=NBNSYS0000007124
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton rutilus 10km
+Description=Check coordinate against known distribution of Potamogeton rutilus
+ErrorMsg=Coordinate is outside known range for Potamogeton rutilus
+DataFieldName=Species
+DataRecordId=NBNSYS0000002137
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU24
+HU25
+HU44
+NC21
+NF76
+NF77
+NF86
+NH55
+NH85
+NH87
+NH88
+NL94
+NM15
+NO14
+
+

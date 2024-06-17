@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Aster linosyris 10km
+Description=Check coordinate against known distribution of Aster linosyris
+ErrorMsg=Coordinate is outside known range for Aster linosyris
+DataFieldName=Species
+DataRecordId=NBNSYS0000004435
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT17
+SD37
+SH77
+SH78
+SK00
+SK49
+SK50
+SR99
+SS48
+ST25
+ST35
+ST36
+SX95
+SZ79
+TQ20
+
+

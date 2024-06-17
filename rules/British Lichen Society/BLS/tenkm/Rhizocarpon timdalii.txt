@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rhizocarpon timdalii 10km
+Description=Check coordinate against known distribution of Rhizocarpon timdalii
+ErrorMsg=Coordinate is outside known range for Rhizocarpon timdalii
+DataFieldName=Species
+DataRecordId=NHMSYS0001496296
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH65
+
+

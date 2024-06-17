@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Paradelphacodes paludosus
+Description=Checks date is within known flight period of Paradelphacodes paludosus
+ErrorMsg=Date is outside known flight period of Paradelphacodes paludosus
+Tvk=NHMSYS0020442446
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

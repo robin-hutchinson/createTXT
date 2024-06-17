@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Disphyma crassifolium 10km
+Description=Check coordinate against known distribution of Disphyma crassifolium
+ErrorMsg=Coordinate is outside known range for Disphyma crassifolium
+DataFieldName=Species
+DataRecordId=NHMSYS0000458125
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH27
+SH28
+SH49
+SU73
+SV81
+SV90
+SV91
+SW32
+SW52
+SW61
+SW62
+SW64
+SW71
+SW75
+SW83
+SW87
+SZ57
+TM33
+TQ70
+TR23
+
+
+NA
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Tingis (Tingis) ampliata
+Description=Checks date is within known recording period of Tingis (Tingis) ampliata
+ErrorMsg=Date is outside known recording period of Tingis (Tingis) ampliata
+Tvk=NHMSYS0020309899
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

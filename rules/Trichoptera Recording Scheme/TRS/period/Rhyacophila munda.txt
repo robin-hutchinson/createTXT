@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Rhyacophila munda
+Description=Checks date is within known recording period of Rhyacophila munda
+ErrorMsg=Date is outside known recording period of Rhyacophila munda
+Tvk=NBNSYS0000008340
+StartDate=18450101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

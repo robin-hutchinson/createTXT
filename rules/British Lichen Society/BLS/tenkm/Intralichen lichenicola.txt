@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Intralichen lichenicola 10km
+Description=Check coordinate against known distribution of Intralichen lichenicola
+ErrorMsg=Coordinate is outside known range for Intralichen lichenicola
+DataFieldName=Species
+DataRecordId=NHMSYS0020039018
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT50
+TM11
+TM12
+TM24
+TM25
+TQ88
+
+

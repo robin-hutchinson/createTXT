@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rinodina degeliana 10km
+Description=Check coordinate against known distribution of Rinodina degeliana
+ErrorMsg=Coordinate is outside known range for Rinodina degeliana
+DataFieldName=Species
+DataRecordId=BMSSYS0000016417
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH80
+NO49
+
+

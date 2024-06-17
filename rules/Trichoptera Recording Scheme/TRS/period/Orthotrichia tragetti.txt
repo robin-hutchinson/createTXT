@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Orthotrichia tragetti
+Description=Checks date is within known recording period of Orthotrichia tragetti
+ErrorMsg=Date is outside known recording period of Orthotrichia tragetti
+Tvk=NBNSYS0000008379
+StartDate=19150101
+EndDate=19201231
+LastChanged=20240617
+[EndMetadata]

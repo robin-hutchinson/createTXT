@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Beta trigyna
+Description=Checks date is within known recording period of Beta trigyna
+ErrorMsg=Date is outside known recording period of Beta trigyna
+Tvk=NBNSYS0000034200
+StartDate=18910101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

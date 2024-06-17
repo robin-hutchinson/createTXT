@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ranunculus trichophyllus x circinatus 10km
+Description=Check coordinate against known distribution of Ranunculus trichophyllus x circinatus
+ErrorMsg=Coordinate is outside known range for Ranunculus trichophyllus x circinatus
+DataFieldName=Species
+DataRecordId=NHMSYS0100002653
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL77
+
+

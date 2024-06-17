@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Physalis ixocarpa 10km
+Description=Check coordinate against known distribution of Physalis ixocarpa
+ErrorMsg=Coordinate is outside known range for Physalis ixocarpa
+DataFieldName=Species
+DataRecordId=NBNSYS0000014023
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS97
+NT53
+SD90
+SE11
+SE13
+SE14
+SE22
+SE32
+SE37
+SE38
+SK69
+SO84
+SO88
+SP04
+SP60
+ST51
+ST57
+ST61
+SU73
+SU74
+SU98
+SX87
+TG20
+TL03
+TL41
+TM09
+TQ17
+TQ46
+TQ57
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Halophiloscia couchii
+Description=Checks date is within known recording period of Halophiloscia couchii
+ErrorMsg=Date is outside known recording period of Halophiloscia couchii
+Tvk=NHMSYS0001593599
+StartDate=18580101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Acherontia atropos
+Description=Checks date is within known flight period of Acherontia atropos
+ErrorMsg=Date is outside known flight period of Acherontia atropos
+Tvk=NBNSYS0000006064
+DataFieldName=
+StartDate=0421
+EndDate=1107
+LastChanged=20240617
+[EndMetadata]

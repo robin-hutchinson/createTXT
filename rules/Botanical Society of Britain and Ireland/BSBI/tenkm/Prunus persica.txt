@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Prunus persica 10km
+Description=Check coordinate against known distribution of Prunus persica
+ErrorMsg=Coordinate is outside known range for Prunus persica
+DataFieldName=Species
+DataRecordId=NBNSYS0000034215
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK87
+SP40
+SP50
+ST36
+ST45
+ST67
+ST72
+SU77
+SU78
+SY88
+SY98
+SZ07
+SZ08
+TL02
+TQ05
+TQ08
+TQ17
+TQ18
+TQ25
+TQ27
+TQ28
+TQ29
+TQ37
+TQ43
+TQ47
+
+

@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cucumis melo 10km
+Description=Check coordinate against known distribution of Cucumis melo
+ErrorMsg=Coordinate is outside known range for Cucumis melo
+DataFieldName=Species
+DataRecordId=NBNSYS0000014732
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX40
+SD63
+SE13
+SK73
+SP34
+ST36
+ST38
+ST54
+ST57
+ST61
+ST63
+ST80
+SU76
+SU94
+SU95
+SW64
+SW94
+SY88
+TL02
+TL11
+TL13
+TL31
+TL41
+TL80
+TM47
+TQ05
+TQ06
+TQ07
+TQ08
+TQ18
+TQ26
+TQ48
+TQ57
+TQ67
+
+

@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex patientia 10km
+Description=Check coordinate against known distribution of Rumex patientia
+ErrorMsg=Coordinate is outside known range for Rumex patientia
+DataFieldName=Species
+DataRecordId=NBNSYS0000003786
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ36
+SE11
+SE23
+SE33
+SE65
+SJ89
+SK22
+SK85
+SO60
+SP49
+ST57
+SU82
+SU85
+TA02
+TL12
+TL30
+TL31
+TL91
+TM14
+TQ06
+TQ17
+TQ26
+TQ27
+TQ36
+TQ37
+TQ38
+TQ39
+TQ47
+TQ48
+TQ57
+TQ58
+TQ59
+TQ60
+TQ66
+TQ67
+TQ68
+TQ76
+TQ87
+TQ97
+TR36
+
+

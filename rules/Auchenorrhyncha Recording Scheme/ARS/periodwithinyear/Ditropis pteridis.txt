@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Ditropis pteridis
+Description=Checks date is within known flight period of Ditropis pteridis
+ErrorMsg=Date is outside known flight period of Ditropis pteridis
+Tvk=NHMSYS0020705337
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

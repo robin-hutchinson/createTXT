@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Lasiambia baliola 10km
+Description=Check coordinate against known distribution of Lasiambia baliola
+ErrorMsg=Coordinate is outside known range for Lasiambia baliola
+DataFieldName=Species
+DataRecordId=NBNSYS0100003663
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO23
+SO24
+SO25
+SO33
+SO34
+SO35
+SO43
+SO44
+SO45
+SP30
+SP40
+SP50
+SP91
+SP92
+SP93
+SP94
+SU38
+SU39
+SU48
+SU49
+SU58
+SU59
+TL01
+TL02
+TL03
+TL04
+TL11
+TL12
+TL13
+TL14
+TL55
+TL56
+TL57
+TL65
+TL66
+TL67
+TL75
+TL76
+TL77
+
+

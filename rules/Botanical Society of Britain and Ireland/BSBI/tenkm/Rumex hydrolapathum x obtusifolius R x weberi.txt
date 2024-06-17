@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex hydrolapathum x obtusifolius = R. x weberi 10km
+Description=Check coordinate against known distribution of Rumex hydrolapathum x obtusifolius = R. x weberi
+ErrorMsg=Coordinate is outside known range for Rumex hydrolapathum x obtusifolius = R. x weberi
+DataFieldName=Species
+DataRecordId=NHMSYS0001754764
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C73
+M91
+S50
+W97
+X09
+X19
+
+
+[10km_GB]
+NX86
+SE14
+SJ21
+SJ32
+SJ64
+SO86
+SP46
+SP50
+SS09
+ST08
+ST22
+ST33
+ST43
+ST44
+ST57
+SU13
+SU26
+SU31
+SU37
+SU43
+SU53
+SU56
+SU59
+SU77
+SV91
+SX35
+SY89
+SZ07
+SZ08
+TL35
+TL37
+TM28
+TQ07
+TQ38
+
+

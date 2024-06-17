@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Prunus mahaleb 10km
+Description=Check coordinate against known distribution of Prunus mahaleb
+ErrorMsg=Coordinate is outside known range for Prunus mahaleb
+DataFieldName=Species
+DataRecordId=NBNSYS0000033861
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD52
+SD62
+ST57
+SU99
+SW84
+SW94
+TF01
+TM58
+TQ31
+TQ56
+TQ66
+TQ67
+TR36
+
+

@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Medicago truncatula 10km
+Description=Check coordinate against known distribution of Medicago truncatula
+ErrorMsg=Coordinate is outside known range for Medicago truncatula
+DataFieldName=Species
+DataRecordId=NHMSYS0000460644
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH64
+NS56
+NT17
+NT27
+NT53
+SD90
+SE11
+SE13
+SE22
+SE32
+SO60
+SP04
+ST27
+ST57
+SU73
+SW94
+TA30
+TL03
+TL23
+TL45
+TQ20
+TQ27
+TQ65
+TQ75
+
+

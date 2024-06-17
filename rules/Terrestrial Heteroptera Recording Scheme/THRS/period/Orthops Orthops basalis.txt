@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Orthops (Orthops) basalis
+Description=Checks date is within known recording period of Orthops (Orthops) basalis
+ErrorMsg=Date is outside known recording period of Orthops (Orthops) basalis
+Tvk=NHMSYS0020309578
+StartDate=19730101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

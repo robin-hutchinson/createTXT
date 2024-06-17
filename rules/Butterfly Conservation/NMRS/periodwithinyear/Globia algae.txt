@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Globia algae
+Description=Checks date is within known flight period of Globia algae
+ErrorMsg=Date is outside known flight period of Globia algae
+Tvk=NHMSYS0021144657
+DataFieldName=
+StartDate=0715
+EndDate=1007
+LastChanged=20240617
+[EndMetadata]

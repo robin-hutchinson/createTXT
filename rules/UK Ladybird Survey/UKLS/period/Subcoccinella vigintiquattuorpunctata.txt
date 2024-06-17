@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Subcoccinella vigintiquattuorpunctata
+Description=Checks date is within known recording period of Subcoccinella vigintiquattuorpunctata
+ErrorMsg=Date is outside known recording period of Subcoccinella vigintiquattuorpunctata
+Tvk=NBNSYS0000008289
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

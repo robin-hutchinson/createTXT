@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix aurita x myrsinifolia = S. x coriacea 10km
+Description=Check coordinate against known distribution of Salix aurita x myrsinifolia = S. x coriacea
+ErrorMsg=Coordinate is outside known range for Salix aurita x myrsinifolia = S. x coriacea
+DataFieldName=Species
+DataRecordId=NHMSYS0001754728
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C70
+D11
+D12
+V98
+
+
+[10km_GB]
+NB02
+NC84
+NJ43
+NN73
+NN94
+NN95
+NO00
+NO07
+NO16
+NO27
+NO42
+NO58
+NT12
+NT22
+NT31
+NT41
+NT42
+NT50
+NT52
+NT75
+NY33
+NY42
+NY43
+NY62
+NY99
+NZ24
+SD77
+SE58
+
+

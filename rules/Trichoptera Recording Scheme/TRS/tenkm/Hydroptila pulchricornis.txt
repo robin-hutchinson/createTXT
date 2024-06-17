@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Hydroptila pulchricornis 10km
+Description=Check coordinate against known distribution of Hydroptila pulchricornis
+ErrorMsg=Coordinate is outside known range for Hydroptila pulchricornis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008358
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN95
+SN66
+SP09
+SP41
+SP84
+
+

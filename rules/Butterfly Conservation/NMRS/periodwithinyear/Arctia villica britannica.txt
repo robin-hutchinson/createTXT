@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Arctia villica britannica
+Description=Checks date is within known flight period of Arctia villica britannica
+ErrorMsg=Date is outside known flight period of Arctia villica britannica
+Tvk=NHMSYS0021144398
+DataFieldName=
+StartDate=0421
+EndDate=0715
+LastChanged=20240617
+[EndMetadata]

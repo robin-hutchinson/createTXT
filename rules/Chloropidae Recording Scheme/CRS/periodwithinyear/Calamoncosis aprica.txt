@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Calamoncosis aprica
+Description=Checks date is within known flight period of Calamoncosis aprica
+ErrorMsg=Date is outside known flight period of Calamoncosis aprica
+Tvk=NBNSYS0000029844
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

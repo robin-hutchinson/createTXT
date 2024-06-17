@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Forficula lesnei
+Description=Checks date is within known recording period of Forficula lesnei
+ErrorMsg=Date is outside known recording period of Forficula lesnei
+Tvk=NHMSYS0001387336
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

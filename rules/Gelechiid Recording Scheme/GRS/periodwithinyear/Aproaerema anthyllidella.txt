@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Aproaerema anthyllidella
+Description=Checks date is within known flight period of Aproaerema anthyllidella
+ErrorMsg=Date is outside known flight period of Aproaerema anthyllidella
+Tvk=NHMSYS0000501164
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

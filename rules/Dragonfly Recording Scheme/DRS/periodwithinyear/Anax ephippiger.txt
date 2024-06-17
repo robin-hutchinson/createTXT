@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Dragonfly Recording Scheme/DRS Flight Period
+ShortName=Anax ephippiger
+Description=Checks date is within known flight period of Anax ephippiger
+ErrorMsg=Date is outside known flight period of Anax ephippiger
+Tvk=NHMSYS0021009098
+DataFieldName=
+StartDate=0410
+EndDate=0104
+LastChanged=20240617
+[EndMetadata]

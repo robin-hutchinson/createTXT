@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Corydalis cava 10km
+Description=Check coordinate against known distribution of Corydalis cava
+ErrorMsg=Coordinate is outside known range for Corydalis cava
+DataFieldName=Species
+DataRecordId=NHMSYS0000457530
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO12
+NU21
+SO89
+SP60
+SP85
+SS48
+ST65
+ST79
+SU69
+TL22
+TL23
+TM19
+TM23
+TM24
+TM49
+TQ08
+TQ59
+
+

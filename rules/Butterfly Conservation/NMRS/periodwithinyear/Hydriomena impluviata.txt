@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Hydriomena impluviata
+Description=Checks date is within known flight period of Hydriomena impluviata
+ErrorMsg=Date is outside known flight period of Hydriomena impluviata
+Tvk=NHMSYS0021143961
+DataFieldName=
+StartDate=0415
+EndDate=0721
+LastChanged=20240617
+[EndMetadata]

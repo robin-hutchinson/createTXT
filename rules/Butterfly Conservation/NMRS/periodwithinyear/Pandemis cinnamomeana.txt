@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pandemis cinnamomeana
+Description=Checks date is within known flight period of Pandemis cinnamomeana
+ErrorMsg=Date is outside known flight period of Pandemis cinnamomeana
+Tvk=NHMSYS0000503575
+DataFieldName=
+StartDate=0601
+EndDate=1014
+LastChanged=20240617
+[EndMetadata]

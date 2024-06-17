@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus pydarensis 10km
+Description=Check coordinate against known distribution of Rubus pydarensis
+ErrorMsg=Coordinate is outside known range for Rubus pydarensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000840781
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS21
+SS31
+SS60
+SS91
+SV91
+SW53
+SW61
+SW62
+SW64
+SW71
+SW72
+SW73
+SW75
+SW81
+SW85
+SW96
+SX17
+SX18
+SX27
+SX36
+SX37
+
+
+NA
+
+

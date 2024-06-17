@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia anglica x micrantha 10km
+Description=Check coordinate against known distribution of Euphrasia anglica x micrantha
+ErrorMsg=Coordinate is outside known range for Euphrasia anglica x micrantha
+DataFieldName=Species
+DataRecordId=NBNSYS0000033355
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS83
+SW61
+SW71
+SW72
+SW75
+SW85
+SW86
+SX17
+SX18
+SX28
+SX55
+SX56
+SX57
+SX58
+
+

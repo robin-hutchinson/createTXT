@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pieris floribunda 10km
+Description=Check coordinate against known distribution of Pieris floribunda
+ErrorMsg=Coordinate is outside known range for Pieris floribunda
+DataFieldName=Species
+DataRecordId=NBNSYS0200002884
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT42
+
+

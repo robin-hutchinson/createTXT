@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Monochroa arundinetella 10km
+Description=Check coordinate against known distribution of Monochroa arundinetella
+ErrorMsg=Coordinate is outside known range for Monochroa arundinetella
+DataFieldName=Species
+DataRecordId=NHMSYS0000503270
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP40
+ST86
+SU36
+SU37
+SU77
+SU86
+TG30
+TG31
+TL30
+TL57
+TL99
+TQ38
+
+

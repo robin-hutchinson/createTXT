@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Conringia austriaca 10km
+Description=Check coordinate against known distribution of Conringia austriaca
+ErrorMsg=Coordinate is outside known range for Conringia austriaca
+DataFieldName=Species
+DataRecordId=NBNSYS0000034078
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY62
+SK07
+SK22
+SO00
+SO05
+SP50
+ST67
+SU01
+TM49
+
+

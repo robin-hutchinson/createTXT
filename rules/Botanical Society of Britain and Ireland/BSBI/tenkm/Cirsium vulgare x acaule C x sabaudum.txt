@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cirsium vulgare x acaule = C. x sabaudum 10km
+Description=Check coordinate against known distribution of Cirsium vulgare x acaule = C. x sabaudum
+ErrorMsg=Coordinate is outside known range for Cirsium vulgare x acaule = C. x sabaudum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754342
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK58
+ST47
+ST63
+ST77
+SU41
+SZ29
+
+

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cyphelium marcianum 10km
+Description=Check coordinate against known distribution of Cyphelium marcianum
+ErrorMsg=Coordinate is outside known range for Cyphelium marcianum
+DataFieldName=Species
+DataRecordId=NHMSYS0020990158
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+L77
+L82
+
+
+[10km_GB]
+NM71
+SH22
+SN85
+
+

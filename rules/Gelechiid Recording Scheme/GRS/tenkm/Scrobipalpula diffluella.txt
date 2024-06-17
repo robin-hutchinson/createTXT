@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Scrobipalpula diffluella 10km
+Description=Check coordinate against known distribution of Scrobipalpula diffluella
+ErrorMsg=Coordinate is outside known range for Scrobipalpula diffluella
+DataFieldName=Species
+DataRecordId=NHMSYS0000504156
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ47
+TQ57
+TQ78
+
+

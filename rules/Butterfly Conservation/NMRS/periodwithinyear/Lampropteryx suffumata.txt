@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lampropteryx suffumata
+Description=Checks date is within known flight period of Lampropteryx suffumata
+ErrorMsg=Date is outside known flight period of Lampropteryx suffumata
+Tvk=NHMSYS0021144007
+DataFieldName=
+StartDate=0221
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

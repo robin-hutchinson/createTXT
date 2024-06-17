@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Coccinella undecimpunctata
+Description=Checks date is within known recording period of Coccinella undecimpunctata
+ErrorMsg=Date is outside known recording period of Coccinella undecimpunctata
+Tvk=NBNSYS0000008325
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

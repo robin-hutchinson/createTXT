@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gypsophila muralis 10km
+Description=Check coordinate against known distribution of Gypsophila muralis
+ErrorMsg=Coordinate is outside known range for Gypsophila muralis
+DataFieldName=Species
+DataRecordId=NBNSYS0200002268
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST57
+SY79
+TQ28
+
+

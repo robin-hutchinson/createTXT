@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Malus baccata 10km
+Description=Check coordinate against known distribution of Malus baccata
+ErrorMsg=Coordinate is outside known range for Malus baccata
+DataFieldName=Species
+DataRecordId=NBNSYS0000033734
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM80
+NM90
+NM94
+NN01
+NN04
+NR79
+NR83
+NR89
+NR92
+NS02
+NS03
+NS04
+NS19
+NT07
+NZ28
+ST22
+SU11
+
+

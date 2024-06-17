@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Struebingianella litoralis 10km
+Description=Check coordinate against known distribution of Struebingianella litoralis
+ErrorMsg=Coordinate is outside known range for Struebingianella litoralis
+DataFieldName=Species
+DataRecordId=NHMSYS0020442470
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH81
+NH91
+NN95
+NY34
+SE71
+SH63
+SH75
+SH94
+SJ01
+SN56
+SN66
+SN96
+SO05
+SS19
+
+

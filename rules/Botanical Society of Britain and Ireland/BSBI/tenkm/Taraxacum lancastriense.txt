@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum lancastriense 10km
+Description=Check coordinate against known distribution of Taraxacum lancastriense
+ErrorMsg=Coordinate is outside known range for Taraxacum lancastriense
+DataFieldName=Species
+DataRecordId=NHMSYS0000464244
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT34
+SN12
+
+

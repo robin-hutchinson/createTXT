@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Dicyphus (Brachyceroea) globulifer
+Description=Checks date is within known recording period of Dicyphus (Brachyceroea) globulifer
+ErrorMsg=Date is outside known recording period of Dicyphus (Brachyceroea) globulifer
+Tvk=NHMSYS0020309166
+StartDate=18290101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

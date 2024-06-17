@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Phaseolus coccineus 10km
+Description=Check coordinate against known distribution of Phaseolus coccineus
+ErrorMsg=Coordinate is outside known range for Phaseolus coccineus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014386
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX46
+SK63
+SP70
+ST30
+ST38
+ST61
+SU76
+SU87
+SW42
+SW63
+TL11
+TL13
+TL31
+TL41
+TQ09
+TQ17
+TQ38
+TQ43
+TQ48
+TQ57
+TQ67
+
+

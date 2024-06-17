@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Hydraecia osseola
+Description=Checks date is within known recording period of Hydraecia osseola
+ErrorMsg=Date is outside known recording period of Hydraecia osseola
+Tvk=NHMSYS0000520468
+StartDate=19510101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

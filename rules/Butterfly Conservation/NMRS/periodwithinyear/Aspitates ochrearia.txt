@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Aspitates ochrearia
+Description=Checks date is within known flight period of Aspitates ochrearia
+ErrorMsg=Date is outside known flight period of Aspitates ochrearia
+Tvk=NBNSYS0000006060
+DataFieldName=
+StartDate=0415
+EndDate=1015
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crocus serotinus 10km
+Description=Check coordinate against known distribution of Crocus serotinus
+ErrorMsg=Coordinate is outside known range for Crocus serotinus
+DataFieldName=Species
+DataRecordId=NHMSYS0100001159
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ05
+
+

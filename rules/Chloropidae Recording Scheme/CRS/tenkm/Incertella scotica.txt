@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Incertella scotica 10km
+Description=Check coordinate against known distribution of Incertella scotica
+ErrorMsg=Coordinate is outside known range for Incertella scotica
+DataFieldName=Species
+DataRecordId=NBNSYS0000029907
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC50
+NC60
+NC70
+NH58
+NH59
+NH68
+NH69
+NH70
+NH71
+NH78
+NH79
+NH80
+NH81
+NH90
+NH91
+NH92
+NH93
+NJ01
+NJ02
+NJ03
+NJ11
+NJ12
+NJ13
+NN79
+NN89
+NN99
+
+

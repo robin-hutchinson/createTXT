@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Hylaeus incongruus
+Description=Checks date is within known flight period of Hylaeus incongruus
+ErrorMsg=Date is outside known flight period of Hylaeus incongruus
+Tvk=NHMSYS0020936570
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

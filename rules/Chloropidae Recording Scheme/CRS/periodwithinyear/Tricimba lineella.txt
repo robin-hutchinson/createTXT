@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Tricimba lineella
+Description=Checks date is within known flight period of Tricimba lineella
+ErrorMsg=Date is outside known flight period of Tricimba lineella
+Tvk=NBNSYS0000029885
+DataFieldName=
+StartDate=0201
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

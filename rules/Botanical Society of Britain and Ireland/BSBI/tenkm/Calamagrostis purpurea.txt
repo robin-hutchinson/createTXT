@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Calamagrostis purpurea 10km
+Description=Check coordinate against known distribution of Calamagrostis purpurea
+ErrorMsg=Coordinate is outside known range for Calamagrostis purpurea
+DataFieldName=Species
+DataRecordId=NHMSYS0000456752
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH80
+NN02
+NO13
+NO14
+NO18
+NO19
+NO54
+NO55
+NY22
+SD39
+
+

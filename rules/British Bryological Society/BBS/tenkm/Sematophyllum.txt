@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Sematophyllum 10km
+Description=Check coordinate against known distribution of Sematophyllum
+ErrorMsg=Coordinate is outside known range for Sematophyllum
+DataFieldName=Species
+DataRecordId=NHMSYS0000310633
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV90
+
+

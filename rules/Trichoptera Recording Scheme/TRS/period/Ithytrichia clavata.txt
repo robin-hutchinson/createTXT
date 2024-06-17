@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Ithytrichia clavata
+Description=Checks date is within known recording period of Ithytrichia clavata
+ErrorMsg=Date is outside known recording period of Ithytrichia clavata
+Tvk=NBNSYS0000008375
+StartDate=19390101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

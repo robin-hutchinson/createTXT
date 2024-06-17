@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Polygonatum verticillatum 10km
+Description=Check coordinate against known distribution of Polygonatum verticillatum
+ErrorMsg=Coordinate is outside known range for Polygonatum verticillatum
+DataFieldName=Species
+DataRecordId=NBNSYS0000002162
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ54
+NN74
+NN75
+NN84
+NN86
+NN95
+NN96
+NO04
+NO14
+NO15
+NO25
+NY78
+SJ93
+SO73
+
+

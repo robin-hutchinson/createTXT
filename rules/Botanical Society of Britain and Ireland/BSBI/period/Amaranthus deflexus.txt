@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Amaranthus deflexus
+Description=Checks date is within known recording period of Amaranthus deflexus
+ErrorMsg=Date is outside known recording period of Amaranthus deflexus
+Tvk=NBNSYS0000014648
+StartDate=18740101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

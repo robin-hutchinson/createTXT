@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium tetragonum x roseum = E. x borbasianum 10km
+Description=Check coordinate against known distribution of Epilobium tetragonum x roseum = E. x borbasianum
+ErrorMsg=Coordinate is outside known range for Epilobium tetragonum x roseum = E. x borbasianum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754610
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU88
+SU98
+TQ37
+TQ38
+
+

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Solanum chenopodioides 10km
+Description=Check coordinate against known distribution of Solanum chenopodioides
+ErrorMsg=Coordinate is outside known range for Solanum chenopodioides
+DataFieldName=Species
+DataRecordId=NBNSYS0000004924
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE72
+ST16
+SW53
+TA05
+TQ05
+TQ37
+TQ38
+
+
+NA
+
+

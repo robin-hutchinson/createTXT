@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium gracilifolium 10km
+Description=Check coordinate against known distribution of Hieracium gracilifolium
+ErrorMsg=Coordinate is outside known range for Hieracium gracilifolium
+DataFieldName=Species
+DataRecordId=NHMSYS0000459448
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC10
+NH11
+NH12
+NH13
+NH28
+NJ00
+NJ10
+NM85
+NN02
+NN07
+NN10
+NN17
+NN22
+NN25
+NN27
+NN31
+NN32
+NN33
+NN34
+NN42
+NN43
+NN44
+NN53
+NN61
+NN64
+NN68
+NN69
+NN84
+NN96
+NN97
+NO07
+NO09
+NO16
+NO18
+NO19
+NO27
+NO28
+NX69
+
+

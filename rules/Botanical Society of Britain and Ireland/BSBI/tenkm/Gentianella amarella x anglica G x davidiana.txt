@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gentianella amarella x anglica = G. x davidiana 10km
+Description=Check coordinate against known distribution of Gentianella amarella x anglica = G. x davidiana
+ErrorMsg=Coordinate is outside known range for Gentianella amarella x anglica = G. x davidiana
+DataFieldName=Species
+DataRecordId=NBNSYS0000004645
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS43
+SW75
+SY88
+SY98
+SZ57
+TQ30
+TQ66
+TV59
+
+

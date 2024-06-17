@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Anastrophyllum joergensenii s.l. 10km
+Description=Check coordinate against known distribution of Anastrophyllum joergensenii s.l.
+ErrorMsg=Coordinate is outside known range for Anastrophyllum joergensenii s.l.
+DataFieldName=Species
+DataRecordId=NHMSYS0020636801
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY10
+HY23
+NC10
+NC11
+NC20
+NC21
+NC22
+NC31
+NC32
+NC33
+NC34
+NC35
+NC41
+NC43
+NC44
+NC45
+NC52
+NC54
+NC62
+NC65
+NC72
+NG86
+NG95
+NG96
+NG97
+NH03
+NH04
+NH06
+NH07
+NH08
+NH13
+NH14
+NH16
+NH17
+NH24
+NH26
+NH27
+NH28
+NH29
+NH38
+NH47
+
+

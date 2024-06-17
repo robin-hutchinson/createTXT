@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Oidaematophorus lithodactyla
+Description=Checks date is within known flight period of Oidaematophorus lithodactyla
+ErrorMsg=Date is outside known flight period of Oidaematophorus lithodactyla
+Tvk=NHMSYS0000503464
+DataFieldName=
+StartDate=0621
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

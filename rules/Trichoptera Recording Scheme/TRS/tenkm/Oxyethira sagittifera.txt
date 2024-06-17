@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Oxyethira sagittifera 10km
+Description=Check coordinate against known distribution of Oxyethira sagittifera
+ErrorMsg=Coordinate is outside known range for Oxyethira sagittifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000008371
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC12
+NX48
+SH63
+SN65
+SN87
+
+

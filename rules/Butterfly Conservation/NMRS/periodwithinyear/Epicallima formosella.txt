@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Epicallima formosella
+Description=Checks date is within known flight period of Epicallima formosella
+ErrorMsg=Date is outside known flight period of Epicallima formosella
+Tvk=NBNSYS0100003032
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

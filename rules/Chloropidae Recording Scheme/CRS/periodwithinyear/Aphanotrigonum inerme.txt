@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Aphanotrigonum inerme
+Description=Checks date is within known flight period of Aphanotrigonum inerme
+ErrorMsg=Date is outside known flight period of Aphanotrigonum inerme
+Tvk=NBNSYS0100001608
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

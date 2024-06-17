@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Stachys macrantha 10km
+Description=Check coordinate against known distribution of Stachys macrantha
+ErrorMsg=Coordinate is outside known range for Stachys macrantha
+DataFieldName=Species
+DataRecordId=NBNSYS0200003237
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU77
+SU97
+
+

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pleioblastus humilis 10km
+Description=Check coordinate against known distribution of Pleioblastus humilis
+ErrorMsg=Coordinate is outside known range for Pleioblastus humilis
+DataFieldName=Species
+DataRecordId=NHMSYS0000461789
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP50
+SU93
+TQ46
+
+

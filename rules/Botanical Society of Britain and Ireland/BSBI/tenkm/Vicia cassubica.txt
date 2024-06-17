@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Vicia cassubica 10km
+Description=Check coordinate against known distribution of Vicia cassubica
+ErrorMsg=Coordinate is outside known range for Vicia cassubica
+DataFieldName=Species
+DataRecordId=NBNSYS0000003287
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J17
+
+
+[10km_GB]
+TQ57
+
+

@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Muehlenbeckia complexa 10km
+Description=Check coordinate against known distribution of Muehlenbeckia complexa
+ErrorMsg=Coordinate is outside known range for Muehlenbeckia complexa
+DataFieldName=Species
+DataRecordId=NHMSYS0000460789
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J68
+O23
+V55
+X39
+
+
+[10km_GB]
+SC39
+SU95
+SU96
+SV80
+SV81
+SV90
+SV91
+SW53
+SW61
+SW64
+SW71
+SW83
+SW84
+SW93
+SX73
+SZ08
+SZ09
+SZ19
+SZ58
+SZ69
+TM33
+TM34
+
+
+NA
+
+

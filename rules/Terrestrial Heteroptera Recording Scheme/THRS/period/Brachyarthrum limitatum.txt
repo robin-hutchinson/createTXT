@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Brachyarthrum limitatum
+Description=Checks date is within known recording period of Brachyarthrum limitatum
+ErrorMsg=Date is outside known recording period of Brachyarthrum limitatum
+Tvk=NHMSYS0020308999
+StartDate=18580101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

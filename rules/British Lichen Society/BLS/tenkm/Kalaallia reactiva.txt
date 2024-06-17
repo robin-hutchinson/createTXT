@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Kalaallia reactiva 10km
+Description=Check coordinate against known distribution of Kalaallia reactiva
+ErrorMsg=Coordinate is outside known range for Kalaallia reactiva
+DataFieldName=Species
+DataRecordId=BMSSYS0000009057
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG97
+NH31
+SS82
+
+

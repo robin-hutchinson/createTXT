@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Collema subnigrescens 10km
+Description=Check coordinate against known distribution of Collema subnigrescens
+ErrorMsg=Coordinate is outside known range for Collema subnigrescens
+DataFieldName=Species
+DataRecordId=NBNSYS0000018452
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+L74
+L84
+L90
+M20
+V76
+
+
+[10km_GB]
+NC74
+NG94
+NM35
+NM42
+NM43
+NM76
+NM94
+NN64
+NR71
+SR99
+SW71
+SX84
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pasiphila chloerata
+Description=Checks date is within known flight period of Pasiphila chloerata
+ErrorMsg=Date is outside known flight period of Pasiphila chloerata
+Tvk=NHMSYS0021144070
+DataFieldName=
+StartDate=0515
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lempholemma chalazanodes 10km
+Description=Check coordinate against known distribution of Lempholemma chalazanodes
+ErrorMsg=Coordinate is outside known range for Lempholemma chalazanodes
+DataFieldName=Species
+DataRecordId=NBNSYS0000018755
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+M10
+
+
+[10km_GB]
+SH48
+SH78
+SP10
+SP64
+SP66
+SS32
+SZ08
+SZ89
+TG30
+
+

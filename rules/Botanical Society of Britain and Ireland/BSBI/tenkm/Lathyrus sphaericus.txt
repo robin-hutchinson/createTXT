@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lathyrus sphaericus 10km
+Description=Check coordinate against known distribution of Lathyrus sphaericus
+ErrorMsg=Coordinate is outside known range for Lathyrus sphaericus
+DataFieldName=Species
+DataRecordId=NBNSYS0200002457
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL21
+TL31
+
+

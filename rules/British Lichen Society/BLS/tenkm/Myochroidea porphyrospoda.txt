@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Myochroidea porphyrospoda 10km
+Description=Check coordinate against known distribution of Myochroidea porphyrospoda
+ErrorMsg=Coordinate is outside known range for Myochroidea porphyrospoda
+DataFieldName=Species
+DataRecordId=NHMSYS0020535739
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG84
+NG85
+NG86
+NG87
+NG88
+NG94
+NG95
+NG96
+NG97
+NG98
+NH04
+NH05
+NH06
+NH07
+NH08
+NH14
+NH15
+NH16
+NH17
+
+

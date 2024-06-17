@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Ceramium cimbricum 10km
+Description=Check coordinate against known distribution of Ceramium cimbricum
+ErrorMsg=Coordinate is outside known range for Ceramium cimbricum
+DataFieldName=Species
+DataRecordId=NHMSYS0000377540
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU42
+HY40
+NT37
+SH32
+SH34
+SH40
+SH41
+SH51
+SH52
+SM80
+SM81
+SN57
+SS14
+SW61
+SY08
+SZ28
+SZ38
+
+

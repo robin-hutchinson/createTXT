@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Ancylis comptana
+Description=Checks date is within known recording period of Ancylis comptana
+ErrorMsg=Date is outside known recording period of Ancylis comptana
+Tvk=NHMSYS0000501095
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

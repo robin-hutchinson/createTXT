@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex trinervis 10km
+Description=Check coordinate against known distribution of Carex trinervis
+ErrorMsg=Coordinate is outside known range for Carex trinervis
+DataFieldName=Species
+DataRecordId=NBNSYS0000002461
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TG41
+
+

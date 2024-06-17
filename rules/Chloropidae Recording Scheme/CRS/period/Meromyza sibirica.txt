@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Meromyza sibirica
+Description=Checks date is within known recording period of Meromyza sibirica
+ErrorMsg=Date is outside known recording period of Meromyza sibirica
+Tvk=NHMSYS0021007759
+StartDate=19610101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus distractiformis 10km
+Description=Check coordinate against known distribution of Rubus distractiformis
+ErrorMsg=Coordinate is outside known range for Rubus distractiformis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462669
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD42
+SD51
+SD52
+SD70
+SD71
+SD72
+SD80
+SD81
+SD90
+SD91
+SJ28
+SJ29
+SJ37
+SJ38
+SJ56
+SJ57
+SJ58
+SJ66
+SJ67
+SJ68
+SJ69
+SJ76
+SJ77
+SJ78
+SJ79
+SJ85
+SJ86
+SJ87
+SJ88
+SJ89
+SJ95
+SJ96
+SJ97
+SJ98
+SJ99
+SK04
+SK05
+SK06
+SK07
+SK08
+SK09
+
+

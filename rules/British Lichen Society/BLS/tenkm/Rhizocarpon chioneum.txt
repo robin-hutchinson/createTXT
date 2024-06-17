@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rhizocarpon chioneum 10km
+Description=Check coordinate against known distribution of Rhizocarpon chioneum
+ErrorMsg=Coordinate is outside known range for Rhizocarpon chioneum
+DataFieldName=Species
+DataRecordId=NBNSYS0000039747
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC44
+NN47
+NO17
+
+

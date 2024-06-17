@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus praetextus 10km
+Description=Check coordinate against known distribution of Rubus praetextus
+ErrorMsg=Coordinate is outside known range for Rubus praetextus
+DataFieldName=Species
+DataRecordId=NHMSYS0000840744
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO62
+SO72
+SO81
+SU93
+SZ48
+SZ49
+SZ57
+SZ58
+SZ59
+TG40
+TQ04
+TQ45
+TQ61
+TQ64
+TQ65
+TQ73
+TQ75
+TQ83
+TQ85
+TQ95
+TQ96
+TR04
+TR05
+TR14
+TR24
+
+

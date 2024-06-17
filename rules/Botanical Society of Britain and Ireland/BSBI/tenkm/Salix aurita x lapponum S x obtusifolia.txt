@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix aurita x lapponum = S. x obtusifolia 10km
+Description=Check coordinate against known distribution of Salix aurita x lapponum = S. x obtusifolia
+ErrorMsg=Coordinate is outside known range for Salix aurita x lapponum = S. x obtusifolia
+DataFieldName=Species
+DataRecordId=NHMSYS0001754813
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN32
+NN42
+NN64
+NO07
+NO18
+NO27
+NO37
+
+

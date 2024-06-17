@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Oxycera pardalina
+Description=Checks date is within known flight period of Oxycera pardalina
+ErrorMsg=Date is outside known flight period of Oxycera pardalina
+Tvk=NBNSYS0000007814
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

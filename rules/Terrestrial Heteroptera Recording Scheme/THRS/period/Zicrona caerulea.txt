@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Zicrona caerulea
+Description=Checks date is within known recording period of Zicrona caerulea
+ErrorMsg=Date is outside known recording period of Zicrona caerulea
+Tvk=NHMSYS0020109277
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

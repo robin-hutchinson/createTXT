@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton alpinus x crispus = P. x olivaceus 10km
+Description=Check coordinate against known distribution of Potamogeton alpinus x crispus = P. x olivaceus
+ErrorMsg=Coordinate is outside known range for Potamogeton alpinus x crispus = P. x olivaceus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754682
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ83
+NJ93
+NN91
+NO01
+NT14
+NT23
+NT24
+NT33
+NT43
+NT53
+NT63
+NT73
+NT84
+NT85
+NT94
+NT95
+SN14
+SN24
+SN34
+SN44
+SN54
+
+

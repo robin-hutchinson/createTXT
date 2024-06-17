@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lichenoconium reichlingii 10km
+Description=Check coordinate against known distribution of Lichenoconium reichlingii
+ErrorMsg=Coordinate is outside known range for Lichenoconium reichlingii
+DataFieldName=Species
+DataRecordId=NHMSYS0019999710
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TM47
+
+

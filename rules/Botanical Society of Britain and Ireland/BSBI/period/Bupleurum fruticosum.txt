@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Bupleurum fruticosum
+Description=Checks date is within known recording period of Bupleurum fruticosum
+ErrorMsg=Date is outside known recording period of Bupleurum fruticosum
+Tvk=NBNSYS0000003656
+StartDate=19050101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Cicindela maritima
+Description=Checks date is within known flight period of Cicindela maritima
+ErrorMsg=Date is outside known flight period of Cicindela maritima
+Tvk=NHMSYS0001717604
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

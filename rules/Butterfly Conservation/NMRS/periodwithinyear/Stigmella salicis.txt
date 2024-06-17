@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella salicis
+Description=Checks date is within known flight period of Stigmella salicis
+ErrorMsg=Date is outside known flight period of Stigmella salicis
+Tvk=NHMSYS0000504381
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

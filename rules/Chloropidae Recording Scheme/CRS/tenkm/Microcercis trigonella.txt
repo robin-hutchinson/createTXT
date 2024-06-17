@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Microcercis trigonella 10km
+Description=Check coordinate against known distribution of Microcercis trigonella
+ErrorMsg=Coordinate is outside known range for Microcercis trigonella
+DataFieldName=Species
+DataRecordId=NBNSYS0100004049
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL46
+TL47
+TL48
+TL56
+TL57
+TL58
+TL66
+TL67
+TL68
+
+

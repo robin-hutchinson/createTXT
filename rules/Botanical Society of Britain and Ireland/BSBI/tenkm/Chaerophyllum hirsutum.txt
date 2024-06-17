@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chaerophyllum hirsutum 10km
+Description=Check coordinate against known distribution of Chaerophyllum hirsutum
+ErrorMsg=Coordinate is outside known range for Chaerophyllum hirsutum
+DataFieldName=Species
+DataRecordId=NBNSYS0000014844
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS56
+NZ30
+SD49
+
+

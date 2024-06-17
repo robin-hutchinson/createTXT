@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Phytolacca acinosa
+Description=Checks date is within known recording period of Phytolacca acinosa
+ErrorMsg=Date is outside known recording period of Phytolacca acinosa
+Tvk=NBNSYS0000014805
+StartDate=19250101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

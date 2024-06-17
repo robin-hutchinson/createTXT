@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Agrostis gigantea x stolonifera 10km
+Description=Check coordinate against known distribution of Agrostis gigantea x stolonifera
+ErrorMsg=Coordinate is outside known range for Agrostis gigantea x stolonifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000013991
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN31
+NS57
+NS58
+NS59
+NZ14
+SE13
+SP24
+SU61
+TA05
+TQ38
+
+

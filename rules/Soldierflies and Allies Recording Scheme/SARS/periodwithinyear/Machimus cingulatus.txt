@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Machimus cingulatus
+Description=Checks date is within known flight period of Machimus cingulatus
+ErrorMsg=Date is outside known flight period of Machimus cingulatus
+Tvk=NBNSYS0100003861
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

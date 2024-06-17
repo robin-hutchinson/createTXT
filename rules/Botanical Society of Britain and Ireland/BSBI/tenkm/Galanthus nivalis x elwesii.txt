@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Galanthus nivalis x elwesii 10km
+Description=Check coordinate against known distribution of Galanthus nivalis x elwesii
+ErrorMsg=Coordinate is outside known range for Galanthus nivalis x elwesii
+DataFieldName=Species
+DataRecordId=NBNSYS0100003231
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ51
+SO93
+SP34
+SU95
+TF63
+TF82
+TL79
+TQ26
+TQ30
+
+

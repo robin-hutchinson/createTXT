@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ridolfia segetum 10km
+Description=Check coordinate against known distribution of Ridolfia segetum
+ErrorMsg=Coordinate is outside known range for Ridolfia segetum
+DataFieldName=Species
+DataRecordId=NBNSYS0000034202
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO80
+SP40
+SU99
+TA20
+TA21
+TA30
+TL03
+TL13
+TL21
+TL31
+TQ57
+
+

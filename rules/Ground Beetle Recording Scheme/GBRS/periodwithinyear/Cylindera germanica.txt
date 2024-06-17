@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Cylindera germanica
+Description=Checks date is within known flight period of Cylindera germanica
+ErrorMsg=Date is outside known flight period of Cylindera germanica
+Tvk=NHMSYS0001717787
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

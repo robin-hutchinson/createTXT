@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Hypsosinga heri
+Description=Checks date is within known flight period of Hypsosinga heri
+ErrorMsg=Date is outside known flight period of Hypsosinga heri
+Tvk=NBNSYS0000008959
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

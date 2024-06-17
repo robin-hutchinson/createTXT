@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Grateloupia dichotoma 10km
+Description=Check coordinate against known distribution of Grateloupia dichotoma
+ErrorMsg=Coordinate is outside known range for Grateloupia dichotoma
+DataFieldName=Species
+DataRecordId=NHMSYS0000567965
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM80
+SS14
+SS43
+SV80
+SV81
+SV91
+SW71
+SW72
+SX04
+SX44
+SY68
+SY78
+SY97
+
+

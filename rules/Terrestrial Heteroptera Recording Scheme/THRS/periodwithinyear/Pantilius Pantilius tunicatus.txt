@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Pantilius (Pantilius) tunicatus
+Description=Checks date is within known flight period of Pantilius (Pantilius) tunicatus
+ErrorMsg=Date is outside known flight period of Pantilius (Pantilius) tunicatus
+Tvk=NHMSYS0020309616
+DataFieldName=
+StartDate=0801
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella lapponica
+Description=Checks date is within known flight period of Stigmella lapponica
+ErrorMsg=Date is outside known flight period of Stigmella lapponica
+Tvk=NHMSYS0000504357
+DataFieldName=
+StartDate=0501
+EndDate=0615
+LastChanged=20240617
+[EndMetadata]

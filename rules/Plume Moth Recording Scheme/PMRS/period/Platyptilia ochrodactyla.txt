@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Platyptilia ochrodactyla
+Description=Checks date is within known recording period of Platyptilia ochrodactyla
+ErrorMsg=Date is outside known recording period of Platyptilia ochrodactyla
+Tvk=NHMSYS0000503854
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

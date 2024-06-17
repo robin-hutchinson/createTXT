@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Viola canina x persicifolia = V. x ritschliana 10km
+Description=Check coordinate against known distribution of Viola canina x persicifolia = V. x ritschliana
+ErrorMsg=Coordinate is outside known range for Viola canina x persicifolia = V. x ritschliana
+DataFieldName=Species
+DataRecordId=NBNSYS0000162139
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H15
+H23
+H33
+M20
+M50
+
+
+[10km_GB]
+SP51
+TF60
+TL18
+TL28
+TL56
+TL57
+
+

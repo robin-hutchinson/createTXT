@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Gracilaria bursa-pastoris 10km
+Description=Check coordinate against known distribution of Gracilaria bursa-pastoris
+ErrorMsg=Coordinate is outside known range for Gracilaria bursa-pastoris
+DataFieldName=Species
+DataRecordId=NHMSYS0000567959
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV91
+SW72
+SX44
+SX54
+SX64
+SX73
+SX95
+SY67
+SZ08
+SZ28
+SZ49
+SZ99
+
+

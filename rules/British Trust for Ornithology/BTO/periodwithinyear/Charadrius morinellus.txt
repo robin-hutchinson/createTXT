@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Charadrius morinellus
+Description=Checks date is within known flight period of Charadrius morinellus
+ErrorMsg=Date is outside known flight period of Charadrius morinellus
+Tvk=NBNSYS0000000176
+DataFieldName=
+StartDate=0410
+EndDate=1110
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Anthemis cotula x Tripleurospermum inodorum = X Tripleurothemis maleolens 10km
+Description=Check coordinate against known distribution of Anthemis cotula x Tripleurospermum inodorum = X Tripleurothemis maleolens
+ErrorMsg=Coordinate is outside known range for Anthemis cotula x Tripleurospermum inodorum = X Tripleurothemis maleolens
+DataFieldName=Species
+DataRecordId=NHMSYS0001754659
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO62
+SO79
+SS49
+SU58
+SU68
+
+

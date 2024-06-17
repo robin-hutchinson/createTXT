@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Orthotylus (Orthotylus) prasinus
+Description=Checks date is within known recording period of Orthotylus (Orthotylus) prasinus
+ErrorMsg=Date is outside known recording period of Orthotylus (Orthotylus) prasinus
+Tvk=NHMSYS0020309595
+StartDate=18610101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

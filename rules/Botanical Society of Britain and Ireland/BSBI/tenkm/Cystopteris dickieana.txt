@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cystopteris dickieana 10km
+Description=Check coordinate against known distribution of Cystopteris dickieana
+ErrorMsg=Coordinate is outside known range for Cystopteris dickieana
+DataFieldName=Species
+DataRecordId=NHMSYS0000457847
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH80
+NJ90
+NN63
+NN64
+NN74
+
+

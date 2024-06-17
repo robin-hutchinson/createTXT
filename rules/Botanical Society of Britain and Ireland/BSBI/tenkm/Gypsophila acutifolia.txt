@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gypsophila acutifolia 10km
+Description=Check coordinate against known distribution of Gypsophila acutifolia
+ErrorMsg=Coordinate is outside known range for Gypsophila acutifolia
+DataFieldName=Species
+DataRecordId=NHMSYS0000459181
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO87
+
+

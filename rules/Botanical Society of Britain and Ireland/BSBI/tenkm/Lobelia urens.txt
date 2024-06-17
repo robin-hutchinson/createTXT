@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lobelia urens 10km
+Description=Check coordinate against known distribution of Lobelia urens
+ErrorMsg=Coordinate is outside known range for Lobelia urens
+DataFieldName=Species
+DataRecordId=NBNSYS0000004298
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO41
+SO98
+SW43
+SX15
+SX75
+SX77
+SX87
+SY29
+SY78
+SY79
+SY99
+SZ19
+SZ29
+TQ14
+TQ37
+TQ73
+
+

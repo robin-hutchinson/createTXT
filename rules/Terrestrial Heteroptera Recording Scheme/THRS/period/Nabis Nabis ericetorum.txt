@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Nabis (Nabis) ericetorum
+Description=Checks date is within known recording period of Nabis (Nabis) ericetorum
+ErrorMsg=Date is outside known recording period of Nabis (Nabis) ericetorum
+Tvk=NHMSYS0020309504
+StartDate=18470101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

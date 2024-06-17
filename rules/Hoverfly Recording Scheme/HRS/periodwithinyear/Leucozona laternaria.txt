@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Leucozona laternaria
+Description=Checks date is within known flight period of Leucozona laternaria
+ErrorMsg=Date is outside known flight period of Leucozona laternaria
+Tvk=NBNSYS0000006919
+DataFieldName=
+StartDate=0108
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Micaria alpina 10km
+Description=Check coordinate against known distribution of Micaria alpina
+ErrorMsg=Coordinate is outside known range for Micaria alpina
+DataFieldName=Species
+DataRecordId=NBNSYS0000008671
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC52
+NH08
+NN48
+SH66
+
+

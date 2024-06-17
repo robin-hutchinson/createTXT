@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chaenomeles japonica 10km
+Description=Check coordinate against known distribution of Chaenomeles japonica
+ErrorMsg=Coordinate is outside known range for Chaenomeles japonica
+DataFieldName=Species
+DataRecordId=NBNSYS0100002280
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE13
+SP08
+SS84
+ST64
+SU86
+SU94
+SW74
+SY98
+SZ08
+TQ04
+TQ05
+TQ06
+TQ25
+
+
+NA
+
+

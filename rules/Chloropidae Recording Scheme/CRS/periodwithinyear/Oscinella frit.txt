@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Oscinella frit
+Description=Checks date is within known flight period of Oscinella frit
+ErrorMsg=Date is outside known flight period of Oscinella frit
+Tvk=NBNSYS0000029912
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

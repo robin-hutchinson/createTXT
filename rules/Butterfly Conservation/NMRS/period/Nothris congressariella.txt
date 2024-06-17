@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Nothris congressariella
+Description=Checks date is within known recording period of Nothris congressariella
+ErrorMsg=Date is outside known recording period of Nothris congressariella
+Tvk=NHMSYS0000503404
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

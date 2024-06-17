@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Acleris maccana
+Description=Checks date is within known recording period of Acleris maccana
+ErrorMsg=Date is outside known recording period of Acleris maccana
+Tvk=NHMSYS0000500939
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

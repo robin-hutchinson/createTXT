@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Pinus strobus
+Description=Checks date is within known recording period of Pinus strobus
+ErrorMsg=Date is outside known recording period of Pinus strobus
+Tvk=NBNSYS0000013976
+StartDate=19570101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

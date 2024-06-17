@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix caprea x myrsinifolia x phylicifolia 10km
+Description=Check coordinate against known distribution of Salix caprea x myrsinifolia x phylicifolia
+ErrorMsg=Coordinate is outside known range for Salix caprea x myrsinifolia x phylicifolia
+DataFieldName=Species
+DataRecordId=NHMSYS0000463090
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN64
+NO27
+SD97
+
+

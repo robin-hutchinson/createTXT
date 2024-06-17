@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Enoicyla pusilla
+Description=Checks date is within known recording period of Enoicyla pusilla
+ErrorMsg=Date is outside known recording period of Enoicyla pusilla
+Tvk=NBNSYS0000008445
+StartDate=18680101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

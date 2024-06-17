@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sedum telephium subsp. maximum 10km
+Description=Check coordinate against known distribution of Sedum telephium subsp. maximum
+ErrorMsg=Coordinate is outside known range for Sedum telephium subsp. maximum
+DataFieldName=Species
+DataRecordId=NHMSYS0000463403
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST23
+ST34
+ST41
+ST74
+
+

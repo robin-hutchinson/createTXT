@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Ero cambridgei
+Description=Checks date is within known flight period of Ero cambridgei
+ErrorMsg=Date is outside known flight period of Ero cambridgei
+Tvk=NBNSYS0000008858
+DataFieldName=
+StartDate=0122
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

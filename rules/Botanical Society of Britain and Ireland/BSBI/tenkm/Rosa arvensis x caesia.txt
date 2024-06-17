@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa arvensis x caesia 10km
+Description=Check coordinate against known distribution of Rosa arvensis x caesia
+ErrorMsg=Coordinate is outside known range for Rosa arvensis x caesia
+DataFieldName=Species
+DataRecordId=NBNSYS0000033965
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+S79
+
+
+[10km_GB]
+SJ21
+SK24
+SP07
+
+

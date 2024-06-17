@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Opegrapha subelevata 10km
+Description=Check coordinate against known distribution of Opegrapha subelevata
+ErrorMsg=Coordinate is outside known range for Opegrapha subelevata
+DataFieldName=Species
+DataRecordId=NBNSYS0000019229
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS44
+SS54
+SX87
+SX97
+SY77
+SY98
+
+

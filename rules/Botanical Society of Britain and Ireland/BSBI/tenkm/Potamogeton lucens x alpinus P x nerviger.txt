@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton lucens x alpinus = P. x nerviger 10km
+Description=Check coordinate against known distribution of Potamogeton lucens x alpinus = P. x nerviger
+ErrorMsg=Coordinate is outside known range for Potamogeton lucens x alpinus = P. x nerviger
+DataFieldName=Species
+DataRecordId=NHMSYS0001754362
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+R29
+
+

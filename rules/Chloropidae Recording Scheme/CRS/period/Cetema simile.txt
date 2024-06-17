@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Cetema simile
+Description=Checks date is within known recording period of Cetema simile
+ErrorMsg=Date is outside known recording period of Cetema simile
+Tvk=NBNSYS0100002278
+StartDate=19850101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

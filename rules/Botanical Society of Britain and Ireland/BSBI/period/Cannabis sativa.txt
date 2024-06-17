@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cannabis sativa
+Description=Checks date is within known recording period of Cannabis sativa
+ErrorMsg=Date is outside known recording period of Cannabis sativa
+Tvk=NBNSYS0000004692
+StartDate=17990101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

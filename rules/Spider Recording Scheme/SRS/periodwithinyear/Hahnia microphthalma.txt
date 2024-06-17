@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Hahnia microphthalma
+Description=Checks date is within known flight period of Hahnia microphthalma
+ErrorMsg=Date is outside known flight period of Hahnia microphthalma
+Tvk=NBNSYS0000008854
+DataFieldName=
+StartDate=1115
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

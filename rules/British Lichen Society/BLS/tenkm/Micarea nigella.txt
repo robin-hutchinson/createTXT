@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Micarea nigella 10km
+Description=Check coordinate against known distribution of Micarea nigella
+ErrorMsg=Coordinate is outside known range for Micarea nigella
+DataFieldName=Species
+DataRecordId=NBNSYS0000018829
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H58
+
+
+[10km_GB]
+NH22
+NH69
+NN55
+NN81
+NT56
+NZ03
+
+

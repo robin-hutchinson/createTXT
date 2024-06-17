@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Roselliniella microthelia 10km
+Description=Check coordinate against known distribution of Roselliniella microthelia
+ErrorMsg=Coordinate is outside known range for Roselliniella microthelia
+DataFieldName=Species
+DataRecordId=NHMSYS0001496570
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT48
+NT57
+ST45
+TL92
+
+

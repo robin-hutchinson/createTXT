@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphorbia mellifera 10km
+Description=Check coordinate against known distribution of Euphorbia mellifera
+ErrorMsg=Coordinate is outside known range for Euphorbia mellifera
+DataFieldName=Species
+DataRecordId=NBNSYS0200002173
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX40
+SC49
+SV81
+SW42
+
+

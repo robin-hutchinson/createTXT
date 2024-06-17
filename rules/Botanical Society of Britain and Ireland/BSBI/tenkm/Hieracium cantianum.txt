@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium cantianum 10km
+Description=Check coordinate against known distribution of Hieracium cantianum
+ErrorMsg=Coordinate is outside known range for Hieracium cantianum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459371
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU84
+SU91
+SU92
+SU93
+SU94
+TQ33
+TQ36
+TQ43
+TQ47
+TQ52
+TQ53
+TQ55
+TQ62
+TQ63
+TQ64
+TQ73
+TQ83
+TQ85
+TR05
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Ceratochloa marginata
+Description=Checks date is within known recording period of Ceratochloa marginata
+ErrorMsg=Date is outside known recording period of Ceratochloa marginata
+Tvk=NHMSYS0000457090
+StartDate=19070101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

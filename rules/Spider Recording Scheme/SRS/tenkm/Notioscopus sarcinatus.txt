@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Notioscopus sarcinatus 10km
+Description=Check coordinate against known distribution of Notioscopus sarcinatus
+ErrorMsg=Coordinate is outside known range for Notioscopus sarcinatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009080
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC50
+NH20
+NH22
+NH39
+NH59
+NH68
+NH77
+NH90
+NJ01
+NJ62
+NN55
+NY68
+NZ70
+NZ71
+SE05
+SH91
+SH95
+SJ65
+SJ72
+SK02
+SP09
+SP19
+ST11
+SU96
+TL97
+
+

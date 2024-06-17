@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Aplocera praeformata
+Description=Checks date is within known flight period of Aplocera praeformata
+ErrorMsg=Date is outside known flight period of Aplocera praeformata
+Tvk=NHMSYS0021144142
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

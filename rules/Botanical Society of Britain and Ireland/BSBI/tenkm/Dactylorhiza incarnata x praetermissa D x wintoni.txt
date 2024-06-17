@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactylorhiza incarnata x praetermissa = D. x wintoni 10km
+Description=Check coordinate against known distribution of Dactylorhiza incarnata x praetermissa = D. x wintoni
+ErrorMsg=Coordinate is outside known range for Dactylorhiza incarnata x praetermissa = D. x wintoni
+DataFieldName=Species
+DataRecordId=NHMSYS0001754638
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD20
+SD31
+SD41
+SD50
+SD80
+SK27
+SK93
+SK94
+SN20
+SN30
+SN69
+SN81
+SO40
+SP02
+SP41
+SP45
+SS78
+ST44
+ST89
+SU01
+SU06
+SU31
+SU41
+SU60
+SU74
+SY89
+SY98
+SZ19
+TA04
+TA20
+TF01
+TF49
+TF64
+TL30
+TL33
+TL34
+TL44
+TM07
+TM35
+TQ00
+TQ07
+TQ39
+TQ76
+
+

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Brachystomia carrozzai 10km
+Description=Check coordinate against known distribution of Brachystomia carrozzai
+ErrorMsg=Coordinate is outside known range for Brachystomia carrozzai
+DataFieldName=Species
+DataRecordId=NBNSYS0000174189
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NB91
+NM35
+NM43
+NM62
+NX53
+NX63
+SH24
+SX73
+
+

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Clubiona caerulescens 10km
+Description=Check coordinate against known distribution of Clubiona caerulescens
+ErrorMsg=Coordinate is outside known range for Clubiona caerulescens
+DataFieldName=Species
+DataRecordId=NBNSYS0000008680
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT09
+SD47
+SD57
+SO59
+SO91
+SP15
+
+

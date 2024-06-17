@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Hellula undalis
+Description=Checks date is within known recording period of Hellula undalis
+ErrorMsg=Date is outside known recording period of Hellula undalis
+Tvk=NHMSYS0000502836
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

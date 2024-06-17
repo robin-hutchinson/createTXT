@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pyrausta cingulata
+Description=Checks date is within known flight period of Pyrausta cingulata
+ErrorMsg=Date is outside known flight period of Pyrausta cingulata
+Tvk=NHMSYS0000504005
+DataFieldName=
+StartDate=0415
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Wagneripteryx germari
+Description=Checks date is within known recording period of Wagneripteryx germari
+ErrorMsg=Date is outside known recording period of Wagneripteryx germari
+Tvk=NHMSYS0020705181
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum orcadense 10km
+Description=Check coordinate against known distribution of Taraxacum orcadense
+ErrorMsg=Coordinate is outside known range for Taraxacum orcadense
+DataFieldName=Species
+DataRecordId=NHMSYS0000840999
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY20
+HY21
+HY31
+HY40
+HY50
+HY63
+ND39
+
+

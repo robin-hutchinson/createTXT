@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Triticum spelta 10km
+Description=Check coordinate against known distribution of Triticum spelta
+ErrorMsg=Coordinate is outside known range for Triticum spelta
+DataFieldName=Species
+DataRecordId=NBNSYS0200003391
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+O23
+
+
+[10km_GB]
+TA13
+TA23
+
+

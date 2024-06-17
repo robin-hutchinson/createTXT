@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Chlorops strigulus 10km
+Description=Check coordinate against known distribution of Chlorops strigulus
+ErrorMsg=Coordinate is outside known range for Chlorops strigulus
+DataFieldName=Species
+DataRecordId=NBNSYS0100002375
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO64
+SP40
+SS58
+ST18
+SU33
+SU78
+SU79
+SZ47
+TL65
+TL66
+TQ05
+TQ14
+TQ15
+
+

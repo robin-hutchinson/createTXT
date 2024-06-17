@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chenopodium bushianum 10km
+Description=Check coordinate against known distribution of Chenopodium bushianum
+ErrorMsg=Coordinate is outside known range for Chenopodium bushianum
+DataFieldName=Species
+DataRecordId=NBNSYS0000034358
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD52
+SD53
+TQ09
+TQ18
+TQ57
+
+

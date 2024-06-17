@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ochropleura leucogaster
+Description=Checks date is within known flight period of Ochropleura leucogaster
+ErrorMsg=Date is outside known flight period of Ochropleura leucogaster
+Tvk=NHMSYS0021144905
+DataFieldName=
+StartDate=0921
+EndDate=1115
+LastChanged=20240617
+[EndMetadata]

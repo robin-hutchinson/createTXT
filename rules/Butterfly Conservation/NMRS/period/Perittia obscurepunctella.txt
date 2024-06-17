@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Perittia obscurepunctella
+Description=Checks date is within known recording period of Perittia obscurepunctella
+ErrorMsg=Date is outside known recording period of Perittia obscurepunctella
+Tvk=NHMSYS0000503691
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

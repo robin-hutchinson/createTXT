@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Hirundo rustica
+Description=Checks date is within known flight period of Hirundo rustica
+ErrorMsg=Date is outside known flight period of Hirundo rustica
+Tvk=NHMSYS0000530406
+DataFieldName=
+StartDate=0310
+EndDate=1201
+LastChanged=20240617
+[EndMetadata]

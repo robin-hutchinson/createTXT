@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hydropsyche contubernalis
+Description=Checks date is within known flight period of Hydropsyche contubernalis
+ErrorMsg=Date is outside known flight period of Hydropsyche contubernalis
+Tvk=NBNSYS0000008415
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

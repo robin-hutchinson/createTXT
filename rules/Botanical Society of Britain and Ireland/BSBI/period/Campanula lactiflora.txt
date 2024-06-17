@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Campanula lactiflora
+Description=Checks date is within known recording period of Campanula lactiflora
+ErrorMsg=Date is outside known recording period of Campanula lactiflora
+Tvk=NHMSYS0000456766
+StartDate=19540101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

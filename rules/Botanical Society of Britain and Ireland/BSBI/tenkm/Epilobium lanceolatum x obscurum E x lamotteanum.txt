@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium lanceolatum x obscurum = E. x lamotteanum 10km
+Description=Check coordinate against known distribution of Epilobium lanceolatum x obscurum = E. x lamotteanum
+ErrorMsg=Coordinate is outside known range for Epilobium lanceolatum x obscurum = E. x lamotteanum
+DataFieldName=Species
+DataRecordId=NBNSYS0000161618
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH12
+SS94
+SW74
+SX05
+SX26
+SX45
+SX55
+SX84
+TQ67
+
+

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Corylus avellana x maxima 10km
+Description=Check coordinate against known distribution of Corylus avellana x maxima
+ErrorMsg=Coordinate is outside known range for Corylus avellana x maxima
+DataFieldName=Species
+DataRecordId=NBNSYS0000014240
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ11
+NZ25
+NZ43
+SN51
+SO89
+ST09
+TL06
+TM24
+TM47
+TQ58
+
+

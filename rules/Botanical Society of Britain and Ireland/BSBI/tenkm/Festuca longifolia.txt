@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca longifolia 10km
+Description=Check coordinate against known distribution of Festuca longifolia
+ErrorMsg=Coordinate is outside known range for Festuca longifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000002525
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS66
+SE70
+SK86
+SK87
+SW93
+SX63
+SX73
+SX83
+SX85
+SX95
+TF55
+TF56
+TF58
+TL76
+TL77
+TL78
+TL87
+
+
+[10km_CI]
+WA50
+WA60
+
+
+NA
+
+

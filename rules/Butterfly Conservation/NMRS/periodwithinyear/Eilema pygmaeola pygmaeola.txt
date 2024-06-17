@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eilema pygmaeola pygmaeola
+Description=Checks date is within known flight period of Eilema pygmaeola pygmaeola
+ErrorMsg=Date is outside known flight period of Eilema pygmaeola pygmaeola
+Tvk=NHMSYS0021144421
+DataFieldName=
+StartDate=0615
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

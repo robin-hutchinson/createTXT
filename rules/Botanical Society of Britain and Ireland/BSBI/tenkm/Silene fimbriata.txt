@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Silene fimbriata 10km
+Description=Check coordinate against known distribution of Silene fimbriata
+ErrorMsg=Coordinate is outside known range for Silene fimbriata
+DataFieldName=Species
+DataRecordId=NHMSYS0000463570
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NR34
+
+

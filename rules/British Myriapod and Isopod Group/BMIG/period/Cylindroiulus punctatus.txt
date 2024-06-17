@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Cylindroiulus punctatus
+Description=Checks date is within known recording period of Cylindroiulus punctatus
+ErrorMsg=Date is outside known recording period of Cylindroiulus punctatus
+Tvk=NBNSYS0000011392
+StartDate=18150101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

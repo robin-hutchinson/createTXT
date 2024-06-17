@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Bryoria lanestris 10km
+Description=Check coordinate against known distribution of Bryoria lanestris
+ErrorMsg=Coordinate is outside known range for Bryoria lanestris
+DataFieldName=Species
+DataRecordId=NBNSYS0000018261
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC50
+NC52
+NC54
+NG46
+NH22
+NH25
+NH33
+NH37
+NH38
+NH45
+NH73
+NH77
+NH80
+NH82
+NH90
+NH91
+NH92
+NJ03
+NJ33
+NJ55
+NN57
+NN83
+NO06
+NO07
+NO16
+NO19
+NO27
+NO33
+NO34
+NO42
+NO44
+NO59
+NO67
+NO69
+NO79
+NU01
+
+

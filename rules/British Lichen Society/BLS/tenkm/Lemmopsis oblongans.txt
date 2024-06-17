@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lemmopsis oblongans 10km
+Description=Check coordinate against known distribution of Lemmopsis oblongans
+ErrorMsg=Coordinate is outside known range for Lemmopsis oblongans
+DataFieldName=Species
+DataRecordId=NBNSYS0000018752
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD38
+SY97
+
+

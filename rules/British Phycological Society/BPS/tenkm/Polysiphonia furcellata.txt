@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Polysiphonia furcellata 10km
+Description=Check coordinate against known distribution of Polysiphonia furcellata
+ErrorMsg=Coordinate is outside known range for Polysiphonia furcellata
+DataFieldName=Species
+DataRecordId=NHMSYS0000568106
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NB20
+NB32
+NG88
+SH32
+SH33
+SY87
+TG24
+
+

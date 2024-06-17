@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Duponchelia fovealis 10km
+Description=Check coordinate against known distribution of Duponchelia fovealis
+ErrorMsg=Coordinate is outside known range for Duponchelia fovealis
+DataFieldName=Species
+DataRecordId=MM0001Z1D7P511Z1
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ10
+SJ20
+SJ30
+SO18
+SO19
+SO28
+SO29
+SO38
+SO39
+
+

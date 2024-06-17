@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Zelotes subterraneus 10km
+Description=Check coordinate against known distribution of Zelotes subterraneus
+ErrorMsg=Coordinate is outside known range for Zelotes subterraneus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008659
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH91
+NJ41
+NJ83
+NO27
+NO37
+NO38
+NO39
+NO88
+SD76
+SK15
+SK16
+SK17
+SN57
+SO50
+SY58
+SY67
+SZ57
+TM00
+TM01
+TM11
+TM23
+TM34
+TM44
+TM45
+TQ60
+TQ91
+TR06
+TR09
+TR15
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Catocala conjuncta 10km
+Description=Check coordinate against known distribution of Catocala conjuncta
+ErrorMsg=Coordinate is outside known range for Catocala conjuncta
+DataFieldName=Species
+DataRecordId=NHMSYS0001703667
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TM35
+TM36
+TM37
+TM45
+TM46
+TM47
+TM57
+
+

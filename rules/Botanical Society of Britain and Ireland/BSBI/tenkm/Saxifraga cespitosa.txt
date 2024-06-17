@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Saxifraga cespitosa 10km
+Description=Check coordinate against known distribution of Saxifraga cespitosa
+ErrorMsg=Coordinate is outside known range for Saxifraga cespitosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000003502
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG95
+NH08
+NH28
+NH90
+NJ10
+NN17
+NN27
+NN47
+NN57
+NN99
+NO09
+NO28
+SH65
+
+

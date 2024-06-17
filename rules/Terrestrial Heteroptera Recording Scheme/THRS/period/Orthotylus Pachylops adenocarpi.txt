@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Orthotylus (Pachylops) adenocarpi
+Description=Checks date is within known recording period of Orthotylus (Pachylops) adenocarpi
+ErrorMsg=Date is outside known recording period of Orthotylus (Pachylops) adenocarpi
+Tvk=NHMSYS0020309600
+StartDate=18570101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

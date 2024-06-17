@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Artemisia pontica 10km
+Description=Check coordinate against known distribution of Artemisia pontica
+ErrorMsg=Coordinate is outside known range for Artemisia pontica
+DataFieldName=Species
+DataRecordId=NBNSYS0000034410
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ18
+
+

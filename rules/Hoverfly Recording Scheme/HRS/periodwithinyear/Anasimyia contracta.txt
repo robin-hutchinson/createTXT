@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Anasimyia contracta
+Description=Checks date is within known flight period of Anasimyia contracta
+ErrorMsg=Date is outside known flight period of Anasimyia contracta
+Tvk=NBNSYS0000007039
+DataFieldName=
+StartDate=0430
+EndDate=1101
+LastChanged=20240617
+[EndMetadata]

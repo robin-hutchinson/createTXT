@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Sargus cuprarius
+Description=Checks date is within known flight period of Sargus cuprarius
+ErrorMsg=Date is outside known flight period of Sargus cuprarius
+Tvk=NBNSYS0000007830
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

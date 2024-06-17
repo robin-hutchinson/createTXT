@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Smittina affinis 10km
+Description=Check coordinate against known distribution of Smittina affinis
+ErrorMsg=Coordinate is outside known range for Smittina affinis
+DataFieldName=Species
+DataRecordId=NBNSYS0000188573
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TV49
+
+
+[10km_Ireland]
+V75
+
+

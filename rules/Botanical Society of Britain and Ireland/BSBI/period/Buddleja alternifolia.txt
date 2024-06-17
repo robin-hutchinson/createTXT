@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Buddleja alternifolia
+Description=Checks date is within known recording period of Buddleja alternifolia
+ErrorMsg=Date is outside known recording period of Buddleja alternifolia
+Tvk=NBNSYS0000014391
+StartDate=19790101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

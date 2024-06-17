@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Veronica filiformis
+Description=Checks date is within known recording period of Veronica filiformis
+ErrorMsg=Date is outside known recording period of Veronica filiformis
+Tvk=NHMSYS0000464816
+StartDate=18380101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

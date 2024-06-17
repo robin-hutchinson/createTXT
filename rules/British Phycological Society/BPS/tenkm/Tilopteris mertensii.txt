@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Tilopteris mertensii 10km
+Description=Check coordinate against known distribution of Tilopteris mertensii
+ErrorMsg=Coordinate is outside known range for Tilopteris mertensii
+DataFieldName=Species
+DataRecordId=NBNSYS0000178396
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM43
+NM89
+NO51
+NS15
+NT37
+SC16
+SH41
+SS54
+SX44
+SX45
+SX96
+SY08
+SY18
+SY87
+TA27
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Sisymbrium irio
+Description=Checks date is within known recording period of Sisymbrium irio
+ErrorMsg=Date is outside known recording period of Sisymbrium irio
+Tvk=NBNSYS0000002907
+StartDate=16500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium hirsutum x montanum = E. x erroneum 10km
+Description=Check coordinate against known distribution of Epilobium hirsutum x montanum = E. x erroneum
+ErrorMsg=Coordinate is outside known range for Epilobium hirsutum x montanum = E. x erroneum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754747
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS47
+NT29
+NT45
+NT51
+NY46
+NZ25
+NZ35
+NZ45
+SD46
+SD71
+SD80
+SE13
+SE33
+SE87
+SJ23
+SJ60
+SJ68
+SK10
+SK12
+SK14
+SK17
+SK18
+SK25
+SK33
+SK45
+SK50
+SK52
+SK56
+SK63
+SO92
+SS41
+ST17
+ST18
+ST52
+ST66
+SU88
+SU98
+SX45
+TQ08
+TQ15
+TQ29
+
+

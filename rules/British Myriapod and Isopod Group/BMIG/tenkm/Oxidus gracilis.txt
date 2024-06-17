@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Oxidus gracilis 10km
+Description=Check coordinate against known distribution of Oxidus gracilis
+ErrorMsg=Coordinate is outside known range for Oxidus gracilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000011363
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT27
+NZ24
+SE23
+SK33
+SN58
+SP00
+SP50
+SS69
+SU57
+SX05
+TQ17
+
+

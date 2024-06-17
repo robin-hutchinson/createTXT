@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hydroptila sylvestris
+Description=Checks date is within known flight period of Hydroptila sylvestris
+ErrorMsg=Date is outside known flight period of Hydroptila sylvestris
+Tvk=NBNSYS0000008361
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

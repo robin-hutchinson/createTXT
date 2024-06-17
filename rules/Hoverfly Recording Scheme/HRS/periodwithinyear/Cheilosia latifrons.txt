@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Cheilosia latifrons
+Description=Checks date is within known flight period of Cheilosia latifrons
+ErrorMsg=Date is outside known flight period of Cheilosia latifrons
+Tvk=NBNSYS0100002330
+DataFieldName=
+StartDate=0326
+EndDate=1102
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Chloris virgata
+Description=Checks date is within known recording period of Chloris virgata
+ErrorMsg=Date is outside known recording period of Chloris virgata
+Tvk=NBNSYS0000014870
+StartDate=18580101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

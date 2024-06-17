@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lathyrus heterophyllus
+Description=Checks date is within known recording period of Lathyrus heterophyllus
+ErrorMsg=Date is outside known recording period of Lathyrus heterophyllus
+Tvk=NBNSYS0000003304
+StartDate=19560101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

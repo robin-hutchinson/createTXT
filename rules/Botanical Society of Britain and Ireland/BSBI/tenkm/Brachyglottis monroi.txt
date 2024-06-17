@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Brachyglottis monroi 10km
+Description=Check coordinate against known distribution of Brachyglottis monroi
+ErrorMsg=Coordinate is outside known range for Brachyglottis monroi
+DataFieldName=Species
+DataRecordId=NHMSYS0000456575
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC26
+SC27
+SC37
+SD54
+SH77
+SH78
+SV80
+SV91
+SW64
+SX96
+
+

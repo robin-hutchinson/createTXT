@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Placotettix taeniatifrons
+Description=Checks date is within known flight period of Placotettix taeniatifrons
+ErrorMsg=Date is outside known flight period of Placotettix taeniatifrons
+Tvk=NHMSYS0020705816
+DataFieldName=
+StartDate=0801
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

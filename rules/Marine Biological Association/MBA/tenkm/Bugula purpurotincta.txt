@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Bugula purpurotincta 10km
+Description=Check coordinate against known distribution of Bugula purpurotincta
+ErrorMsg=Coordinate is outside known range for Bugula purpurotincta
+DataFieldName=Species
+DataRecordId=NBNSYS0000174234
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D05
+D14
+D31
+D40
+D41
+
+
+[10km_GB]
+NB14
+NM71
+NR20
+NR30
+NU22
+NW56
+NW65
+NZ72
+OM75
+SS14
+TF78
+TG04
+TG33
+TG43
+
+

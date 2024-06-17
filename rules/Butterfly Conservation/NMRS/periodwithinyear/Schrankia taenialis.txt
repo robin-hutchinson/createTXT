@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Schrankia taenialis
+Description=Checks date is within known flight period of Schrankia taenialis
+ErrorMsg=Date is outside known flight period of Schrankia taenialis
+Tvk=NHMSYS0021144432
+DataFieldName=
+StartDate=0607
+EndDate=1007
+LastChanged=20240617
+[EndMetadata]

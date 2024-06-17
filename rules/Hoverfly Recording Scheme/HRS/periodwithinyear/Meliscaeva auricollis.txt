@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Meliscaeva auricollis
+Description=Checks date is within known flight period of Meliscaeva auricollis
+ErrorMsg=Date is outside known flight period of Meliscaeva auricollis
+Tvk=NBNSYS0000006933
+DataFieldName=
+StartDate=0103
+EndDate=0101
+LastChanged=20240617
+[EndMetadata]

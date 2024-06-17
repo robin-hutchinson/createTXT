@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Laserpitium latifolium 10km
+Description=Check coordinate against known distribution of Laserpitium latifolium
+ErrorMsg=Coordinate is outside known range for Laserpitium latifolium
+DataFieldName=Species
+DataRecordId=NBNSYS0200002440
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TA03
+
+

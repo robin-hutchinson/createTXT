@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex riparia x vesicaria = C. x csomadensis 10km
+Description=Check coordinate against known distribution of Carex riparia x vesicaria = C. x csomadensis
+ErrorMsg=Coordinate is outside known range for Carex riparia x vesicaria = C. x csomadensis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754800
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT84
+SP40
+SP62
+SY89
+TF90
+TL47
+
+
+[10km_Ireland]
+T27
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Mimumesa atratina
+Description=Checks date is within known flight period of Mimumesa atratina
+ErrorMsg=Date is outside known flight period of Mimumesa atratina
+Tvk=NHMSYS0000876339
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Psora rubiformis 10km
+Description=Check coordinate against known distribution of Psora rubiformis
+ErrorMsg=Coordinate is outside known range for Psora rubiformis
+DataFieldName=Species
+DataRecordId=NBNSYS0000018968
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN53
+NN64
+
+

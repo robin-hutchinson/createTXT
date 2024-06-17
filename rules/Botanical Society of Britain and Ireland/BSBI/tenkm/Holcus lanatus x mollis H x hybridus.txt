@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Holcus lanatus x mollis = H. x hybridus 10km
+Description=Check coordinate against known distribution of Holcus lanatus x mollis = H. x hybridus
+ErrorMsg=Coordinate is outside known range for Holcus lanatus x mollis = H. x hybridus
+DataFieldName=Species
+DataRecordId=NBNSYS0000161706
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX65
+SD50
+SE40
+SE98
+SH22
+SN32
+SN43
+SN77
+ST03
+ST14
+ST20
+ST25
+ST36
+SU84
+TL01
+TL60
+TL78
+TL93
+
+
+[10km_Ireland]
+O12
+O21
+O22
+R22
+R72
+
+

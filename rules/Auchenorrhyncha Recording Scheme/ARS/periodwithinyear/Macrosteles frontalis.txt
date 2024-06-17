@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Macrosteles frontalis
+Description=Checks date is within known flight period of Macrosteles frontalis
+ErrorMsg=Date is outside known flight period of Macrosteles frontalis
+Tvk=NHMSYS0020442429
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

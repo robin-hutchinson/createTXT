@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Sargus cuprarius 10km
+Description=Check coordinate against known distribution of Sargus cuprarius
+ErrorMsg=Coordinate is outside known range for Sargus cuprarius
+DataFieldName=Species
+DataRecordId=NBNSYS0000007830
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST95
+SU72
+TQ05
+TR03
+
+

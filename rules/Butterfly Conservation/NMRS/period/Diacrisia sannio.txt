@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Diacrisia sannio
+Description=Checks date is within known recording period of Diacrisia sannio
+ErrorMsg=Date is outside known recording period of Diacrisia sannio
+Tvk=NBNSYS0000006145
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

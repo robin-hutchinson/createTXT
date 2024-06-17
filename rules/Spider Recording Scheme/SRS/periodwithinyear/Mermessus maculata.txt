@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Mermessus maculata
+Description=Checks date is within known flight period of Mermessus maculata
+ErrorMsg=Date is outside known flight period of Mermessus maculata
+Tvk=NHMSYS0020953691
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

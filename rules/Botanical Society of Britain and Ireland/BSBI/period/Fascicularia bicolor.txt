@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Fascicularia bicolor
+Description=Checks date is within known recording period of Fascicularia bicolor
+ErrorMsg=Date is outside known recording period of Fascicularia bicolor
+Tvk=NHMSYS0100001565
+StartDate=19620101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

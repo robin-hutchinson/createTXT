@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Atrina fragilis 10km
+Description=Check coordinate against known distribution of Atrina fragilis
+ErrorMsg=Coordinate is outside known range for Atrina fragilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000040786
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D14
+D55
+D88
+
+
+[10km_GB]
+HU19
+HU23
+HY01
+HY37
+HY60
+ND39
+ND55
+ND58
+ND59
+NG79
+NG82
+NK66
+NL79
+NM25
+NM55
+NP19
+NR30
+NR70
+NS03
+NS15
+SC82
+SM80
+SN10
+SW72
+SX45
+SX73
+SY14
+
+

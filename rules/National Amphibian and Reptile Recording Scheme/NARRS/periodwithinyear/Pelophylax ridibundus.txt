@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=National Amphibian and Reptile Recording Scheme/NARRS Flight Period
+ShortName=Pelophylax ridibundus
+Description=Checks date is within known flight period of Pelophylax ridibundus
+ErrorMsg=Date is outside known flight period of Pelophylax ridibundus
+Tvk=NHMSYS0020194860
+DataFieldName=
+StartDate=0201
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

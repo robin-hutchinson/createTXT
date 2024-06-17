@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Euchromius ramburiellus
+Description=Checks date is within known recording period of Euchromius ramburiellus
+ErrorMsg=Date is outside known recording period of Euchromius ramburiellus
+Tvk=NHMSYS0021162639
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecidea sarcogynoides 10km
+Description=Check coordinate against known distribution of Lecidea sarcogynoides
+ErrorMsg=Coordinate is outside known range for Lecidea sarcogynoides
+DataFieldName=Species
+DataRecordId=NBNSYS0000018713
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO44
+SV80
+SV81
+SV91
+SW32
+SX57
+SX63
+
+

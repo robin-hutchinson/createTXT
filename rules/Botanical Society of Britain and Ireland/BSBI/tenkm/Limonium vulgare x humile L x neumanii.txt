@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Limonium vulgare x humile = L. x neumanii 10km
+Description=Check coordinate against known distribution of Limonium vulgare x humile = L. x neumanii
+ErrorMsg=Coordinate is outside known range for Limonium vulgare x humile = L. x neumanii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754517
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX55
+NX64
+NX65
+SD33
+SD34
+SH37
+SH52
+SH53
+SH61
+SU40
+SU50
+SU60
+SU70
+SU80
+SZ49
+SZ59
+SZ79
+TF84
+TM13
+TM23
+TM34
+TM44
+
+

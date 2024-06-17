@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum expallidiforme 10km
+Description=Check coordinate against known distribution of Taraxacum expallidiforme
+ErrorMsg=Coordinate is outside known range for Taraxacum expallidiforme
+DataFieldName=Species
+DataRecordId=NHMSYS0000840791
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT17
+NT26
+NX46
+NX55
+NX64
+NX97
+SH77
+SN33
+SN53
+SN61
+SP31
+SP50
+SP61
+SS20
+SU59
+SU69
+SU78
+SU79
+SW52
+SW63
+SW74
+SW87
+SX06
+SX17
+SX28
+TL74
+
+

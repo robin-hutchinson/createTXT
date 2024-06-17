@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Ophiola cornicula
+Description=Checks date is within known recording period of Ophiola cornicula
+ErrorMsg=Date is outside known recording period of Ophiola cornicula
+Tvk=NHMSYS0020705890
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

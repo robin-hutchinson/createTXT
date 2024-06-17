@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Scagelothamnion pusillum 10km
+Description=Check coordinate against known distribution of Scagelothamnion pusillum
+ErrorMsg=Coordinate is outside known range for Scagelothamnion pusillum
+DataFieldName=Species
+DataRecordId=NHMSYS0000377616
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU36
+HU37
+
+

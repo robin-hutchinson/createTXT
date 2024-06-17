@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Linanthus grandiflorus 10km
+Description=Check coordinate against known distribution of Linanthus grandiflorus
+ErrorMsg=Coordinate is outside known range for Linanthus grandiflorus
+DataFieldName=Species
+DataRecordId=NHMSYS0000460371
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC37
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Paradarisa consonaria
+Description=Checks date is within known flight period of Paradarisa consonaria
+ErrorMsg=Date is outside known flight period of Paradarisa consonaria
+Tvk=NHMSYS0021144257
+DataFieldName=
+StartDate=0321
+EndDate=0715
+LastChanged=20240617
+[EndMetadata]

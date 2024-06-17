@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Pachytomella parallela
+Description=Checks date is within known flight period of Pachytomella parallela
+ErrorMsg=Date is outside known flight period of Pachytomella parallela
+Tvk=NHMSYS0020309612
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

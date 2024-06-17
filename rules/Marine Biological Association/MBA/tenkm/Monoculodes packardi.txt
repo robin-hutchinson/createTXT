@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Monoculodes packardi 10km
+Description=Check coordinate against known distribution of Monoculodes packardi
+ErrorMsg=Coordinate is outside known range for Monoculodes packardi
+DataFieldName=Species
+DataRecordId=NBNSYS0000184324
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J96
+
+
+[10km_GB]
+NX01
+
+

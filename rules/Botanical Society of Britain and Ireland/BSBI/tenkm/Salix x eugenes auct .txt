@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix x eugenes auct. 10km
+Description=Check coordinate against known distribution of Salix x eugenes auct.
+ErrorMsg=Coordinate is outside known range for Salix x eugenes auct.
+DataFieldName=Species
+DataRecordId= non E.F. Linton & W.R. Linton
+LastChanged=20240617
+[EndMetadata]
+
+NA
+
+

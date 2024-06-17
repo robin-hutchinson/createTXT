@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Caloplaca concilians 10km
+Description=Check coordinate against known distribution of Caloplaca concilians
+ErrorMsg=Coordinate is outside known range for Caloplaca concilians
+DataFieldName=Species
+DataRecordId=NBNSYS0000020527
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ND27
+NG55
+NH42
+NN64
+NR64
+
+

@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Panicum schinzii 10km
+Description=Check coordinate against known distribution of Panicum schinzii
+ErrorMsg=Coordinate is outside known range for Panicum schinzii
+DataFieldName=Species
+DataRecordId=NHMSYS0000461481
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS76
+NS77
+SD80
+SE13
+SP04
+ST51
+SU41
+SU73
+TA30
+TL03
+TL10
+TL30
+TL31
+TL45
+TL66
+TQ08
+TQ16
+TQ25
+TQ27
+TQ48
+TQ57
+
+

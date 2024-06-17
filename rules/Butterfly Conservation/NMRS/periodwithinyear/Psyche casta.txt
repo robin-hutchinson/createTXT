@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Psyche casta
+Description=Checks date is within known flight period of Psyche casta
+ErrorMsg=Date is outside known flight period of Psyche casta
+Tvk=NHMSYS0000503960
+DataFieldName=
+StartDate=0515
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

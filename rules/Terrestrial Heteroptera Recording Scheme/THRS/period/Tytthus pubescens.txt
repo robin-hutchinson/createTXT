@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Tytthus pubescens
+Description=Checks date is within known recording period of Tytthus pubescens
+ErrorMsg=Date is outside known recording period of Tytthus pubescens
+Tvk=NHMSYS0020309932
+StartDate=19310101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

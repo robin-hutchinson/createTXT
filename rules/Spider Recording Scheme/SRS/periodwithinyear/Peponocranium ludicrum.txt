@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Peponocranium ludicrum
+Description=Checks date is within known flight period of Peponocranium ludicrum
+ErrorMsg=Date is outside known flight period of Peponocranium ludicrum
+Tvk=NBNSYS0000009022
+DataFieldName=
+StartDate=0213
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Nerine sarniensis 10km
+Description=Check coordinate against known distribution of Nerine sarniensis
+ErrorMsg=Coordinate is outside known range for Nerine sarniensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000460980
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV91
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Beris clavipes
+Description=Checks date is within known flight period of Beris clavipes
+ErrorMsg=Date is outside known flight period of Beris clavipes
+Tvk=NBNSYS0000007796
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

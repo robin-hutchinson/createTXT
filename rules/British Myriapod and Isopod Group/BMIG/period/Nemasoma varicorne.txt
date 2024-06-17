@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Nemasoma varicorne
+Description=Checks date is within known recording period of Nemasoma varicorne
+ErrorMsg=Date is outside known recording period of Nemasoma varicorne
+Tvk=NBNSYS0000011373
+StartDate=19120101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

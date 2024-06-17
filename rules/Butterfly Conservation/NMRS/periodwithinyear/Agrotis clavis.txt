@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agrotis clavis
+Description=Checks date is within known flight period of Agrotis clavis
+ErrorMsg=Date is outside known flight period of Agrotis clavis
+Tvk=NBNSYS0000006174
+DataFieldName=
+StartDate=0515
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

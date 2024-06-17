@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Bacidia vermifera 10km
+Description=Check coordinate against known distribution of Bacidia vermifera
+ErrorMsg=Coordinate is outside known range for Bacidia vermifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000162161
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH60
+NH61
+NH70
+NH71
+NH80
+NH81
+NH82
+NH83
+NH84
+NH85
+NH90
+NH91
+NH92
+NH93
+NH94
+NH95
+NJ00
+NJ01
+NJ02
+NJ03
+NJ04
+NJ05
+NJ10
+NJ11
+NJ12
+NJ13
+NJ20
+NJ30
+NN68
+NN69
+NN78
+NN79
+NN88
+NN89
+NN99
+NO08
+NO09
+NO18
+NO19
+NO28
+NO29
+NO38
+NO39
+
+

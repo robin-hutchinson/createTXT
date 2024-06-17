@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix arbuscula x herbacea = S. x simulatrix 10km
+Description=Check coordinate against known distribution of Salix arbuscula x herbacea = S. x simulatrix
+ErrorMsg=Coordinate is outside known range for Salix arbuscula x herbacea = S. x simulatrix
+DataFieldName=Species
+DataRecordId=NHMSYS0001754721
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN22
+NN33
+NN42
+NN43
+NN53
+
+

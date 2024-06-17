@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Heteroplacidium fusculum 10km
+Description=Check coordinate against known distribution of Heteroplacidium fusculum
+ErrorMsg=Coordinate is outside known range for Heteroplacidium fusculum
+DataFieldName=Species
+DataRecordId=NHMSYS0020990281
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST36
+
+

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sorbus leptophylla 10km
+Description=Check coordinate against known distribution of Sorbus leptophylla
+ErrorMsg=Coordinate is outside known range for Sorbus leptophylla
+DataFieldName=Species
+DataRecordId=NHMSYS0000463809
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ21
+SN81
+SO11
+
+

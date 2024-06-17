@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Ribautiana scalaris
+Description=Checks date is within known recording period of Ribautiana scalaris
+ErrorMsg=Date is outside known recording period of Ribautiana scalaris
+Tvk=NHMSYS0020705880
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

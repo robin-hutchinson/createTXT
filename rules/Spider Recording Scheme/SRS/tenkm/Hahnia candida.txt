@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Hahnia candida 10km
+Description=Check coordinate against known distribution of Hahnia candida
+ErrorMsg=Coordinate is outside known range for Hahnia candida
+DataFieldName=Species
+DataRecordId=NBNSYS0000008853
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU70
+SY58
+TQ01
+
+

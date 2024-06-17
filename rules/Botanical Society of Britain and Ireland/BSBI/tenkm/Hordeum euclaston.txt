@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hordeum euclaston 10km
+Description=Check coordinate against known distribution of Hordeum euclaston
+ErrorMsg=Coordinate is outside known range for Hordeum euclaston
+DataFieldName=Species
+DataRecordId=NHMSYS0000459744
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE22
+SO94
+SU73
+
+

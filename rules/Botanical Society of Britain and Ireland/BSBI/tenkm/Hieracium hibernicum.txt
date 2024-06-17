@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium hibernicum 10km
+Description=Check coordinate against known distribution of Hieracium hibernicum
+ErrorMsg=Coordinate is outside known range for Hieracium hibernicum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459457
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+G89
+G97
+J21
+
+

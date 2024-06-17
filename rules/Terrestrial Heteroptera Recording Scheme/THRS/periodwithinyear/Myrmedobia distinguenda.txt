@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Myrmedobia distinguenda
+Description=Checks date is within known flight period of Myrmedobia distinguenda
+ErrorMsg=Date is outside known flight period of Myrmedobia distinguenda
+Tvk=NHMSYS0020309488
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

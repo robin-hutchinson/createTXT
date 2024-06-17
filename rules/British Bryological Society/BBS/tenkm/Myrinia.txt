@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Myrinia 10km
+Description=Check coordinate against known distribution of Myrinia
+ErrorMsg=Coordinate is outside known range for Myrinia
+DataFieldName=Species
+DataRecordId=NHMSYS0000310217
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE36
+SE38
+SJ20
+SJ21
+SJ22
+SJ31
+SJ32
+SJ35
+SJ41
+SJ42
+SJ51
+
+

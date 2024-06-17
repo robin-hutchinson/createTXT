@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex crispus x palustris = R. x heteranthos 10km
+Description=Check coordinate against known distribution of Rumex crispus x palustris = R. x heteranthos
+ErrorMsg=Coordinate is outside known range for Rumex crispus x palustris = R. x heteranthos
+DataFieldName=Species
+DataRecordId=NHMSYS0001754688
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP89
+ST42
+ST43
+ST44
+TL62
+TQ06
+TQ26
+TQ67
+
+

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Hephathus nanus 10km
+Description=Check coordinate against known distribution of Hephathus nanus
+ErrorMsg=Coordinate is outside known range for Hephathus nanus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442343
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD48
+SE91
+SU21
+SU26
+SU67
+SU96
+SZ38
+TL02
+TQ04
+TQ15
+TV49
+
+

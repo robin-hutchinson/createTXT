@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Rudbeckia hirta
+Description=Checks date is within known recording period of Rudbeckia hirta
+ErrorMsg=Date is outside known recording period of Rudbeckia hirta
+Tvk=NBNSYS0000014229
+StartDate=19170101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

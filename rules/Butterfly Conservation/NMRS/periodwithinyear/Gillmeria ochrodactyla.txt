@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Gillmeria ochrodactyla
+Description=Checks date is within known flight period of Gillmeria ochrodactyla
+ErrorMsg=Date is outside known flight period of Gillmeria ochrodactyla
+Tvk=NHMSYS0021142899
+DataFieldName=
+StartDate=0621
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

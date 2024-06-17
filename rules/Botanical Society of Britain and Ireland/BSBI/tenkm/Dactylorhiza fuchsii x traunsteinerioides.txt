@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactylorhiza fuchsii x traunsteinerioides 10km
+Description=Check coordinate against known distribution of Dactylorhiza fuchsii x traunsteinerioides
+ErrorMsg=Coordinate is outside known range for Dactylorhiza fuchsii x traunsteinerioides
+DataFieldName=Species
+DataRecordId=NHMSYS0020112218
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+N25
+
+
+[10km_GB]
+NZ43
+SD96
+SE58
+SE88
+SE99
+SH23
+SH57
+SU65
+SU75
+
+

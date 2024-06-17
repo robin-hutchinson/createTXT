@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Orthotrichia costalis
+Description=Checks date is within known recording period of Orthotrichia costalis
+ErrorMsg=Date is outside known recording period of Orthotrichia costalis
+Tvk=NBNSYS0000008378
+StartDate=18590101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

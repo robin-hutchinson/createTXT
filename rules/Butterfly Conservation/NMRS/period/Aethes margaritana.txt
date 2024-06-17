@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Aethes margaritana
+Description=Checks date is within known recording period of Aethes margaritana
+ErrorMsg=Date is outside known recording period of Aethes margaritana
+Tvk=NHMSYS0000501012
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

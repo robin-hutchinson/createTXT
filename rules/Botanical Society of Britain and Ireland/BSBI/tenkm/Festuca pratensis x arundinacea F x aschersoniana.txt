@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca pratensis x arundinacea = F. x aschersoniana 10km
+Description=Check coordinate against known distribution of Festuca pratensis x arundinacea = F. x aschersoniana
+ErrorMsg=Coordinate is outside known range for Festuca pratensis x arundinacea = F. x aschersoniana
+DataFieldName=Species
+DataRecordId=NHMSYS0001754389
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NR67
+NZ51
+SH28
+SP32
+SP35
+SP45
+TG13
+
+

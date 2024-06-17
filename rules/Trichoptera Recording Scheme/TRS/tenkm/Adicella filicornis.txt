@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Adicella filicornis 10km
+Description=Check coordinate against known distribution of Adicella filicornis
+ErrorMsg=Coordinate is outside known range for Adicella filicornis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008528
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH60
+SJ34
+SJ35
+SO50
+SY18
+SY28
+
+

@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Holcostethus strictus subsp. vernalis 10km
+Description=Check coordinate against known distribution of Holcostethus strictus subsp. vernalis
+ErrorMsg=Coordinate is outside known range for Holcostethus strictus subsp. vernalis
+DataFieldName=Species
+DataRecordId=NHMSYS0020705623
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU50
+SY88
+SZ19
+SZ58
+TQ81
+
+

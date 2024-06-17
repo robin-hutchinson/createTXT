@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Halcampoides elongatus 10km
+Description=Check coordinate against known distribution of Halcampoides elongatus
+ErrorMsg=Coordinate is outside known range for Halcampoides elongatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000175596
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HP90
+NM35
+SM70
+SS29
+
+
+[10km_Ireland]
+Y85
+
+

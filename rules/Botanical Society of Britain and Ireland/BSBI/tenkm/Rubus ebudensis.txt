@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus ebudensis 10km
+Description=Check coordinate against known distribution of Rubus ebudensis
+ErrorMsg=Coordinate is outside known range for Rubus ebudensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462679
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NB31
+NF09
+NF71
+NF85
+NG08
+NG19
+NG24
+NG35
+NM48
+
+

@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa canina x mollis = R. x molletorum 10km
+Description=Check coordinate against known distribution of Rosa canina x mollis = R. x molletorum
+ErrorMsg=Coordinate is outside known range for Rosa canina x mollis = R. x molletorum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754756
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG73
+NJ05
+NO00
+NO01
+NO30
+NR86
+NR88
+SE07
+SE37
+SJ23
+SJ28
+SK05
+
+

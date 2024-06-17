@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sagina nivalis 10km
+Description=Check coordinate against known distribution of Sagina nivalis
+ErrorMsg=Coordinate is outside known range for Sagina nivalis
+DataFieldName=Species
+DataRecordId=NHMSYS0000463051
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN42
+NN43
+NN53
+NN64
+
+

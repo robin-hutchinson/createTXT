@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Anthocoris sarothamni
+Description=Checks date is within known recording period of Anthocoris sarothamni
+ErrorMsg=Date is outside known recording period of Anthocoris sarothamni
+Tvk=NHMSYS0020308940
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

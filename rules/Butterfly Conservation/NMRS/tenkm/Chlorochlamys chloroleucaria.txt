@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Chlorochlamys chloroleucaria 10km
+Description=Check coordinate against known distribution of Chlorochlamys chloroleucaria
+ErrorMsg=Coordinate is outside known range for Chlorochlamys chloroleucaria
+DataFieldName=Species
+DataRecordId=NHMSYS0000501760
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST25
+ST26
+ST27
+ST35
+ST36
+ST37
+ST45
+ST46
+ST47
+
+

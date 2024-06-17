@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Iris latifolia
+Description=Checks date is within known recording period of Iris latifolia
+ErrorMsg=Date is outside known recording period of Iris latifolia
+Tvk=NHMSYS0000459901
+StartDate=18480101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Fossombronia incurva 10km
+Description=Check coordinate against known distribution of Fossombronia incurva
+ErrorMsg=Coordinate is outside known range for Fossombronia incurva
+DataFieldName=Species
+DataRecordId=NBNSYS0000036018
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ43
+SV80
+SV81
+SV90
+SW65
+
+

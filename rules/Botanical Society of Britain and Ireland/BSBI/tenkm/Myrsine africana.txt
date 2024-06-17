@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Myrsine africana 10km
+Description=Check coordinate against known distribution of Myrsine africana
+ErrorMsg=Coordinate is outside known range for Myrsine africana
+DataFieldName=Species
+DataRecordId=NBNSYS0000033606
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV81
+
+

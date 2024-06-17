@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Myriactula areschougii 10km
+Description=Check coordinate against known distribution of Myriactula areschougii
+ErrorMsg=Coordinate is outside known range for Myriactula areschougii
+DataFieldName=Species
+DataRecordId=NHMSYS0000568028
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU37
+NF60
+NS15
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Oncopsis avellanae
+Description=Checks date is within known flight period of Oncopsis avellanae
+ErrorMsg=Date is outside known flight period of Oncopsis avellanae
+Tvk=NHMSYS0020705776
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

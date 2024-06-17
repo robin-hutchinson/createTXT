@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Raphanus raphanistrum subsp. landra 10km
+Description=Check coordinate against known distribution of Raphanus raphanistrum subsp. landra
+ErrorMsg=Coordinate is outside known range for Raphanus raphanistrum subsp. landra
+DataFieldName=Species
+DataRecordId=NBNSYS0000033357
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT27
+NZ16
+NZ37
+NZ38
+SK22
+SK99
+SO60
+ST38
+ST57
+ST97
+TG50
+TQ27
+
+

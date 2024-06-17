@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia confusa x campbelliae 10km
+Description=Check coordinate against known distribution of Euphrasia confusa x campbelliae
+ErrorMsg=Coordinate is outside known range for Euphrasia confusa x campbelliae
+DataFieldName=Species
+DataRecordId=NBNSYS0100003118
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NA92
+
+

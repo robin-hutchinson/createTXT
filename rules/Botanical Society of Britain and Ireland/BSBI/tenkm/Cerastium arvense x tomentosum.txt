@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cerastium arvense x tomentosum 10km
+Description=Check coordinate against known distribution of Cerastium arvense x tomentosum
+ErrorMsg=Coordinate is outside known range for Cerastium arvense x tomentosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000457060
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ02
+NJ06
+NJ14
+NJ16
+NJ26
+NJ71
+NO21
+NO45
+NO53
+NT36
+NU23
+SD30
+SD31
+SD32
+SD33
+SH78
+SH87
+SJ39
+SK53
+SK54
+SK56
+SK69
+SO87
+SO88
+TF82
+TF93
+TF94
+TL67
+TL76
+TL77
+TL78
+TM14
+TQ25
+TR26
+
+

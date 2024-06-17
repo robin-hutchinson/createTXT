@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Nabis (Nabis) brevis 10km
+Description=Check coordinate against known distribution of Nabis (Nabis) brevis
+ErrorMsg=Coordinate is outside known range for Nabis (Nabis) brevis
+DataFieldName=Species
+DataRecordId=NHMSYS0020309503
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO92
+SP91
+TL10
+TL11
+TL20
+TL33
+TL34
+TL42
+TQ30
+
+

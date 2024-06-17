@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Pelophila borealis
+Description=Checks date is within known flight period of Pelophila borealis
+ErrorMsg=Date is outside known flight period of Pelophila borealis
+Tvk=NBNSYS0000007151
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

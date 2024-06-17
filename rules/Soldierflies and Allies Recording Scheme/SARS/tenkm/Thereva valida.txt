@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Thereva valida 10km
+Description=Check coordinate against known distribution of Thereva valida
+ErrorMsg=Coordinate is outside known range for Thereva valida
+DataFieldName=Species
+DataRecordId=NBNSYS0000007934
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH81
+NJ02
+NZ44
+SE58
+SE68
+
+

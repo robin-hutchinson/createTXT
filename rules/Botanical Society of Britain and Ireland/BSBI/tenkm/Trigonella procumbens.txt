@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trigonella procumbens 10km
+Description=Check coordinate against known distribution of Trigonella procumbens
+ErrorMsg=Coordinate is outside known range for Trigonella procumbens
+DataFieldName=Species
+DataRecordId=NHMSYS0000464596
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW84
+TL31
+
+

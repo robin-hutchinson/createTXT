@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Agyneta subtilis
+Description=Checks date is within known flight period of Agyneta subtilis
+ErrorMsg=Date is outside known flight period of Agyneta subtilis
+Tvk=NBNSYS0000009148
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium rectulum 10km
+Description=Check coordinate against known distribution of Hieracium rectulum
+ErrorMsg=Coordinate is outside known range for Hieracium rectulum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840944
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN24
+SN46
+SN55
+SN56
+SN65
+SN66
+SN71
+SN75
+SN77
+
+

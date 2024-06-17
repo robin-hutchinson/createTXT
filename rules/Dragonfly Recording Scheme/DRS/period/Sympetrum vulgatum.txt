@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Dragonfly Recording Scheme/DRS Recording Period
+ShortName=Sympetrum vulgatum
+Description=Checks date is within known recording period of Sympetrum vulgatum
+ErrorMsg=Date is outside known recording period of Sympetrum vulgatum
+Tvk=NBNSYS0000005644
+StartDate=
+EndDate=18001231
+LastChanged=20240617
+[EndMetadata]

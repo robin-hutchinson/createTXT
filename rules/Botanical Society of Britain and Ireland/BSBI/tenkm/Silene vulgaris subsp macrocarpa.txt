@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Silene vulgaris subsp. macrocarpa 10km
+Description=Check coordinate against known distribution of Silene vulgaris subsp. macrocarpa
+ErrorMsg=Coordinate is outside known range for Silene vulgaris subsp. macrocarpa
+DataFieldName=Species
+DataRecordId=NBNSYS0000033874
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT03
+NT13
+NT23
+NT33
+SJ39
+SJ74
+SO85
+SX45
+SZ68
+
+

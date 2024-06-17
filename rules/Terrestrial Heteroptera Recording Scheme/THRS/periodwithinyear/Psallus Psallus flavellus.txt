@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Psallus (Psallus) flavellus
+Description=Checks date is within known flight period of Psallus (Psallus) flavellus
+ErrorMsg=Date is outside known flight period of Psallus (Psallus) flavellus
+Tvk=NHMSYS0020309737
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

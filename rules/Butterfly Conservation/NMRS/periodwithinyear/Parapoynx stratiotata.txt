@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Parapoynx stratiotata
+Description=Checks date is within known flight period of Parapoynx stratiotata
+ErrorMsg=Date is outside known flight period of Parapoynx stratiotata
+Tvk=NHMSYS0000503611
+DataFieldName=
+StartDate=0521
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

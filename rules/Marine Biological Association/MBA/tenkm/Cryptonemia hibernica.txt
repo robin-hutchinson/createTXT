@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Cryptonemia hibernica 10km
+Description=Check coordinate against known distribution of Cryptonemia hibernica
+ErrorMsg=Coordinate is outside known range for Cryptonemia hibernica
+DataFieldName=Species
+DataRecordId=NBNSYS0000180891
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SX45
+
+

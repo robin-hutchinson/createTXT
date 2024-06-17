@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Adela croesella
+Description=Checks date is within known flight period of Adela croesella
+ErrorMsg=Date is outside known flight period of Adela croesella
+Tvk=NHMSYS0000500990
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Dactylis polygama
+Description=Checks date is within known recording period of Dactylis polygama
+ErrorMsg=Date is outside known recording period of Dactylis polygama
+Tvk=NHMSYS0000457868
+StartDate=19340101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

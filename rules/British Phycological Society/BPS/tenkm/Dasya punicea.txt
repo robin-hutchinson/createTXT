@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Dasya punicea 10km
+Description=Check coordinate against known distribution of Dasya punicea
+ErrorMsg=Coordinate is outside known range for Dasya punicea
+DataFieldName=Species
+DataRecordId=NHMSYS0000567937
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SZ07
+
+

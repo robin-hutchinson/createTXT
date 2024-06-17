@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Eryngium giganteum 10km
+Description=Check coordinate against known distribution of Eryngium giganteum
+ErrorMsg=Coordinate is outside known range for Eryngium giganteum
+DataFieldName=Species
+DataRecordId=NHMSYS0000458599
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD47
+SD56
+SE05
+SE14
+SH97
+SJ80
+SU86
+TM05
+TQ00
+TQ29
+
+

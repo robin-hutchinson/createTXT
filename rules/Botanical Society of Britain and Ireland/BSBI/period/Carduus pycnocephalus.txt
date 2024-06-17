@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Carduus pycnocephalus
+Description=Checks date is within known recording period of Carduus pycnocephalus
+ErrorMsg=Date is outside known recording period of Carduus pycnocephalus
+Tvk=NBNSYS0000004485
+StartDate=18680101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

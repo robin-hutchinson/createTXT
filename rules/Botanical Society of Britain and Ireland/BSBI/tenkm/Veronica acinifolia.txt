@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Veronica acinifolia 10km
+Description=Check coordinate against known distribution of Veronica acinifolia
+ErrorMsg=Coordinate is outside known range for Veronica acinifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000004117
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J37
+
+
+[10km_GB]
+NT56
+ST40
+ST41
+SU93
+TQ04
+TQ10
+
+

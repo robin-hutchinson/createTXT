@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Micaria pulicaria
+Description=Checks date is within known flight period of Micaria pulicaria
+ErrorMsg=Date is outside known flight period of Micaria pulicaria
+Tvk=NBNSYS0000008669
+DataFieldName=
+StartDate=0221
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

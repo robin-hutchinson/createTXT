@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Peribatodes ilicaria 10km
+Description=Check coordinate against known distribution of Peribatodes ilicaria
+ErrorMsg=Coordinate is outside known range for Peribatodes ilicaria
+DataFieldName=Species
+DataRecordId=NHMSYS0021144230
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ91
+TQ92
+TQ93
+TR01
+TR02
+TR03
+TR12
+TR13
+
+

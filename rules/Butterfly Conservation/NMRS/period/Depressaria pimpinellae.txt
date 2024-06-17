@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Depressaria pimpinellae
+Description=Checks date is within known recording period of Depressaria pimpinellae
+ErrorMsg=Date is outside known recording period of Depressaria pimpinellae
+Tvk=NHMSYS0000502127
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

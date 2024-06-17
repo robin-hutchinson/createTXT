@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Kobresia simpliciuscula 10km
+Description=Check coordinate against known distribution of Kobresia simpliciuscula
+ErrorMsg=Coordinate is outside known range for Kobresia simpliciuscula
+DataFieldName=Species
+DataRecordId=NHMSYS0000460031
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN13
+NN22
+NN32
+NN33
+NN34
+NN43
+NN44
+NN53
+NN54
+NN64
+NN65
+NN66
+NN75
+NN96
+NN97
+NO06
+NO07
+NY72
+NY82
+NY83
+SK25
+
+

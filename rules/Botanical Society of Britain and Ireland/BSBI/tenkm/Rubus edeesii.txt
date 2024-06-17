@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus edeesii 10km
+Description=Check coordinate against known distribution of Rubus edeesii
+ErrorMsg=Coordinate is outside known range for Rubus edeesii
+DataFieldName=Species
+DataRecordId=NHMSYS0000462683
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK83
+SK85
+SK87
+TF07
+TF17
+TF26
+TF38
+TM34
+
+

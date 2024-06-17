@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Globiceps (Kelidocoris) juniperi
+Description=Checks date is within known recording period of Globiceps (Kelidocoris) juniperi
+ErrorMsg=Date is outside known recording period of Globiceps (Kelidocoris) juniperi
+Tvk=NHMSYS0020309267
+StartDate=19020101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

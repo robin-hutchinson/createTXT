@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus pannosus 10km
+Description=Check coordinate against known distribution of Rubus pannosus
+ErrorMsg=Coordinate is outside known range for Rubus pannosus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462827
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU64
+SU82
+TG03
+TG14
+TL21
+TL40
+TL70
+TL92
+TQ42
+TQ49
+TQ52
+TQ61
+TQ71
+TQ72
+TQ73
+
+

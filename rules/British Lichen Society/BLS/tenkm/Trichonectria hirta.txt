@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Trichonectria hirta 10km
+Description=Check coordinate against known distribution of Trichonectria hirta
+ErrorMsg=Coordinate is outside known range for Trichonectria hirta
+DataFieldName=Species
+DataRecordId=NHMSYS0001500425
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H15
+
+
+[10km_GB]
+ND06
+TM45
+
+

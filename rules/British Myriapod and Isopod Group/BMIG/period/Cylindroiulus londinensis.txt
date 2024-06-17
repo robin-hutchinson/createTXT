@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Cylindroiulus londinensis
+Description=Checks date is within known recording period of Cylindroiulus londinensis
+ErrorMsg=Date is outside known recording period of Cylindroiulus londinensis
+Tvk=NBNSYS0000011390
+StartDate=18150101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

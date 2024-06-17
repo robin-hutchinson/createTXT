@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Genista pilosa 10km
+Description=Check coordinate against known distribution of Genista pilosa
+ErrorMsg=Coordinate is outside known range for Genista pilosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000003208
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH71
+SM72
+SM73
+SM82
+SM83
+SM84
+SM94
+SN81
+SW32
+SW43
+SW61
+SW64
+SW65
+SW71
+SW72
+SW75
+TL76
+TL77
+TL86
+TL87
+TQ43
+
+

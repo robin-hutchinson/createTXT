@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Micarea submilliaria 10km
+Description=Check coordinate against known distribution of Micarea submilliaria
+ErrorMsg=Coordinate is outside known range for Micarea submilliaria
+DataFieldName=Species
+DataRecordId=BMSSYS0000011225
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC45
+NG80
+NM42
+NN17
+NN64
+SH66
+SN25
+SN61
+SN62
+SN64
+SN72
+SN74
+
+

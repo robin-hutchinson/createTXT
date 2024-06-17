@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hydropsyche bulgaromanorum
+Description=Checks date is within known flight period of Hydropsyche bulgaromanorum
+ErrorMsg=Date is outside known flight period of Hydropsyche bulgaromanorum
+Tvk=NBNSYS0000008414
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

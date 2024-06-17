@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia monomorpha 10km
+Description=Check coordinate against known distribution of Cladonia monomorpha
+ErrorMsg=Coordinate is outside known range for Cladonia monomorpha
+DataFieldName=Species
+DataRecordId=NHMSYS0001477653
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO17
+NY32
+SX46
+SX95
+
+

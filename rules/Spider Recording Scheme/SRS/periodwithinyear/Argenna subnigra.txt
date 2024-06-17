@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Argenna subnigra
+Description=Checks date is within known flight period of Argenna subnigra
+ErrorMsg=Date is outside known flight period of Argenna subnigra
+Tvk=NBNSYS0000008624
+DataFieldName=
+StartDate=0323
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

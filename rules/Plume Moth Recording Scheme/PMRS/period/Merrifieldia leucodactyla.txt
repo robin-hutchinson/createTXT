@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Merrifieldia leucodactyla
+Description=Checks date is within known recording period of Merrifieldia leucodactyla
+ErrorMsg=Date is outside known recording period of Merrifieldia leucodactyla
+Tvk=NHMSYS0000503198
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

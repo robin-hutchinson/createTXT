@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Chlidonias niger
+Description=Checks date is within known flight period of Chlidonias niger
+ErrorMsg=Date is outside known flight period of Chlidonias niger
+Tvk=NBNSYS0000000372
+DataFieldName=
+StartDate=0410
+EndDate=1020
+LastChanged=20240617
+[EndMetadata]

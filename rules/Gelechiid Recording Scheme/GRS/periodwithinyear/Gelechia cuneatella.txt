@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Gelechia cuneatella
+Description=Checks date is within known flight period of Gelechia cuneatella
+ErrorMsg=Date is outside known flight period of Gelechia cuneatella
+Tvk=NHMSYS0000502705
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

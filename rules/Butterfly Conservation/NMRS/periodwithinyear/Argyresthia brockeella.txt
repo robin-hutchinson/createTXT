@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Argyresthia brockeella
+Description=Checks date is within known flight period of Argyresthia brockeella
+ErrorMsg=Date is outside known flight period of Argyresthia brockeella
+Tvk=NHMSYS0021142503
+DataFieldName=
+StartDate=0521
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

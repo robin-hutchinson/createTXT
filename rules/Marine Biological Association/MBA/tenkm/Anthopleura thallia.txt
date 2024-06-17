@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Anthopleura thallia 10km
+Description=Check coordinate against known distribution of Anthopleura thallia
+ErrorMsg=Coordinate is outside known range for Anthopleura thallia
+DataFieldName=Species
+DataRecordId=NBNSYS0000173856
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM70
+SS44
+SV80
+SV81
+SV91
+SW42
+SW71
+
+
+[10km_Ireland]
+Y85
+
+

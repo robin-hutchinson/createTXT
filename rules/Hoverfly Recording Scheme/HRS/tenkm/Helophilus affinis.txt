@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Helophilus affinis 10km
+Description=Check coordinate against known distribution of Helophilus affinis
+ErrorMsg=Coordinate is outside known range for Helophilus affinis
+DataFieldName=Species
+DataRecordId=NBNSYS0000042363
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HZ27
+
+

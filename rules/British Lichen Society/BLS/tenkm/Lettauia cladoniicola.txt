@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lettauia cladoniicola 10km
+Description=Check coordinate against known distribution of Lettauia cladoniicola
+ErrorMsg=Coordinate is outside known range for Lettauia cladoniicola
+DataFieldName=Species
+DataRecordId=BMSSYS0000010500
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ND38
+NJ06
+NS54
+SH75
+
+

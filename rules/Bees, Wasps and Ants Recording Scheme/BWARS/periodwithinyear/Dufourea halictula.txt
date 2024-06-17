@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Dufourea halictula
+Description=Checks date is within known flight period of Dufourea halictula
+ErrorMsg=Date is outside known flight period of Dufourea halictula
+Tvk=NHMSYS0000875860
+DataFieldName=
+StartDate=0601
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

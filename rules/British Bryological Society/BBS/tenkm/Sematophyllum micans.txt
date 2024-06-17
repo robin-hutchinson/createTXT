@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Sematophyllum micans 10km
+Description=Check coordinate against known distribution of Sematophyllum micans
+ErrorMsg=Coordinate is outside known range for Sematophyllum micans
+DataFieldName=Species
+DataRecordId=NBNSYS0000036927
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG40
+NG70
+NG80
+NG81
+NG90
+NG91
+NG92
+NG93
+NH00
+NM53
+NM59
+NM63
+NM65
+NM66
+NM75
+NM76
+NM77
+NM78
+NM79
+NM85
+NM86
+NM87
+NM88
+NM89
+NM95
+NM96
+NM97
+NM98
+NM99
+NN07
+NN08
+NN09
+NN13
+NN14
+NN16
+NN19
+NN26
+
+

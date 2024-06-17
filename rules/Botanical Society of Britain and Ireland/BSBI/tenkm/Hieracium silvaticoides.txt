@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium silvaticoides 10km
+Description=Check coordinate against known distribution of Hieracium silvaticoides
+ErrorMsg=Coordinate is outside known range for Hieracium silvaticoides
+DataFieldName=Species
+DataRecordId=NHMSYS0000840989
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C62
+D24
+
+
+[10km_GB]
+NJ12
+NO07
+NS84
+NS94
+NT53
+NY71
+NY74
+NY82
+SD47
+SD48
+SD49
+SD57
+SD58
+SD76
+SD77
+SD78
+SD86
+SD87
+SD89
+SD96
+SD97
+SE05
+SE06
+SE26
+
+

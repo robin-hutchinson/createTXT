@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Dasystoma salicella
+Description=Checks date is within known flight period of Dasystoma salicella
+ErrorMsg=Date is outside known flight period of Dasystoma salicella
+Tvk=NHMSYS0000502102
+DataFieldName=
+StartDate=0301
+EndDate=0430
+LastChanged=20240617
+[EndMetadata]

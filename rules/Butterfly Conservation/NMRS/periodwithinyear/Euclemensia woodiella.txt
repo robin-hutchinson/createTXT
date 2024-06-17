@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Euclemensia woodiella
+Description=Checks date is within known flight period of Euclemensia woodiella
+ErrorMsg=Date is outside known flight period of Euclemensia woodiella
+Tvk=NHMSYS0000502524
+DataFieldName=
+StartDate=0601
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

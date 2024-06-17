@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Gelechia sabinellus 10km
+Description=Check coordinate against known distribution of Gelechia sabinellus
+ErrorMsg=Coordinate is outside known range for Gelechia sabinellus
+DataFieldName=Species
+DataRecordId=NBNSYS0100003245
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO85
+TQ38
+TQ39
+
+

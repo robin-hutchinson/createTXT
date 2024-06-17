@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Leptonematella fasciculata 10km
+Description=Check coordinate against known distribution of Leptonematella fasciculata
+ErrorMsg=Coordinate is outside known range for Leptonematella fasciculata
+DataFieldName=Species
+DataRecordId=NHMSYS0000567987
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU37
+HW83
+NB13
+NB14
+ND07
+NG82
+NO51
+NR56
+NS07
+NS15
+NT28
+NT29
+SC16
+SH57
+SJ38
+SM70
+TF84
+TL90
+TM23
+
+

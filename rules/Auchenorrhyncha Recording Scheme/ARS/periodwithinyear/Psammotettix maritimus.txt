@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Psammotettix maritimus
+Description=Checks date is within known flight period of Psammotettix maritimus
+ErrorMsg=Date is outside known flight period of Psammotettix maritimus
+Tvk=NHMSYS0020442456
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

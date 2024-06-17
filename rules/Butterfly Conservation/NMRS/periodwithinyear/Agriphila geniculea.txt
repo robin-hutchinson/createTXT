@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agriphila geniculea
+Description=Checks date is within known flight period of Agriphila geniculea
+ErrorMsg=Date is outside known flight period of Agriphila geniculea
+Tvk=NHMSYS0000501081
+DataFieldName=
+StartDate=0701
+EndDate=1007
+LastChanged=20240617
+[EndMetadata]

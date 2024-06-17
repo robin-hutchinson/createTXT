@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Aristolochia rotunda 10km
+Description=Check coordinate against known distribution of Aristolochia rotunda
+ErrorMsg=Coordinate is outside known range for Aristolochia rotunda
+DataFieldName=Species
+DataRecordId=NBNSYS0000003720
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ35
+TQ56
+
+

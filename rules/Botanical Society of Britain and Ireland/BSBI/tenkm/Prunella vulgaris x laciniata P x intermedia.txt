@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Prunella vulgaris x laciniata = P. x intermedia 10km
+Description=Check coordinate against known distribution of Prunella vulgaris x laciniata = P. x intermedia
+ErrorMsg=Coordinate is outside known range for Prunella vulgaris x laciniata = P. x intermedia
+DataFieldName=Species
+DataRecordId=NHMSYS0001754529
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NZ36
+NZ52
+SO73
+SO76
+SO90
+SP10
+ST45
+ST52
+ST62
+ST68
+ST87
+SU24
+SU42
+SU60
+SU64
+SU67
+SU88
+SX35
+SY58
+SY67
+SZ07
+TF00
+TL15
+TL19
+TL33
+TL35
+TL46
+TQ06
+TQ25
+TQ30
+TQ35
+TQ66
+TQ75
+TQ78
+TQ89
+TQ99
+
+
+[10km_Ireland]
+S45
+W33
+
+

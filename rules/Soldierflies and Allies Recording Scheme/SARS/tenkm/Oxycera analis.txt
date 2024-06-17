@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Oxycera analis 10km
+Description=Check coordinate against known distribution of Oxycera analis
+ErrorMsg=Coordinate is outside known range for Oxycera analis
+DataFieldName=Species
+DataRecordId=NBNSYS0000007808
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO60
+SO91
+SO94
+SP74
+TF71
+TL35
+
+

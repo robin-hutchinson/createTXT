@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ramonda myconi 10km
+Description=Check coordinate against known distribution of Ramonda myconi
+ErrorMsg=Coordinate is outside known range for Ramonda myconi
+DataFieldName=Species
+DataRecordId=NHMSYS0000462229
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD76
+SD79
+SH65
+TQ27
+
+

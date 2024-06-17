@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Teleiodes wagae
+Description=Checks date is within known flight period of Teleiodes wagae
+ErrorMsg=Date is outside known flight period of Teleiodes wagae
+Tvk=NHMSYS0000504466
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

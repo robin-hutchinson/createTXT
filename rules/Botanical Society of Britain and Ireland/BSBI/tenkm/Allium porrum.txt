@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Allium porrum 10km
+Description=Check coordinate against known distribution of Allium porrum
+ErrorMsg=Coordinate is outside known range for Allium porrum
+DataFieldName=Species
+DataRecordId=NBNSYS0000002250
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ02
+NM26
+NO32
+SC26
+SE13
+SH33
+SH87
+SP18
+SP52
+ST54
+SU66
+SU77
+SW62
+SW74
+SW75
+SX45
+SX46
+SX55
+SX84
+TL03
+TQ04
+TQ18
+TQ25
+
+

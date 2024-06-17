@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Plutella haasi
+Description=Checks date is within known flight period of Plutella haasi
+ErrorMsg=Date is outside known flight period of Plutella haasi
+Tvk=NHMSYS0000503882
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

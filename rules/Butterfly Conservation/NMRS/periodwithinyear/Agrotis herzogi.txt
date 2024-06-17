@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agrotis herzogi
+Description=Checks date is within known flight period of Agrotis herzogi
+ErrorMsg=Date is outside known flight period of Agrotis herzogi
+Tvk=NBNSYS0100001446
+DataFieldName=
+StartDate=1121
+EndDate=1215
+LastChanged=20240617
+[EndMetadata]

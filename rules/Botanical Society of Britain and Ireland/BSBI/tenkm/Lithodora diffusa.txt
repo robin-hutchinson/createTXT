@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lithodora diffusa 10km
+Description=Check coordinate against known distribution of Lithodora diffusa
+ErrorMsg=Coordinate is outside known range for Lithodora diffusa
+DataFieldName=Species
+DataRecordId=NHMSYS0000460409
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU29
+SU76
+SU77
+SU96
+
+

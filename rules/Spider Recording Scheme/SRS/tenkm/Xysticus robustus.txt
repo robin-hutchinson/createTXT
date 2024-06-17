@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Xysticus robustus 10km
+Description=Check coordinate against known distribution of Xysticus robustus
+ErrorMsg=Coordinate is outside known range for Xysticus robustus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008731
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SY88
+
+

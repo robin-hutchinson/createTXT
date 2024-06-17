@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Formica rufibarbis
+Description=Checks date is within known flight period of Formica rufibarbis
+ErrorMsg=Date is outside known flight period of Formica rufibarbis
+Tvk=NHMSYS0000875964
+DataFieldName=
+StartDate=0301
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

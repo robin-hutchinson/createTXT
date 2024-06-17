@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Hincksia mitchelliae 10km
+Description=Check coordinate against known distribution of Hincksia mitchelliae
+ErrorMsg=Coordinate is outside known range for Hincksia mitchelliae
+DataFieldName=Species
+DataRecordId=NHMSYS0000568219
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TM01
+
+

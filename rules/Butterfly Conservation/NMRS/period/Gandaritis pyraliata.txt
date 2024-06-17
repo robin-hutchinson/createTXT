@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Gandaritis pyraliata
+Description=Checks date is within known recording period of Gandaritis pyraliata
+ErrorMsg=Date is outside known recording period of Gandaritis pyraliata
+Tvk=NHMSYS0021143990
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

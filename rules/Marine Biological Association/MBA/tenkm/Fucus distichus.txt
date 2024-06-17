@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Fucus distichus 10km
+Description=Check coordinate against known distribution of Fucus distichus
+ErrorMsg=Coordinate is outside known range for Fucus distichus
+DataFieldName=Species
+DataRecordId=NBNSYS0000175382
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C99
+
+
+[10km_GB]
+HT94
+HW63
+HW83
+HY10
+HY21
+HY32
+HZ16
+HZ27
+NB02
+NC96
+ND07
+NF60
+NG20
+NG82
+NJ76
+NL58
+NR15
+NR16
+
+

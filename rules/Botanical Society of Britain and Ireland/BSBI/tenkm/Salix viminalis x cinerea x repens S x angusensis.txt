@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix viminalis x cinerea x repens = S. x angusensis 10km
+Description=Check coordinate against known distribution of Salix viminalis x cinerea x repens = S. x angusensis
+ErrorMsg=Coordinate is outside known range for Salix viminalis x cinerea x repens = S. x angusensis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754442
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO53
+SD17
+SD20
+SD21
+SD31
+SD33
+SJ29
+
+

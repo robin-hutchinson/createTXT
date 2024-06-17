@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Chordeuma proximum
+Description=Checks date is within known recording period of Chordeuma proximum
+ErrorMsg=Date is outside known recording period of Chordeuma proximum
+Tvk=NBNSYS0000011353
+StartDate=19640101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

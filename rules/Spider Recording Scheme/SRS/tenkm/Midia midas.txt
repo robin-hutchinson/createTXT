@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Midia midas 10km
+Description=Check coordinate against known distribution of Midia midas
+ErrorMsg=Coordinate is outside known range for Midia midas
+DataFieldName=Species
+DataRecordId=NBNSYS0100004075
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ49
+
+

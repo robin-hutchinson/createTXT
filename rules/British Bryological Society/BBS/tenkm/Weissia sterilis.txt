@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Weissia sterilis 10km
+Description=Check coordinate against known distribution of Weissia sterilis
+ErrorMsg=Coordinate is outside known range for Weissia sterilis
+DataFieldName=Species
+DataRecordId=NHMSYS0000310844
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU71
+SU81
+SU90
+SZ48
+SZ57
+SZ99
+TQ00
+TQ01
+TQ10
+TQ11
+TQ20
+TQ21
+TQ30
+TQ31
+TQ35
+TQ40
+TQ41
+TQ50
+TR33
+TV49
+TV59
+TV69
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Paraswammerdamia nebulella
+Description=Checks date is within known flight period of Paraswammerdamia nebulella
+ErrorMsg=Date is outside known flight period of Paraswammerdamia nebulella
+Tvk=NHMSYS0021142474
+DataFieldName=
+StartDate=0601
+EndDate=1007
+LastChanged=20240617
+[EndMetadata]

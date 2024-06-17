@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Cryphia algae
+Description=Checks date is within known flight period of Cryphia algae
+ErrorMsg=Date is outside known flight period of Cryphia algae
+Tvk=NBNSYS0000006387
+DataFieldName=
+StartDate=0621
+EndDate=0915
+LastChanged=20240617
+[EndMetadata]

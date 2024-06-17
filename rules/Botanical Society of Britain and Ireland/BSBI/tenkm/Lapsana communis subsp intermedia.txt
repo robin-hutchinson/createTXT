@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lapsana communis subsp. intermedia 10km
+Description=Check coordinate against known distribution of Lapsana communis subsp. intermedia
+ErrorMsg=Coordinate is outside known range for Lapsana communis subsp. intermedia
+DataFieldName=Species
+DataRecordId=NHMSYS0000460108
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO20
+NS97
+NZ03
+NZ12
+NZ13
+NZ22
+NZ23
+SH78
+SJ16
+SJ26
+SJ97
+SK52
+SP92
+TQ37
+TQ47
+
+

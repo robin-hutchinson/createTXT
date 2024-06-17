@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Bromus lanceolatus 10km
+Description=Check coordinate against known distribution of Bromus lanceolatus
+ErrorMsg=Coordinate is outside known range for Bromus lanceolatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000033592
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ02
+NS76
+SE36
+ST27
+ST38
+ST51
+SU73
+TA12
+TL03
+TL71
+TM15
+TM33
+TQ17
+TQ46
+
+

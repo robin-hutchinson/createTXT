@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Erodium cygnorum 10km
+Description=Check coordinate against known distribution of Erodium cygnorum
+ErrorMsg=Coordinate is outside known range for Erodium cygnorum
+DataFieldName=Species
+DataRecordId=NBNSYS0000013964
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT53
+SE11
+SE13
+SE22
+SE32
+SE38
+SE48
+SP04
+ST53
+SU73
+SU74
+TL03
+TL13
+TL23
+
+

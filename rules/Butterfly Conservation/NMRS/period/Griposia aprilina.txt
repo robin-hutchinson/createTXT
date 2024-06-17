@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Griposia aprilina
+Description=Checks date is within known recording period of Griposia aprilina
+ErrorMsg=Date is outside known recording period of Griposia aprilina
+Tvk=NBNSYS0000147940
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

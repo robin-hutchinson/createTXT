@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Miris striatus
+Description=Checks date is within known flight period of Miris striatus
+ErrorMsg=Date is outside known flight period of Miris striatus
+Tvk=NHMSYS0020309474
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

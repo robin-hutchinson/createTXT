@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Porphyra dioica 10km
+Description=Check coordinate against known distribution of Porphyra dioica
+ErrorMsg=Coordinate is outside known range for Porphyra dioica
+DataFieldName=Species
+DataRecordId=NHMSYS0000568112
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU44
+NK03
+NM71
+NO51
+NO76
+SH37
+SM80
+SN25
+SN58
+SR99
+SS09
+SS48
+SS58
+SS74
+SS87
+ST14
+SW97
+SX45
+SX54
+SY18
+SZ57
+SZ79
+TA08
+TG14
+TG24
+TQ30
+TR07
+
+

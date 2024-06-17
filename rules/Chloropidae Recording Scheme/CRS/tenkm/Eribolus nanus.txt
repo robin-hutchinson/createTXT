@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Eribolus nanus 10km
+Description=Check coordinate against known distribution of Eribolus nanus
+ErrorMsg=Coordinate is outside known range for Eribolus nanus
+DataFieldName=Species
+DataRecordId=NBNSYS0100003061
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH77
+NH81
+SH38
+SO24
+SO34
+TQ91
+
+

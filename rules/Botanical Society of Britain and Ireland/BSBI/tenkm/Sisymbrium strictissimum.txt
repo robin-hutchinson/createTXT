@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sisymbrium strictissimum 10km
+Description=Check coordinate against known distribution of Sisymbrium strictissimum
+ErrorMsg=Coordinate is outside known range for Sisymbrium strictissimum
+DataFieldName=Species
+DataRecordId=NBNSYS0000002911
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D10
+D21
+
+
+[10km_GB]
+NZ36
+SE55
+SJ89
+SK90
+SP89
+ST56
+TQ17
+TQ27
+TQ38
+
+

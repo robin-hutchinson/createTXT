@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Philereme transversata britannica
+Description=Checks date is within known flight period of Philereme transversata britannica
+ErrorMsg=Date is outside known flight period of Philereme transversata britannica
+Tvk=NHMSYS0021144032
+DataFieldName=
+StartDate=0615
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

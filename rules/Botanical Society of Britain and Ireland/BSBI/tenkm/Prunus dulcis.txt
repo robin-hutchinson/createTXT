@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Prunus dulcis 10km
+Description=Check coordinate against known distribution of Prunus dulcis
+ErrorMsg=Coordinate is outside known range for Prunus dulcis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462084
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM49
+NT27
+NT47
+SE07
+SJ40
+SJ49
+SJ92
+SK33
+SO42
+SO70
+SO99
+SP21
+SP33
+SP47
+SP80
+ST22
+SU61
+SW43
+SW52
+SW53
+SW62
+SW63
+TA03
+TA10
+TG20
+TL34
+TL45
+TL92
+TM26
+TQ28
+TQ38
+
+

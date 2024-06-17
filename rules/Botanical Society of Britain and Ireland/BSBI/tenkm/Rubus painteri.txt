@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus painteri 10km
+Description=Check coordinate against known distribution of Rubus painteri
+ErrorMsg=Coordinate is outside known range for Rubus painteri
+DataFieldName=Species
+DataRecordId=NHMSYS0000840994
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD40
+SD41
+SD42
+SD43
+SD50
+SD51
+SD52
+SD53
+SD54
+SD55
+SD60
+SD61
+SD62
+SD63
+SD64
+SD70
+SD71
+SD72
+SD73
+SD74
+SD75
+SD81
+SD82
+SD83
+SJ59
+SJ68
+SJ69
+SJ78
+SJ79
+SJ84
+SJ85
+SJ86
+SJ87
+SJ94
+SJ95
+SJ96
+SJ97
+SJ98
+SK03
+SK04
+SK05
+
+

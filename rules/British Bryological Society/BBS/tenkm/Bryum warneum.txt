@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Bryum warneum 10km
+Description=Check coordinate against known distribution of Bryum warneum
+ErrorMsg=Coordinate is outside known range for Bryum warneum
+DataFieldName=Species
+DataRecordId=NHMSYS0000309522
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO40
+NO42
+NO50
+NO51
+NO52
+NO60
+NT48
+NT49
+NT59
+NT68
+NX91
+NY00
+SD09
+SD16
+SD17
+SD18
+SD26
+SD34
+SD36
+TA31
+TA40
+TA41
+TF57
+TF58
+
+

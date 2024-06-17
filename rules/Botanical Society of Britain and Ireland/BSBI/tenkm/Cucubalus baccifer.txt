@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cucubalus baccifer 10km
+Description=Check coordinate against known distribution of Cucubalus baccifer
+ErrorMsg=Coordinate is outside known range for Cucubalus baccifer
+DataFieldName=Species
+DataRecordId=NBNSYS0000003005
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ40
+SK07
+SS64
+ST42
+SU30
+SY68
+TL89
+TL99
+TQ37
+TQ68
+
+

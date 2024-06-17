@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Hydroptila angulata 10km
+Description=Check coordinate against known distribution of Hydroptila angulata
+ErrorMsg=Coordinate is outside known range for Hydroptila angulata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008352
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC22
+NH06
+NM95
+NO04
+NS51
+NT43
+NX46
+NX75
+NX76
+NY30
+NY41
+NY51
+SD86
+SD93
+SJ10
+SJ11
+TA05
+
+

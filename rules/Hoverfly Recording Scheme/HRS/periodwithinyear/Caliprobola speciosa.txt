@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Caliprobola speciosa
+Description=Checks date is within known flight period of Caliprobola speciosa
+ErrorMsg=Date is outside known flight period of Caliprobola speciosa
+Tvk=NBNSYS0000007102
+DataFieldName=
+StartDate=0503
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

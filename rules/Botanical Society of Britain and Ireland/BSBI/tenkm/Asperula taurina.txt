@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Asperula taurina 10km
+Description=Check coordinate against known distribution of Asperula taurina
+ErrorMsg=Coordinate is outside known range for Asperula taurina
+DataFieldName=Species
+DataRecordId=NBNSYS0000004302
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C83
+C84
+H97
+
+
+[10km_GB]
+NJ45
+NJ56
+NN82
+NN86
+NO11
+NO13
+NO31
+NO75
+NS98
+NT03
+NT07
+NT16
+NT17
+NT28
+NT42
+NT43
+NT46
+NT53
+NT57
+NT67
+NY08
+NZ62
+SJ35
+SK38
+SO74
+TG00
+
+

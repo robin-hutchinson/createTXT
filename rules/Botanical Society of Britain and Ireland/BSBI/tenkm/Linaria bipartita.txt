@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Linaria bipartita 10km
+Description=Check coordinate against known distribution of Linaria bipartita
+ErrorMsg=Coordinate is outside known range for Linaria bipartita
+DataFieldName=Species
+DataRecordId=NBNSYS0200002532
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP50
+
+

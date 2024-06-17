@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Cetema neglectum
+Description=Checks date is within known recording period of Cetema neglectum
+ErrorMsg=Date is outside known recording period of Cetema neglectum
+Tvk=NBNSYS0100002276
+StartDate=19210101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

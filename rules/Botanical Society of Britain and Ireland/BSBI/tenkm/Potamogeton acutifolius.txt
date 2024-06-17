@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton acutifolius 10km
+Description=Check coordinate against known distribution of Potamogeton acutifolius
+ErrorMsg=Coordinate is outside known range for Potamogeton acutifolius
+DataFieldName=Species
+DataRecordId=NBNSYS0000002143
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO72
+SP57
+SU32
+SU95
+SY98
+TA04
+TF20
+TF35
+TG20
+TG30
+TG40
+TG41
+TL10
+TM49
+TM59
+TQ00
+TQ01
+TQ04
+TQ05
+TQ06
+TQ07
+TQ20
+TQ21
+TQ27
+TQ37
+TQ40
+TQ41
+TQ50
+TQ60
+TQ61
+TQ82
+TQ92
+TQ93
+TR26
+
+

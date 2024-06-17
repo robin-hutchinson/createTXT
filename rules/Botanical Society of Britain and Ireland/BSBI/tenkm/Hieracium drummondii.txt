@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium drummondii 10km
+Description=Check coordinate against known distribution of Hieracium drummondii
+ErrorMsg=Coordinate is outside known range for Hieracium drummondii
+DataFieldName=Species
+DataRecordId=NHMSYS0000840663
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ36
+NM80
+NN90
+NO56
+NR63
+NR74
+NR79
+NS97
+NS99
+NX59
+
+

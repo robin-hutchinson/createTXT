@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Leptophytum laeve 10km
+Description=Check coordinate against known distribution of Leptophytum laeve
+ErrorMsg=Coordinate is outside known range for Leptophytum laeve
+DataFieldName=Species
+DataRecordId=NHMSYS0000567990
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU54
+HU55
+HY55
+NB90
+NH19
+NS15
+
+

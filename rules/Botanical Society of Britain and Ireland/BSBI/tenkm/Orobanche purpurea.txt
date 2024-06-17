@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Orobanche purpurea 10km
+Description=Check coordinate against known distribution of Orobanche purpurea
+ErrorMsg=Coordinate is outside known range for Orobanche purpurea
+DataFieldName=Species
+DataRecordId=NBNSYS0000004172
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY03
+SK44
+SK97
+SR99
+SS09
+SS19
+ST59
+SU45
+SU51
+SX45
+SY67
+SZ58
+SZ68
+SZ69
+TA02
+TA11
+TA12
+TF92
+TF93
+TG03
+TG14
+TG23
+TG24
+TG33
+TL30
+TL78
+TQ17
+TR15
+
+
+[10km_CI]
+WA50
+WA60
+
+
+NA
+
+

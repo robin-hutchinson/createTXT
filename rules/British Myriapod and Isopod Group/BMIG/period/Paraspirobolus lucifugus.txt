@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Paraspirobolus lucifugus
+Description=Checks date is within known recording period of Paraspirobolus lucifugus
+ErrorMsg=Date is outside known recording period of Paraspirobolus lucifugus
+Tvk=NHMSYS0020108481
+StartDate=20050511
+EndDate=
+LastChanged=20240617
+[EndMetadata]

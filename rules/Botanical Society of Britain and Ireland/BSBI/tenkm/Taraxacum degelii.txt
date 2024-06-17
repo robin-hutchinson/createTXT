@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum degelii 10km
+Description=Check coordinate against known distribution of Taraxacum degelii
+ErrorMsg=Coordinate is outside known range for Taraxacum degelii
+DataFieldName=Species
+DataRecordId=NHMSYS0000464202
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH77
+SO02
+SS20
+SW53
+
+

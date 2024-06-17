@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Bathyphantes approximatus
+Description=Checks date is within known flight period of Bathyphantes approximatus
+ErrorMsg=Date is outside known flight period of Bathyphantes approximatus
+Tvk=NBNSYS0000009191
+DataFieldName=
+StartDate=0317
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

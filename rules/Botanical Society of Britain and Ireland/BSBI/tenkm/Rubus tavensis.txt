@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus tavensis 10km
+Description=Check coordinate against known distribution of Rubus tavensis
+ErrorMsg=Coordinate is outside known range for Rubus tavensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462926
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J37
+
+
+[10km_GB]
+SN70
+SN71
+SN80
+SN81
+SS68
+SS79
+
+

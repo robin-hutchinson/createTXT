@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Steatoda triangulosa 10km
+Description=Check coordinate against known distribution of Steatoda triangulosa
+ErrorMsg=Coordinate is outside known range for Steatoda triangulosa
+DataFieldName=Species
+DataRecordId=NBNSYS0100005582
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK50
+SS69
+
+

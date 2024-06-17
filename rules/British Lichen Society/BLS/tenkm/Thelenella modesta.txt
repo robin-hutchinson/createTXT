@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Thelenella modesta 10km
+Description=Check coordinate against known distribution of Thelenella modesta
+ErrorMsg=Coordinate is outside known range for Thelenella modesta
+DataFieldName=Species
+DataRecordId=NBNSYS0000019418
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO34
+
+

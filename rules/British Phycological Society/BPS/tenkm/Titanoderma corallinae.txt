@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Titanoderma corallinae 10km
+Description=Check coordinate against known distribution of Titanoderma corallinae
+ErrorMsg=Coordinate is outside known range for Titanoderma corallinae
+DataFieldName=Species
+DataRecordId=NHMSYS0000568372
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU37
+NA10
+NC76
+NF09
+NF19
+NG89
+NG99
+NM35
+NM52
+NO51
+SC27
+SD08
+SS14
+SS48
+SW62
+SW71
+SW83
+SX45
+SX84
+SY68
+SY88
+SY98
+SZ69
+
+

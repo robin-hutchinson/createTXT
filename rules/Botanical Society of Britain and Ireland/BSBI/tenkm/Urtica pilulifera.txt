@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Urtica pilulifera 10km
+Description=Check coordinate against known distribution of Urtica pilulifera
+ErrorMsg=Coordinate is outside known range for Urtica pilulifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000003808
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J37
+T29
+
+
+[10km_GB]
+NT27
+NT58
+NZ36
+SE21
+SE44
+SJ48
+SJ50
+SK96
+SP26
+SP31
+SP87
+SP89
+ST36
+ST68
+ST79
+SU77
+SW43
+SY67
+SZ59
+TA20
+TF17
+TF40
+TF61
+TG50
+TL13
+TL74
+TL93
+TM02
+TM45
+TM59
+TQ05
+TQ07
+TQ17
+TQ27
+TQ28
+TQ37
+TR02
+
+

@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia peziziformis 10km
+Description=Check coordinate against known distribution of Cladonia peziziformis
+ErrorMsg=Coordinate is outside known range for Cladonia peziziformis
+DataFieldName=Species
+DataRecordId=NBNSYS0000018391
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D14
+J32
+V78
+
+
+[10km_GB]
+NM62
+SH28
+SH34
+SM72
+SN03
+SN69
+SS48
+TQ22
+
+

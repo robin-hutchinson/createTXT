@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Coleophora squamosella
+Description=Checks date is within known recording period of Coleophora squamosella
+ErrorMsg=Date is outside known recording period of Coleophora squamosella
+Tvk=NHMSYS0000501925
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

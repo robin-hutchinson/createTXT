@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Nemesia versicolor 10km
+Description=Check coordinate against known distribution of Nemesia versicolor
+ErrorMsg=Coordinate is outside known range for Nemesia versicolor
+DataFieldName=Species
+DataRecordId=NHMSYS0000460950
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP40
+
+

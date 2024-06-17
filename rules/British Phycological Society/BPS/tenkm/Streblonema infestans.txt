@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Streblonema infestans 10km
+Description=Check coordinate against known distribution of Streblonema infestans
+ErrorMsg=Coordinate is outside known range for Streblonema infestans
+DataFieldName=Species
+DataRecordId=NHMSYS0000377619
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU37
+ND59
+NO51
+NO87
+SX54
+
+

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Nonea lutea 10km
+Description=Check coordinate against known distribution of Nonea lutea
+ErrorMsg=Coordinate is outside known range for Nonea lutea
+DataFieldName=Species
+DataRecordId=NBNSYS0000034013
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH57
+SN41
+SU96
+TL31
+TL45
+TL77
+TL84
+TQ17
+
+

@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chionodoxa sardensis 10km
+Description=Check coordinate against known distribution of Chionodoxa sardensis
+ErrorMsg=Coordinate is outside known range for Chionodoxa sardensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000457294
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH45
+NJ02
+NJ05
+NJ13
+NJ26
+NJ36
+NT57
+NX76
+SK53
+SK54
+SK63
+SU52
+SU83
+SU84
+SU94
+SU97
+TQ04
+TQ05
+TQ06
+TQ25
+TQ29
+TQ35
+TQ38
+TQ48
+TQ69
+
+
+NA
+
+

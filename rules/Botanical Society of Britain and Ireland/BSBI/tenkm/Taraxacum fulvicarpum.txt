@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum fulvicarpum 10km
+Description=Check coordinate against known distribution of Taraxacum fulvicarpum
+ErrorMsg=Coordinate is outside known range for Taraxacum fulvicarpum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840893
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY22
+HY45
+NB03
+NB14
+NB43
+NB56
+NF76
+NF87
+NF98
+NG25
+NG29
+NG30
+NT42
+NX87
+NX95
+NX97
+SH57
+SH77
+SO32
+SW75
+
+

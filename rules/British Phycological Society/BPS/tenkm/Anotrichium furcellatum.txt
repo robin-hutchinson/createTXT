@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Anotrichium furcellatum 10km
+Description=Check coordinate against known distribution of Anotrichium furcellatum
+ErrorMsg=Coordinate is outside known range for Anotrichium furcellatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000567771
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SM80
+SW73
+
+

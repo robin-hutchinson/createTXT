@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trifolium constantinopolitanum 10km
+Description=Check coordinate against known distribution of Trifolium constantinopolitanum
+ErrorMsg=Coordinate is outside known range for Trifolium constantinopolitanum
+DataFieldName=Species
+DataRecordId=NBNSYS0000014415
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW83
+SW94
+TQ07
+TQ17
+
+

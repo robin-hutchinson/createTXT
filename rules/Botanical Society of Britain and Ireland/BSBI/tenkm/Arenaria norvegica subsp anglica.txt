@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Arenaria norvegica subsp. anglica 10km
+Description=Check coordinate against known distribution of Arenaria norvegica subsp. anglica
+ErrorMsg=Coordinate is outside known range for Arenaria norvegica subsp. anglica
+DataFieldName=Species
+DataRecordId=NHMSYS0000456048
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD77
+SD87
+
+

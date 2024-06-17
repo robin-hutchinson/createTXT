@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phalonidia udana
+Description=Checks date is within known flight period of Phalonidia udana
+ErrorMsg=Date is outside known flight period of Phalonidia udana
+Tvk=NHMSYS0021143117
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Melangyna ericarum 10km
+Description=Check coordinate against known distribution of Melangyna ericarum
+ErrorMsg=Coordinate is outside known range for Melangyna ericarum
+DataFieldName=Species
+DataRecordId=NBNSYS0000006925
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC41
+NH72
+NH80
+NH91
+NN55
+NO18
+NO19
+NT87
+
+

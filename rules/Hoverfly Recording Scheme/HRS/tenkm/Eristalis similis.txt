@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Eristalis similis 10km
+Description=Check coordinate against known distribution of Eristalis similis
+ErrorMsg=Coordinate is outside known range for Eristalis similis
+DataFieldName=Species
+DataRecordId=NBNSYS0100003072
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ90
+NO69
+SK37
+SK38
+SP37
+TQ42
+
+

@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Hylocomium pyrenaicum 10km
+Description=Check coordinate against known distribution of Hylocomium pyrenaicum
+ErrorMsg=Coordinate is outside known range for Hylocomium pyrenaicum
+DataFieldName=Species
+DataRecordId=NBNSYS0000036956
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH01
+NH11
+NH13
+NJ00
+NJ10
+NN27
+NN33
+NN34
+NN42
+NN43
+NN44
+NN47
+NN48
+NN49
+NN54
+NN56
+NN57
+NN64
+NN65
+NN66
+NN67
+NN73
+NN77
+NN78
+NN87
+NN88
+NN89
+NN97
+NN98
+NN99
+NO07
+NO09
+NO17
+NO18
+NO27
+NO28
+NO37
+
+

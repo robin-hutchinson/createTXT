@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Atylotus fulvus
+Description=Checks date is within known flight period of Atylotus fulvus
+ErrorMsg=Date is outside known flight period of Atylotus fulvus
+Tvk=NBNSYS0000007875
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Marsupella condensata 10km
+Description=Check coordinate against known distribution of Marsupella condensata
+ErrorMsg=Coordinate is outside known range for Marsupella condensata
+DataFieldName=Species
+DataRecordId=NHMSYS0000309959
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH11
+NH60
+NJ00
+NJ10
+NN47
+NN49
+NN78
+NN88
+NN89
+NN98
+NN99
+NO09
+NO28
+
+

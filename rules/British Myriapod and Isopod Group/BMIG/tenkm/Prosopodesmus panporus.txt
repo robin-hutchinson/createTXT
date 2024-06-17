@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Prosopodesmus panporus 10km
+Description=Check coordinate against known distribution of Prosopodesmus panporus
+ErrorMsg=Coordinate is outside known range for Prosopodesmus panporus
+DataFieldName=Species
+DataRecordId=NBNSYS0000011366
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ17
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tragus racemosus 10km
+Description=Check coordinate against known distribution of Tragus racemosus
+ErrorMsg=Coordinate is outside known range for Tragus racemosus
+DataFieldName=Species
+DataRecordId=NHMSYS0000464523
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT53
+SE02
+SP04
+SU73
+SU98
+TL03
+TL14
+
+

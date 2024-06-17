@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pyrenocarpon thelostomum 10km
+Description=Check coordinate against known distribution of Pyrenocarpon thelostomum
+ErrorMsg=Coordinate is outside known range for Pyrenocarpon thelostomum
+DataFieldName=Species
+DataRecordId=NHMSYS0020536008
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM56
+NY21
+NY22
+SD67
+SS73
+SS83
+
+

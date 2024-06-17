@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Dicranella crispa 10km
+Description=Check coordinate against known distribution of Dicranella crispa
+ErrorMsg=Coordinate is outside known range for Dicranella crispa
+DataFieldName=Species
+DataRecordId=NBNSYS0000036210
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC61
+NC95
+
+

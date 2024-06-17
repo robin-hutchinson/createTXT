@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Galeopsis tetrahit x bifida = G. x ludwigii 10km
+Description=Check coordinate against known distribution of Galeopsis tetrahit x bifida = G. x ludwigii
+ErrorMsg=Coordinate is outside known range for Galeopsis tetrahit x bifida = G. x ludwigii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754409
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NR67
+NR76
+NX67
+SD44
+SH60
+SH61
+SH81
+SO18
+SO77
+SS90
+ST00
+ST10
+SY39
+TL07
+
+

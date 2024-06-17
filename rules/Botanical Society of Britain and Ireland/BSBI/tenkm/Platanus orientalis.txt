@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Platanus orientalis 10km
+Description=Check coordinate against known distribution of Platanus orientalis
+ErrorMsg=Coordinate is outside known range for Platanus orientalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000042166
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS68
+SC27
+SD45
+TL45
+
+

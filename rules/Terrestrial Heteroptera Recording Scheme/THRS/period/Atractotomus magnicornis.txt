@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Atractotomus magnicornis
+Description=Checks date is within known recording period of Atractotomus magnicornis
+ErrorMsg=Date is outside known recording period of Atractotomus magnicornis
+Tvk=NHMSYS0020308971
+StartDate=18070101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

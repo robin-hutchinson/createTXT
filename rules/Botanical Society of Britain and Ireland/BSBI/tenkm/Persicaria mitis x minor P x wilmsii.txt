@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Persicaria mitis x minor = P. x wilmsii 10km
+Description=Check coordinate against known distribution of Persicaria mitis x minor = P. x wilmsii
+ErrorMsg=Coordinate is outside known range for Persicaria mitis x minor = P. x wilmsii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754552
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H97
+J17
+
+
+[10km_GB]
+SP40
+SU49
+SU59
+
+

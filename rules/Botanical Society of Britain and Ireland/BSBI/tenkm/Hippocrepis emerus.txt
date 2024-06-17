@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hippocrepis emerus 10km
+Description=Check coordinate against known distribution of Hippocrepis emerus
+ErrorMsg=Coordinate is outside known range for Hippocrepis emerus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014172
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC39
+SC49
+ST32
+SU01
+SU65
+SU94
+TL20
+TM35
+TQ41
+TQ57
+TQ59
+TR34
+TV69
+
+

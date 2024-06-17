@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Wiehlea calcarifera 10km
+Description=Check coordinate against known distribution of Wiehlea calcarifera
+ErrorMsg=Coordinate is outside known range for Wiehlea calcarifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000009130
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST68
+TQ47
+TQ68
+
+

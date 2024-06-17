@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Lygus pratensis
+Description=Checks date is within known recording period of Lygus pratensis
+ErrorMsg=Date is outside known recording period of Lygus pratensis
+Tvk=NHMSYS0020309396
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Acrochaetium infestans 10km
+Description=Check coordinate against known distribution of Acrochaetium infestans
+ErrorMsg=Coordinate is outside known range for Acrochaetium infestans
+DataFieldName=Species
+DataRecordId=NHMSYS0000567742
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM71
+NM82
+NM83
+NT49
+SS14
+SX45
+
+

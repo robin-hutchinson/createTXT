@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Persicaria nepalensis 10km
+Description=Check coordinate against known distribution of Persicaria nepalensis
+ErrorMsg=Coordinate is outside known range for Persicaria nepalensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000461609
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT27
+NX97
+ST13
+ST51
+ST80
+SU00
+SY58
+SY88
+SY98
+
+

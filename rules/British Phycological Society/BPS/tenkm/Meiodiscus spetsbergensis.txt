@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Meiodiscus spetsbergensis 10km
+Description=Check coordinate against known distribution of Meiodiscus spetsbergensis
+ErrorMsg=Coordinate is outside known range for Meiodiscus spetsbergensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000568004
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HP50
+HU44
+NJ90
+NK14
+
+

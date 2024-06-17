@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Reseda odorata
+Description=Checks date is within known recording period of Reseda odorata
+ErrorMsg=Date is outside known recording period of Reseda odorata
+Tvk=NBNSYS0000014367
+StartDate=17930101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

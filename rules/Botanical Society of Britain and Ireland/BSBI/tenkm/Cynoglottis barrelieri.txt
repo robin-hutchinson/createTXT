@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cynoglottis barrelieri 10km
+Description=Check coordinate against known distribution of Cynoglottis barrelieri
+ErrorMsg=Coordinate is outside known range for Cynoglottis barrelieri
+DataFieldName=Species
+DataRecordId=NBNSYS0000033923
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NR87
+SO84
+SS44
+SU40
+TL02
+TM13
+
+

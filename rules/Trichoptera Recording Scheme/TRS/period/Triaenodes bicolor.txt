@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Triaenodes bicolor
+Description=Checks date is within known recording period of Triaenodes bicolor
+ErrorMsg=Date is outside known recording period of Triaenodes bicolor
+Tvk=NBNSYS0000008531
+StartDate=18360101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

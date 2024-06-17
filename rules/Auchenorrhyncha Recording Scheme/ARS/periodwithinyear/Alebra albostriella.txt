@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Alebra albostriella
+Description=Checks date is within known flight period of Alebra albostriella
+ErrorMsg=Date is outside known flight period of Alebra albostriella
+Tvk=NHMSYS0020705184
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

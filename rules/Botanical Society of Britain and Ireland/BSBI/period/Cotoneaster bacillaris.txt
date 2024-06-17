@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cotoneaster bacillaris
+Description=Checks date is within known recording period of Cotoneaster bacillaris
+ErrorMsg=Date is outside known recording period of Cotoneaster bacillaris
+Tvk=NHMSYS0000457559
+StartDate=19230101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

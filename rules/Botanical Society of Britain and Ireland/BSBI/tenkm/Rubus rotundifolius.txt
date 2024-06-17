@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus rotundifolius 10km
+Description=Check coordinate against known distribution of Rubus rotundifolius
+ErrorMsg=Coordinate is outside known range for Rubus rotundifolius
+DataFieldName=Species
+DataRecordId=NHMSYS0000462878
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+G95
+
+
+[10km_GB]
+NS39
+NS49
+NS58
+NS59
+NS68
+NS69
+NS89
+SK30
+
+

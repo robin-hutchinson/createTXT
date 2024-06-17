@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Bombylius minor 10km
+Description=Check coordinate against known distribution of Bombylius minor
+ErrorMsg=Coordinate is outside known range for Bombylius minor
+DataFieldName=Species
+DataRecordId=NBNSYS0000007944
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX40
+SY78
+SY88
+SY89
+SY98
+SY99
+SZ08
+SZ09
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Lipara lucens
+Description=Checks date is within known flight period of Lipara lucens
+ErrorMsg=Date is outside known flight period of Lipara lucens
+Tvk=NBNSYS0000029841
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

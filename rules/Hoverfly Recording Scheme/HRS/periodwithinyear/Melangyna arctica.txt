@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Melangyna arctica
+Description=Checks date is within known flight period of Melangyna arctica
+ErrorMsg=Date is outside known flight period of Melangyna arctica
+Tvk=NBNSYS0000006922
+DataFieldName=
+StartDate=0318
+EndDate=1007
+LastChanged=20240617
+[EndMetadata]

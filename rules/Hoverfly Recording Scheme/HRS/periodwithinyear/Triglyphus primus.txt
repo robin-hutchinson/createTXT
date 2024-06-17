@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Triglyphus primus
+Description=Checks date is within known flight period of Triglyphus primus
+ErrorMsg=Date is outside known flight period of Triglyphus primus
+Tvk=NBNSYS0000007090
+DataFieldName=
+StartDate=0506
+EndDate=1004
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphorbia griffithii 10km
+Description=Check coordinate against known distribution of Euphorbia griffithii
+ErrorMsg=Coordinate is outside known range for Euphorbia griffithii
+DataFieldName=Species
+DataRecordId=NHMSYS0000458634
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM54
+SU77
+SU87
+
+

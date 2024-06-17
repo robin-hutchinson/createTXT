@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus pullifolius 10km
+Description=Check coordinate against known distribution of Rubus pullifolius
+ErrorMsg=Coordinate is outside known range for Rubus pullifolius
+DataFieldName=Species
+DataRecordId=NHMSYS0000462856
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU00
+SU10
+SU11
+SU20
+SU21
+SU31
+SU32
+SU41
+SY78
+SY79
+SY88
+SY89
+SY97
+SY98
+SY99
+SZ08
+SZ09
+SZ19
+SZ29
+SZ39
+
+

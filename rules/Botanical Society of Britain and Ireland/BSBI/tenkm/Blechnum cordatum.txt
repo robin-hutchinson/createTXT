@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Blechnum cordatum 10km
+Description=Check coordinate against known distribution of Blechnum cordatum
+ErrorMsg=Coordinate is outside known range for Blechnum cordatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000456508
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J33
+J48
+V49
+V55
+V89
+
+
+[10km_GB]
+NM70
+SN58
+SS32
+SS84
+ST30
+SV91
+SW33
+SW62
+SW63
+SW72
+SW74
+SW83
+SW84
+SW85
+SX06
+TQ46
+
+

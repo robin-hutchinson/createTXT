@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Cladostephus spongiosus f. verticillatus 10km
+Description=Check coordinate against known distribution of Cladostephus spongiosus f. verticillatus
+ErrorMsg=Coordinate is outside known range for Cladostephus spongiosus f. verticillatus
+DataFieldName=Species
+DataRecordId=NHMSYS0000377550
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW42
+SZ07
+
+

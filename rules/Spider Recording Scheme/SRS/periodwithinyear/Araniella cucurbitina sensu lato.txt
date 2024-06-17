@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Araniella cucurbitina sensu lato
+Description=Checks date is within known flight period of Araniella cucurbitina sensu lato
+ErrorMsg=Date is outside known flight period of Araniella cucurbitina sensu lato
+Tvk=NBNSYS0000008950
+DataFieldName=
+StartDate=0318
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

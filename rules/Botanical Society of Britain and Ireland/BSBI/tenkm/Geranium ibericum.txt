@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Geranium ibericum 10km
+Description=Check coordinate against known distribution of Geranium ibericum
+ErrorMsg=Coordinate is outside known range for Geranium ibericum
+DataFieldName=Species
+DataRecordId=NBNSYS0000005463
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU32
+HU42
+HU43
+NH79
+NT47
+NX40
+SC17
+SC26
+SC28
+SC47
+SD32
+SD33
+SD53
+SE14
+SH76
+SK17
+SK27
+SN53
+SN57
+SO21
+SO22
+SO91
+TF61
+
+

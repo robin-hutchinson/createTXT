@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Acronicta menyanthidis
+Description=Checks date is within known flight period of Acronicta menyanthidis
+ErrorMsg=Date is outside known flight period of Acronicta menyanthidis
+Tvk=NBNSYS0000006381
+DataFieldName=
+StartDate=0415
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

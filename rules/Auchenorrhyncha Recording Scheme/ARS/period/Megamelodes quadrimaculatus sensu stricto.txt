@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Megamelodes quadrimaculatus sensu stricto
+Description=Checks date is within known recording period of Megamelodes quadrimaculatus sensu stricto
+ErrorMsg=Date is outside known recording period of Megamelodes quadrimaculatus sensu stricto
+Tvk=NHMSYS0020924651
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

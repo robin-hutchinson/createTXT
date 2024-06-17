@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Cheilosia sahlbergi 10km
+Description=Check coordinate against known distribution of Cheilosia sahlbergi
+ErrorMsg=Coordinate is outside known range for Cheilosia sahlbergi
+DataFieldName=Species
+DataRecordId=NBNSYS0000006997
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH80
+NH82
+NH90
+NN15
+NN17
+NN43
+NN48
+NN53
+NN54
+NN57
+NN63
+NN64
+NN66
+NN89
+NN99
+NO17
+NO19
+
+

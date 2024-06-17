@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Amaranthus retroflexus x hybridus = A. x ozanonii 10km
+Description=Check coordinate against known distribution of Amaranthus retroflexus x hybridus = A. x ozanonii
+ErrorMsg=Coordinate is outside known range for Amaranthus retroflexus x hybridus = A. x ozanonii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754518
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN14
+SN24
+SO81
+SP04
+ST57
+SU73
+TL31
+TL45
+TQ07
+TQ16
+TQ48
+TQ57
+TR25
+
+

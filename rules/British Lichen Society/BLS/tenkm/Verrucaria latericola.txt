@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Verrucaria latericola 10km
+Description=Check coordinate against known distribution of Verrucaria latericola
+ErrorMsg=Coordinate is outside known range for Verrucaria latericola
+DataFieldName=Species
+DataRecordId=NHMSYS0001501628
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+G94
+G95
+H05
+H23
+L80
+M21
+M31
+M32
+M88
+N47
+O24
+S48
+S59
+W64
+W77
+
+
+[10km_GB]
+NM47
+NO75
+SH78
+SO52
+SS54
+SS58
+ST36
+SX96
+TM58
+
+

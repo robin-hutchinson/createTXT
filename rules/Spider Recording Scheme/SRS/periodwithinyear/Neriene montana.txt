@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Neriene montana
+Description=Checks date is within known flight period of Neriene montana
+ErrorMsg=Date is outside known flight period of Neriene montana
+Tvk=NBNSYS0100004234
+DataFieldName=
+StartDate=0317
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum fasciatum 10km
+Description=Check coordinate against known distribution of Taraxacum fasciatum
+ErrorMsg=Coordinate is outside known range for Taraxacum fasciatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840891
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT24
+NT26
+NX64
+NX67
+NX95
+NX97
+NZ13
+NZ32
+SN43
+SN51
+ST39
+TM35
+
+

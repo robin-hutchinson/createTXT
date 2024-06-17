@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Saxifraga rivularis 10km
+Description=Check coordinate against known distribution of Saxifraga rivularis
+ErrorMsg=Coordinate is outside known range for Saxifraga rivularis
+DataFieldName=Species
+DataRecordId=NBNSYS0000003501
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG96
+NH06
+NH07
+NH08
+NH28
+NH38
+NH46
+NH90
+NJ10
+NN15
+NN17
+NN27
+NN42
+NN48
+NN64
+NN97
+NN99
+NO09
+NO17
+NO28
+NO38
+
+

@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Agrostis capillaris x vinealis = A. ? x sanionis 10km
+Description=Check coordinate against known distribution of Agrostis capillaris x vinealis = A. ? x sanionis
+ErrorMsg=Coordinate is outside known range for Agrostis capillaris x vinealis = A. ? x sanionis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754679
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY64
+NB43
+NF86
+NG29
+TQ29
+
+

@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix viminalis x repens = S. x friesiana 10km
+Description=Check coordinate against known distribution of Salix viminalis x repens = S. x friesiana
+ErrorMsg=Coordinate is outside known range for Salix viminalis x repens = S. x friesiana
+DataFieldName=Species
+DataRecordId=NHMSYS0001754606
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD17
+SD20
+SD21
+SD27
+SD30
+SD31
+SD32
+SD33
+SJ29
+SO61
+SS43
+SY98
+
+

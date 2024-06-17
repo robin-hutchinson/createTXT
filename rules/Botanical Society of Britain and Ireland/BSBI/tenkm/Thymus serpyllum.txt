@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Thymus serpyllum 10km
+Description=Check coordinate against known distribution of Thymus serpyllum
+ErrorMsg=Coordinate is outside known range for Thymus serpyllum
+DataFieldName=Species
+DataRecordId=NBNSYS0000004209
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST81
+SY58
+SY78
+TL23
+TL67
+TL76
+TL77
+TL78
+TL87
+TL88
+TL98
+
+

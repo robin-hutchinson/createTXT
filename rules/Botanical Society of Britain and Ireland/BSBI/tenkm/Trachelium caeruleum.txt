@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trachelium caeruleum 10km
+Description=Check coordinate against known distribution of Trachelium caeruleum
+ErrorMsg=Coordinate is outside known range for Trachelium caeruleum
+DataFieldName=Species
+DataRecordId=NBNSYS0000004294
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TF34
+TQ27
+TQ29
+TQ57
+
+
+NA
+
+

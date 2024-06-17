@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=UK Ladybird Survey/UKLS 10km distribution
+ShortName=Hyperaspis pseudopustulata 10km
+Description=Check coordinate against known distribution of Hyperaspis pseudopustulata
+ErrorMsg=Coordinate is outside known range for Hyperaspis pseudopustulata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008307
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SY88
+SY98
+SY99
+SZ08
+SZ09
+SZ19
+
+

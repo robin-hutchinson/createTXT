@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Lithophane furcifera 10km
+Description=Check coordinate against known distribution of Lithophane furcifera
+ErrorMsg=Coordinate is outside known range for Lithophane furcifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000006331
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH70
+NH71
+NH80
+NH81
+NH90
+NH91
+NN79
+NN89
+NN99
+NZ26
+NZ27
+NZ28
+NZ36
+NZ37
+NZ38
+NZ46
+
+

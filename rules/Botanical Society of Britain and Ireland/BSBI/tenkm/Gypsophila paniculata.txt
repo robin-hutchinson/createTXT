@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gypsophila paniculata 10km
+Description=Check coordinate against known distribution of Gypsophila paniculata
+ErrorMsg=Coordinate is outside known range for Gypsophila paniculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000033332
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS77
+SC26
+SC28
+SD33
+SO66
+SP04
+ST67
+SU87
+SU88
+TA21
+TM36
+TM58
+TQ17
+TQ18
+TQ38
+TQ48
+TR35
+
+

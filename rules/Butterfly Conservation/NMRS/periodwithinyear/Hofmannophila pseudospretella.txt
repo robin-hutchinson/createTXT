@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Hofmannophila pseudospretella
+Description=Checks date is within known flight period of Hofmannophila pseudospretella
+ErrorMsg=Date is outside known flight period of Hofmannophila pseudospretella
+Tvk=NHMSYS0000502868
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

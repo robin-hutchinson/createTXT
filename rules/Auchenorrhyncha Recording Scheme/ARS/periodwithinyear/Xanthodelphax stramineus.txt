@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Xanthodelphax stramineus
+Description=Checks date is within known flight period of Xanthodelphax stramineus
+ErrorMsg=Date is outside known flight period of Xanthodelphax stramineus
+Tvk=NHMSYS0020705968
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/BC Flight Period
+ShortName=Maniola jurtina
+Description=Checks date is within known flight period of Maniola jurtina
+ErrorMsg=Date is outside known flight period of Maniola jurtina
+Tvk=NHMSYS0000521977
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

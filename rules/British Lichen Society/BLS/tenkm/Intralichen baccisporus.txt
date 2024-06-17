@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Intralichen baccisporus 10km
+Description=Check coordinate against known distribution of Intralichen baccisporus
+ErrorMsg=Coordinate is outside known range for Intralichen baccisporus
+DataFieldName=Species
+DataRecordId=NHMSYS0019999634
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU40
+TG40
+TM06
+TM24
+TM35
+
+

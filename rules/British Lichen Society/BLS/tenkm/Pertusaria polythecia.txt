@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pertusaria polythecia 10km
+Description=Check coordinate against known distribution of Pertusaria polythecia
+ErrorMsg=Coordinate is outside known range for Pertusaria polythecia
+DataFieldName=Species
+DataRecordId=NBNSYS0000019408
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX16
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Unciger foetidus
+Description=Checks date is within known recording period of Unciger foetidus
+ErrorMsg=Date is outside known recording period of Unciger foetidus
+Tvk=NBNSYS0000011397
+StartDate=19830427
+EndDate=
+LastChanged=20240617
+[EndMetadata]

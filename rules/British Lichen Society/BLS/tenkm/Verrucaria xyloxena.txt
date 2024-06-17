@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Verrucaria xyloxena 10km
+Description=Check coordinate against known distribution of Verrucaria xyloxena
+ErrorMsg=Coordinate is outside known range for Verrucaria xyloxena
+DataFieldName=Species
+DataRecordId=NBNSYS0000020695
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+O13
+
+
+[10km_GB]
+TL78
+TL88
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Bankesia conspurcatella
+Description=Checks date is within known recording period of Bankesia conspurcatella
+ErrorMsg=Date is outside known recording period of Bankesia conspurcatella
+Tvk=NHMSYS0020705508
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

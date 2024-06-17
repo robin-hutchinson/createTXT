@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Taeniolella beschiana 10km
+Description=Check coordinate against known distribution of Taeniolella beschiana
+ErrorMsg=Coordinate is outside known range for Taeniolella beschiana
+DataFieldName=Species
+DataRecordId=NHMSYS0001499336
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH96
+NJ06
+NJ91
+SU91
+
+
+[10km_Ireland]
+W43
+
+

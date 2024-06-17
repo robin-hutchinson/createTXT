@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Allium subhirsutum 10km
+Description=Check coordinate against known distribution of Allium subhirsutum
+ErrorMsg=Coordinate is outside known range for Allium subhirsutum
+DataFieldName=Species
+DataRecordId=NBNSYS0000031655
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN45
+SS20
+ST23
+ST31
+ST32
+ST34
+ST36
+ST42
+ST90
+SU41
+SU51
+SU83
+SU86
+SU89
+SU94
+SU96
+SV81
+SW42
+SW84
+SX77
+SX87
+SX97
+SX99
+SY08
+SZ38
+TQ10
+TQ17
+TQ35
+TQ36
+TQ38
+TQ39
+TQ46
+TQ47
+TQ48
+
+
+[10km_CI]
+WA50
+WA60
+
+
+NA
+
+

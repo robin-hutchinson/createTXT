@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Leucania obsoleta
+Description=Checks date is within known flight period of Leucania obsoleta
+ErrorMsg=Date is outside known flight period of Leucania obsoleta
+Tvk=NHMSYS0021144872
+DataFieldName=
+StartDate=0501
+EndDate=0807
+LastChanged=20240617
+[EndMetadata]

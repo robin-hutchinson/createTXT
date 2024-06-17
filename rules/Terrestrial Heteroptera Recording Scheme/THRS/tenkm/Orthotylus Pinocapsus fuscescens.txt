@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Orthotylus (Pinocapsus) fuscescens 10km
+Description=Check coordinate against known distribution of Orthotylus (Pinocapsus) fuscescens
+ErrorMsg=Coordinate is outside known range for Orthotylus (Pinocapsus) fuscescens
+DataFieldName=Species
+DataRecordId=NHMSYS0020309604
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG97
+NH22
+NH29
+NH67
+NH91
+NN55
+
+

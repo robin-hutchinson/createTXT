@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Calystegia silvatica subsp. disjuncta 10km
+Description=Check coordinate against known distribution of Calystegia silvatica subsp. disjuncta
+ErrorMsg=Coordinate is outside known range for Calystegia silvatica subsp. disjuncta
+DataFieldName=Species
+DataRecordId=NHMSYS0000456331
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT16
+NT26
+NT27
+NT36
+SD32
+SD33
+SD54
+SH58
+SN15
+SN45
+SN72
+SN77
+
+

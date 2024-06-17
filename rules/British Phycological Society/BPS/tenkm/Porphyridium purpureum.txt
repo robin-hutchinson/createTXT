@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Porphyridium purpureum 10km
+Description=Check coordinate against known distribution of Porphyridium purpureum
+ErrorMsg=Coordinate is outside known range for Porphyridium purpureum
+DataFieldName=Species
+DataRecordId=NHMSYS0000605694
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX91
+SS53
+ST36
+SY08
+TQ47
+TQ76
+
+

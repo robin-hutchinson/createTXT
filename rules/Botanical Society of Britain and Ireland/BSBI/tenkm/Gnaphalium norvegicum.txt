@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gnaphalium norvegicum 10km
+Description=Check coordinate against known distribution of Gnaphalium norvegicum
+ErrorMsg=Coordinate is outside known range for Gnaphalium norvegicum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459100
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH00
+NH02
+NH11
+NH12
+NH13
+NH14
+NH16
+NH17
+NH26
+NH27
+NH28
+NH90
+NN48
+NN99
+NO09
+NO17
+NO27
+NO28
+
+

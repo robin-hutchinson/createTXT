@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Allium pendulinum 10km
+Description=Check coordinate against known distribution of Allium pendulinum
+ErrorMsg=Coordinate is outside known range for Allium pendulinum
+DataFieldName=Species
+DataRecordId=NBNSYS0000034429
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD32
+TG30
+TQ39
+TQ59
+
+

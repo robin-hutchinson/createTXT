@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Catoptria margaritella
+Description=Checks date is within known flight period of Catoptria margaritella
+ErrorMsg=Date is outside known flight period of Catoptria margaritella
+Tvk=NHMSYS0021143770
+DataFieldName=
+StartDate=0601
+EndDate=0907
+LastChanged=20240617
+[EndMetadata]

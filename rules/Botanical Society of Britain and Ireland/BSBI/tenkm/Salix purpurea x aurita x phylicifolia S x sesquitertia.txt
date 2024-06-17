@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix purpurea x aurita x phylicifolia = S. x sesquitertia 10km
+Description=Check coordinate against known distribution of Salix purpurea x aurita x phylicifolia = S. x sesquitertia
+ErrorMsg=Coordinate is outside known range for Salix purpurea x aurita x phylicifolia = S. x sesquitertia
+DataFieldName=Species
+DataRecordId=NHMSYS0001754404
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX89
+SE83
+
+

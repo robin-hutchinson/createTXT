@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Orthotrichum obtusifolium 10km
+Description=Check coordinate against known distribution of Orthotrichum obtusifolium
+ErrorMsg=Coordinate is outside known range for Orthotrichum obtusifolium
+DataFieldName=Species
+DataRecordId=NBNSYS0000036699
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ02
+NJ13
+NJ24
+NJ34
+NJ44
+NJ45
+NJ54
+NJ62
+NJ64
+NJ65
+NJ83
+
+

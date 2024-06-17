@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crepis rubra 10km
+Description=Check coordinate against known distribution of Crepis rubra
+ErrorMsg=Coordinate is outside known range for Crepis rubra
+DataFieldName=Species
+DataRecordId=NBNSYS0200003668
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN68
+
+

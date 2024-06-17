@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Digitaria ischaemum
+Description=Checks date is within known recording period of Digitaria ischaemum
+ErrorMsg=Date is outside known recording period of Digitaria ischaemum
+Tvk=NHMSYS0000458099
+StartDate=18050101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

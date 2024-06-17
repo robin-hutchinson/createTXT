@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Zygaena loti scotica
+Description=Checks date is within known recording period of Zygaena loti scotica
+ErrorMsg=Date is outside known recording period of Zygaena loti scotica
+Tvk=NHMSYS0021143429
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

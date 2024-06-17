@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Cucullia verbasci
+Description=Checks date is within known flight period of Cucullia verbasci
+ErrorMsg=Date is outside known flight period of Cucullia verbasci
+Tvk=NBNSYS0000006314
+DataFieldName=
+StartDate=0321
+EndDate=0707
+LastChanged=20240617
+[EndMetadata]

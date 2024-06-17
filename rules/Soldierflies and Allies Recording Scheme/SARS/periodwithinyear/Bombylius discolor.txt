@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Bombylius discolor
+Description=Checks date is within known flight period of Bombylius discolor
+ErrorMsg=Date is outside known flight period of Bombylius discolor
+Tvk=NBNSYS0000007942
+DataFieldName=
+StartDate=0301
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

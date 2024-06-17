@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Vicia melanops 10km
+Description=Check coordinate against known distribution of Vicia melanops
+ErrorMsg=Coordinate is outside known range for Vicia melanops
+DataFieldName=Species
+DataRecordId=NHMSYS0000464860
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TL31
+
+

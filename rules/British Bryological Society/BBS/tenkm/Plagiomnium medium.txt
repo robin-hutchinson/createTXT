@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Plagiomnium medium 10km
+Description=Check coordinate against known distribution of Plagiomnium medium
+ErrorMsg=Coordinate is outside known range for Plagiomnium medium
+DataFieldName=Species
+DataRecordId=NHMSYS0000310314
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN33
+NN34
+NN43
+NN44
+NN54
+NN64
+NN73
+
+

@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Platydictya jungermannioides 10km
+Description=Check coordinate against known distribution of Platydictya jungermannioides
+ErrorMsg=Coordinate is outside known range for Platydictya jungermannioides
+DataFieldName=Species
+DataRecordId=NHMSYS0000310338
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH90
+NJ00
+NJ10
+NN64
+NN65
+NN67
+NN73
+NN75
+NN77
+NN78
+NN87
+NN88
+NN89
+NN96
+NN97
+NN98
+NN99
+NO07
+NO08
+NO09
+NO17
+NO18
+NO19
+NO27
+NO28
+NO29
+NO37
+NO38
+NO48
+NS36
+NS45
+
+

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Psammina simplex 10km
+Description=Check coordinate against known distribution of Psammina simplex
+ErrorMsg=Coordinate is outside known range for Psammina simplex
+DataFieldName=Species
+DataRecordId=NHMSYS0001494976
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TM05
+TM11
+TM14
+TM25
+TM35
+TM36
+TM45
+TM46
+TQ88
+TQ98
+
+

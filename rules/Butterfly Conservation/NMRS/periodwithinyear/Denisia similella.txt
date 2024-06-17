@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Denisia similella
+Description=Checks date is within known flight period of Denisia similella
+ErrorMsg=Date is outside known flight period of Denisia similella
+Tvk=NBNSYS0100002772
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Veronica crista-galli 10km
+Description=Check coordinate against known distribution of Veronica crista-galli
+ErrorMsg=Coordinate is outside known range for Veronica crista-galli
+DataFieldName=Species
+DataRecordId=NBNSYS0000004127
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+R62
+S69
+W25
+W35
+W37
+W39
+W44
+W45
+W46
+W47
+W55
+W56
+W57
+W65
+W66
+W67
+W68
+W75
+W76
+W77
+W79
+W86
+W87
+W96
+
+
+[10km_GB]
+SN58
+SN68
+SO89
+ST40
+ST63
+ST76
+
+

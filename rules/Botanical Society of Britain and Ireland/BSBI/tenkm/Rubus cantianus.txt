@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus cantianus 10km
+Description=Check coordinate against known distribution of Rubus cantianus
+ErrorMsg=Coordinate is outside known range for Rubus cantianus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462629
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT18
+SP80
+SP90
+SP91
+SU16
+SU24
+SU25
+SU26
+SU32
+SU33
+SU34
+SU35
+SU44
+SU58
+SU59
+SU79
+SZ39
+TG21
+TG31
+TL00
+TL20
+TL21
+TQ08
+TQ19
+TQ31
+TQ36
+TQ42
+TQ43
+TQ45
+TQ46
+TQ47
+TQ50
+TQ55
+TQ57
+TQ66
+TQ75
+TQ84
+TQ96
+TR05
+TR13
+TR14
+TR15
+TR16
+
+

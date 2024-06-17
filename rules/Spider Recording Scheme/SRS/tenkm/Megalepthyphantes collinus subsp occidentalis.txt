@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Megalepthyphantes collinus subsp. occidentalis 10km
+Description=Check coordinate against known distribution of Megalepthyphantes collinus subsp. occidentalis
+ErrorMsg=Coordinate is outside known range for Megalepthyphantes collinus subsp. occidentalis
+DataFieldName=Species
+DataRecordId=NBNSYS0100003892
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ17
+TQ37
+TQ67
+TQ76
+TQ91
+TQ95
+TQ96
+TQ97
+TR06
+TR13
+TR16
+TR26
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crataegus punctata 10km
+Description=Check coordinate against known distribution of Crataegus punctata
+ErrorMsg=Coordinate is outside known range for Crataegus punctata
+DataFieldName=Species
+DataRecordId=NBNSYS0000003433
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TQ28
+TQ50
+
+

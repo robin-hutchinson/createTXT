@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Filipendula purpurea 10km
+Description=Check coordinate against known distribution of Filipendula purpurea
+ErrorMsg=Coordinate is outside known range for Filipendula purpurea
+DataFieldName=Species
+DataRecordId=NBNSYS0000014479
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN53
+NS27
+ST57
+
+

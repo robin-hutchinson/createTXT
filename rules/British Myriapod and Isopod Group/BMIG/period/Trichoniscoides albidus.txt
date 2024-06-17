@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Trichoniscoides albidus
+Description=Checks date is within known recording period of Trichoniscoides albidus
+ErrorMsg=Date is outside known recording period of Trichoniscoides albidus
+Tvk=NBNSYS0000008552
+StartDate=19110101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

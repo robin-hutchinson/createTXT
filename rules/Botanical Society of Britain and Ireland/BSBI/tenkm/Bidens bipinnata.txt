@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Bidens bipinnata 10km
+Description=Check coordinate against known distribution of Bidens bipinnata
+ErrorMsg=Coordinate is outside known range for Bidens bipinnata
+DataFieldName=Species
+DataRecordId=NBNSYS0000004357
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT53
+SE02
+SE11
+SE13
+SE22
+SE32
+SE37
+SE38
+SP04
+ST51
+SU73
+TL03
+TL13
+TL22
+TQ48
+TQ53
+TQ57
+
+

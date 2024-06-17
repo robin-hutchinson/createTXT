@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Centaurium scilloides 10km
+Description=Check coordinate against known distribution of Centaurium scilloides
+ErrorMsg=Coordinate is outside known range for Centaurium scilloides
+DataFieldName=Species
+DataRecordId=NHMSYS0000457036
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM69
+SN04
+SS21
+SU83
+SW32
+TQ44
+TQ54
+TQ70
+
+

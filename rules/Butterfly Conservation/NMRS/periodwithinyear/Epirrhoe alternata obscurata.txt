@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Epirrhoe alternata obscurata
+Description=Checks date is within known flight period of Epirrhoe alternata obscurata
+ErrorMsg=Date is outside known flight period of Epirrhoe alternata obscurata
+Tvk=NHMSYS0021143937
+DataFieldName=
+StartDate=0415
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

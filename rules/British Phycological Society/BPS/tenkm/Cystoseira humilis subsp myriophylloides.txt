@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Cystoseira humilis subsp. myriophylloides 10km
+Description=Check coordinate against known distribution of Cystoseira humilis subsp. myriophylloides
+ErrorMsg=Coordinate is outside known range for Cystoseira humilis subsp. myriophylloides
+DataFieldName=Species
+DataRecordId=NHMSYS0000377563
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SV90
+SW72
+SX64
+SX73
+
+

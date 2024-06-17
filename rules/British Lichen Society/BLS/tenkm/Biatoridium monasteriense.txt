@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Biatoridium monasteriense 10km
+Description=Check coordinate against known distribution of Biatoridium monasteriense
+ErrorMsg=Coordinate is outside known range for Biatoridium monasteriense
+DataFieldName=Species
+DataRecordId=NBNSYS0000018249
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ03
+NJ04
+NM54
+NM64
+NN81
+NO14
+NX46
+NY46
+NY76
+SH82
+
+

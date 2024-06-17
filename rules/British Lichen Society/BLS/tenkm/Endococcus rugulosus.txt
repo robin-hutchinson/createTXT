@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Endococcus rugulosus 10km
+Description=Check coordinate against known distribution of Endococcus rugulosus
+ErrorMsg=Coordinate is outside known range for Endococcus rugulosus
+DataFieldName=Species
+DataRecordId=NBNSYS0000016071
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG20
+NM76
+NN53
+NN59
+NT57
+NX39
+NY31
+SH77
+SH81
+SN87
+SN97
+ST23
+ST45
+SU17
+
+

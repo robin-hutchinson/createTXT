@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Viola reichenbachiana x canina = V. x mixta 10km
+Description=Check coordinate against known distribution of Viola reichenbachiana x canina = V. x mixta
+ErrorMsg=Coordinate is outside known range for Viola reichenbachiana x canina = V. x mixta
+DataFieldName=Species
+DataRecordId=NBNSYS0000162142
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP23
+SP51
+ST59
+TQ04
+TQ05
+
+

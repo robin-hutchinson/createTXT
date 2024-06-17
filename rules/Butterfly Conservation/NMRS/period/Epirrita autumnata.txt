@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Epirrita autumnata
+Description=Checks date is within known recording period of Epirrita autumnata
+ErrorMsg=Date is outside known recording period of Epirrita autumnata
+Tvk=NBNSYS0000005877
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

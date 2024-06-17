@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Rhadiurgus variabilis
+Description=Checks date is within known flight period of Rhadiurgus variabilis
+ErrorMsg=Date is outside known flight period of Rhadiurgus variabilis
+Tvk=NBNSYS0000007907
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

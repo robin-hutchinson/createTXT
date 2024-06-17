@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster microphyllus 10km
+Description=Check coordinate against known distribution of Cotoneaster microphyllus
+ErrorMsg=Coordinate is outside known range for Cotoneaster microphyllus
+DataFieldName=Species
+DataRecordId=NHMSYS0100001112
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ06
+SK14
+SK90
+
+

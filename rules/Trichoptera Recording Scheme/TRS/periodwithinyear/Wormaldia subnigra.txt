@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Wormaldia subnigra
+Description=Checks date is within known flight period of Wormaldia subnigra
+ErrorMsg=Date is outside known flight period of Wormaldia subnigra
+Tvk=NBNSYS0000008383
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

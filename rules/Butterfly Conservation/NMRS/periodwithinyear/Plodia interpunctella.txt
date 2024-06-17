@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Plodia interpunctella
+Description=Checks date is within known flight period of Plodia interpunctella
+ErrorMsg=Date is outside known flight period of Plodia interpunctella
+Tvk=NHMSYS0021143676
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

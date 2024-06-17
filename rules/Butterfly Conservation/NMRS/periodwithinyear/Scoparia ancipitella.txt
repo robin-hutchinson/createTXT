@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Scoparia ancipitella
+Description=Checks date is within known flight period of Scoparia ancipitella
+ErrorMsg=Date is outside known flight period of Scoparia ancipitella
+Tvk=NHMSYS0000504117
+DataFieldName=
+StartDate=0621
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

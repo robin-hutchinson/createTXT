@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Allium unifolium
+Description=Checks date is within known recording period of Allium unifolium
+ErrorMsg=Date is outside known recording period of Allium unifolium
+Tvk=NBNSYS0000034184
+StartDate=19850101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

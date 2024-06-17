@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Vanoyia tenuicornis
+Description=Checks date is within known flight period of Vanoyia tenuicornis
+ErrorMsg=Date is outside known flight period of Vanoyia tenuicornis
+Tvk=NBNSYS0000007819
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

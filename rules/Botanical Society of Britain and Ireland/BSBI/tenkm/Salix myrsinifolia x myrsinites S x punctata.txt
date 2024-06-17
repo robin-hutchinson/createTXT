@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix myrsinifolia x myrsinites = S. x punctata 10km
+Description=Check coordinate against known distribution of Salix myrsinifolia x myrsinites = S. x punctata
+ErrorMsg=Coordinate is outside known range for Salix myrsinifolia x myrsinites = S. x punctata
+DataFieldName=Species
+DataRecordId=NHMSYS0001754809
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH90
+NN22
+NN33
+NN43
+NN54
+NN78
+NO18
+NO19
+NO27
+NO28
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton coloratus x gramineus = P. x billupsii 10km
+Description=Check coordinate against known distribution of Potamogeton coloratus x gramineus = P. x billupsii
+ErrorMsg=Coordinate is outside known range for Potamogeton coloratus x gramineus = P. x billupsii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754735
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NF75
+TL39
+
+

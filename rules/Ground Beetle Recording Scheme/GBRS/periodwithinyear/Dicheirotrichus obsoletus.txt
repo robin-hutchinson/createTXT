@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Dicheirotrichus obsoletus
+Description=Checks date is within known flight period of Dicheirotrichus obsoletus
+ErrorMsg=Date is outside known flight period of Dicheirotrichus obsoletus
+Tvk=NBNSYS0000007416
+DataFieldName=
+StartDate=0301
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

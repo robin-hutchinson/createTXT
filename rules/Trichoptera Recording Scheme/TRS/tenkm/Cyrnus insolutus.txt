@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Cyrnus insolutus 10km
+Description=Check coordinate against known distribution of Cyrnus insolutus
+ErrorMsg=Coordinate is outside known range for Cyrnus insolutus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008400
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN36
+
+

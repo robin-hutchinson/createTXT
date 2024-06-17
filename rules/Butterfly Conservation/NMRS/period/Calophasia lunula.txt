@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Calophasia lunula
+Description=Checks date is within known recording period of Calophasia lunula
+ErrorMsg=Date is outside known recording period of Calophasia lunula
+Tvk=NBNSYS0000006316
+StartDate=19390101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

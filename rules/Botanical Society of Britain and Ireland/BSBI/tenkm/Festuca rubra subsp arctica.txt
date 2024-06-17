@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca rubra subsp. arctica 10km
+Description=Check coordinate against known distribution of Festuca rubra subsp. arctica
+ErrorMsg=Coordinate is outside known range for Festuca rubra subsp. arctica
+DataFieldName=Species
+DataRecordId=NHMSYS0000458791
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HP50
+HP61
+NC20
+NC21
+NC22
+NC34
+NH12
+NH13
+NH14
+NH24
+NM80
+NN15
+NN53
+NN58
+NN73
+NN80
+NO17
+NR93
+NS02
+NT02
+NT16
+NY21
+NY30
+NY31
+NY41
+NY63
+NY72
+SD79
+SH65
+
+

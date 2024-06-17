@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Wormaldia mediana
+Description=Checks date is within known recording period of Wormaldia mediana
+ErrorMsg=Date is outside known recording period of Wormaldia mediana
+Tvk=NBNSYS0000008381
+StartDate=18670101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

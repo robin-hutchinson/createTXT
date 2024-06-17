@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Platycheirus discimanus
+Description=Checks date is within known flight period of Platycheirus discimanus
+ErrorMsg=Date is outside known flight period of Platycheirus discimanus
+Tvk=NBNSYS0000006874
+DataFieldName=
+StartDate=0326
+EndDate=1001
+LastChanged=20240617
+[EndMetadata]

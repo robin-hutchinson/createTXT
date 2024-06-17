@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lithophane socia
+Description=Checks date is within known flight period of Lithophane socia
+ErrorMsg=Date is outside known flight period of Lithophane socia
+Tvk=NBNSYS0000150730
+DataFieldName=
+StartDate=0630
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

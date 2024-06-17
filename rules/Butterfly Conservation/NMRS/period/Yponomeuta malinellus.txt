@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Yponomeuta malinellus
+Description=Checks date is within known recording period of Yponomeuta malinellus
+ErrorMsg=Date is outside known recording period of Yponomeuta malinellus
+Tvk=NHMSYS0000504687
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Limonium hyblaeum 10km
+Description=Check coordinate against known distribution of Limonium hyblaeum
+ErrorMsg=Coordinate is outside known range for Limonium hyblaeum
+DataFieldName=Species
+DataRecordId=NBNSYS0000039541
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SY49
+TQ30
+TQ40
+TV49
+TV59
+
+

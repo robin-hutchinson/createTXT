@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cucurbita maxima 10km
+Description=Check coordinate against known distribution of Cucurbita maxima
+ErrorMsg=Coordinate is outside known range for Cucurbita maxima
+DataFieldName=Species
+DataRecordId=NBNSYS0000033879
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP30
+SP50
+SS93
+ST35
+SY88
+SZ09
+TQ08
+TQ26
+TQ57
+
+

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Conioscinella gallarum 10km
+Description=Check coordinate against known distribution of Conioscinella gallarum
+ErrorMsg=Coordinate is outside known range for Conioscinella gallarum
+DataFieldName=Species
+DataRecordId=NBNSYS0000029878
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ57
+SO64
+SU10
+SU20
+SU30
+SU97
+SW87
+TL67
+TL77
+TM34
+TQ94
+
+

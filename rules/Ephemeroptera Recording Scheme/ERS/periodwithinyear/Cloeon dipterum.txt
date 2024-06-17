@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Cloeon dipterum
+Description=Checks date is within known flight period of Cloeon dipterum
+ErrorMsg=Date is outside known flight period of Cloeon dipterum
+Tvk=NHMSYS0000066964
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

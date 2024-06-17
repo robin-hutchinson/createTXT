@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Cicadula (Henriana) frontalis
+Description=Checks date is within known recording period of Cicadula (Henriana) frontalis
+ErrorMsg=Date is outside known recording period of Cicadula (Henriana) frontalis
+Tvk=NHMSYS0020705275
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

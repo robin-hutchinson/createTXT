@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Tellamia contorta 10km
+Description=Check coordinate against known distribution of Tellamia contorta
+ErrorMsg=Coordinate is outside known range for Tellamia contorta
+DataFieldName=Species
+DataRecordId=NBNSYS0000187605
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY22
+HY41
+NA92
+NB43
+NB53
+NB54
+NB55
+ND48
+ND59
+NG19
+NG62
+NJ76
+NK14
+NM83
+NM93
+NN20
+NO51
+NO76
+NO86
+NO88
+NR79
+NS15
+NS25
+NS27
+NS29
+NS31
+NX04
+SC26
+SS48
+SY97
+SZ07
+TR06
+
+

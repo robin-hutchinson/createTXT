@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus morganwgensis 10km
+Description=Check coordinate against known distribution of Rubus morganwgensis
+ErrorMsg=Coordinate is outside known range for Rubus morganwgensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462790
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN61
+SN71
+SN80
+SN82
+SN90
+SN92
+SO00
+SO01
+SO02
+SS58
+SS78
+SS88
+SS89
+SS99
+ST07
+ST08
+ST09
+ST14
+ST73
+SX46
+
+

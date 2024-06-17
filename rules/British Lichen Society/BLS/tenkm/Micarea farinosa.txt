@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Micarea farinosa 10km
+Description=Check coordinate against known distribution of Micarea farinosa
+ErrorMsg=Coordinate is outside known range for Micarea farinosa
+DataFieldName=Species
+DataRecordId=NHMSYS0020535693
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM83
+NM84
+NM85
+NM93
+NM94
+NM95
+NN03
+NN04
+NN05
+NX05
+NX06
+NX07
+NX15
+NX16
+NX17
+NX25
+NX26
+NX27
+SN66
+SN67
+SN68
+SN76
+SN77
+SN78
+SN85
+SN86
+SN87
+SN88
+SN95
+SN96
+SN97
+SO05
+SO06
+SO07
+SX16
+SX17
+SX18
+SX26
+SX27
+SX28
+SX36
+SX37
+SX38
+
+

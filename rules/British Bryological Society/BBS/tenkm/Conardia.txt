@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Conardia 10km
+Description=Check coordinate against known distribution of Conardia
+ErrorMsg=Coordinate is outside known range for Conardia
+DataFieldName=Species
+DataRecordId=NHMSYS0000309696
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO61
+NO63
+NO74
+NO75
+NO86
+NT59
+NT69
+
+

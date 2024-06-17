@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia deformis 10km
+Description=Check coordinate against known distribution of Cladonia deformis
+ErrorMsg=Coordinate is outside known range for Cladonia deformis
+DataFieldName=Species
+DataRecordId=NBNSYS0000018367
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+C40
+
+
+[10km_GB]
+NO19
+
+

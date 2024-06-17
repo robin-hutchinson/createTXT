@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Drosanthemum floribundum 10km
+Description=Check coordinate against known distribution of Drosanthemum floribundum
+ErrorMsg=Coordinate is outside known range for Drosanthemum floribundum
+DataFieldName=Species
+DataRecordId=NBNSYS0000014144
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH27
+SS43
+SU73
+SV80
+SV81
+SV90
+SV91
+SW52
+SW61
+SW62
+SW71
+SW86
+
+
+NA
+
+

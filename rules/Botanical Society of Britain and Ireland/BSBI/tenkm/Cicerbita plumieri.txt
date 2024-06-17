@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cicerbita plumieri 10km
+Description=Check coordinate against known distribution of Cicerbita plumieri
+ErrorMsg=Coordinate is outside known range for Cicerbita plumieri
+DataFieldName=Species
+DataRecordId=NBNSYS0000005447
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH41
+NJ25
+NJ73
+NS65
+NT07
+NT27
+NT83
+NX47
+SD20
+SD53
+SD57
+SE29
+SP02
+SP56
+SS42
+SX45
+TL19
+TQ28
+TQ32
+
+

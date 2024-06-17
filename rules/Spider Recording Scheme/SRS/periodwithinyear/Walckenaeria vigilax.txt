@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Walckenaeria vigilax
+Description=Checks date is within known flight period of Walckenaeria vigilax
+ErrorMsg=Date is outside known flight period of Walckenaeria vigilax
+Tvk=NBNSYS0000008989
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

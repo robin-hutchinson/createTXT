@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Diphasia nigra 10km
+Description=Check coordinate against known distribution of Diphasia nigra
+ErrorMsg=Coordinate is outside known range for Diphasia nigra
+DataFieldName=Species
+DataRecordId=NBNSYS0000174964
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D14
+D15
+D41
+O84
+
+
+[10km_GB]
+NO60
+NR30
+NT69
+NU23
+NW66
+SG89
+SH13
+SH24
+TA26
+TA27
+
+

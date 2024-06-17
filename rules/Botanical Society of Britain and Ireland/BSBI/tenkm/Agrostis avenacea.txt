@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Agrostis avenacea 10km
+Description=Check coordinate against known distribution of Agrostis avenacea
+ErrorMsg=Coordinate is outside known range for Agrostis avenacea
+DataFieldName=Species
+DataRecordId=NHMSYS0000455670
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ05
+NT53
+SE11
+SE13
+SE21
+SE32
+SE38
+SJ39
+SJ97
+SO94
+SP04
+SP38
+ST43
+ST53
+SU73
+TQ75
+
+

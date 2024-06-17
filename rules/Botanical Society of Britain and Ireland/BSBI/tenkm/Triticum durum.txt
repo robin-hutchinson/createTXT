@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Triticum durum 10km
+Description=Check coordinate against known distribution of Triticum durum
+ErrorMsg=Coordinate is outside known range for Triticum durum
+DataFieldName=Species
+DataRecordId=NBNSYS0000034044
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST66
+TL10
+
+

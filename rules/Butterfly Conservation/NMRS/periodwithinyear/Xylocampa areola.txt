@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Xylocampa areola
+Description=Checks date is within known flight period of Xylocampa areola
+ErrorMsg=Date is outside known flight period of Xylocampa areola
+Tvk=NBNSYS0000006336
+DataFieldName=
+StartDate=0215
+EndDate=0531
+LastChanged=20240617
+[EndMetadata]

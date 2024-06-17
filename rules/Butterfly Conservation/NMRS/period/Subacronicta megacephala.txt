@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Subacronicta megacephala
+Description=Checks date is within known recording period of Subacronicta megacephala
+ErrorMsg=Date is outside known recording period of Subacronicta megacephala
+Tvk=NHMSYS0021144513
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

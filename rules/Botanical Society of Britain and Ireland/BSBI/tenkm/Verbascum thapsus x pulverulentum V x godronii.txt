@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbascum thapsus x pulverulentum = V. x godronii 10km
+Description=Check coordinate against known distribution of Verbascum thapsus x pulverulentum = V. x godronii
+ErrorMsg=Coordinate is outside known range for Verbascum thapsus x pulverulentum = V. x godronii
+DataFieldName=Species
+DataRecordId=NBNSYS0000162128
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TF62
+TF63
+TF72
+TF73
+TL46
+TL76
+TL87
+TL88
+
+

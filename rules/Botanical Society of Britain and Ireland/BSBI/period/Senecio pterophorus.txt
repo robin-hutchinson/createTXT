@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Senecio pterophorus
+Description=Checks date is within known recording period of Senecio pterophorus
+ErrorMsg=Date is outside known recording period of Senecio pterophorus
+Tvk=NBNSYS0000004877
+StartDate=19130101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

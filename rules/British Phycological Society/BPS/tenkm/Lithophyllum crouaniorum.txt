@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Lithophyllum crouaniorum 10km
+Description=Check coordinate against known distribution of Lithophyllum crouaniorum
+ErrorMsg=Coordinate is outside known range for Lithophyllum crouaniorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000567994
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU37
+HU55
+HY55
+HY63
+NM83
+NX54
+NX64
+NX74
+SC27
+SM80
+SS14
+SW72
+SX84
+SY49
+SY88
+SY89
+
+

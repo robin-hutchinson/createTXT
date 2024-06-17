@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Heuchera sanguinea 10km
+Description=Check coordinate against known distribution of Heuchera sanguinea
+ErrorMsg=Coordinate is outside known range for Heuchera sanguinea
+DataFieldName=Species
+DataRecordId=NBNSYS0000033391
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ16
+NJ26
+NS38
+NS56
+NS66
+NT83
+NX40
+SC39
+SC49
+SD46
+SE13
+SE23
+SJ01
+SK36
+SK53
+SK63
+SO89
+SP08
+SP18
+SP50
+ST24
+SU29
+SU36
+SU38
+SU49
+SU67
+SU68
+SU76
+SU77
+SU86
+SU87
+SU88
+SU97
+SY39
+TA30
+TL45
+TL86
+TQ07
+TQ08
+TQ09
+TQ27
+TQ76
+
+

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Philonotis rigida 10km
+Description=Check coordinate against known distribution of Philonotis rigida
+ErrorMsg=Coordinate is outside known range for Philonotis rigida
+DataFieldName=Species
+DataRecordId=NBNSYS0000036678
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH24
+SH50
+SH51
+SH52
+SH61
+SN59
+SN69
+SV90
+
+

@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Artemisia dracunculus 10km
+Description=Check coordinate against known distribution of Artemisia dracunculus
+ErrorMsg=Coordinate is outside known range for Artemisia dracunculus
+DataFieldName=Species
+DataRecordId=NBNSYS0000033499
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD32
+SJ39
+SP50
+SP88
+ST64
+ST69
+ST95
+SX05
+TL11
+TL13
+TL30
+TL74
+TQ07
+TQ19
+TQ28
+TQ29
+TQ30
+TQ38
+TQ88
+
+

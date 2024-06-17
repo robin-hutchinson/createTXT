@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Turdus pilaris
+Description=Checks date is within known flight period of Turdus pilaris
+ErrorMsg=Date is outside known flight period of Turdus pilaris
+Tvk=NHMSYS0000530679
+DataFieldName=
+StartDate=0521
+EndDate=0824
+LastChanged=20240617
+[EndMetadata]

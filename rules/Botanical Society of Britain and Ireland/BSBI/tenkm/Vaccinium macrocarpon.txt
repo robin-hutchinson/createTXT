@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Vaccinium macrocarpon 10km
+Description=Check coordinate against known distribution of Vaccinium macrocarpon
+ErrorMsg=Coordinate is outside known range for Vaccinium macrocarpon
+DataFieldName=Species
+DataRecordId=NBNSYS0000003920
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS03
+NS37
+NX90
+NZ51
+SJ26
+SJ41
+SN03
+SP25
+SS69
+SU10
+SU30
+SU73
+SU94
+SZ39
+
+

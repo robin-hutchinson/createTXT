@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Helianthemum oelandicum 10km
+Description=Check coordinate against known distribution of Helianthemum oelandicum
+ErrorMsg=Coordinate is outside known range for Helianthemum oelandicum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459267
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+L71
+L80
+L81
+M00
+M10
+M11
+M20
+M22
+R09
+R39
+
+
+[10km_GB]
+NY82
+NY83
+SD37
+SD48
+SD49
+SD86
+SH58
+SH68
+SH77
+SH78
+SH87
+SH88
+SH97
+SJ07
+SJ08
+SO32
+SR99
+SS38
+SS48
+SS58
+SS68
+
+

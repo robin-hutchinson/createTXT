@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Hyperaspis pseudopustulata
+Description=Checks date is within known recording period of Hyperaspis pseudopustulata
+ErrorMsg=Date is outside known recording period of Hyperaspis pseudopustulata
+Tvk=NBNSYS0000008307
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

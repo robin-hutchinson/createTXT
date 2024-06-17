@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pancalia leuwenhoekella
+Description=Checks date is within known flight period of Pancalia leuwenhoekella
+ErrorMsg=Date is outside known flight period of Pancalia leuwenhoekella
+Tvk=NHMSYS0000503572
+DataFieldName=
+StartDate=0421
+EndDate=0807
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Utricularia intermedia 10km
+Description=Check coordinate against known distribution of Utricularia intermedia
+ErrorMsg=Coordinate is outside known range for Utricularia intermedia
+DataFieldName=Species
+DataRecordId=NHMSYS0100003189
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+B71
+B90
+D01
+G96
+H04
+H05
+H06
+H08
+H27
+H98
+R68
+
+
+[10km_GB]
+NF71
+NN40
+NN50
+NR49
+NS59
+NX66
+SH23
+SH33
+SH44
+SY88
+SY98
+SY99
+SZ08
+SZ09
+TM49
+
+

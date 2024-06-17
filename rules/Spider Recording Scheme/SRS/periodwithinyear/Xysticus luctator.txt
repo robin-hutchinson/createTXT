@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Xysticus luctator
+Description=Checks date is within known flight period of Xysticus luctator
+ErrorMsg=Date is outside known flight period of Xysticus luctator
+Tvk=NBNSYS0000008727
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

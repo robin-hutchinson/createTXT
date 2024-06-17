@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium palustre x anagallidifolium = E. x dasycarpum 10km
+Description=Check coordinate against known distribution of Epilobium palustre x anagallidifolium = E. x dasycarpum
+ErrorMsg=Coordinate is outside known range for Epilobium palustre x anagallidifolium = E. x dasycarpum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754372
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC22
+NC32
+NF86
+NH12
+
+

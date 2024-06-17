@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Neopachygaster meromelas
+Description=Checks date is within known flight period of Neopachygaster meromelas
+ErrorMsg=Date is outside known flight period of Neopachygaster meromelas
+Tvk=NBNSYS0100004215
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

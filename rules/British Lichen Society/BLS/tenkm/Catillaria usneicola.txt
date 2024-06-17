@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Catillaria usneicola 10km
+Description=Check coordinate against known distribution of Catillaria usneicola
+ErrorMsg=Coordinate is outside known range for Catillaria usneicola
+DataFieldName=Species
+DataRecordId=NHMSYS0020061812
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH54
+NH55
+NN10
+NR78
+NR79
+
+

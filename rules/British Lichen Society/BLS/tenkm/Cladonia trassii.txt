@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia trassii 10km
+Description=Check coordinate against known distribution of Cladonia trassii
+ErrorMsg=Coordinate is outside known range for Cladonia trassii
+DataFieldName=Species
+DataRecordId=BMSSYS0000003990
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH90
+NJ00
+NN99
+
+

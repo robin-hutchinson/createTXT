@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Polistichus connexus
+Description=Checks date is within known flight period of Polistichus connexus
+ErrorMsg=Date is outside known flight period of Polistichus connexus
+Tvk=NHMSYS0001719662
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

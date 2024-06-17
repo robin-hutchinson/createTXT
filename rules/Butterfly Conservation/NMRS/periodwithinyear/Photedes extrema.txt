@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Photedes extrema
+Description=Checks date is within known flight period of Photedes extrema
+ErrorMsg=Date is outside known flight period of Photedes extrema
+Tvk=NHMSYS0021144651
+DataFieldName=
+StartDate=0507
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

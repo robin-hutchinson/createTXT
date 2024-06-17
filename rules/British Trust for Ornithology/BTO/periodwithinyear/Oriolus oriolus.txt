@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Oriolus oriolus
+Description=Checks date is within known flight period of Oriolus oriolus
+ErrorMsg=Date is outside known flight period of Oriolus oriolus
+Tvk=NHMSYS0000530518
+DataFieldName=
+StartDate=0415
+EndDate=0920
+LastChanged=20240617
+[EndMetadata]

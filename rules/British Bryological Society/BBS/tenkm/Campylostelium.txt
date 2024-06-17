@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Campylostelium 10km
+Description=Check coordinate against known distribution of Campylostelium
+ErrorMsg=Coordinate is outside known range for Campylostelium
+DataFieldName=Species
+DataRecordId=NHMSYS0000309579
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NY05
+NY17
+NY18
+NY26
+NY27
+NY37
+NY38
+NY46
+NY47
+
+

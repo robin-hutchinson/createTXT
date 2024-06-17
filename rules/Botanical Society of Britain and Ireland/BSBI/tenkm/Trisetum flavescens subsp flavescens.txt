@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trisetum flavescens subsp. flavescens 10km
+Description=Check coordinate against known distribution of Trisetum flavescens subsp. flavescens
+ErrorMsg=Coordinate is outside known range for Trisetum flavescens subsp. flavescens
+DataFieldName=Species
+DataRecordId=NHMSYS0000464619
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TF74
+
+

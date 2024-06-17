@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Persicaria campanulata
+Description=Checks date is within known recording period of Persicaria campanulata
+ErrorMsg=Date is outside known recording period of Persicaria campanulata
+Tvk=NHMSYS0000461600
+StartDate=19330101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

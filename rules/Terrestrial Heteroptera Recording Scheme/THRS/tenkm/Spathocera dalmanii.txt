@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Spathocera dalmanii 10km
+Description=Check coordinate against known distribution of Spathocera dalmanii
+ErrorMsg=Coordinate is outside known range for Spathocera dalmanii
+DataFieldName=Species
+DataRecordId=NHMSYS0020309842
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU10
+SU21
+SU31
+SU41
+SU49
+SU84
+SU94
+SZ19
+SZ59
+SZ79
+TG04
+TL14
+TL24
+TL77
+TL79
+TM13
+TM24
+TM34
+TQ01
+TQ04
+TQ16
+TQ17
+TQ48
+
+

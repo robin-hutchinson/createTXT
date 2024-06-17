@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Anania lancealis
+Description=Checks date is within known flight period of Anania lancealis
+ErrorMsg=Date is outside known flight period of Anania lancealis
+Tvk=NHMSYS0021127793
+DataFieldName=
+StartDate=0515
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

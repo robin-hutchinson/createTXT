@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sisyrinchium californicum 10km
+Description=Check coordinate against known distribution of Sisyrinchium californicum
+ErrorMsg=Coordinate is outside known range for Sisyrinchium californicum
+DataFieldName=Species
+DataRecordId=NHMSYS0000463635
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+M14
+
+
+[10km_GB]
+NH78
+NM45
+NS04
+NS38
+NX40
+SC16
+SC17
+SC26
+SC27
+SC37
+SC39
+SC47
+SC48
+SC49
+SD17
+SD73
+SM70
+SN51
+ST49
+SU36
+SU76
+SU96
+SV81
+SV90
+SW72
+SX45
+SX69
+TG14
+TQ17
+TQ27
+
+

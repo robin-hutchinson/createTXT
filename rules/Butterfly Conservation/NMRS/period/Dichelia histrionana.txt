@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Dichelia histrionana
+Description=Checks date is within known recording period of Dichelia histrionana
+ErrorMsg=Date is outside known recording period of Dichelia histrionana
+Tvk=NHMSYS0021143029
+StartDate=20030608
+EndDate=
+LastChanged=20240617
+[EndMetadata]

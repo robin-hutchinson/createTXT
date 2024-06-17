@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Chiasmia aestimaria
+Description=Checks date is within known recording period of Chiasmia aestimaria
+ErrorMsg=Date is outside known recording period of Chiasmia aestimaria
+Tvk=NHMSYS0021144173
+StartDate=20040816
+EndDate=
+LastChanged=20240617
+[EndMetadata]

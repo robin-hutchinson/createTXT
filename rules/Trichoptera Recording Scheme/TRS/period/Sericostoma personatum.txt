@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Sericostoma personatum
+Description=Checks date is within known recording period of Sericostoma personatum
+ErrorMsg=Date is outside known recording period of Sericostoma personatum
+Tvk=NBNSYS0000008506
+StartDate=18250101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

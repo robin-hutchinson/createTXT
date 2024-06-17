@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Erythrotrichia welwitschii 10km
+Description=Check coordinate against known distribution of Erythrotrichia welwitschii
+ErrorMsg=Coordinate is outside known range for Erythrotrichia welwitschii
+DataFieldName=Species
+DataRecordId=NBNSYS0000175187
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO51
+SM70
+SM80
+SM81
+SW97
+SY18
+
+

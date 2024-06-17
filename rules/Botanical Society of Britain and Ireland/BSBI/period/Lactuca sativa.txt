@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lactuca sativa
+Description=Checks date is within known recording period of Lactuca sativa
+ErrorMsg=Date is outside known recording period of Lactuca sativa
+Tvk=NBNSYS0000004538
+StartDate=18660101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

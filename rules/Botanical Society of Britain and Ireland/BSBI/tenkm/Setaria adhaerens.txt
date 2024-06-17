@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Setaria adhaerens 10km
+Description=Check coordinate against known distribution of Setaria adhaerens
+ErrorMsg=Coordinate is outside known range for Setaria adhaerens
+DataFieldName=Species
+DataRecordId=NHMSYS0000463476
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN10
+SS69
+SU73
+
+

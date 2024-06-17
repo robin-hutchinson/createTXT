@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Hydrolithon boreale 10km
+Description=Check coordinate against known distribution of Hydrolithon boreale
+ErrorMsg=Coordinate is outside known range for Hydrolithon boreale
+DataFieldName=Species
+DataRecordId=NHMSYS0000568225
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX24
+SS14
+SV90
+SX84
+SY68
+SY78
+SY88
+SY98
+SZ38
+SZ48
+SZ69
+TQ00
+
+

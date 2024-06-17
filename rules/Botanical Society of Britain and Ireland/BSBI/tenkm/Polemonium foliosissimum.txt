@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Polemonium foliosissimum 10km
+Description=Check coordinate against known distribution of Polemonium foliosissimum
+ErrorMsg=Coordinate is outside known range for Polemonium foliosissimum
+DataFieldName=Species
+DataRecordId=NBNSYS0200002933
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK09
+TQ75
+
+

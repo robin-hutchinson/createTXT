@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Clangula hyemalis
+Description=Checks date is within known flight period of Clangula hyemalis
+ErrorMsg=Date is outside known flight period of Clangula hyemalis
+Tvk=NBNSYS0000000194
+DataFieldName=
+StartDate=0521
+EndDate=0909
+LastChanged=20240617
+[EndMetadata]

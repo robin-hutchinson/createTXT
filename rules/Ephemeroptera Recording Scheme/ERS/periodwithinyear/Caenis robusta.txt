@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Caenis robusta
+Description=Checks date is within known flight period of Caenis robusta
+ErrorMsg=Date is outside known flight period of Caenis robusta
+Tvk=NBNSYS0000010905
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

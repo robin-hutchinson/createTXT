@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Dicyphus (Dicyphus) errans
+Description=Checks date is within known flight period of Dicyphus (Dicyphus) errans
+ErrorMsg=Date is outside known flight period of Dicyphus (Dicyphus) errans
+Tvk=NHMSYS0020309170
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

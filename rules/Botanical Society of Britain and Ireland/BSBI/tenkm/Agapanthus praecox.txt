@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Agapanthus praecox 10km
+Description=Check coordinate against known distribution of Agapanthus praecox
+ErrorMsg=Coordinate is outside known range for Agapanthus praecox
+DataFieldName=Species
+DataRecordId=NBNSYS0000014650
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX40
+SC39
+SC49
+SV80
+SV81
+SV91
+SW83
+TQ57
+
+
+NA
+
+

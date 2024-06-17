@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Thymus vulgaris 10km
+Description=Check coordinate against known distribution of Thymus vulgaris
+ErrorMsg=Coordinate is outside known range for Thymus vulgaris
+DataFieldName=Species
+DataRecordId=NBNSYS0000004977
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+N38
+S55
+
+
+[10km_GB]
+NH87
+NM43
+NM53
+NS96
+NX40
+NX78
+SC28
+SC49
+SH97
+SJ07
+SK75
+SO73
+SO74
+SP04
+SP41
+SP51
+SS20
+ST41
+ST97
+SU60
+SW83
+SX77
+SZ57
+TF26
+TF60
+TG20
+TL92
+TQ05
+TQ25
+TQ26
+TQ27
+TQ45
+TQ47
+TQ57
+TQ97
+
+
+NA
+
+

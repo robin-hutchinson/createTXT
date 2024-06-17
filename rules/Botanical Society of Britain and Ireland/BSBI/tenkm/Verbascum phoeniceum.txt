@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbascum phoeniceum 10km
+Description=Check coordinate against known distribution of Verbascum phoeniceum
+ErrorMsg=Coordinate is outside known range for Verbascum phoeniceum
+DataFieldName=Species
+DataRecordId=NBNSYS0000004057
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ26
+NO32
+NU21
+SJ89
+SK46
+SK63
+SO74
+SO81
+SP50
+SS79
+ST57
+ST67
+ST80
+SU82
+SU94
+SZ08
+SZ48
+SZ89
+TL44
+TL77
+TL93
+TQ25
+
+
+NA
+
+

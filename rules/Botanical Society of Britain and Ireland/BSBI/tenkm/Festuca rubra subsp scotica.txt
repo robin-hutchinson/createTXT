@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca rubra subsp. scotica 10km
+Description=Check coordinate against known distribution of Festuca rubra subsp. scotica
+ErrorMsg=Coordinate is outside known range for Festuca rubra subsp. scotica
+DataFieldName=Species
+DataRecordId=NHMSYS0000458801
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU47
+NB54
+ND49
+NG86
+NN17
+NN34
+NR68
+NR96
+NY11
+NY63
+
+

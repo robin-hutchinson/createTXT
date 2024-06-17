@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Alopecurus geniculatus x aequalis = A. x haussknechtianus 10km
+Description=Check coordinate against known distribution of Alopecurus geniculatus x aequalis = A. x haussknechtianus
+ErrorMsg=Coordinate is outside known range for Alopecurus geniculatus x aequalis = A. x haussknechtianus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754352
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SH52
+SO01
+SP92
+ST03
+TF72
+TL28
+
+

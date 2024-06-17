@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Neoascia meticulosa
+Description=Checks date is within known flight period of Neoascia meticulosa
+ErrorMsg=Date is outside known flight period of Neoascia meticulosa
+Tvk=NBNSYS0000007028
+DataFieldName=
+StartDate=0403
+EndDate=1101
+LastChanged=20240617
+[EndMetadata]

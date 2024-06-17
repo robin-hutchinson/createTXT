@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex cristatus x crispus = R. x dimidiatus 10km
+Description=Check coordinate against known distribution of Rumex cristatus x crispus = R. x dimidiatus
+ErrorMsg=Coordinate is outside known range for Rumex cristatus x crispus = R. x dimidiatus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754458
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS94
+ST36
+SU67
+SU77
+TL30
+TQ27
+TQ38
+TQ39
+TQ47
+TQ48
+TQ58
+TQ67
+TQ88
+
+

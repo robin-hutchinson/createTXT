@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Luzula multiflora subsp. hibernica 10km
+Description=Check coordinate against known distribution of Luzula multiflora subsp. hibernica
+ErrorMsg=Coordinate is outside known range for Luzula multiflora subsp. hibernica
+DataFieldName=Species
+DataRecordId=NHMSYS0000460497
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SU74
+TA04
+
+

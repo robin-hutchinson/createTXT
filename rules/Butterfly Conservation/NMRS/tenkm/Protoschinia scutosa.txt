@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Protoschinia scutosa 10km
+Description=Check coordinate against known distribution of Protoschinia scutosa
+ErrorMsg=Coordinate is outside known range for Protoschinia scutosa
+DataFieldName=Species
+DataRecordId=NHMSYS0021144534
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO75
+SO76
+SO77
+SO85
+SO86
+SO87
+SO95
+SO96
+SO97
+TM06
+TM07
+TM08
+TM16
+TM17
+TM18
+TM26
+TM27
+TM28
+
+

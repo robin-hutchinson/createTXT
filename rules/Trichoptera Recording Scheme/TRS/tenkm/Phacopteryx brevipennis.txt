@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Phacopteryx brevipennis 10km
+Description=Check coordinate against known distribution of Phacopteryx brevipennis
+ErrorMsg=Coordinate is outside known range for Phacopteryx brevipennis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008496
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NX66
+NZ33
+SE89
+SJ43
+SJ57
+SJ65
+SJ97
+TF70
+TG32
+TL99
+TM07
+
+

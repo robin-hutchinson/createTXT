@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Plagodis pulveraria
+Description=Checks date is within known flight period of Plagodis pulveraria
+ErrorMsg=Date is outside known flight period of Plagodis pulveraria
+Tvk=NBNSYS0000005994
+DataFieldName=
+StartDate=0415
+EndDate=0815
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Sphaerophoria batava
+Description=Checks date is within known flight period of Sphaerophoria batava
+ErrorMsg=Date is outside known flight period of Sphaerophoria batava
+Tvk=NBNSYS0000006954
+DataFieldName=
+StartDate=0206
+EndDate=1013
+LastChanged=20240617
+[EndMetadata]

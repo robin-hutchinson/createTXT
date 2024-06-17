@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Oecophora bractella
+Description=Checks date is within known flight period of Oecophora bractella
+ErrorMsg=Date is outside known flight period of Oecophora bractella
+Tvk=NHMSYS0000503456
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus informifolius 10km
+Description=Check coordinate against known distribution of Rubus informifolius
+ErrorMsg=Coordinate is outside known range for Rubus informifolius
+DataFieldName=Species
+DataRecordId=NHMSYS0000840826
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ80
+SO34
+SO46
+SO47
+SO55
+SO57
+SO65
+SO66
+SO67
+SO68
+SO76
+SO77
+SO78
+SO79
+SO86
+SO87
+SO88
+SU63
+
+

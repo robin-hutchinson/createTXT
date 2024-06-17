@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Mioxena blanda
+Description=Checks date is within known flight period of Mioxena blanda
+ErrorMsg=Date is outside known flight period of Mioxena blanda
+Tvk=NBNSYS0000009131
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

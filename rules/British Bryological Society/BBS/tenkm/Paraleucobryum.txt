@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Paraleucobryum 10km
+Description=Check coordinate against known distribution of Paraleucobryum
+ErrorMsg=Coordinate is outside known range for Paraleucobryum
+DataFieldName=Species
+DataRecordId=NHMSYS0000310416
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ00
+NJ10
+NN99
+NO09
+NO28
+
+

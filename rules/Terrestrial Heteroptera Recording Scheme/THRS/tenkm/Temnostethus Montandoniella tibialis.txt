@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Temnostethus (Montandoniella) tibialis 10km
+Description=Check coordinate against known distribution of Temnostethus (Montandoniella) tibialis
+ErrorMsg=Coordinate is outside known range for Temnostethus (Montandoniella) tibialis
+DataFieldName=Species
+DataRecordId=NHMSYS0020309884
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH06
+NH22
+NH32
+NH34
+
+

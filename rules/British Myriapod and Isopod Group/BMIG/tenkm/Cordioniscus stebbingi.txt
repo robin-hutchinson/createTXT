@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Cordioniscus stebbingi 10km
+Description=Check coordinate against known distribution of Cordioniscus stebbingi
+ErrorMsg=Coordinate is outside known range for Cordioniscus stebbingi
+DataFieldName=Species
+DataRecordId=NBNSYS0000008557
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS56
+NS66
+NT27
+SK28
+TQ17
+
+

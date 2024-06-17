@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum glauciniforme 10km
+Description=Check coordinate against known distribution of Taraxacum glauciniforme
+ErrorMsg=Coordinate is outside known range for Taraxacum glauciniforme
+DataFieldName=Species
+DataRecordId=NHMSYS0000841044
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SW75
+TL11
+TL15
+TQ09
+
+

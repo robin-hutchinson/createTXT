@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Micromesistius poutassou 10km
+Description=Check coordinate against known distribution of Micromesistius poutassou
+ErrorMsg=Coordinate is outside known range for Micromesistius poutassou
+DataFieldName=Species
+DataRecordId=NHMSYS0020752148
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+OR86
+SL71
+SL72
+SM00
+SQ12
+SQ18
+SQ75
+SQ84
+SR13
+SR17
+SR18
+SR78
+SV12
+SV54
+SV66
+SW07
+SW39
+SW93
+SX12
+SX23
+SX35
+
+
+[10km_Ireland]
+V14
+V15
+X05
+X32
+X85
+X86
+Y21
+Y22
+Y24
+Y32
+Y92
+
+

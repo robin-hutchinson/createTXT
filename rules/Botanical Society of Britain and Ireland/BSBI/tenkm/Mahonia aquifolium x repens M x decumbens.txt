@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Mahonia aquifolium x repens = M. x decumbens 10km
+Description=Check coordinate against known distribution of Mahonia aquifolium x repens = M. x decumbens
+ErrorMsg=Coordinate is outside known range for Mahonia aquifolium x repens = M. x decumbens
+DataFieldName=Species
+DataRecordId=NHMSYS0001754803
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC16
+SC27
+SC49
+SD92
+SS84
+SU26
+TL10
+TL13
+TL66
+TQ16
+
+

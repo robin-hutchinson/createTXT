@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Hydroptila valesiaca 10km
+Description=Check coordinate against known distribution of Hydroptila valesiaca
+ErrorMsg=Coordinate is outside known range for Hydroptila valesiaca
+DataFieldName=Species
+DataRecordId=NBNSYS0000008364
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM84
+NT52
+NX64
+NY60
+
+

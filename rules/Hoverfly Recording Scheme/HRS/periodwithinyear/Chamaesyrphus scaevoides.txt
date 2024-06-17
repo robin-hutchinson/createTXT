@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Chamaesyrphus scaevoides
+Description=Checks date is within known flight period of Chamaesyrphus scaevoides
+ErrorMsg=Date is outside known flight period of Chamaesyrphus scaevoides
+Tvk=NBNSYS0000007072
+DataFieldName=
+StartDate=0602
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

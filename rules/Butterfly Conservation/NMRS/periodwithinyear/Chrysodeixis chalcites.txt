@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Chrysodeixis chalcites
+Description=Checks date is within known flight period of Chrysodeixis chalcites
+ErrorMsg=Date is outside known flight period of Chrysodeixis chalcites
+Tvk=NHMSYS0021144468
+DataFieldName=
+StartDate=0507
+EndDate=1215
+LastChanged=20240617
+[EndMetadata]

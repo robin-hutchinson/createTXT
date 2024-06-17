@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium tetragonum x palustre = E. x laschianum 10km
+Description=Check coordinate against known distribution of Epilobium tetragonum x palustre = E. x laschianum
+ErrorMsg=Coordinate is outside known range for Epilobium tetragonum x palustre = E. x laschianum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754579
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TR01
+
+

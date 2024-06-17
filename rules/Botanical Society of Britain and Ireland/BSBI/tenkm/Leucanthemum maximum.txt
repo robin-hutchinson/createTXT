@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Leucanthemum maximum 10km
+Description=Check coordinate against known distribution of Leucanthemum maximum
+ErrorMsg=Coordinate is outside known range for Leucanthemum maximum
+DataFieldName=Species
+DataRecordId=NHMSYS0000460302
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS78
+TF38
+
+

@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Erodium botrys 10km
+Description=Check coordinate against known distribution of Erodium botrys
+ErrorMsg=Coordinate is outside known range for Erodium botrys
+DataFieldName=Species
+DataRecordId=NBNSYS0000004854
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS47
+NT43
+SE02
+SE11
+SE13
+SE22
+SE32
+SE38
+SE44
+SE47
+SE48
+SO84
+SP04
+ST43
+SU73
+TL03
+TL13
+TL14
+TL15
+TL22
+TL23
+TM05
+
+

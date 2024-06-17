@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rorippa palustris x amphibia = R. x erythrocaulis 10km
+Description=Check coordinate against known distribution of Rorippa palustris x amphibia = R. x erythrocaulis
+ErrorMsg=Coordinate is outside known range for Rorippa palustris x amphibia = R. x erythrocaulis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754371
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+R65
+
+
+[10km_GB]
+SO83
+SP25
+SU76
+SU77
+SU86
+TQ16
+TQ17
+TQ27
+
+

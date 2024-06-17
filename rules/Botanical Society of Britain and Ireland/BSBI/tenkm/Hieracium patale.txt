@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium patale 10km
+Description=Check coordinate against known distribution of Hieracium patale
+ErrorMsg=Coordinate is outside known range for Hieracium patale
+DataFieldName=Species
+DataRecordId=NHMSYS0000459536
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN06
+SD48
+SS41
+SX56
+SX65
+
+

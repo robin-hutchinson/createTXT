@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium eximium 10km
+Description=Check coordinate against known distribution of Hieracium eximium
+ErrorMsg=Coordinate is outside known range for Hieracium eximium
+DataFieldName=Species
+DataRecordId=NHMSYS0000459429
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH13
+NH40
+NH60
+NH90
+NJ00
+NJ10
+NM99
+NN14
+NN15
+NN17
+NN25
+NN34
+NN43
+NN47
+NN48
+NN49
+NN53
+NN64
+NN67
+NN73
+NN89
+NN99
+NO07
+NO09
+NO16
+NO17
+NO18
+NO19
+NO27
+NO28
+NO37
+NO38
+
+

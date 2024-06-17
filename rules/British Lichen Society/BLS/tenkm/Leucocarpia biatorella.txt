@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Leucocarpia biatorella 10km
+Description=Check coordinate against known distribution of Leucocarpia biatorella
+ErrorMsg=Coordinate is outside known range for Leucocarpia biatorella
+DataFieldName=Species
+DataRecordId=NHMSYS0001487779
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN64
+
+

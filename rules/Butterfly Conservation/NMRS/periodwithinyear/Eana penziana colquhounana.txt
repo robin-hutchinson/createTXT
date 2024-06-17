@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eana penziana colquhounana
+Description=Checks date is within known flight period of Eana penziana colquhounana
+ErrorMsg=Date is outside known flight period of Eana penziana colquhounana
+Tvk=NHMSYS0021143050
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

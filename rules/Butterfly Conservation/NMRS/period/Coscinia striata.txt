@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Coscinia striata
+Description=Checks date is within known recording period of Coscinia striata
+ErrorMsg=Date is outside known recording period of Coscinia striata
+Tvk=NHMSYS0021144408
+StartDate=18000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

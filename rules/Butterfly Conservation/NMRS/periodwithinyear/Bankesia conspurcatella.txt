@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Bankesia conspurcatella
+Description=Checks date is within known flight period of Bankesia conspurcatella
+ErrorMsg=Date is outside known flight period of Bankesia conspurcatella
+Tvk=NHMSYS0020705508
+DataFieldName=
+StartDate=0301
+EndDate=0430
+LastChanged=20240617
+[EndMetadata]

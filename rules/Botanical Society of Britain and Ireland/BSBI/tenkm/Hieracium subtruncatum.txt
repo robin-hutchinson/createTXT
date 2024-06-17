@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium subtruncatum 10km
+Description=Check coordinate against known distribution of Hieracium subtruncatum
+ErrorMsg=Coordinate is outside known range for Hieracium subtruncatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840889
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU34
+HU36
+HU37
+HU38
+HU42
+HU45
+HU56
+
+

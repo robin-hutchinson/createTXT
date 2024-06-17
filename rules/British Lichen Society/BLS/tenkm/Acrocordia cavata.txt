@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Acrocordia cavata 10km
+Description=Check coordinate against known distribution of Acrocordia cavata
+ErrorMsg=Coordinate is outside known range for Acrocordia cavata
+DataFieldName=Species
+DataRecordId=NBNSYS0000019873
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ND13
+NM83
+NN02
+NN65
+NO04
+SR99
+ST45
+SX19
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Meromyza nigriventris
+Description=Checks date is within known flight period of Meromyza nigriventris
+ErrorMsg=Date is outside known flight period of Meromyza nigriventris
+Tvk=NBNSYS0000029952
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Synema globosum
+Description=Checks date is within known flight period of Synema globosum
+ErrorMsg=Date is outside known flight period of Synema globosum
+Tvk=NHMSYS0000354393
+DataFieldName=
+StartDate=0523
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Gnaphosa lugubris 10km
+Description=Check coordinate against known distribution of Gnaphosa lugubris
+ErrorMsg=Coordinate is outside known range for Gnaphosa lugubris
+DataFieldName=Species
+DataRecordId=NBNSYS0000008665
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SY88
+SY97
+TM44
+
+

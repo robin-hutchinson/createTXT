@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plecoptera Recording Scheme/PRS Flight Period
+ShortName=Protonemura praecox
+Description=Checks date is within known flight period of Protonemura praecox
+ErrorMsg=Date is outside known flight period of Protonemura praecox
+Tvk=NBNSYS0000022427
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phycitodes maritima
+Description=Checks date is within known flight period of Phycitodes maritima
+ErrorMsg=Date is outside known flight period of Phycitodes maritima
+Tvk=NHMSYS0000503748
+DataFieldName=
+StartDate=0501
+EndDate=0907
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Enoplognatha ovata sensu stricto
+Description=Checks date is within known flight period of Enoplognatha ovata sensu stricto
+ErrorMsg=Date is outside known flight period of Enoplognatha ovata sensu stricto
+Tvk=NBNSYS0200000027
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

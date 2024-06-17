@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Daphnis nerii
+Description=Checks date is within known flight period of Daphnis nerii
+ErrorMsg=Date is outside known flight period of Daphnis nerii
+Tvk=NBNSYS0000006073
+DataFieldName=
+StartDate=0821
+EndDate=1121
+LastChanged=20240617
+[EndMetadata]

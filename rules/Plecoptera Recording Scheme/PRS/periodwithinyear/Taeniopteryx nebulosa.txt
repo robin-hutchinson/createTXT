@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plecoptera Recording Scheme/PRS Flight Period
+ShortName=Taeniopteryx nebulosa
+Description=Checks date is within known flight period of Taeniopteryx nebulosa
+ErrorMsg=Date is outside known flight period of Taeniopteryx nebulosa
+Tvk=NBNSYS0000022416
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Sarcopyrenia cylindrospora 10km
+Description=Check coordinate against known distribution of Sarcopyrenia cylindrospora
+ErrorMsg=Coordinate is outside known range for Sarcopyrenia cylindrospora
+DataFieldName=Species
+DataRecordId=NBNSYS0000041628
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO22
+NO23
+NT58
+TL70
+TM25
+TM26
+TM35
+TM36
+
+

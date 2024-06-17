@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Elaphropus quadrisignatus
+Description=Checks date is within known recording period of Elaphropus quadrisignatus
+ErrorMsg=Date is outside known recording period of Elaphropus quadrisignatus
+Tvk=NHMSYS0001718034
+StartDate=
+EndDate=18871213
+LastChanged=20240617
+[EndMetadata]

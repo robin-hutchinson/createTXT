@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster cambricus 10km
+Description=Check coordinate against known distribution of Cotoneaster cambricus
+ErrorMsg=Coordinate is outside known range for Cotoneaster cambricus
+DataFieldName=Species
+DataRecordId=NHMSYS0000457567
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D04
+
+
+[10km_GB]
+SH78
+
+

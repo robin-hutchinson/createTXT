@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Amalosoma eddystonense 10km
+Description=Check coordinate against known distribution of Amalosoma eddystonense
+ErrorMsg=Coordinate is outside known range for Amalosoma eddystonense
+DataFieldName=Species
+DataRecordId=NBNSYS0000173699
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY20
+HY30
+NC13
+NC23
+NG53
+NG62
+NG72
+NG77
+NG80
+NG82
+NG88
+NG89
+NG92
+NG99
+NH09
+NM65
+NM66
+NM67
+NM68
+NM76
+NM78
+NM79
+NM89
+NR78
+NR96
+SD08
+SH31
+SN15
+
+

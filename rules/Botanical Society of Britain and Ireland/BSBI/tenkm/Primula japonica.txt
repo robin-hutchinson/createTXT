@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Primula japonica 10km
+Description=Check coordinate against known distribution of Primula japonica
+ErrorMsg=Coordinate is outside known range for Primula japonica
+DataFieldName=Species
+DataRecordId=NHMSYS0000462065
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+L76
+
+
+[10km_GB]
+NS55
+SN72
+SO36
+ST23
+ST30
+ST40
+ST60
+SU83
+SW63
+SW73
+SW84
+SY98
+SZ08
+TF93
+TQ04
+
+

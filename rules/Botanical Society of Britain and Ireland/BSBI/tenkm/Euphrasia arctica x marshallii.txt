@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia arctica x marshallii 10km
+Description=Check coordinate against known distribution of Euphrasia arctica x marshallii
+ErrorMsg=Coordinate is outside known range for Euphrasia arctica x marshallii
+DataFieldName=Species
+DataRecordId=NBNSYS0000014249
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC02
+NC96
+NG25
+NG26
+NG47
+
+

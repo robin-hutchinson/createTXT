@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Agonum (Agonum) gracilipes
+Description=Checks date is within known recording period of Agonum (Agonum) gracilipes
+ErrorMsg=Date is outside known recording period of Agonum (Agonum) gracilipes
+Tvk=NHMSYS0001716596
+StartDate=
+EndDate=19871213
+LastChanged=20240617
+[EndMetadata]

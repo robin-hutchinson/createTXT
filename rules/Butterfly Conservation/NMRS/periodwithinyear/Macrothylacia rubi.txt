@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Macrothylacia rubi
+Description=Checks date is within known flight period of Macrothylacia rubi
+ErrorMsg=Date is outside known flight period of Macrothylacia rubi
+Tvk=NBNSYS0000005710
+DataFieldName=
+StartDate=0415
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

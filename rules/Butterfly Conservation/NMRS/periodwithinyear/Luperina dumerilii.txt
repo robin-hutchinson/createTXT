@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Luperina dumerilii
+Description=Checks date is within known flight period of Luperina dumerilii
+ErrorMsg=Date is outside known flight period of Luperina dumerilii
+Tvk=NHMSYS0021144620
+DataFieldName=
+StartDate=0901
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

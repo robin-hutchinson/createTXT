@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Calathus (Calathus) cinctus
+Description=Checks date is within known recording period of Calathus (Calathus) cinctus
+ErrorMsg=Date is outside known recording period of Calathus (Calathus) cinctus
+Tvk=NHMSYS0001717446
+StartDate=19890101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

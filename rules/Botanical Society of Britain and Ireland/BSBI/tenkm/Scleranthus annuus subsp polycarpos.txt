@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Scleranthus annuus subsp. polycarpos 10km
+Description=Check coordinate against known distribution of Scleranthus annuus subsp. polycarpos
+ErrorMsg=Coordinate is outside known range for Scleranthus annuus subsp. polycarpos
+DataFieldName=Species
+DataRecordId=NBNSYS0000004589
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH78
+NO04
+NT63
+NX97
+NY98
+SD38
+SJ31
+SJ40
+SK50
+SO29
+SU93
+SU94
+SU97
+SW71
+TL66
+TL67
+TL77
+TL78
+TL79
+TL87
+TL88
+TM35
+TM47
+TQ04
+TQ05
+TQ36
+TQ57
+
+
+NA
+
+

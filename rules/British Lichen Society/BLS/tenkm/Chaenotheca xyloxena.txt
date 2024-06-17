@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Chaenotheca xyloxena 10km
+Description=Check coordinate against known distribution of Chaenotheca xyloxena
+ErrorMsg=Coordinate is outside known range for Chaenotheca xyloxena
+DataFieldName=Species
+DataRecordId=NBNSYS0000015554
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NG95
+NH33
+NH54
+NH69
+NH90
+NH91
+NJ01
+NM67
+NN42
+NN74
+NO39
+SU22
+
+

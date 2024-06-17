@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Eulia ministrana
+Description=Checks date is within known recording period of Eulia ministrana
+ErrorMsg=Date is outside known recording period of Eulia ministrana
+Tvk=NHMSYS0000502580
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

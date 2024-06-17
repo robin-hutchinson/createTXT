@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Helcystogramma rufescens
+Description=Checks date is within known recording period of Helcystogramma rufescens
+ErrorMsg=Date is outside known recording period of Helcystogramma rufescens
+Tvk=NBNSYS0100003380
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

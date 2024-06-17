@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Meromyza rufa
+Description=Checks date is within known recording period of Meromyza rufa
+ErrorMsg=Date is outside known recording period of Meromyza rufa
+Tvk=NBNSYS0000029957
+StartDate=19620101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

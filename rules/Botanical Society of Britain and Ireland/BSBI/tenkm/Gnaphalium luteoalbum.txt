@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gnaphalium luteoalbum 10km
+Description=Check coordinate against known distribution of Gnaphalium luteoalbum
+ErrorMsg=Coordinate is outside known range for Gnaphalium luteoalbum
+DataFieldName=Species
+DataRecordId=NBNSYS0000004412
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ16
+NM49
+NT27
+NT53
+SE13
+SE73
+SJ80
+SO81
+ST27
+ST57
+SU20
+SU50
+SU70
+SY99
+TF34
+TF84
+TF94
+TL45
+TL46
+TL77
+TL78
+TL98
+TL99
+TQ30
+TQ58
+TR01
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Matricaria aurea 10km
+Description=Check coordinate against known distribution of Matricaria aurea
+ErrorMsg=Coordinate is outside known range for Matricaria aurea
+DataFieldName=Species
+DataRecordId=NHMSYS0000460606
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+ST51
+
+

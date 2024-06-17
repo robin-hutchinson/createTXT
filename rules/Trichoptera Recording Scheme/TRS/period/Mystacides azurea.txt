@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Mystacides azurea
+Description=Checks date is within known recording period of Mystacides azurea
+ErrorMsg=Date is outside known recording period of Mystacides azurea
+Tvk=NBNSYS0000008525
+StartDate=18110101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hydropsyche pellucidula
+Description=Checks date is within known flight period of Hydropsyche pellucidula
+ErrorMsg=Date is outside known flight period of Hydropsyche pellucidula
+Tvk=NBNSYS0000008419
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

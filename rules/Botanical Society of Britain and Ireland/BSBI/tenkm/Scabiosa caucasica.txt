@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Scabiosa caucasica 10km
+Description=Check coordinate against known distribution of Scabiosa caucasica
+ErrorMsg=Coordinate is outside known range for Scabiosa caucasica
+DataFieldName=Species
+DataRecordId=NBNSYS0200003081
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP50
+
+

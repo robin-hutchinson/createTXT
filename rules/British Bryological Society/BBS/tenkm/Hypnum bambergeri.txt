@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Hypnum bambergeri 10km
+Description=Check coordinate against known distribution of Hypnum bambergeri
+ErrorMsg=Coordinate is outside known range for Hypnum bambergeri
+DataFieldName=Species
+DataRecordId=NBNSYS0000036940
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ10
+NN21
+NN32
+NN33
+NN34
+NN42
+NN43
+NN44
+NN47
+NN53
+NN54
+NN61
+NN63
+NN64
+NN65
+NN66
+NN67
+NN73
+NN87
+NN89
+NN97
+NO07
+NO08
+NO09
+NO17
+NO18
+NO27
+NO28
+NO37
+
+

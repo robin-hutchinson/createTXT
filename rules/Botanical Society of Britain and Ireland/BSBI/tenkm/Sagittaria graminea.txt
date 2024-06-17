@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sagittaria graminea 10km
+Description=Check coordinate against known distribution of Sagittaria graminea
+ErrorMsg=Coordinate is outside known range for Sagittaria graminea
+DataFieldName=Species
+DataRecordId=NHMSYS0000463060
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SX56
+
+
+[10km_Ireland]
+V93
+
+

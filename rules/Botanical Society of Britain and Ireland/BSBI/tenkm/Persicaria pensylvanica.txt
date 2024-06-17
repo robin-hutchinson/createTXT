@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Persicaria pensylvanica 10km
+Description=Check coordinate against known distribution of Persicaria pensylvanica
+ErrorMsg=Coordinate is outside known range for Persicaria pensylvanica
+DataFieldName=Species
+DataRecordId=NHMSYS0000461610
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH75
+SE63
+SJ76
+SN15
+ST57
+ST61
+SU30
+SU46
+TL13
+TQ07
+TQ08
+TQ09
+TQ18
+TQ23
+TQ28
+TQ57
+TQ58
+
+

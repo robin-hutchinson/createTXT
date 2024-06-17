@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Mythimna litoralis
+Description=Checks date is within known flight period of Mythimna litoralis
+ErrorMsg=Date is outside known flight period of Mythimna litoralis
+Tvk=NBNSYS0000006294
+DataFieldName=
+StartDate=0515
+EndDate=1015
+LastChanged=20240617
+[EndMetadata]

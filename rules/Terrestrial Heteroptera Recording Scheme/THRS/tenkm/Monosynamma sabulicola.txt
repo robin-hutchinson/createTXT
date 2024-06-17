@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Monosynamma sabulicola 10km
+Description=Check coordinate against known distribution of Monosynamma sabulicola
+ErrorMsg=Coordinate is outside known range for Monosynamma sabulicola
+DataFieldName=Species
+DataRecordId=NHMSYS0020309482
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD20
+SD31
+SH36
+SH46
+
+

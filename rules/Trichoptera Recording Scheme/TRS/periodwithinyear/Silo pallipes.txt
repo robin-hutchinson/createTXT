@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Silo pallipes
+Description=Checks date is within known flight period of Silo pallipes
+ErrorMsg=Date is outside known flight period of Silo pallipes
+Tvk=NHMSYS0020704837
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

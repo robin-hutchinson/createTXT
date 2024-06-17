@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Freesia x hybrida 10km
+Description=Check coordinate against known distribution of Freesia x hybrida
+ErrorMsg=Coordinate is outside known range for Freesia x hybrida
+DataFieldName=Species
+DataRecordId=NHMSYS0000458893
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS45
+SV81
+SV91
+
+
+NA
+
+

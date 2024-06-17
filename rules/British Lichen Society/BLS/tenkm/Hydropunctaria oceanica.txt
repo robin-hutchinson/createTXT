@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Hydropunctaria oceanica 10km
+Description=Check coordinate against known distribution of Hydropunctaria oceanica
+ErrorMsg=Coordinate is outside known range for Hydropunctaria oceanica
+DataFieldName=Species
+DataRecordId=NHMSYS0020990287
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC02
+NC03
+NC14
+NG81
+NG89
+NG99
+NH08
+NM67
+
+

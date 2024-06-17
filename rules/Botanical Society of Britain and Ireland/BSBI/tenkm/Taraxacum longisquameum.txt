@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum longisquameum 10km
+Description=Check coordinate against known distribution of Taraxacum longisquameum
+ErrorMsg=Coordinate is outside known range for Taraxacum longisquameum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464252
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H14
+
+
+[10km_GB]
+NH64
+NX55
+NX75
+NX86
+NZ52
+TL10
+TL77
+
+

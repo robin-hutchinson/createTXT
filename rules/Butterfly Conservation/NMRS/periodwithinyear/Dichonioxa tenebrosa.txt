@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Dichonioxa tenebrosa
+Description=Checks date is within known flight period of Dichonioxa tenebrosa
+ErrorMsg=Date is outside known flight period of Dichonioxa tenebrosa
+Tvk=NHMSYS0021144763
+DataFieldName=
+StartDate=0915
+EndDate=1031
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Florodelphax paryphasma 10km
+Description=Check coordinate against known distribution of Florodelphax paryphasma
+ErrorMsg=Coordinate is outside known range for Florodelphax paryphasma
+DataFieldName=Species
+DataRecordId=NHMSYS0020442341
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP62
+TF00
+TG12
+TG20
+TG30
+TG32
+TL44
+TL77
+TL98
+TQ27
+TR01
+
+

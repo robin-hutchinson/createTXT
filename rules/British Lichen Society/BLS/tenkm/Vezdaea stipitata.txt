@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Vezdaea stipitata 10km
+Description=Check coordinate against known distribution of Vezdaea stipitata
+ErrorMsg=Coordinate is outside known range for Vezdaea stipitata
+DataFieldName=Species
+DataRecordId=NHMSYS0001501751
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM54
+NR79
+
+

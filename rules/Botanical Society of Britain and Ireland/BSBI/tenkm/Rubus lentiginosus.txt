@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus lentiginosus 10km
+Description=Check coordinate against known distribution of Rubus lentiginosus
+ErrorMsg=Coordinate is outside known range for Rubus lentiginosus
+DataFieldName=Species
+DataRecordId=NHMSYS0000840971
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+H97
+
+
+[10km_GB]
+NX26
+SC39
+SH44
+SH45
+SH54
+SH55
+SH56
+SH57
+SH58
+SH66
+SH67
+SH75
+SH85
+SH87
+SJ08
+SJ25
+SJ35
+SJ36
+SJ37
+SJ42
+SJ43
+SJ53
+SJ55
+SU85
+SU86
+SW73
+TG02
+
+

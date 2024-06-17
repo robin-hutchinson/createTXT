@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Linum grandiflorum 10km
+Description=Check coordinate against known distribution of Linum grandiflorum
+ErrorMsg=Coordinate is outside known range for Linum grandiflorum
+DataFieldName=Species
+DataRecordId=NBNSYS0200002544
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SJ08
+TL02
+
+

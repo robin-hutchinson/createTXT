@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus angusticuspis 10km
+Description=Check coordinate against known distribution of Rubus angusticuspis
+ErrorMsg=Coordinate is outside known range for Rubus angusticuspis
+DataFieldName=Species
+DataRecordId=NHMSYS0000840886
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN24
+SN34
+SN80
+SN81
+SN83
+SN90
+SN93
+SO00
+SO05
+SO20
+SO22
+SO30
+SO31
+SO40
+SO41
+SO42
+SO43
+SO50
+SO51
+SO52
+SO59
+SO60
+SO61
+SO62
+SO72
+SO81
+ST07
+ST17
+ST18
+ST28
+ST29
+ST39
+ST49
+ST59
+ST65
+ST66
+SU03
+SV80
+SZ59
+SZ68
+SZ69
+
+

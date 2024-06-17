@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Iris unguicularis 10km
+Description=Check coordinate against known distribution of Iris unguicularis
+ErrorMsg=Coordinate is outside known range for Iris unguicularis
+DataFieldName=Species
+DataRecordId=NHMSYS0100001818
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC47
+SH78
+ST42
+SW83
+
+

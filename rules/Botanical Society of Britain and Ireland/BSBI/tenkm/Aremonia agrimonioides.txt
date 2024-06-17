@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Aremonia agrimonioides 10km
+Description=Check coordinate against known distribution of Aremonia agrimonioides
+ErrorMsg=Coordinate is outside known range for Aremonia agrimonioides
+DataFieldName=Species
+DataRecordId=NBNSYS0000003368
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NJ90
+NO02
+NO12
+NO22
+NO23
+NO35
+NR88
+NS31
+NS35
+NS57
+NT07
+NT17
+NT27
+NT29
+NT36
+NT53
+NT75
+NX16
+NX46
+NX97
+SE30
+SE32
+ST28
+TQ21
+TQ38
+TQ63
+
+

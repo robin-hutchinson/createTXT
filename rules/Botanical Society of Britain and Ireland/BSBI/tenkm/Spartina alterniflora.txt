@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Spartina alterniflora 10km
+Description=Check coordinate against known distribution of Spartina alterniflora
+ErrorMsg=Coordinate is outside known range for Spartina alterniflora
+DataFieldName=Species
+DataRecordId=NHMSYS0000463854
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH55
+NH56
+NH76
+NT27
+ST24
+SU31
+SU40
+SU41
+SU50
+SY98
+SZ79
+TL90
+
+

@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Berberis wilsoniae 10km
+Description=Check coordinate against known distribution of Berberis wilsoniae
+ErrorMsg=Coordinate is outside known range for Berberis wilsoniae
+DataFieldName=Species
+DataRecordId=NHMSYS0000456438
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NO30
+NT48
+SD74
+SE13
+SE34
+SH61
+SH71
+SH78
+SH97
+SJ91
+SK54
+SO98
+SP07
+SP08
+SP16
+SS43
+ST44
+SU58
+SU89
+SU94
+SW97
+SX46
+SY08
+SY18
+SY29
+SY88
+SZ57
+TF61
+TF80
+TF81
+TG23
+TL46
+TQ05
+TQ26
+TQ36
+TQ46
+TQ57
+
+
+[10km_Ireland]
+S86
+
+

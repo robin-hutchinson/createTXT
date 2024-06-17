@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Tsuga heterophylla
+Description=Checks date is within known recording period of Tsuga heterophylla
+ErrorMsg=Date is outside known recording period of Tsuga heterophylla
+Tvk=NBNSYS0000004672
+StartDate=19590101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

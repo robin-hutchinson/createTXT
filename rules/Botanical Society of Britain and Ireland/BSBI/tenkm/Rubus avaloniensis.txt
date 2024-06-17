@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus avaloniensis 10km
+Description=Check coordinate against known distribution of Rubus avaloniensis
+ErrorMsg=Coordinate is outside known range for Rubus avaloniensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462601
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SS74
+SS81
+SS83
+SS84
+SS90
+SS91
+SS92
+SS93
+SS94
+ST01
+ST02
+ST12
+ST13
+ST22
+ST23
+ST36
+ST43
+ST44
+ST45
+ST54
+ST55
+ST64
+ST65
+SU22
+SU56
+SU70
+SY08
+TQ35
+
+

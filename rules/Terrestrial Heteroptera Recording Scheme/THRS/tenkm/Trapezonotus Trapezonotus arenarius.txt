@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Trapezonotus (Trapezonotus) arenarius 10km
+Description=Check coordinate against known distribution of Trapezonotus (Trapezonotus) arenarius
+ErrorMsg=Coordinate is outside known range for Trapezonotus (Trapezonotus) arenarius
+DataFieldName=Species
+DataRecordId=NHMSYS0020309910
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN94
+NT22
+SD09
+SD20
+SE91
+SH32
+SH36
+SJ48
+SN10
+SO04
+SR89
+SR99
+SS43
+SU84
+SW32
+SW43
+SW44
+SX97
+SY98
+TF49
+TF74
+TF84
+TG51
+TL03
+TL77
+TL78
+TM45
+TM47
+TQ01
+TQ55
+TR01
+TR36
+
+

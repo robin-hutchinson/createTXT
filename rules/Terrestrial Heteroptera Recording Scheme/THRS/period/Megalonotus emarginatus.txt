@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Megalonotus emarginatus
+Description=Checks date is within known recording period of Megalonotus emarginatus
+ErrorMsg=Date is outside known recording period of Megalonotus emarginatus
+Tvk=NHMSYS0020309434
+StartDate=19920101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

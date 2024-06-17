@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Gelechiid Recording Scheme/GRS Recording Period
+ShortName=Anarsia lineatella
+Description=Checks date is within known recording period of Anarsia lineatella
+ErrorMsg=Date is outside known recording period of Anarsia lineatella
+Tvk=NHMSYS0000501234
+StartDate=19570101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

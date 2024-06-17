@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Peucedanum officinale 10km
+Description=Check coordinate against known distribution of Peucedanum officinale
+ErrorMsg=Coordinate is outside known range for Peucedanum officinale
+DataFieldName=Species
+DataRecordId=NBNSYS0000003706
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+TM11
+TM12
+TM21
+TM22
+TM23
+TM47
+TQ20
+TR06
+TR16
+TR26
+
+

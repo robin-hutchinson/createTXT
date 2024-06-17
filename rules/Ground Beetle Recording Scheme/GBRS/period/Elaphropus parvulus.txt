@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Elaphropus parvulus
+Description=Checks date is within known recording period of Elaphropus parvulus
+ErrorMsg=Date is outside known recording period of Elaphropus parvulus
+Tvk=NHMSYS0001718033
+StartDate=19130101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

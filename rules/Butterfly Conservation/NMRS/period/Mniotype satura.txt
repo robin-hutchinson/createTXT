@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Mniotype satura
+Description=Checks date is within known recording period of Mniotype satura
+ErrorMsg=Date is outside known recording period of Mniotype satura
+Tvk=NHMSYS0021144779
+StartDate=18910101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

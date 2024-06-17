@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Luscinia megarhynchos
+Description=Checks date is within known flight period of Luscinia megarhynchos
+ErrorMsg=Date is outside known flight period of Luscinia megarhynchos
+Tvk=NHMSYS0000530464
+DataFieldName=
+StartDate=0405
+EndDate=0901
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Orgyia antiqua
+Description=Checks date is within known flight period of Orgyia antiqua
+ErrorMsg=Date is outside known flight period of Orgyia antiqua
+Tvk=NBNSYS0000006112
+DataFieldName=
+StartDate=0601
+EndDate=1115
+LastChanged=20240617
+[EndMetadata]

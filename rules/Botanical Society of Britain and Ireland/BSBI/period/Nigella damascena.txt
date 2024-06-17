@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Nigella damascena
+Description=Checks date is within known recording period of Nigella damascena
+ErrorMsg=Date is outside known recording period of Nigella damascena
+Tvk=NBNSYS0000033576
+StartDate=18320101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

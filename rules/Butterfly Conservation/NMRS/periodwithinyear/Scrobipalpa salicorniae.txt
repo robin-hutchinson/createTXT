@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Scrobipalpa salicorniae
+Description=Checks date is within known flight period of Scrobipalpa salicorniae
+ErrorMsg=Date is outside known flight period of Scrobipalpa salicorniae
+Tvk=NHMSYS0021142751
+DataFieldName=
+StartDate=0601
+EndDate=0915
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trifolium strictum 10km
+Description=Check coordinate against known distribution of Trifolium strictum
+ErrorMsg=Coordinate is outside known range for Trifolium strictum
+DataFieldName=Species
+DataRecordId=NBNSYS0000003243
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT27
+SC28
+SD33
+SE32
+SH37
+SO25
+SU41
+SW61
+SW71
+TA30
+TQ20
+
+
+NA
+
+

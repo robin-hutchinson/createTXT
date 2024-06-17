@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia rostkoviana x arctica 10km
+Description=Check coordinate against known distribution of Euphrasia rostkoviana x arctica
+ErrorMsg=Coordinate is outside known range for Euphrasia rostkoviana x arctica
+DataFieldName=Species
+DataRecordId=NBNSYS0100003130
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NN55
+SD19
+SN81
+SN82
+SN91
+SN94
+
+
+[10km_Ireland]
+O02
+
+

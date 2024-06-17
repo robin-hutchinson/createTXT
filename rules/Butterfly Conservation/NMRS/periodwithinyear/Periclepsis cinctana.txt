@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Periclepsis cinctana
+Description=Checks date is within known flight period of Periclepsis cinctana
+ErrorMsg=Date is outside known flight period of Periclepsis cinctana
+Tvk=NHMSYS0021142992
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240617
+[EndMetadata]

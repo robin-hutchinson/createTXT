@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Scolopostethus pictus 10km
+Description=Check coordinate against known distribution of Scolopostethus pictus
+ErrorMsg=Coordinate is outside known range for Scolopostethus pictus
+DataFieldName=Species
+DataRecordId=NHMSYS0020309811
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO83
+SO85
+TL11
+TL21
+TL22
+TL42
+TQ30
+TQ60
+
+

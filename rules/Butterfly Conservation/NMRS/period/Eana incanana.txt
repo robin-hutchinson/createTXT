@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Eana incanana
+Description=Checks date is within known recording period of Eana incanana
+ErrorMsg=Date is outside known recording period of Eana incanana
+Tvk=NHMSYS0000502246
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

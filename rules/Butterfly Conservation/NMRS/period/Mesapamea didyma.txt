@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Mesapamea didyma
+Description=Checks date is within known recording period of Mesapamea didyma
+ErrorMsg=Date is outside known recording period of Mesapamea didyma
+Tvk=NBNSYS0000006443
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

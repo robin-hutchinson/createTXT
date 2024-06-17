@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Pelecopsis nemoralioides 10km
+Description=Check coordinate against known distribution of Pelecopsis nemoralioides
+ErrorMsg=Coordinate is outside known range for Pelecopsis nemoralioides
+DataFieldName=Species
+DataRecordId=NBNSYS0000009038
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HY32
+NS15
+NT28
+NT47
+NT58
+NT68
+SD20
+SD31
+SD33
+SH46
+SH52
+SJ08
+SJ18
+SJ29
+SM50
+SM70
+SM72
+SM81
+SN69
+SR99
+SS87
+ST81
+SX84
+SY58
+SY68
+TF74
+TG04
+TM00
+TM01
+TM11
+TM22
+TM34
+TM46
+TQ00
+TQ66
+TQ96
+TQ98
+TR02
+TR06
+TR35
+TR36
+
+

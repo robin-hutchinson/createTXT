@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hyacinthoides italica 10km
+Description=Check coordinate against known distribution of Hyacinthoides italica
+ErrorMsg=Coordinate is outside known range for Hyacinthoides italica
+DataFieldName=Species
+DataRecordId=NHMSYS0000345354
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NS33
+NT96
+SO62
+SO97
+ST57
+SU48
+SY58
+SY78
+
+

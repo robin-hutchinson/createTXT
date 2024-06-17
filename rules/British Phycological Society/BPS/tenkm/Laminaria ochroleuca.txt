@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Laminaria ochroleuca 10km
+Description=Check coordinate against known distribution of Laminaria ochroleuca
+ErrorMsg=Coordinate is outside known range for Laminaria ochroleuca
+DataFieldName=Species
+DataRecordId=NHMSYS0000377585
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+HU33
+SS14
+SV80
+SV81
+SV90
+SV91
+SW33
+SW42
+SW61
+SW71
+SW72
+SW81
+SW82
+SW83
+SW93
+SX44
+SX45
+SX73
+SX74
+SY87
+SZ47
+
+

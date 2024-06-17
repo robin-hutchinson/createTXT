@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Singa hamata 10km
+Description=Check coordinate against known distribution of Singa hamata
+ErrorMsg=Coordinate is outside known range for Singa hamata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008960
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NC50
+NH59
+NH69
+NY25
+NY60
+SD28
+SD38
+SD48
+SE65
+SJ43
+SN66
+SN76
+SS98
+ST91
+SU30
+TL18
+TQ69
+TQ78
+TQ79
+TQ88
+TQ89
+TQ99
+
+

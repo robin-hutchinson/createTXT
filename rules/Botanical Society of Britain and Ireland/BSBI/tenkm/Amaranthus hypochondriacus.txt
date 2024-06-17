@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Amaranthus hypochondriacus 10km
+Description=Check coordinate against known distribution of Amaranthus hypochondriacus
+ErrorMsg=Coordinate is outside known range for Amaranthus hypochondriacus
+DataFieldName=Species
+DataRecordId=NBNSYS0000141566
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SN40
+SW76
+SW83
+SX05
+
+

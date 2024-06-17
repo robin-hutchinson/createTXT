@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Sideridis reticulata marginosa
+Description=Checks date is within known recording period of Sideridis reticulata marginosa
+ErrorMsg=Date is outside known recording period of Sideridis reticulata marginosa
+Tvk=NHMSYS0021144836
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

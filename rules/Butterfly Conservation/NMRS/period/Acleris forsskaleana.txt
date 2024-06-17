@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Acleris forsskaleana
+Description=Checks date is within known recording period of Acleris forsskaleana
+ErrorMsg=Date is outside known recording period of Acleris forsskaleana
+Tvk=NBNSYS0100001406
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

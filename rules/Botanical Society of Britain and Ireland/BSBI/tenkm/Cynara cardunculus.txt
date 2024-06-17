@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cynara cardunculus 10km
+Description=Check coordinate against known distribution of Cynara cardunculus
+ErrorMsg=Coordinate is outside known range for Cynara cardunculus
+DataFieldName=Species
+DataRecordId=NBNSYS0000033500
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM80
+SC27
+SJ29
+ST02
+ST67
+SU28
+SU76
+SU77
+SU87
+SX36
+TG20
+TL04
+TL24
+TL46
+TM01
+TM11
+TM13
+TM33
+TQ28
+TQ38
+TQ56
+TQ65
+TQ67
+TQ88
+TQ98
+
+

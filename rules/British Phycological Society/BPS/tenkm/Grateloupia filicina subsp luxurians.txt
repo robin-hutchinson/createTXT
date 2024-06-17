@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Grateloupia filicina subsp. luxurians 10km
+Description=Check coordinate against known distribution of Grateloupia filicina subsp. luxurians
+ErrorMsg=Coordinate is outside known range for Grateloupia filicina subsp. luxurians
+DataFieldName=Species
+DataRecordId=NHMSYS0000377578
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SZ68
+
+

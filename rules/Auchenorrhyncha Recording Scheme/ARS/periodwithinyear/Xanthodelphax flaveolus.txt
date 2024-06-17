@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Xanthodelphax flaveolus
+Description=Checks date is within known flight period of Xanthodelphax flaveolus
+ErrorMsg=Date is outside known flight period of Xanthodelphax flaveolus
+Tvk=NHMSYS0020442475
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Nabis (Nabis) pseudoferus
+Description=Checks date is within known recording period of Nabis (Nabis) pseudoferus
+ErrorMsg=Date is outside known recording period of Nabis (Nabis) pseudoferus
+Tvk=NHMSYS0020309506
+StartDate=19560101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

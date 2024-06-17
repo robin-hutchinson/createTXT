@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Arthroplea congener
+Description=Checks date is within known flight period of Arthroplea congener
+ErrorMsg=Date is outside known flight period of Arthroplea congener
+Tvk=NBNSYS0000010877
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Eupteryx heydenii 10km
+Description=Check coordinate against known distribution of Eupteryx heydenii
+ErrorMsg=Coordinate is outside known range for Eupteryx heydenii
+DataFieldName=Species
+DataRecordId=NBNSYS0000010643
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SE24
+SU78
+TG20
+TL14
+TL18
+TQ05
+
+

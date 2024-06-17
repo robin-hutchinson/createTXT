@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Monomorium pharaonis
+Description=Checks date is within known flight period of Monomorium pharaonis
+ErrorMsg=Date is outside known flight period of Monomorium pharaonis
+Tvk=NHMSYS0000876350
+DataFieldName=
+StartDate=0101
+EndDate=1130
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Dismodicus bifrons
+Description=Checks date is within known flight period of Dismodicus bifrons
+ErrorMsg=Date is outside known flight period of Dismodicus bifrons
+Tvk=NBNSYS0000009005
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240617
+[EndMetadata]

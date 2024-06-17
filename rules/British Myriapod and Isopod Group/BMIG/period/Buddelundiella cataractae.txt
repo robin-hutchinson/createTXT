@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Buddelundiella cataractae
+Description=Checks date is within known recording period of Buddelundiella cataractae
+ErrorMsg=Date is outside known recording period of Buddelundiella cataractae
+Tvk=NBNSYS0000008545
+StartDate=19810101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

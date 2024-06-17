@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium severiceps 10km
+Description=Check coordinate against known distribution of Hieracium severiceps
+ErrorMsg=Coordinate is outside known range for Hieracium severiceps
+DataFieldName=Species
+DataRecordId=NHMSYS0000840885
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH56
+NN05
+NS37
+NT28
+NU12
+NY01
+NY96
+NZ33
+SD47
+SD78
+SJ77
+SK17
+SN82
+SO81
+SP97
+TQ62
+TQ63
+
+

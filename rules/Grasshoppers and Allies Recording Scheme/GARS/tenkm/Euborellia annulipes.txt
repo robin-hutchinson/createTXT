@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Grasshoppers and Allies Recording Scheme/GARS 10km distribution
+ShortName=Euborellia annulipes 10km
+Description=Check coordinate against known distribution of Euborellia annulipes
+ErrorMsg=Coordinate is outside known range for Euborellia annulipes
+DataFieldName=Species
+DataRecordId=NHMSYS0001387304
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO98
+ST04
+SX05
+TQ78
+
+

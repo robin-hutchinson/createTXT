@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Legousia speculum-veneris 10km
+Description=Check coordinate against known distribution of Legousia speculum-veneris
+ErrorMsg=Coordinate is outside known range for Legousia speculum-veneris
+DataFieldName=Species
+DataRecordId=NHMSYS0100001924
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NT27
+SE32
+SP43
+SU42
+SU43
+SU55
+SU94
+TL02
+TL12
+TL66
+
+

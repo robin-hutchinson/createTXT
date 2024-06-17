@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium subplanifolium 10km
+Description=Check coordinate against known distribution of Hieracium subplanifolium
+ErrorMsg=Coordinate is outside known range for Hieracium subplanifolium
+DataFieldName=Species
+DataRecordId=NHMSYS0000840747
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+D22
+
+
+[10km_GB]
+NR62
+NR78
+NR87
+NS84
+NU21
+NU22
+NX85
+SD47
+SK07
+SK15
+SK17
+SO51
+SO81
+ST59
+
+

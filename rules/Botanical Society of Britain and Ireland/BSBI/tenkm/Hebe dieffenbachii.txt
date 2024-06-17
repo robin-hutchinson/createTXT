@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hebe dieffenbachii 10km
+Description=Check coordinate against known distribution of Hebe dieffenbachii
+ErrorMsg=Coordinate is outside known range for Hebe dieffenbachii
+DataFieldName=Species
+DataRecordId=NHMSYS0000345305
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+B83
+F61
+
+
+[10km_GB]
+SP08
+SV91
+SW54
+SY67
+SY98
+SZ09
+
+

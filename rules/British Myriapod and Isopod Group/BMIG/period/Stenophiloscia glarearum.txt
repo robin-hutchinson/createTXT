@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Stenophiloscia glarearum
+Description=Checks date is within known recording period of Stenophiloscia glarearum
+ErrorMsg=Date is outside known recording period of Stenophiloscia glarearum
+Tvk=NHMSYS0020302572
+StartDate=19740301
+EndDate=
+LastChanged=20240617
+[EndMetadata]

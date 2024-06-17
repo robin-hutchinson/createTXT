@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Lithophyllum nitorum 10km
+Description=Check coordinate against known distribution of Lithophyllum nitorum
+ErrorMsg=Coordinate is outside known range for Lithophyllum nitorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000567995
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SC27
+SM80
+SW72
+
+

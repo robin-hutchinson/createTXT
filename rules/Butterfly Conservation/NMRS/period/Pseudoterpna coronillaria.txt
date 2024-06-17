@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pseudoterpna coronillaria
+Description=Checks date is within known recording period of Pseudoterpna coronillaria
+ErrorMsg=Date is outside known recording period of Pseudoterpna coronillaria
+Tvk=NHMSYS0021144312
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

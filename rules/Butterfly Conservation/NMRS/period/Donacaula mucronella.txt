@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Donacaula mucronella
+Description=Checks date is within known recording period of Donacaula mucronella
+ErrorMsg=Date is outside known recording period of Donacaula mucronella
+Tvk=NHMSYS0021143786
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

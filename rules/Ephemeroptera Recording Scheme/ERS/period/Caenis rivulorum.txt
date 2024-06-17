@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ephemeroptera Recording Scheme/ERS Recording Period
+ShortName=Caenis rivulorum
+Description=Checks date is within known recording period of Caenis rivulorum
+ErrorMsg=Date is outside known recording period of Caenis rivulorum
+Tvk=NBNSYS0000010904
+StartDate=18840101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

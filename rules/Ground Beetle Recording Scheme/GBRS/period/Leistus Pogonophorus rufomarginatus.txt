@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Leistus (Pogonophorus) rufomarginatus
+Description=Checks date is within known recording period of Leistus (Pogonophorus) rufomarginatus
+ErrorMsg=Date is outside known recording period of Leistus (Pogonophorus) rufomarginatus
+Tvk=NHMSYS0001718801
+StartDate=19420101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

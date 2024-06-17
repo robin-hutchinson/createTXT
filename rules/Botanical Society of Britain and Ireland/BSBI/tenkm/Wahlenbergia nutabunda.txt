@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Wahlenbergia nutabunda 10km
+Description=Check coordinate against known distribution of Wahlenbergia nutabunda
+ErrorMsg=Coordinate is outside known range for Wahlenbergia nutabunda
+DataFieldName=Species
+DataRecordId=NBNSYS0200003830
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NM39
+
+

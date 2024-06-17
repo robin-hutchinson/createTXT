@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Alcea rosea
+Description=Checks date is within known recording period of Alcea rosea
+ErrorMsg=Date is outside known recording period of Alcea rosea
+Tvk=NBNSYS0000003141
+StartDate=19050101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

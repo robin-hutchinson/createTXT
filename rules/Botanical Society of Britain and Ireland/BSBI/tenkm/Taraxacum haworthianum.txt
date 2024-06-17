@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum haworthianum 10km
+Description=Check coordinate against known distribution of Taraxacum haworthianum
+ErrorMsg=Coordinate is outside known range for Taraxacum haworthianum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464225
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NF76
+NG09
+NG33
+NX54
+NX55
+NX64
+
+

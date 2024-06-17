@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cortaderia richardii 10km
+Description=Check coordinate against known distribution of Cortaderia richardii
+ErrorMsg=Coordinate is outside known range for Cortaderia richardii
+DataFieldName=Species
+DataRecordId=NHMSYS0100001080
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+NH94
+NJ05
+NJ24
+NJ25
+NJ35
+NJ36
+NS24
+NS28
+NS38
+NT53
+SC16
+SC26
+SC37
+SC47
+SC48
+SC49
+SN45
+SN57
+SN68
+SN69
+SY39
+SY68
+SY99
+SZ09
+
+

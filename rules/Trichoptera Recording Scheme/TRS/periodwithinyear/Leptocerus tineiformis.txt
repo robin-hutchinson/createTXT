@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Leptocerus tineiformis
+Description=Checks date is within known flight period of Leptocerus tineiformis
+ErrorMsg=Date is outside known flight period of Leptocerus tineiformis
+Tvk=NBNSYS0000008524
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240617
+[EndMetadata]

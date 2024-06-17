@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Bembidion (Nepha) callosum
+Description=Checks date is within known recording period of Bembidion (Nepha) callosum
+ErrorMsg=Date is outside known recording period of Bembidion (Nepha) callosum
+Tvk=NBNSYS0100001948
+StartDate=
+EndDate=18511213
+LastChanged=20240617
+[EndMetadata]

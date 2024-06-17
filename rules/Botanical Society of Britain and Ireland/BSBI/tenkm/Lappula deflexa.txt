@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lappula deflexa 10km
+Description=Check coordinate against known distribution of Lappula deflexa
+ErrorMsg=Coordinate is outside known range for Lappula deflexa
+DataFieldName=Species
+DataRecordId=NBNSYS0200002436
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SO83
+
+

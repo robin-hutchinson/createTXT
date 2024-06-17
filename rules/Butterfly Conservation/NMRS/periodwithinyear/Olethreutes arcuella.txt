@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Olethreutes arcuella
+Description=Checks date is within known flight period of Olethreutes arcuella
+ErrorMsg=Date is outside known flight period of Olethreutes arcuella
+Tvk=NHMSYS0000503471
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

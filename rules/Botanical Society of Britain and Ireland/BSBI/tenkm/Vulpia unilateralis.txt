@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Vulpia unilateralis 10km
+Description=Check coordinate against known distribution of Vulpia unilateralis
+ErrorMsg=Coordinate is outside known range for Vulpia unilateralis
+DataFieldName=Species
+DataRecordId=NBNSYS0000002543
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SK14
+SK90
+SK91
+SK92
+SK95
+SO73
+SO80
+SO90
+SP02
+SP12
+SP33
+SP90
+ST22
+ST42
+ST57
+SU42
+SU49
+SU53
+SU54
+SU58
+SU79
+TF01
+TL05
+TL88
+TL89
+TL98
+TM03
+TM15
+TQ08
+TQ25
+TQ36
+TQ57
+TQ65
+TQ66
+TQ75
+TQ76
+TQ85
+TR02
+TR04
+
+

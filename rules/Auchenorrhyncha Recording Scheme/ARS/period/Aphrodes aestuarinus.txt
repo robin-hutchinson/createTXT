@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Aphrodes aestuarinus
+Description=Checks date is within known recording period of Aphrodes aestuarinus
+ErrorMsg=Date is outside known recording period of Aphrodes aestuarinus
+Tvk=NHMSYS0020442289
+StartDate=19500101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

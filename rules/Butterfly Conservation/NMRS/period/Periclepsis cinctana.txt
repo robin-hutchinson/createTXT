@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Periclepsis cinctana
+Description=Checks date is within known recording period of Periclepsis cinctana
+ErrorMsg=Date is outside known recording period of Periclepsis cinctana
+Tvk=NHMSYS0021142992
+StartDate=17000101
+EndDate=
+LastChanged=20240617
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Ortholomus punctipennis 10km
+Description=Check coordinate against known distribution of Ortholomus punctipennis
+ErrorMsg=Coordinate is outside known range for Ortholomus punctipennis
+DataFieldName=Species
+DataRecordId=NHMSYS0020309573
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SD09
+SE91
+SK66
+TL77
+
+

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pistia stratiotes 10km
+Description=Check coordinate against known distribution of Pistia stratiotes
+ErrorMsg=Coordinate is outside known range for Pistia stratiotes
+DataFieldName=Species
+DataRecordId=NBNSYS0200002892
+LastChanged=20240617
+[EndMetadata]
+
+[10km_GB]
+SP73
+SU59
+SU85
+SU94
+TQ05
+TQ06
+TQ38
+TQ39
+
+

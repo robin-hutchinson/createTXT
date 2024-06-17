@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Tethea or scotica
+Description=Checks date is within known flight period of Tethea or scotica
+ErrorMsg=Date is outside known flight period of Tethea or scotica
+Tvk=NHMSYS0021143795
+DataFieldName=
+StartDate=0415
+EndDate=0831
+LastChanged=20240617
+[EndMetadata]

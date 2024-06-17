@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pilosella caespitosa x lactucella = P. x floribunda 10km
+Description=Check coordinate against known distribution of Pilosella caespitosa x lactucella = P. x floribunda
+ErrorMsg=Coordinate is outside known range for Pilosella caespitosa x lactucella = P. x floribunda
+DataFieldName=Species
+DataRecordId=NBNSYS0000161795
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+J37
+J38
+
+
+[10km_GB]
+SU30
+
+

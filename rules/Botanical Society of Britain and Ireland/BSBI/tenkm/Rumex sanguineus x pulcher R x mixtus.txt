@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex sanguineus x pulcher = R. x mixtus 10km
+Description=Check coordinate against known distribution of Rumex sanguineus x pulcher = R. x mixtus
+ErrorMsg=Coordinate is outside known range for Rumex sanguineus x pulcher = R. x mixtus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754599
+LastChanged=20240617
+[EndMetadata]
+
+[10km_Ireland]
+S70
+S71
+W66
+
+
+[10km_GB]
+SP04
+SP21
+SS84
+SS94
+ST04
+ST33
+ST35
+ST42
+ST43
+ST65
+SU22
+SW53
+SW74
+SW83
+SW84
+SW94
+SX04
+SZ38
+SZ48
+TL23
+TL45
+TQ57
+
+
