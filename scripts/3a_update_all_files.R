@@ -40,14 +40,10 @@ for(i in 1:length(schemes)) {
   file_path <-  paste("rules/", names(schemes[i]), sep = "")
   file_list<-list.files(path = file_path, recursive = TRUE, include.dirs = FALSE)
 
-  for(j in 1:length(file_list)) {
+  mainwd <- getwd()
+  setwd(file_path)
+  
+  zip(paste(mainwd, "/", "rules_zipped/", names(schemes[i]), ".zip", sep = ""), files = file_list)
 
-  file_list[j] <- paste(file_path, file_list[j], sep = "/")
-
-  }
-  
-    
-  
-  zip(paste("rules/", names(schemes[i]), ".zip", sep = ""), files = file_list)
-  
+  setwd(mainwd)
 }
