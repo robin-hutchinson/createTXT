@@ -37,6 +37,7 @@ for(i in 1:length(schemes)) {
     
   }
 
-  zip(names(schemes[i]), files = paste("rules_as_csv/", names(schemes[i]), sep = ""))
+  file_list<-list.files(files = paste("rules/", names(schemes[i]), sep = ""))
+  zip(paste(names(schemes[i]), ".zip", sep = ""), files = file_list)
   
 }
