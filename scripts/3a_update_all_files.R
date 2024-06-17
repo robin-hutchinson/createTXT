@@ -37,9 +37,17 @@ for(i in 1:length(schemes)) {
     
   }
 
-  file_list<-list.files(recursive = TRUE, include.dirs = FALSE)
-print(file_list)
+  file_path <-  paste("rules/", names(schemes[i]), sep = "")
+  file_list<-list.files(path = file_path, recursive = TRUE, include.dirs = FALSE)
+
+  for(j in 1:length(file_list)) {
+
+  file_list[j] <- paste(file_path, file_list[j], sep = "/")
+
+  }
   
-  zip(paste(names(schemes[i]), ".zip", sep = ""), files = file_list)
+    
+  
+  zip(paste("rules/", names(schemes[i]), ".zip", sep = ""), files = file_list)
   
 }
