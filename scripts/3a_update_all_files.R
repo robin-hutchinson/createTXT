@@ -43,7 +43,7 @@ for(i in 1:length(schemes)) {
   mainwd <- getwd()
   setwd(file_path)
   
-  zip(paste(mainwd, "/", "rules_zipped/", gsub("/", " - ", names(schemes[i])), ".zip", sep = ""), files = file_list)
+  zip(paste(mainwd, "/", "rules_as_txt/", gsub("/", " - ", names(schemes[i])), ".zip", sep = ""), files = file_list)
 
   setwd(mainwd)
 }

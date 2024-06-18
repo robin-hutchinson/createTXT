@@ -53,6 +53,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add rules_zipped/\*
+          git add rules_as_txt/\*
           git commit -am 'Text file zips added or updated' || echo "No changes to commit"
           git push origin main || echo "No changes to commit"
