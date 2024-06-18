@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Autographa bractea
 ErrorMsg=Coordinate is outside known range for Autographa bractea
 DataFieldName=Species
 DataRecordId=NHMSYS0021144477
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

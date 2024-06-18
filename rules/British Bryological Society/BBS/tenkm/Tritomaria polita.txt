@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tritomaria polita
 ErrorMsg=Coordinate is outside known range for Tritomaria polita
 DataFieldName=Species
 DataRecordId=NBNSYS0000035873
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

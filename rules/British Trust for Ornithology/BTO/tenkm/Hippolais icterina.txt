@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hippolais icterina
 ErrorMsg=Coordinate is outside known range for Hippolais icterina
 DataFieldName=Species
 DataRecordId=NHMSYS0000530396
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

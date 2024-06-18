@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Prosopodesmus panporu
 ErrorMsg=Coordinate is outside known range for Prosopodesmus panporus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011366
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

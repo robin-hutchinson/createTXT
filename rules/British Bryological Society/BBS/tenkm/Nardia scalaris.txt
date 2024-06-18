@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nardia scalaris
 ErrorMsg=Coordinate is outside known range for Nardia scalaris
 DataFieldName=Species
 DataRecordId=NHMSYS0000310228
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

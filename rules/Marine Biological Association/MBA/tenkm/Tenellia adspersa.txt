@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tenellia adspersa
 ErrorMsg=Coordinate is outside known range for Tenellia adspersa
 DataFieldName=Species
 DataRecordId=NBNSYS0000022326
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

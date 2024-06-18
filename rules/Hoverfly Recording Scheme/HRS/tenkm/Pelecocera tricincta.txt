@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pelecocera tricincta
 ErrorMsg=Coordinate is outside known range for Pelecocera tricincta
 DataFieldName=Species
 DataRecordId=NBNSYS0000007073
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

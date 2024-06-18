@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Haematomma sorediatum
 ErrorMsg=Coordinate is outside known range for Haematomma sorediatum
 DataFieldName=Species
 DataRecordId=BMSSYS0000007601
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

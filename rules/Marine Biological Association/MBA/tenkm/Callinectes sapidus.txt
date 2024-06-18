@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Callinectes sapidus
 ErrorMsg=Coordinate is outside known range for Callinectes sapidus
 DataFieldName=Species
 DataRecordId=NBNSYS0000180030
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Maja brachydactyla
 ErrorMsg=Coordinate is outside known range for Maja brachydactyla
 DataFieldName=Species
 DataRecordId=NHMSYS0020475548
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

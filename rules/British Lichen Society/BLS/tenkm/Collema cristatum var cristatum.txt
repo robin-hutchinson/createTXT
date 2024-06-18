@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Collema cristatum var
 ErrorMsg=Coordinate is outside known range for Collema cristatum var. cristatum
 DataFieldName=Species
 DataRecordId=NBNSYS0000039619
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

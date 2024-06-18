@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hyperphyscia adglutin
 ErrorMsg=Coordinate is outside known range for Hyperphyscia adglutinata
 DataFieldName=Species
 DataRecordId=NHMSYS0001484847
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

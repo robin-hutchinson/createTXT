@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ebalia tuberosa
 ErrorMsg=Coordinate is outside known range for Ebalia tuberosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000175056
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

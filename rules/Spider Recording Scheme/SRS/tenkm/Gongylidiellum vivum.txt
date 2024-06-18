@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gongylidiellum vivum
 ErrorMsg=Coordinate is outside known range for Gongylidiellum vivum
 DataFieldName=Species
 DataRecordId=NBNSYS0000009073
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

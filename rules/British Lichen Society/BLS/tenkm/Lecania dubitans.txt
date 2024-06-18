@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecania dubitans
 ErrorMsg=Coordinate is outside known range for Lecania dubitans
 DataFieldName=Species
 DataRecordId=NBNSYS0000018553
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

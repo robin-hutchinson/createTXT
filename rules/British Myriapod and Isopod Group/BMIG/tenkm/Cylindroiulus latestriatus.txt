@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cylindroiulus latestr
 ErrorMsg=Coordinate is outside known range for Cylindroiulus latestriatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011393
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

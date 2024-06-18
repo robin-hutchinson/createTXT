@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Menegazzia terebrata
 ErrorMsg=Coordinate is outside known range for Menegazzia terebrata
 DataFieldName=Species
 DataRecordId=NBNSYS0000018808
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

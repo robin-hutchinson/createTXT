@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cecidonia umbonella
 ErrorMsg=Coordinate is outside known range for Cecidonia umbonella
 DataFieldName=Species
 DataRecordId=NBNSYS0000018733
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

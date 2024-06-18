@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polymixis lichenea
 ErrorMsg=Coordinate is outside known range for Polymixis lichenea
 DataFieldName=Species
 DataRecordId=NHMSYS0000520013
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

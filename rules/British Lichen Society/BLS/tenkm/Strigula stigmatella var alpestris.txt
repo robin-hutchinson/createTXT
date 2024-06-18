@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Strigula stigmatella 
 ErrorMsg=Coordinate is outside known range for Strigula stigmatella var. alpestris
 DataFieldName=Species
 DataRecordId=NHMSYS0001499162
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

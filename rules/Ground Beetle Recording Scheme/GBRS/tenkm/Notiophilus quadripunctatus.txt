@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Notiophilus quadripun
 ErrorMsg=Coordinate is outside known range for Notiophilus quadripunctatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007163
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

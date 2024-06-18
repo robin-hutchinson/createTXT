@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Isogenus nubecula
 Tvk=NBNSYS0000022438
 StartDate=
 EndDate=19951231
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

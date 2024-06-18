@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Seligeria pusilla
 ErrorMsg=Coordinate is outside known range for Seligeria pusilla
 DataFieldName=Species
 DataRecordId=NHMSYS0000310628
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthoria parietina
 ErrorMsg=Coordinate is outside known range for Xanthoria parietina
 DataFieldName=Species
 DataRecordId=NHMSYS0001501925
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

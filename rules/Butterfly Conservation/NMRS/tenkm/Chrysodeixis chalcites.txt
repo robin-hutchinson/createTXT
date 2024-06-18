@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chrysodeixis chalcite
 ErrorMsg=Coordinate is outside known range for Chrysodeixis chalcites
 DataFieldName=Species
 DataRecordId=NHMSYS0021144468
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

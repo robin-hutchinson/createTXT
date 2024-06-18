@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oedothorax agrestis
 ErrorMsg=Coordinate is outside known range for Oedothorax agrestis
 DataFieldName=Species
 DataRecordId=NBNSYS0000009030
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

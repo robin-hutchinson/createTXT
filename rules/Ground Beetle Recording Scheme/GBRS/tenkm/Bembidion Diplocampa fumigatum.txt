@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Diplocampa
 ErrorMsg=Coordinate is outside known range for Bembidion (Diplocampa) fumigatum
 DataFieldName=Species
 DataRecordId=NBNSYS0100001940
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cheiracanthium pennyi
 ErrorMsg=Coordinate is outside known range for Cheiracanthium pennyi
 DataFieldName=Species
 DataRecordId=NBNSYS0000008695
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

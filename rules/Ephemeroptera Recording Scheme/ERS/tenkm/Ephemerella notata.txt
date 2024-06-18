@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ephemerella notata
 ErrorMsg=Coordinate is outside known range for Ephemerella notata
 DataFieldName=Species
 DataRecordId=NBNSYS0000010895
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

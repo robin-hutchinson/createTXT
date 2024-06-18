@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachyptera putata
 ErrorMsg=Coordinate is outside known range for Brachyptera putata
 DataFieldName=Species
 DataRecordId=NBNSYS0000022413
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

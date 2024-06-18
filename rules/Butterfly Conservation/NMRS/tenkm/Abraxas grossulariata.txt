@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Abraxas grossulariata
 ErrorMsg=Coordinate is outside known range for Abraxas grossulariata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005975
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

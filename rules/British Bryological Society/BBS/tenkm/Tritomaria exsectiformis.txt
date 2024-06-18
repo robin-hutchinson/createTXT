@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tritomaria exsectifor
 ErrorMsg=Coordinate is outside known range for Tritomaria exsectiformis
 DataFieldName=Species
 DataRecordId=NBNSYS0000035871
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

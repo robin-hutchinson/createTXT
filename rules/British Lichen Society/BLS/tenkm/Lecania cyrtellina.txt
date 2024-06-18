@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecania cyrtellina
 ErrorMsg=Coordinate is outside known range for Lecania cyrtellina
 DataFieldName=Species
 DataRecordId=NBNSYS0000018552
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

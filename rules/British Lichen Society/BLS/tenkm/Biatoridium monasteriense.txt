@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Biatoridium monasteri
 ErrorMsg=Coordinate is outside known range for Biatoridium monasteriense
 DataFieldName=Species
 DataRecordId=NBNSYS0000018249
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

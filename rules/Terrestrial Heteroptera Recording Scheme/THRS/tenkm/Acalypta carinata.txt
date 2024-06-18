@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acalypta carinata
 ErrorMsg=Coordinate is outside known range for Acalypta carinata
 DataFieldName=Species
 DataRecordId=NHMSYS0020308880
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

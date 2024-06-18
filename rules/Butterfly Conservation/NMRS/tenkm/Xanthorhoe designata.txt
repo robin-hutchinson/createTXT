@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthorhoe designata
 ErrorMsg=Coordinate is outside known range for Xanthorhoe designata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005795
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

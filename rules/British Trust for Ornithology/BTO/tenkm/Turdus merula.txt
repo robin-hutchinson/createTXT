@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Turdus merula
 ErrorMsg=Coordinate is outside known range for Turdus merula
 DataFieldName=Species
 DataRecordId=NHMSYS0000530674
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

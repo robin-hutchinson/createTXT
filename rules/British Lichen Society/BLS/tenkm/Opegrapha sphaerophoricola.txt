@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Opegrapha sphaerophor
 ErrorMsg=Coordinate is outside known range for Opegrapha sphaerophoricola
 DataFieldName=Species
 DataRecordId=NHMSYS0001491417
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

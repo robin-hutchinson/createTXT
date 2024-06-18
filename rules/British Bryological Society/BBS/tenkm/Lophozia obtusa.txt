@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lophozia obtusa
 ErrorMsg=Coordinate is outside known range for Lophozia obtusa
 DataFieldName=Species
 DataRecordId=NHMSYS0000309923
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

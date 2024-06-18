@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Baetis rhodani/atlant
 ErrorMsg=Coordinate is outside known range for Baetis rhodani/atlanticus
 DataFieldName=Species
 DataRecordId=NHMSYS0021233523
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

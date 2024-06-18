@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tetraphis pellucida
 ErrorMsg=Coordinate is outside known range for Tetraphis pellucida
 DataFieldName=Species
 DataRecordId=NBNSYS0000036124
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

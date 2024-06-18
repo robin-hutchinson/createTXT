@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Usnea ceratina
 ErrorMsg=Coordinate is outside known range for Usnea ceratina
 DataFieldName=Species
 DataRecordId=NBNSYS0000019136
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

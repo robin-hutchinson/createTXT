@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ozyptila praticola
 ErrorMsg=Coordinate is outside known range for Ozyptila praticola
 DataFieldName=Species
 DataRecordId=NBNSYS0000008736
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

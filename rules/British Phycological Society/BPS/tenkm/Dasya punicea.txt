@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dasya punicea
 ErrorMsg=Coordinate is outside known range for Dasya punicea
 DataFieldName=Species
 DataRecordId=NHMSYS0000567937
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

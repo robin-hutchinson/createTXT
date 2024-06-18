@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mallota cimbiciformis
 ErrorMsg=Coordinate is outside known range for Mallota cimbiciformis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007060
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

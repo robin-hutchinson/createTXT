@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ramalina fraxinea
 ErrorMsg=Coordinate is outside known range for Ramalina fraxinea
 DataFieldName=Species
 DataRecordId=NBNSYS0000018988
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

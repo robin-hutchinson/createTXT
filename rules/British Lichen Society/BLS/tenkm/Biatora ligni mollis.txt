@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Biatora ligni-mollis
 ErrorMsg=Coordinate is outside known range for Biatora ligni-mollis
 DataFieldName=Species
 DataRecordId=NHMSYS0020535077
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Centromerus minutissi
 ErrorMsg=Coordinate is outside known range for Centromerus minutissimus
 DataFieldName=Species
 DataRecordId=NBNSYS0100002236
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

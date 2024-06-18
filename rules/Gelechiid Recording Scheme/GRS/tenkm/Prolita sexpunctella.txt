@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Prolita sexpunctella
 ErrorMsg=Coordinate is outside known range for Prolita sexpunctella
 DataFieldName=Species
 DataRecordId=NBNSYS0000005367
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

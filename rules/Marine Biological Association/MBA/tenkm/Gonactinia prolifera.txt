@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gonactinia prolifera
 ErrorMsg=Coordinate is outside known range for Gonactinia prolifera
 DataFieldName=Species
 DataRecordId=NHMSYS0019997039
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

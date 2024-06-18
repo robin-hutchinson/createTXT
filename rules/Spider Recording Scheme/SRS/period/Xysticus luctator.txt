@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Xysticus luctator
 Tvk=NBNSYS0000008727
 StartDate=18540101
 EndDate=19951231
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

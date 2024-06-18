@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Clubiona phragmitis
 ErrorMsg=Coordinate is outside known range for Clubiona phragmitis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008682
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

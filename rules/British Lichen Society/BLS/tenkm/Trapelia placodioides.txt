@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trapelia placodioides
 ErrorMsg=Coordinate is outside known range for Trapelia placodioides
 DataFieldName=Species
 DataRecordId=NHMSYS0001499949
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

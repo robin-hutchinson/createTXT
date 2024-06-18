@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Ocydromus)
 ErrorMsg=Coordinate is outside known range for Bembidion (Ocydromus) deletum
 DataFieldName=Species
 DataRecordId=NHMSYS0001717167
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

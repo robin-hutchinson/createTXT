@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphagnum capillifoliu
 ErrorMsg=Coordinate is outside known range for Sphagnum capillifolium
 DataFieldName=Species
 DataRecordId=NBNSYS0000036080
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

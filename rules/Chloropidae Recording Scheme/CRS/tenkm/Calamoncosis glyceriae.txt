@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calamoncosis glyceria
 ErrorMsg=Coordinate is outside known range for Calamoncosis glyceriae
 DataFieldName=Species
 DataRecordId=NBNSYS0000029847
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

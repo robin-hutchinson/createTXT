@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trichoncus hackmani
 ErrorMsg=Coordinate is outside known range for Trichoncus hackmani
 DataFieldName=Species
 DataRecordId=NBNSYS0000009050
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

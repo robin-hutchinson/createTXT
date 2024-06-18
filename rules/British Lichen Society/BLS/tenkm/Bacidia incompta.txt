@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bacidia incompta
 ErrorMsg=Coordinate is outside known range for Bacidia incompta
 DataFieldName=Species
 DataRecordId=NHMSYS0020989777
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

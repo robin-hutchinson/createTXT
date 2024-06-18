@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acarospora umbilicata
 ErrorMsg=Coordinate is outside known range for Acarospora umbilicata f. congredians
 DataFieldName=Species
 DataRecordId=NHMSYS0020989687
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

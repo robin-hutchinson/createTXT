@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Coccothraustes coccot
 ErrorMsg=Coordinate is outside known range for Coccothraustes coccothraustes
 DataFieldName=Species
 DataRecordId=NHMSYS0000530302
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

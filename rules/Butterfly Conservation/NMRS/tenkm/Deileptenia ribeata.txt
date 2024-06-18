@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Deileptenia ribeata
 ErrorMsg=Coordinate is outside known range for Deileptenia ribeata
 DataFieldName=Species
 DataRecordId=NBNSYS0000006032
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

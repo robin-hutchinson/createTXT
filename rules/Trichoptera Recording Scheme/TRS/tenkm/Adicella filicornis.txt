@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Adicella filicornis
 ErrorMsg=Coordinate is outside known range for Adicella filicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008528
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Zanardinia prototypus
 ErrorMsg=Coordinate is outside known range for Zanardinia prototypus
 DataFieldName=Species
 DataRecordId=NBNSYS0000178657
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

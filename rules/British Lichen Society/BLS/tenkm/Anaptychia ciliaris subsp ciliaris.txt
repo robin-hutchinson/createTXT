@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anaptychia ciliaris s
 ErrorMsg=Coordinate is outside known range for Anaptychia ciliaris subsp. ciliaris
 DataFieldName=Species
 DataRecordId=NHMSYS0001474601
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

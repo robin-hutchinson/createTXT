@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Circus pygargus
 ErrorMsg=Coordinate is outside known range for Circus pygargus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530296
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

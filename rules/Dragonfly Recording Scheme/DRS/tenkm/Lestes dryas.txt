@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lestes dryas
 ErrorMsg=Coordinate is outside known range for Lestes dryas
 DataFieldName=Species
 DataRecordId=NBNSYS0000005614
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

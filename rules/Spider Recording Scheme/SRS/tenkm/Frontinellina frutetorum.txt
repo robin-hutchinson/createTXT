@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Frontinellina fruteto
 ErrorMsg=Coordinate is outside known range for Frontinellina frutetorum
 DataFieldName=Species
 DataRecordId=NHMSYS0000354343
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

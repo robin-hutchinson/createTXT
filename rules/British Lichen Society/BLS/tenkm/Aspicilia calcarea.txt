@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aspicilia calcarea
 ErrorMsg=Coordinate is outside known range for Aspicilia calcarea
 DataFieldName=Species
 DataRecordId=NHMSYS0000361491
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

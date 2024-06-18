@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Allajulus nitidus
 ErrorMsg=Coordinate is outside known range for Allajulus nitidus
 DataFieldName=Species
 DataRecordId=NHMSYS0000356224
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Usnea fulvoreagens
 ErrorMsg=Coordinate is outside known range for Usnea fulvoreagens
 DataFieldName=Species
 DataRecordId=NHMSYS0001501171
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

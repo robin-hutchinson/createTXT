@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leucothoe procera
 ErrorMsg=Coordinate is outside known range for Leucothoe procera
 DataFieldName=Species
 DataRecordId=NBNSYS0000176122
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

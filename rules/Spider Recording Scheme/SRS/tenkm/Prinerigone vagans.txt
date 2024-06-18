@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Prinerigone vagans
 ErrorMsg=Coordinate is outside known range for Prinerigone vagans
 DataFieldName=Species
 DataRecordId=NBNSYS0000009112
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

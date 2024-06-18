@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pseudomaro aenigmatic
 ErrorMsg=Coordinate is outside known range for Pseudomaro aenigmaticus
 DataFieldName=Species
 DataRecordId=NBNSYS0000009135
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

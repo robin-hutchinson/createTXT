@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Horisme vitalbata
 ErrorMsg=Coordinate is outside known range for Horisme vitalbata
 DataFieldName=Species
 DataRecordId=NHMSYS0021144043
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dioctria cothurnata
 ErrorMsg=Coordinate is outside known range for Dioctria cothurnata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007916
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

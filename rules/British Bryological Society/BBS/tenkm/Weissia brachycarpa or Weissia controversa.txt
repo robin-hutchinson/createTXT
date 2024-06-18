@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Weissia brachycarpa o
 ErrorMsg=Coordinate is outside known range for Weissia brachycarpa or Weissia controversa
 DataFieldName=Species
 DataRecordId=NHMSYS0000310832
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

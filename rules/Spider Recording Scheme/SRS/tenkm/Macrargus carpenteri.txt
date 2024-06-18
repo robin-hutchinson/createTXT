@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Macrargus carpenteri
 ErrorMsg=Coordinate is outside known range for Macrargus carpenteri
 DataFieldName=Species
 DataRecordId=NBNSYS0000009190
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

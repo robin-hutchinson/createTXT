@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Isoperla grammatica
 ErrorMsg=Coordinate is outside known range for Isoperla grammatica
 DataFieldName=Species
 DataRecordId=NBNSYS0000022439
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

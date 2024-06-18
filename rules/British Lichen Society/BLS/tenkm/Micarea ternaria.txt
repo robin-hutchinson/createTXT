@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Micarea ternaria
 ErrorMsg=Coordinate is outside known range for Micarea ternaria
 DataFieldName=Species
 DataRecordId=NHMSYS0001489469
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

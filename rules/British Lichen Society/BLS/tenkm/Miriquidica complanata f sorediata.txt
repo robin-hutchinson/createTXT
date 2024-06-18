@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Miriquidica complanat
 ErrorMsg=Coordinate is outside known range for Miriquidica complanata f. sorediata
 DataFieldName=Species
 DataRecordId=NHMSYS0020990616
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

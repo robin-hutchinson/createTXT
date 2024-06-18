@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polycoccum slaptonien
 ErrorMsg=Coordinate is outside known range for Polycoccum slaptoniense
 DataFieldName=Species
 DataRecordId=BMSSYS0000014920
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

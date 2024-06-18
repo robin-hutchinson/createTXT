@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Platycheirus fulviven
 ErrorMsg=Coordinate is outside known range for Platycheirus fulviventris
 DataFieldName=Species
 DataRecordId=NBNSYS0000006875
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

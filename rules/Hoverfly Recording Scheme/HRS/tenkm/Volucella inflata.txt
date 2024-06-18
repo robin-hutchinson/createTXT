@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Volucella inflata
 ErrorMsg=Coordinate is outside known range for Volucella inflata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007096
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

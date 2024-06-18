@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pohlia cruda
 ErrorMsg=Coordinate is outside known range for Pohlia cruda
 DataFieldName=Species
 DataRecordId=NBNSYS0000036552
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Melaspilea atroides
 ErrorMsg=Coordinate is outside known range for Melaspilea atroides
 DataFieldName=Species
 DataRecordId=NBNSYS0000039677
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

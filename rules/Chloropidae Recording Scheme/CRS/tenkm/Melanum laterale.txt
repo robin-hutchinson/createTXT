@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Melanum laterale
 ErrorMsg=Coordinate is outside known range for Melanum laterale
 DataFieldName=Species
 DataRecordId=NBNSYS0000029973
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

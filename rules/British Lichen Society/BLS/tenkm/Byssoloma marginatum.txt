@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Byssoloma marginatum
 ErrorMsg=Coordinate is outside known range for Byssoloma marginatum
 DataFieldName=Species
 DataRecordId=NHMSYS0001476395
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

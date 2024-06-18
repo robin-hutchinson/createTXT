@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Crustulina sticta
 ErrorMsg=Coordinate is outside known range for Crustulina sticta
 DataFieldName=Species
 DataRecordId=NBNSYS0000008874
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

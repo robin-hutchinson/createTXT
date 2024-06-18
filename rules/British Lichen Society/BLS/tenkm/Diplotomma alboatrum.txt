@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diplotomma alboatrum
 ErrorMsg=Coordinate is outside known range for Diplotomma alboatrum
 DataFieldName=Species
 DataRecordId=NBNSYS0000018473
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

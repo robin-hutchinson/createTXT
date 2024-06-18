@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trochosa robusta
 ErrorMsg=Coordinate is outside known range for Trochosa robusta
 DataFieldName=Species
 DataRecordId=NBNSYS0000008815
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Schendyla nemorensis
 ErrorMsg=Coordinate is outside known range for Schendyla nemorensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000011425
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

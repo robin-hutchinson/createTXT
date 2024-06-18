@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ctenoplusia limbirena
 ErrorMsg=Coordinate is outside known range for Ctenoplusia limbirena
 DataFieldName=Species
 DataRecordId=NHMSYS0000502035
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ylodes reuteri
 ErrorMsg=Coordinate is outside known range for Ylodes reuteri
 DataFieldName=Species
 DataRecordId=NBNSYS0000008533
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

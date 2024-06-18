@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polydesmus denticulat
 ErrorMsg=Coordinate is outside known range for Polydesmus denticulatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011368
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

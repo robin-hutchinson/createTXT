@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ostearius melanopygiu
 ErrorMsg=Coordinate is outside known range for Ostearius melanopygius
 DataFieldName=Species
 DataRecordId=NBNSYS0000009136
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

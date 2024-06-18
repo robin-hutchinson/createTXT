@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Odontoscelis (Odontos
 ErrorMsg=Coordinate is outside known range for Odontoscelis (Odontoscelis) fuliginosa
 DataFieldName=Species
 DataRecordId=NHMSYS0020309545
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

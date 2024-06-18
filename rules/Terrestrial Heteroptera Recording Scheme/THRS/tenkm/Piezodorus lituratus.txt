@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Piezodorus lituratus
 ErrorMsg=Coordinate is outside known range for Piezodorus lituratus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309665
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ortholomus punctipenn
 ErrorMsg=Coordinate is outside known range for Ortholomus punctipennis
 DataFieldName=Species
 DataRecordId=NHMSYS0020309573
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

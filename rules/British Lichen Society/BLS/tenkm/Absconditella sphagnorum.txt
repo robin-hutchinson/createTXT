@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Absconditella sphagno
 ErrorMsg=Coordinate is outside known range for Absconditella sphagnorum
 DataFieldName=Species
 DataRecordId=NHMSYS0001472741
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Filogranula calyculat
 ErrorMsg=Coordinate is outside known range for Filogranula calyculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000175348
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

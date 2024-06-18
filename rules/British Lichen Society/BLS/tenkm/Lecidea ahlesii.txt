@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecidea ahlesii
 ErrorMsg=Coordinate is outside known range for Lecidea ahlesii
 DataFieldName=Species
 DataRecordId=NHMSYS0001486565
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

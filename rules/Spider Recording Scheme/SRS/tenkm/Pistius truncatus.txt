@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pistius truncatus
 ErrorMsg=Coordinate is outside known range for Pistius truncatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008719
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

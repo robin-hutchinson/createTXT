@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scrobipalpa salinella
 ErrorMsg=Coordinate is outside known range for Scrobipalpa salinella
 DataFieldName=Species
 DataRecordId=NHMSYS0000504149
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Abrothallus caerulesc
 ErrorMsg=Coordinate is outside known range for Abrothallus caerulescens
 DataFieldName=Species
 DataRecordId=NHMSYS0001472729
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

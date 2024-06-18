@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xerolycosa miniata
 ErrorMsg=Coordinate is outside known range for Xerolycosa miniata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008809
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

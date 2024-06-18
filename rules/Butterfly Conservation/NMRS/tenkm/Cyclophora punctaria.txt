@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cyclophora punctaria
 ErrorMsg=Coordinate is outside known range for Cyclophora punctaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000005753
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria polysticta
 ErrorMsg=Coordinate is outside known range for Verrucaria polysticta
 DataFieldName=Species
 DataRecordId=BMSSYS0000019590
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

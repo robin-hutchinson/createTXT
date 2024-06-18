@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Halorates reprobus
 ErrorMsg=Coordinate is outside known range for Halorates reprobus
 DataFieldName=Species
 DataRecordId=NBNSYS0000009125
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

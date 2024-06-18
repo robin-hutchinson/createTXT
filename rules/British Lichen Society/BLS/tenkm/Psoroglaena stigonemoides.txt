@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Psoroglaena stigonemo
 ErrorMsg=Coordinate is outside known range for Psoroglaena stigonemoides
 DataFieldName=Species
 DataRecordId=BMSSYS0000015581
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

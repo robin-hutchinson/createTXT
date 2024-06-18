@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Zelotes electus
 ErrorMsg=Coordinate is outside known range for Zelotes electus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008654
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

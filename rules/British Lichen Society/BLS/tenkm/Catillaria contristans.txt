@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Catillaria contristan
 ErrorMsg=Coordinate is outside known range for Catillaria contristans
 DataFieldName=Species
 DataRecordId=NBNSYS0000018313
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

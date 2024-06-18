@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Ephemerella notata
 Tvk=NBNSYS0000010895
 StartDate=18870101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

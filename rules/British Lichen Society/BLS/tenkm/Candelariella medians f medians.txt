@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Candelariella medians
 ErrorMsg=Coordinate is outside known range for Candelariella medians f. medians
 DataFieldName=Species
 DataRecordId=NHMSYS0020989911
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

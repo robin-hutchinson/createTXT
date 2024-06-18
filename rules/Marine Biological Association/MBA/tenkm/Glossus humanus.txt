@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Glossus humanus
 ErrorMsg=Coordinate is outside known range for Glossus humanus
 DataFieldName=Species
 DataRecordId=NBNSYS0000175477
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anatis ocellata
 ErrorMsg=Coordinate is outside known range for Anatis ocellata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008327
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

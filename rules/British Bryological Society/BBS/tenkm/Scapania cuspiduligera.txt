@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scapania cuspiduliger
 ErrorMsg=Coordinate is outside known range for Scapania cuspiduligera
 DataFieldName=Species
 DataRecordId=NHMSYS0000310467
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

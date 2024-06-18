@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bacidia sulphurella
 ErrorMsg=Coordinate is outside known range for Bacidia sulphurella
 DataFieldName=Species
 DataRecordId=NHMSYS0020535068
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

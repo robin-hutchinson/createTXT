@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecidella meiococca
 ErrorMsg=Coordinate is outside known range for Lecidella meiococca
 DataFieldName=Species
 DataRecordId=BMSSYS0000010097
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

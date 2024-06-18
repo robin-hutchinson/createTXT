@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phibalapteryx virgata
 ErrorMsg=Coordinate is outside known range for Phibalapteryx virgata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005791
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

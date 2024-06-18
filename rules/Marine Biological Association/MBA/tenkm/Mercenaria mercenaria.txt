@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mercenaria mercenaria
 ErrorMsg=Coordinate is outside known range for Mercenaria mercenaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000176422
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

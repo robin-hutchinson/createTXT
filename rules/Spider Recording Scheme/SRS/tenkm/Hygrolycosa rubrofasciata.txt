@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hygrolycosa rubrofasc
 ErrorMsg=Coordinate is outside known range for Hygrolycosa rubrofasciata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008807
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

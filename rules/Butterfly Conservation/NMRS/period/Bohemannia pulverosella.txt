@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Bohemannia pulverosella
 Tvk=NBNSYS0100002018
 StartDate=17000101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

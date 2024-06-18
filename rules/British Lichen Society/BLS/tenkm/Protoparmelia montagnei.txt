@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Protoparmelia montagn
 ErrorMsg=Coordinate is outside known range for Protoparmelia montagnei
 DataFieldName=Species
 DataRecordId=NBNSYS0000018615
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

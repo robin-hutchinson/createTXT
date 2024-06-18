@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gadus morhua
 ErrorMsg=Coordinate is outside known range for Gadus morhua
 DataFieldName=Species
 DataRecordId=NBNSYS0000175392
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

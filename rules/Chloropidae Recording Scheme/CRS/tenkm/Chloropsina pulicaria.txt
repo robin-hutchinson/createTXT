@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chloropsina pulicaria
 ErrorMsg=Coordinate is outside known range for Chloropsina pulicaria
 DataFieldName=Species
 DataRecordId=NBNSYS0100002376
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

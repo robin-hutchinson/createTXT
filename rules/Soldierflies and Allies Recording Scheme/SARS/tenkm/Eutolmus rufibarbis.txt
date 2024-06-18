@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eutolmus rufibarbis
 ErrorMsg=Coordinate is outside known range for Eutolmus rufibarbis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007900
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Epione vespertaria
 ErrorMsg=Coordinate is outside known range for Epione vespertaria
 DataFieldName=Species
 DataRecordId=NBNSYS0100003050
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

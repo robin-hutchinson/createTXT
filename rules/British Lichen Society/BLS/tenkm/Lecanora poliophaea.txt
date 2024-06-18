@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora poliophaea
 ErrorMsg=Coordinate is outside known range for Lecanora poliophaea
 DataFieldName=Species
 DataRecordId=NBNSYS0000018610
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Lithophane furcifera
 Tvk=NBNSYS0000006331
 StartDate=18591001
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

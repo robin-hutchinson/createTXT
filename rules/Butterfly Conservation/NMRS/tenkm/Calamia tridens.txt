@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calamia tridens
 ErrorMsg=Coordinate is outside known range for Calamia tridens
 DataFieldName=Species
 DataRecordId=NHMSYS0000517533
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

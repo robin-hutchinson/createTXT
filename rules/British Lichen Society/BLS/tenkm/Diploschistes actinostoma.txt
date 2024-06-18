@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diploschistes actinos
 ErrorMsg=Coordinate is outside known range for Diploschistes actinostoma
 DataFieldName=Species
 DataRecordId=NHMSYS0020990175
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

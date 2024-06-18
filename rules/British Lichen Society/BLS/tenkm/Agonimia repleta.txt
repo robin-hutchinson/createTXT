@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agonimia repleta
 ErrorMsg=Coordinate is outside known range for Agonimia repleta
 DataFieldName=Species
 DataRecordId=BMSSYS0000001192
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

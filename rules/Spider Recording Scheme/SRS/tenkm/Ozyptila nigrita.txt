@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ozyptila nigrita
 ErrorMsg=Coordinate is outside known range for Ozyptila nigrita
 DataFieldName=Species
 DataRecordId=NBNSYS0000008734
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

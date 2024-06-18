@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agonum (Agonum) margi
 ErrorMsg=Coordinate is outside known range for Agonum (Agonum) marginatum
 DataFieldName=Species
 DataRecordId=NHMSYS0001716598
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

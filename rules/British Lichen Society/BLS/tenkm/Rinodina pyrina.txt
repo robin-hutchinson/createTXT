@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rinodina pyrina
 ErrorMsg=Coordinate is outside known range for Rinodina pyrina
 DataFieldName=Species
 DataRecordId=NBNSYS0000019014
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Erythrotrichia welwit
 ErrorMsg=Coordinate is outside known range for Erythrotrichia welwitschii
 DataFieldName=Species
 DataRecordId=NBNSYS0000175187
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Schmitziella endophlo
 ErrorMsg=Coordinate is outside known range for Schmitziella endophloea
 DataFieldName=Species
 DataRecordId=NHMSYS0000568313
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

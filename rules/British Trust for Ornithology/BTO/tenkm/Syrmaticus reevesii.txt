@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Syrmaticus reevesii
 ErrorMsg=Coordinate is outside known range for Syrmaticus reevesii
 DataFieldName=Species
 DataRecordId=NHMSYS0000533791
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

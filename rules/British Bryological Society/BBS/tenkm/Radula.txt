@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Radula
 ErrorMsg=Coordinate is outside known range for Radula
 DataFieldName=Species
 DataRecordId=NHMSYS0000310546
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

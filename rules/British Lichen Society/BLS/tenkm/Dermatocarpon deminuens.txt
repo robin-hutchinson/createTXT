@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dermatocarpon deminue
 ErrorMsg=Coordinate is outside known range for Dermatocarpon deminuens
 DataFieldName=Species
 DataRecordId=BMSSYS0000005778
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

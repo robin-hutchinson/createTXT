@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hypomecis punctinalis
 ErrorMsg=Coordinate is outside known range for Hypomecis punctinalis
 DataFieldName=Species
 DataRecordId=MM0001Z100758RH1
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

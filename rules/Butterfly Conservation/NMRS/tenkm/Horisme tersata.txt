@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Horisme tersata
 ErrorMsg=Coordinate is outside known range for Horisme tersata
 DataFieldName=Species
 DataRecordId=NHMSYS0021144044
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

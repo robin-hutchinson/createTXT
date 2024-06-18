@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polyblastia cruenta
 ErrorMsg=Coordinate is outside known range for Polyblastia cruenta
 DataFieldName=Species
 DataRecordId=NBNSYS0000020619
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

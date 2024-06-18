@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gryllotalpa
 ErrorMsg=Coordinate is outside known range for Gryllotalpa
 DataFieldName=Species
 DataRecordId=NHMSYS0001387359
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

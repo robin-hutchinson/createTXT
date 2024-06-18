@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pseudoleskeella
 ErrorMsg=Coordinate is outside known range for Pseudoleskeella
 DataFieldName=Species
 DataRecordId=NHMSYS0000310507
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

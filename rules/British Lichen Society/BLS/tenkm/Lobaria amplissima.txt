@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lobaria amplissima
 ErrorMsg=Coordinate is outside known range for Lobaria amplissima
 DataFieldName=Species
 DataRecordId=NBNSYS0000019310
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

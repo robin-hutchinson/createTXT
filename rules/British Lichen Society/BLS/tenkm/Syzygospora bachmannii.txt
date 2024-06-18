@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Syzygospora bachmanni
 ErrorMsg=Coordinate is outside known range for Syzygospora bachmannii
 DataFieldName=Species
 DataRecordId=BMSSYS0000018235
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

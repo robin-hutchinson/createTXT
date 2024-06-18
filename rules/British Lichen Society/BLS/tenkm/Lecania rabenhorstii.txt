@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecania rabenhorstii
 ErrorMsg=Coordinate is outside known range for Lecania rabenhorstii
 DataFieldName=Species
 DataRecordId=NBNSYS0000039648
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

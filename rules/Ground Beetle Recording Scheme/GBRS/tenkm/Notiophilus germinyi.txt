@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Notiophilus germinyi
 ErrorMsg=Coordinate is outside known range for Notiophilus germinyi
 DataFieldName=Species
 DataRecordId=NBNSYS0000007161
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

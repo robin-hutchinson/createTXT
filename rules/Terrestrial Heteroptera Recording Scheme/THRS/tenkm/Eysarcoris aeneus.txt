@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eysarcoris aeneus
 ErrorMsg=Coordinate is outside known range for Eysarcoris aeneus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309234
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

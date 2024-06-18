@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scapania gymnostomoph
 ErrorMsg=Coordinate is outside known range for Scapania gymnostomophila
 DataFieldName=Species
 DataRecordId=NBNSYS0000035923
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

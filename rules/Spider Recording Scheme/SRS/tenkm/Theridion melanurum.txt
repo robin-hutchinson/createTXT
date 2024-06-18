@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Theridion melanurum
 ErrorMsg=Coordinate is outside known range for Theridion melanurum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008894
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Allotrichia pallicorn
 ErrorMsg=Coordinate is outside known range for Allotrichia pallicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008351
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

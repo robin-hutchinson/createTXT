@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orthotylus (Pinocapsu
 ErrorMsg=Coordinate is outside known range for Orthotylus (Pinocapsus) fuscescens
 DataFieldName=Species
 DataRecordId=NHMSYS0020309604
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

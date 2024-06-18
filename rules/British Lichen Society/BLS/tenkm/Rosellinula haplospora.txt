@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rosellinula haplospor
 ErrorMsg=Coordinate is outside known range for Rosellinula haplospora
 DataFieldName=Species
 DataRecordId=NHMSYS0020990835
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

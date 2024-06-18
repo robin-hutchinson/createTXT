@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhizocarpon jemtlandi
 ErrorMsg=Coordinate is outside known range for Rhizocarpon jemtlandicum
 DataFieldName=Species
 DataRecordId=NBNSYS0000039764
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

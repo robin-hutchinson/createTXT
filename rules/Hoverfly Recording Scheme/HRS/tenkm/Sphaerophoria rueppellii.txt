@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphaerophoria rueppel
 ErrorMsg=Coordinate is outside known range for Sphaerophoria rueppellii
 DataFieldName=Species
 DataRecordId=NBNSYS0000006958
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

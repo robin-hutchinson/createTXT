@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria elaeomelae
 ErrorMsg=Coordinate is outside known range for Verrucaria elaeomelaena
 DataFieldName=Species
 DataRecordId=NBNSYS0000020679
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

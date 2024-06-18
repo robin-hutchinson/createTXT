@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scorpiurium circinatu
 ErrorMsg=Coordinate is outside known range for Scorpiurium circinatum
 DataFieldName=Species
 DataRecordId=NHMSYS0000310618
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

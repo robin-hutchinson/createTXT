@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Conostethus venustus
 ErrorMsg=Coordinate is outside known range for Conostethus venustus
 DataFieldName=Species
 DataRecordId=NHMSYS0020973307
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

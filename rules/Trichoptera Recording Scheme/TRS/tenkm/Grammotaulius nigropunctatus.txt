@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Grammotaulius nigropu
 ErrorMsg=Coordinate is outside known range for Grammotaulius nigropunctatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008464
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

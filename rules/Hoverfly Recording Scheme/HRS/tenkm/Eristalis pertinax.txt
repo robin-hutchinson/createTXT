@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eristalis pertinax
 ErrorMsg=Coordinate is outside known range for Eristalis pertinax
 DataFieldName=Species
 DataRecordId=NBNSYS0000007052
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

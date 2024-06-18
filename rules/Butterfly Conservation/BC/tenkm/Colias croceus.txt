@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Colias croceus
 ErrorMsg=Coordinate is outside known range for Colias croceus
 DataFieldName=Species
 DataRecordId=NHMSYS0000501953
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

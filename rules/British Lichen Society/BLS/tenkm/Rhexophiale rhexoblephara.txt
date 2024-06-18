@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhexophiale rhexoblep
 ErrorMsg=Coordinate is outside known range for Rhexophiale rhexoblephara
 DataFieldName=Species
 DataRecordId=BMSSYS0000016167
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

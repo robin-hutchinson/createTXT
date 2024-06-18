@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Enoicyla pusilla
 ErrorMsg=Coordinate is outside known range for Enoicyla pusilla
 DataFieldName=Species
 DataRecordId=NBNSYS0000008445
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

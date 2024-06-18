@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Alectoria ochroleuca
 ErrorMsg=Coordinate is outside known range for Alectoria ochroleuca
 DataFieldName=Species
 DataRecordId=NBNSYS0000018168
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

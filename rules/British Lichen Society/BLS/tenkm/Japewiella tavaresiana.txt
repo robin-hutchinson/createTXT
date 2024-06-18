@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Japewiella tavaresian
 ErrorMsg=Coordinate is outside known range for Japewiella tavaresiana
 DataFieldName=Species
 DataRecordId=NHMSYS0001485585
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

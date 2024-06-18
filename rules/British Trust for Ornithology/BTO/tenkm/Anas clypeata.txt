@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anas clypeata
 ErrorMsg=Coordinate is outside known range for Anas clypeata
 DataFieldName=Species
 DataRecordId=NHMSYS0000530147
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

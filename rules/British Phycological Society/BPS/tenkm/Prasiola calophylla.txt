@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Prasiola calophylla
 ErrorMsg=Coordinate is outside known range for Prasiola calophylla
 DataFieldName=Species
 DataRecordId=NHMSYS0000605706
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

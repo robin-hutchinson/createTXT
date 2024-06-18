@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oscinisoma cognatum
 ErrorMsg=Coordinate is outside known range for Oscinisoma cognatum
 DataFieldName=Species
 DataRecordId=NBNSYS0100004359
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

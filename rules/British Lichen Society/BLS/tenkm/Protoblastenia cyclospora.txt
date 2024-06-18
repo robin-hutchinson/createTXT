@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Protoblastenia cyclos
 ErrorMsg=Coordinate is outside known range for Protoblastenia cyclospora
 DataFieldName=Species
 DataRecordId=NHMSYS0001494800
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pleurochaete squarros
 ErrorMsg=Coordinate is outside known range for Pleurochaete squarrosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000036438
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

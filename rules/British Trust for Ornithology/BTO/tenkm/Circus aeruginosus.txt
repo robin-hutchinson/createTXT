@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Circus aeruginosus
 ErrorMsg=Coordinate is outside known range for Circus aeruginosus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530293
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

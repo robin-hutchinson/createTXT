@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Elachiptera austriaca
 ErrorMsg=Coordinate is outside known range for Elachiptera austriaca
 DataFieldName=Species
 DataRecordId=NBNSYS0100002925
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Buellia griseovirens
 ErrorMsg=Coordinate is outside known range for Buellia griseovirens
 DataFieldName=Species
 DataRecordId=NBNSYS0000018275
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

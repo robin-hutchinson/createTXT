@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Larus fuscus
 ErrorMsg=Coordinate is outside known range for Larus fuscus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000037
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

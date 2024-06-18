@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Syedra gracilis
 ErrorMsg=Coordinate is outside known range for Syedra gracilis
 DataFieldName=Species
 DataRecordId=NBNSYS0000009166
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

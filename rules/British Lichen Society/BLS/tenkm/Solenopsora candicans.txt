@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Solenopsora candicans
 ErrorMsg=Coordinate is outside known range for Solenopsora candicans
 DataFieldName=Species
 DataRecordId=NHMSYS0001497667
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

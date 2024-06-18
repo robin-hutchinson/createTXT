@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ipimorpha subtusa
 ErrorMsg=Coordinate is outside known range for Ipimorpha subtusa
 DataFieldName=Species
 DataRecordId=NHMSYS0021144745
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

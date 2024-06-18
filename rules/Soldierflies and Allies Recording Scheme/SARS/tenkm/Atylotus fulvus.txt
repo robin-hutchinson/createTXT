@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Atylotus fulvus
 ErrorMsg=Coordinate is outside known range for Atylotus fulvus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007875
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

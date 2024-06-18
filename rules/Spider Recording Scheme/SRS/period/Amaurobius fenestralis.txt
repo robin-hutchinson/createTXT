@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Amaurobius fenestralis
 Tvk=NBNSYS0000008610
 StartDate=18580101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

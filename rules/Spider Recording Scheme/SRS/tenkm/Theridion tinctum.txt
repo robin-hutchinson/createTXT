@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Theridion tinctum
 ErrorMsg=Coordinate is outside known range for Theridion tinctum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008897
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

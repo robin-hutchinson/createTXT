@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca citrina s. 
 ErrorMsg=Coordinate is outside known range for Caloplaca citrina s. str.
 DataFieldName=Species
 DataRecordId=NHMSYS0020987542
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

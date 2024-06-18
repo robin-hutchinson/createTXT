@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Platyptilia pallidact
 ErrorMsg=Coordinate is outside known range for Platyptilia pallidactyla
 DataFieldName=Species
 DataRecordId=NHMSYS0000503855
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

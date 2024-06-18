@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Alcedo atthis
 ErrorMsg=Coordinate is outside known range for Alcedo atthis
 DataFieldName=Species
 DataRecordId=NHMSYS0000530141
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pogonatum aloides
 ErrorMsg=Coordinate is outside known range for Pogonatum aloides
 DataFieldName=Species
 DataRecordId=NBNSYS0000036142
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tomasellia gelatinosa
 ErrorMsg=Coordinate is outside known range for Tomasellia gelatinosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000016651
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

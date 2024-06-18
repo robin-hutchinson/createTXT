@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Deilephila elpenor
 ErrorMsg=Coordinate is outside known range for Deilephila elpenor
 DataFieldName=Species
 DataRecordId=NBNSYS0000006077
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

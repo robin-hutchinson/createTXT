@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cylindroiulus punctat
 ErrorMsg=Coordinate is outside known range for Cylindroiulus punctatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011392
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

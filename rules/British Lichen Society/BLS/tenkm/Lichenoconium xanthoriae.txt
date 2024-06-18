@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lichenoconium xanthor
 ErrorMsg=Coordinate is outside known range for Lichenoconium xanthoriae
 DataFieldName=Species
 DataRecordId=NHMSYS0000362832
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

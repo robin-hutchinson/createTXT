@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthrorhaphis alpina
 ErrorMsg=Coordinate is outside known range for Arthrorhaphis alpina
 DataFieldName=Species
 DataRecordId=NHMSYS0001475035
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

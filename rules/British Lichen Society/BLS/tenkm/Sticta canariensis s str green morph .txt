@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sticta canariensis s.
 ErrorMsg=Coordinate is outside known range for Sticta canariensis s. str. (green morph)
 DataFieldName=Species
 DataRecordId=NHMSYS0020988080
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

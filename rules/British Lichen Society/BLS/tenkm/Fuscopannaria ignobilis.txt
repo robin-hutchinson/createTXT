@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Fuscopannaria ignobil
 ErrorMsg=Coordinate is outside known range for Fuscopannaria ignobilis
 DataFieldName=Species
 DataRecordId=BMSSYS0000006970
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

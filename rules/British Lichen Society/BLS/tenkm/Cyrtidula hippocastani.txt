@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cyrtidula hippocastan
 ErrorMsg=Coordinate is outside known range for Cyrtidula hippocastani
 DataFieldName=Species
 DataRecordId=BMSSYS0000005502
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anthocoris nemorum
 ErrorMsg=Coordinate is outside known range for Anthocoris nemorum
 DataFieldName=Species
 DataRecordId=NHMSYS0020308938
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

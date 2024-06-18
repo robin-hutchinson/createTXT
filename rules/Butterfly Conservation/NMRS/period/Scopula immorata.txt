@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Scopula immorata
 Tvk=NBNSYS0000005756
 StartDate=17000101
 EndDate=19610622
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Limnephilus ignavus
 ErrorMsg=Coordinate is outside known range for Limnephilus ignavus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008481
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

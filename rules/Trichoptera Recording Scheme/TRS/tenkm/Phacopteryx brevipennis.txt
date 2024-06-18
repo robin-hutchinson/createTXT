@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phacopteryx brevipenn
 ErrorMsg=Coordinate is outside known range for Phacopteryx brevipennis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008496
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

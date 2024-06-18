@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pardosa amentata
 ErrorMsg=Coordinate is outside known range for Pardosa amentata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008800
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

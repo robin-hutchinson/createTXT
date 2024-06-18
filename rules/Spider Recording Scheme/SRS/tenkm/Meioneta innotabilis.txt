@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meioneta innotabilis
 ErrorMsg=Coordinate is outside known range for Meioneta innotabilis
 DataFieldName=Species
 DataRecordId=NBNSYS0000009154
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

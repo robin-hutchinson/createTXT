@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cettia cetti
 ErrorMsg=Coordinate is outside known range for Cettia cetti
 DataFieldName=Species
 DataRecordId=NHMSYS0000530270
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

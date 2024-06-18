@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Marsupella emarginata
 ErrorMsg=Coordinate is outside known range for Marsupella emarginata
 DataFieldName=Species
 DataRecordId=NHMSYS0000309960
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chlorochytrium dermat
 ErrorMsg=Coordinate is outside known range for Chlorochytrium dermatocolax
 DataFieldName=Species
 DataRecordId=NBNSYS0000180401
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ceraclea albimacula
 ErrorMsg=Coordinate is outside known range for Ceraclea albimacula
 DataFieldName=Species
 DataRecordId=NBNSYS0000008516
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

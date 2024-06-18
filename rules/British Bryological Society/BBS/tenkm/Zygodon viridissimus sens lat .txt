@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Zygodon viridissimus 
 ErrorMsg=Coordinate is outside known range for Zygodon viridissimus sens.lat.
 DataFieldName=Species
 DataRecordId=NBNSYS0000189253
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acalypta parvula
 ErrorMsg=Coordinate is outside known range for Acalypta parvula
 DataFieldName=Species
 DataRecordId=NHMSYS0020308882
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

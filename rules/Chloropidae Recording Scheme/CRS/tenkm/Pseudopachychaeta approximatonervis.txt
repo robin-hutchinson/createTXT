@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pseudopachychaeta app
 ErrorMsg=Coordinate is outside known range for Pseudopachychaeta approximatonervis
 DataFieldName=Species
 DataRecordId=NBNSYS0000029968
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

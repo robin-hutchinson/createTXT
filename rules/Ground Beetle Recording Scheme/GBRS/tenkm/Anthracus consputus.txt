@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anthracus consputus
 ErrorMsg=Coordinate is outside known range for Anthracus consputus
 DataFieldName=Species
 DataRecordId=NHMSYS0001716871
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

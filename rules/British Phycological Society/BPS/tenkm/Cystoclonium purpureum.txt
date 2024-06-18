@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cystoclonium purpureu
 ErrorMsg=Coordinate is outside known range for Cystoclonium purpureum
 DataFieldName=Species
 DataRecordId=NBNSYS0000174839
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

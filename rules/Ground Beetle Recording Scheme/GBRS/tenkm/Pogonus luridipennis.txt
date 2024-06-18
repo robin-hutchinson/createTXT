@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pogonus luridipennis
 ErrorMsg=Coordinate is outside known range for Pogonus luridipennis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007276
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

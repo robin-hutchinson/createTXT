@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Beraea pullata
 ErrorMsg=Coordinate is outside known range for Beraea pullata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008502
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

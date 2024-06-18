@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthonia varians
 ErrorMsg=Coordinate is outside known range for Arthonia varians
 DataFieldName=Species
 DataRecordId=NBNSYS0000015501
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Neoscona adianta
 ErrorMsg=Coordinate is outside known range for Neoscona adianta
 DataFieldName=Species
 DataRecordId=NBNSYS0000008947
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

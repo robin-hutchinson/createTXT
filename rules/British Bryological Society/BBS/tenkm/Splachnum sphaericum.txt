@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Splachnum sphaericum
 ErrorMsg=Coordinate is outside known range for Splachnum sphaericum
 DataFieldName=Species
 DataRecordId=NBNSYS0000036537
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

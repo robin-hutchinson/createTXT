@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gongylidiellum murcid
 ErrorMsg=Coordinate is outside known range for Gongylidiellum murcidum
 DataFieldName=Species
 DataRecordId=NBNSYS0000009075
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

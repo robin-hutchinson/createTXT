@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sympetrum fonscolombi
 ErrorMsg=Coordinate is outside known range for Sympetrum fonscolombii
 DataFieldName=Species
 DataRecordId=NHMSYS0000344188
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

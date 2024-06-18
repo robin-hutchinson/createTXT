@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lucernariopsis cruxme
 ErrorMsg=Coordinate is outside known range for Lucernariopsis cruxmelitensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000183759
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

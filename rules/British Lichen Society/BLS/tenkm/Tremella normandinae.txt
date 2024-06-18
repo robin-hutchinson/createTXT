@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tremella normandinae
 ErrorMsg=Coordinate is outside known range for Tremella normandinae
 DataFieldName=Species
 DataRecordId=BMSSYS0000018794
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

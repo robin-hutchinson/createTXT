@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Epicladonia sandstede
 ErrorMsg=Coordinate is outside known range for Epicladonia sandstedei
 DataFieldName=Species
 DataRecordId=BMSSYS0000006607
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

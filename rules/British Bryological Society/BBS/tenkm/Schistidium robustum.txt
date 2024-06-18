@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Schistidium robustum
 ErrorMsg=Coordinate is outside known range for Schistidium robustum
 DataFieldName=Species
 DataRecordId=NHMSYS0000310603
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

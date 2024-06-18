@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Beosus maritimus
 ErrorMsg=Coordinate is outside known range for Beosus maritimus
 DataFieldName=Species
 DataRecordId=NHMSYS0020308977
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

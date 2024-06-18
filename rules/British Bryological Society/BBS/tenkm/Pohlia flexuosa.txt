@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pohlia flexuosa
 ErrorMsg=Coordinate is outside known range for Pohlia flexuosa
 DataFieldName=Species
 DataRecordId=NHMSYS0000310369
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

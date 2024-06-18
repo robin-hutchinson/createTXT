@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Everniicola flexispor
 ErrorMsg=Coordinate is outside known range for Everniicola flexispora
 DataFieldName=Species
 DataRecordId=BMSSYS0000006689
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

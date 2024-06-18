@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Degelia plumbea s. st
 ErrorMsg=Coordinate is outside known range for Degelia plumbea s. str.
 DataFieldName=Species
 DataRecordId=NHMSYS0020987628
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

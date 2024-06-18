@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chlamydatus (Euattus)
 ErrorMsg=Coordinate is outside known range for Chlamydatus (Euattus) pullus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309077
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

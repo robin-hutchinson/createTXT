@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Neriene clathrata
 ErrorMsg=Coordinate is outside known range for Neriene clathrata
 DataFieldName=Species
 DataRecordId=NBNSYS0100004232
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

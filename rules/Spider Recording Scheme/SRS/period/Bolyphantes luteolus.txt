@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Bolyphantes luteolus
 Tvk=NBNSYS0000009206
 StartDate=18580101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

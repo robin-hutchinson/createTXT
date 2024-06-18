@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Turdus viscivorus
 ErrorMsg=Coordinate is outside known range for Turdus viscivorus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530682
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

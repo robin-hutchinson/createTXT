@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chilacis typhae
 ErrorMsg=Coordinate is outside known range for Chilacis typhae
 DataFieldName=Species
 DataRecordId=NHMSYS0020309068
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stercorarius parasiti
 ErrorMsg=Coordinate is outside known range for Stercorarius parasiticus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000341
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

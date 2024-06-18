@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Micarea incrassata
 ErrorMsg=Coordinate is outside known range for Micarea incrassata
 DataFieldName=Species
 DataRecordId=NBNSYS0000018818
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

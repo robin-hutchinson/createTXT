@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Elaphrus (Trichelaphr
 ErrorMsg=Coordinate is outside known range for Elaphrus (Trichelaphrus) riparius
 DataFieldName=Species
 DataRecordId=NHMSYS0001718042
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

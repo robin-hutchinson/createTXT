@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Coccinella hieroglyph
 ErrorMsg=Coordinate is outside known range for Coccinella hieroglyphica
 DataFieldName=Species
 DataRecordId=NBNSYS0000008322
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

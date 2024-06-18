@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Absconditella delutul
 ErrorMsg=Coordinate is outside known range for Absconditella delutula
 DataFieldName=Species
 DataRecordId=NHMSYS0001472737
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

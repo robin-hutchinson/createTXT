@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nigma walckenaeri
 ErrorMsg=Coordinate is outside known range for Nigma walckenaeri
 DataFieldName=Species
 DataRecordId=NBNSYS0000008620
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thelocarpon superellu
 ErrorMsg=Coordinate is outside known range for Thelocarpon superellum
 DataFieldName=Species
 DataRecordId=NBNSYS0000019086
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

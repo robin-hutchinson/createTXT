@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cerastis leucographa
 ErrorMsg=Coordinate is outside known range for Cerastis leucographa
 DataFieldName=Species
 DataRecordId=NHMSYS0021144915
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

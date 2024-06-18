@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pohlia ludwigii
 ErrorMsg=Coordinate is outside known range for Pohlia ludwigii
 DataFieldName=Species
 DataRecordId=NHMSYS0000310372
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

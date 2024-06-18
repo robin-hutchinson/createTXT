@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sorex araneus
 ErrorMsg=Coordinate is outside known range for Sorex araneus
 DataFieldName=Species
 DataRecordId=NBNSYS0000005081
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 NA

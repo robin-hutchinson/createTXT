@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora cadubriae
 ErrorMsg=Coordinate is outside known range for Lecanora cadubriae
 DataFieldName=Species
 DataRecordId=NBNSYS0000018648
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

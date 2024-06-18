@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Elasmucha grisea
 ErrorMsg=Coordinate is outside known range for Elasmucha grisea
 DataFieldName=Species
 DataRecordId=NHMSYS0020309200
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

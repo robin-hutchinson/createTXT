@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Macropodia rostrata
 ErrorMsg=Coordinate is outside known range for Macropodia rostrata
 DataFieldName=Species
 DataRecordId=NBNSYS0000176330
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meliscaeva auricollis
 ErrorMsg=Coordinate is outside known range for Meliscaeva auricollis
 DataFieldName=Species
 DataRecordId=NBNSYS0000006933
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

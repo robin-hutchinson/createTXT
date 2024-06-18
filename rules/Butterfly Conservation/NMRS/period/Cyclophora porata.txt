@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Cyclophora porata
 Tvk=NBNSYS0000005752
 StartDate=17000101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

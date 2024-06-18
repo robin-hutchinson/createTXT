@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Usnea flavocardia
 ErrorMsg=Coordinate is outside known range for Usnea flavocardia
 DataFieldName=Species
 DataRecordId=NHMSYS0001501164
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladonia diversa
 ErrorMsg=Coordinate is outside known range for Cladonia diversa
 DataFieldName=Species
 DataRecordId=BMSSYS0000003914
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

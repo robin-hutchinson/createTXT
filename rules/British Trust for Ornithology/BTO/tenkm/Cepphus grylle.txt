@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cepphus grylle
 ErrorMsg=Coordinate is outside known range for Cepphus grylle
 DataFieldName=Species
 DataRecordId=NBNSYS0000000376
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

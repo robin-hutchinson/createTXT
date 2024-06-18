@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lempholemma chalazanu
 ErrorMsg=Coordinate is outside known range for Lempholemma chalazanum
 DataFieldName=Species
 DataRecordId=NHMSYS0020990488
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

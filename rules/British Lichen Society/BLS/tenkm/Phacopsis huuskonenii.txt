@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phacopsis huuskonenii
 ErrorMsg=Coordinate is outside known range for Phacopsis huuskonenii
 DataFieldName=Species
 DataRecordId=NHMSYS0001492940
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

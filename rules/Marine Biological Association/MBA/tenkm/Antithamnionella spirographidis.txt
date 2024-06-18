@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Antithamnionella spir
 ErrorMsg=Coordinate is outside known range for Antithamnionella spirographidis
 DataFieldName=Species
 DataRecordId=NHMSYS0000567777
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

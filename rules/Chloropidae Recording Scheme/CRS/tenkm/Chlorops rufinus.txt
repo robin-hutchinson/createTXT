@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chlorops rufinus
 ErrorMsg=Coordinate is outside known range for Chlorops rufinus
 DataFieldName=Species
 DataRecordId=NBNSYS0100002371
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

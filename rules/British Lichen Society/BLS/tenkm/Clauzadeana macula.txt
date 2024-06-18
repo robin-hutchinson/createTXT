@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Clauzadeana macula
 ErrorMsg=Coordinate is outside known range for Clauzadeana macula
 DataFieldName=Species
 DataRecordId=NBNSYS0000018690
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

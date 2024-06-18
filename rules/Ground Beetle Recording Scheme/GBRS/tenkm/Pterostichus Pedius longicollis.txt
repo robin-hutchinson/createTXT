@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pterostichus (Pedius)
 ErrorMsg=Coordinate is outside known range for Pterostichus (Pedius) longicollis
 DataFieldName=Species
 DataRecordId=NHMSYS0001719786
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

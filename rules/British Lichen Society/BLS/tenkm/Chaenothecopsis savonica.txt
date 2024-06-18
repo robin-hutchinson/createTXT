@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chaenothecopsis savon
 ErrorMsg=Coordinate is outside known range for Chaenothecopsis savonica
 DataFieldName=Species
 DataRecordId=NHMSYS0001477249
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Catocala nymphagoga
 ErrorMsg=Coordinate is outside known range for Catocala nymphagoga
 DataFieldName=Species
 DataRecordId=NHMSYS0021144447
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

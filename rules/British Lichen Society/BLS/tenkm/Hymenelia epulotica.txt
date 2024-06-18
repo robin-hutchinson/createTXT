@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hymenelia epulotica
 ErrorMsg=Coordinate is outside known range for Hymenelia epulotica
 DataFieldName=Species
 DataRecordId=BMSSYS0000008467
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

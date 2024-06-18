@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oscinella angularis
 ErrorMsg=Coordinate is outside known range for Oscinella angularis
 DataFieldName=Species
 DataRecordId=NBNSYS0000029909
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

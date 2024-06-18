@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Athrips tetrapunctell
 ErrorMsg=Coordinate is outside known range for Athrips tetrapunctella
 DataFieldName=Species
 DataRecordId=NHMSYS0000501425
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

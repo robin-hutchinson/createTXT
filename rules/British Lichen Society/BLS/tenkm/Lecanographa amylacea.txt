@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanographa amylacea
 ErrorMsg=Coordinate is outside known range for Lecanographa amylacea
 DataFieldName=Species
 DataRecordId=BMSSYS0000009442
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

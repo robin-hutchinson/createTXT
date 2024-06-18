@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phaeopyxis varia
 ErrorMsg=Coordinate is outside known range for Phaeopyxis varia
 DataFieldName=Species
 DataRecordId=NBNSYS0000017755
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

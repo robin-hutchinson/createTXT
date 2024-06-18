@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Usnea dasypoga
 ErrorMsg=Coordinate is outside known range for Usnea dasypoga
 DataFieldName=Species
 DataRecordId=NHMSYS0020991174
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

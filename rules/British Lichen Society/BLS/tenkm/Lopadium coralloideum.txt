@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lopadium coralloideum
 ErrorMsg=Coordinate is outside known range for Lopadium coralloideum
 DataFieldName=Species
 DataRecordId=NBNSYS0000041617
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

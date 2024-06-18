@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Masoreus wetterhallii
 ErrorMsg=Coordinate is outside known range for Masoreus wetterhallii
 DataFieldName=Species
 DataRecordId=NBNSYS0000151143
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

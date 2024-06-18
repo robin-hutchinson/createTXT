@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gallinula chloropus
 ErrorMsg=Coordinate is outside known range for Gallinula chloropus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000024
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

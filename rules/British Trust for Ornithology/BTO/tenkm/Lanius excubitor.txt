@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lanius excubitor
 ErrorMsg=Coordinate is outside known range for Lanius excubitor
 DataFieldName=Species
 DataRecordId=NHMSYS0000530425
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

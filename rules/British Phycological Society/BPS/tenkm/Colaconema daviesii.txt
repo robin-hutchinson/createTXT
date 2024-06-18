@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Colaconema daviesii
 ErrorMsg=Coordinate is outside known range for Colaconema daviesii
 DataFieldName=Species
 DataRecordId=NHMSYS0000377557
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

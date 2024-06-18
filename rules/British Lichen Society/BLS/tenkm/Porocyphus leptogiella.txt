@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porocyphus leptogiell
 ErrorMsg=Coordinate is outside known range for Porocyphus leptogiella
 DataFieldName=Species
 DataRecordId=NHMSYS0000363724
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

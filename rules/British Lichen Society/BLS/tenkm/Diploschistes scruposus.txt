@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diploschistes scrupos
 ErrorMsg=Coordinate is outside known range for Diploschistes scruposus
 DataFieldName=Species
 DataRecordId=NBNSYS0000016930
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

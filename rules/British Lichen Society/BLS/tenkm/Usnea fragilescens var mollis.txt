@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Usnea fragilescens va
 ErrorMsg=Coordinate is outside known range for Usnea fragilescens var. mollis
 DataFieldName=Species
 DataRecordId=NHMSYS0001501170
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

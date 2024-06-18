@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Athene noctua
 ErrorMsg=Coordinate is outside known range for Athene noctua
 DataFieldName=Species
 DataRecordId=NHMSYS0000530183
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

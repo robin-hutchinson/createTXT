@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Platyptilia ochrodact
 ErrorMsg=Coordinate is outside known range for Platyptilia ochrodactyla
 DataFieldName=Species
 DataRecordId=NHMSYS0000503854
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

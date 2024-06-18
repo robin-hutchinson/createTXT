@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Staurothele caesia
 ErrorMsg=Coordinate is outside known range for Staurothele caesia
 DataFieldName=Species
 DataRecordId=NBNSYS0000020637
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

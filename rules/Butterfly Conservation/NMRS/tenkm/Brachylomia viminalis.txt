@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachylomia viminalis
 ErrorMsg=Coordinate is outside known range for Brachylomia viminalis
 DataFieldName=Species
 DataRecordId=NHMSYS0021144752
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

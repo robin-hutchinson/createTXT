@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sagediopsis lomnitzen
 ErrorMsg=Coordinate is outside known range for Sagediopsis lomnitzensis
 DataFieldName=Species
 DataRecordId=NHMSYS0001497031
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

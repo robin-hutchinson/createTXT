@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pisa armata
 ErrorMsg=Coordinate is outside known range for Pisa armata
 DataFieldName=Species
 DataRecordId=NBNSYS0000177237
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Procloeon bifidum
 ErrorMsg=Coordinate is outside known range for Procloeon bifidum
 DataFieldName=Species
 DataRecordId=NBNSYS0000010876
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

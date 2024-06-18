@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sanionia uncinata
 ErrorMsg=Coordinate is outside known range for Sanionia uncinata
 DataFieldName=Species
 DataRecordId=NBNSYS0100005382
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

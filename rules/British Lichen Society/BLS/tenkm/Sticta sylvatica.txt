@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sticta sylvatica
 ErrorMsg=Coordinate is outside known range for Sticta sylvatica
 DataFieldName=Species
 DataRecordId=NBNSYS0000019364
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

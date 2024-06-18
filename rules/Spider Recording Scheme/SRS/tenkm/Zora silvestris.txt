@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Zora silvestris
 ErrorMsg=Coordinate is outside known range for Zora silvestris
 DataFieldName=Species
 DataRecordId=NBNSYS0000008713
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

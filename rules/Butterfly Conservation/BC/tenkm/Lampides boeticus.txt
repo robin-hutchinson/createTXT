@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lampides boeticus
 ErrorMsg=Coordinate is outside known range for Lampides boeticus
 DataFieldName=Species
 DataRecordId=NHMSYS0000502994
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

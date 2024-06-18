@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tricimba humeralis
 ErrorMsg=Coordinate is outside known range for Tricimba humeralis
 DataFieldName=Species
 DataRecordId=NBNSYS0100005892
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

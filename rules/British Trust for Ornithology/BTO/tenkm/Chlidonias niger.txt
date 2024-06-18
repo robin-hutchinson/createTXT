@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chlidonias niger
 ErrorMsg=Coordinate is outside known range for Chlidonias niger
 DataFieldName=Species
 DataRecordId=NBNSYS0000000372
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

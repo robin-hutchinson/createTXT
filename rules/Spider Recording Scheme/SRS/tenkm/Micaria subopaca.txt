@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Micaria subopaca
 ErrorMsg=Coordinate is outside known range for Micaria subopaca
 DataFieldName=Species
 DataRecordId=NBNSYS0000008672
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

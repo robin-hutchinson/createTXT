@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ochrolechia szatalaë
 ErrorMsg=Coordinate is outside known range for Ochrolechia szatalaënsis orth. var.
 DataFieldName=Species
 DataRecordId=NHMSYS0020990651
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

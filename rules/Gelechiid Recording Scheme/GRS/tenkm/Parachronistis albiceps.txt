@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Parachronistis albice
 ErrorMsg=Coordinate is outside known range for Parachronistis albiceps
 DataFieldName=Species
 DataRecordId=NHMSYS0000503592
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

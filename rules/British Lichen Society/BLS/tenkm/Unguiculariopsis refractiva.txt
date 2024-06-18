@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Unguiculariopsis refr
 ErrorMsg=Coordinate is outside known range for Unguiculariopsis refractiva
 DataFieldName=Species
 DataRecordId=BMSSYS0000019291
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

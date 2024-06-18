@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ostrea edulis
 ErrorMsg=Coordinate is outside known range for Ostrea edulis
 DataFieldName=Species
 DataRecordId=NBNSYS0000188550
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

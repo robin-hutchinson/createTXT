@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lepraria umbricola
 ErrorMsg=Coordinate is outside known range for Lepraria umbricola
 DataFieldName=Species
 DataRecordId=BMSSYS0000010292
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

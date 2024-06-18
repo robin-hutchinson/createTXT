@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Silometopus reussi
 ErrorMsg=Coordinate is outside known range for Silometopus reussi
 DataFieldName=Species
 DataRecordId=NBNSYS0000009044
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

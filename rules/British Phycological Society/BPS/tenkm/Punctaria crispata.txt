@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Punctaria crispata
 ErrorMsg=Coordinate is outside known range for Punctaria crispata
 DataFieldName=Species
 DataRecordId=NBNSYS0000186407
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

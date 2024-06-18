@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Holocnemus pluchei
 ErrorMsg=Coordinate is outside known range for Holocnemus pluchei
 DataFieldName=Species
 DataRecordId=NHMSYS0020953667
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

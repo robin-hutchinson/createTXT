@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tholera decimalis
 ErrorMsg=Coordinate is outside known range for Tholera decimalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000006271
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

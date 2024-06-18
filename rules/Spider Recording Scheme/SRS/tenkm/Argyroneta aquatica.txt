@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Argyroneta aquatica
 ErrorMsg=Coordinate is outside known range for Argyroneta aquatica
 DataFieldName=Species
 DataRecordId=NBNSYS0000008833
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

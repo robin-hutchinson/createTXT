@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sclerophora peronella
 ErrorMsg=Coordinate is outside known range for Sclerophora peronella
 DataFieldName=Species
 DataRecordId=NBNSYS0000015566
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

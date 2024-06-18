@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Platycheirus ambiguus
 ErrorMsg=Coordinate is outside known range for Platycheirus ambiguus
 DataFieldName=Species
 DataRecordId=NBNSYS0000006869
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chrysopilus asiliform
 ErrorMsg=Coordinate is outside known range for Chrysopilus asiliformis
 DataFieldName=Species
 DataRecordId=NBNSYS0100020496
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stigmatogaster soulet
 ErrorMsg=Coordinate is outside known range for Stigmatogaster souletina
 DataFieldName=Species
 DataRecordId=NHMSYS0020500697
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

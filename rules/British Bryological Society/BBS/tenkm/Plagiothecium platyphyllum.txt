@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Plagiothecium platyph
 ErrorMsg=Coordinate is outside known range for Plagiothecium platyphyllum
 DataFieldName=Species
 DataRecordId=NBNSYS0000036915
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

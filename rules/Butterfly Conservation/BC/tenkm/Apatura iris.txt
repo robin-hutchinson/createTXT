@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Apatura iris
 ErrorMsg=Coordinate is outside known range for Apatura iris
 DataFieldName=Species
 DataRecordId=NHMSYS0000501116
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

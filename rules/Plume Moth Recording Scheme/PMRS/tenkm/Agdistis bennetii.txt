@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agdistis bennetii
 ErrorMsg=Coordinate is outside known range for Agdistis bennetii
 DataFieldName=Species
 DataRecordId=NHMSYS0000501029
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

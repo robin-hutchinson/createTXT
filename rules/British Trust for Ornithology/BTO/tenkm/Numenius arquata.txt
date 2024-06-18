@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Numenius arquata
 ErrorMsg=Coordinate is outside known range for Numenius arquata
 DataFieldName=Species
 DataRecordId=NBNSYS0000000032
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

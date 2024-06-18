@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Halecania ralfsii
 ErrorMsg=Coordinate is outside known range for Halecania ralfsii
 DataFieldName=Species
 DataRecordId=NBNSYS0000018527
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

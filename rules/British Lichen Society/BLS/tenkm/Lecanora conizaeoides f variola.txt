@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora conizaeoides
 ErrorMsg=Coordinate is outside known range for Lecanora conizaeoides f. variola
 DataFieldName=Species
 DataRecordId=NHMSYS0020990340
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

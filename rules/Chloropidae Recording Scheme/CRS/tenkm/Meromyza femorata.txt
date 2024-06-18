@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meromyza femorata
 ErrorMsg=Coordinate is outside known range for Meromyza femorata
 DataFieldName=Species
 DataRecordId=NBNSYS0000029948
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

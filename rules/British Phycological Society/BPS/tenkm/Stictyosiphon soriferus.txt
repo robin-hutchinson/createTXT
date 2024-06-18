@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stictyosiphon sorifer
 ErrorMsg=Coordinate is outside known range for Stictyosiphon soriferus
 DataFieldName=Species
 DataRecordId=NBNSYS0000178169
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

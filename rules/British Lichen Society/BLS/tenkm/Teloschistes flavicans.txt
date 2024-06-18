@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Teloschistes flavican
 ErrorMsg=Coordinate is outside known range for Teloschistes flavicans
 DataFieldName=Species
 DataRecordId=NBNSYS0000020578
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

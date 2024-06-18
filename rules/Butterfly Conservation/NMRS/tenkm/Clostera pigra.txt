@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Clostera pigra
 ErrorMsg=Coordinate is outside known range for Clostera pigra
 DataFieldName=Species
 DataRecordId=NBNSYS0000006103
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

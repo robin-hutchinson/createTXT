@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Plagiochila killarnie
 ErrorMsg=Coordinate is outside known range for Plagiochila killarniensis
 DataFieldName=Species
 DataRecordId=NHMSYS0000310299
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

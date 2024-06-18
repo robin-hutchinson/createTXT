@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachypalpus laphrifo
 ErrorMsg=Coordinate is outside known range for Brachypalpus laphriformis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007101
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

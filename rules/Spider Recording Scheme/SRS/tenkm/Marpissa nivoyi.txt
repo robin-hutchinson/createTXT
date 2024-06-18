@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Marpissa nivoyi
 ErrorMsg=Coordinate is outside known range for Marpissa nivoyi
 DataFieldName=Species
 DataRecordId=NBNSYS0000008766
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

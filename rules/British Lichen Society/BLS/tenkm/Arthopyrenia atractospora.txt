@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthopyrenia atractos
 ErrorMsg=Coordinate is outside known range for Arthopyrenia atractospora
 DataFieldName=Species
 DataRecordId=BMSSYS0000001703
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

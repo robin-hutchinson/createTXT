@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cillenus lateralis
 ErrorMsg=Coordinate is outside known range for Cillenus lateralis
 DataFieldName=Species
 DataRecordId=NHMSYS0001717612
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

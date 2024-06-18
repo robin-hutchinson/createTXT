@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trichorhina tomentosa
 ErrorMsg=Coordinate is outside known range for Trichorhina tomentosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000008566
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

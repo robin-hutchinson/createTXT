@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porina leptospora
 ErrorMsg=Coordinate is outside known range for Porina leptospora
 DataFieldName=Species
 DataRecordId=BMSSYS0000015246
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

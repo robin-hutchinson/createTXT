@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aglais urticae
 ErrorMsg=Coordinate is outside known range for Aglais urticae
 DataFieldName=Species
 DataRecordId=NHMSYS0000501034
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

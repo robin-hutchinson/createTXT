@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agonum (Agonum) erice
 ErrorMsg=Coordinate is outside known range for Agonum (Agonum) ericeti
 DataFieldName=Species
 DataRecordId=NHMSYS0001716595
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

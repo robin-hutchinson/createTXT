@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Amphipyra tragopoginis
 Tvk=NBNSYS0000006395
 StartDate=17000101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phryganea bipunctata
 ErrorMsg=Coordinate is outside known range for Phryganea bipunctata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008430
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

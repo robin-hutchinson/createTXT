@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arctoparmelia incurva
 ErrorMsg=Coordinate is outside known range for Arctoparmelia incurva
 DataFieldName=Species
 DataRecordId=NBNSYS0000142224
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

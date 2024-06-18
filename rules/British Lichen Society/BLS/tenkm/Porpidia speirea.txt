@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porpidia speirea
 ErrorMsg=Coordinate is outside known range for Porpidia speirea
 DataFieldName=Species
 DataRecordId=NBNSYS0000018718
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

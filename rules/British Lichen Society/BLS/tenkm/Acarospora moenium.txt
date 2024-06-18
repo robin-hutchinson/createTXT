@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acarospora moenium
 ErrorMsg=Coordinate is outside known range for Acarospora moenium
 DataFieldName=Species
 DataRecordId=NHMSYS0020989682
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

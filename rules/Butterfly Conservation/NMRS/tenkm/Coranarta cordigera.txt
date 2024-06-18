@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Coranarta cordigera
 ErrorMsg=Coordinate is outside known range for Coranarta cordigera
 DataFieldName=Species
 DataRecordId=NHMSYS0021144807
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

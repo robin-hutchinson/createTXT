@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trichopteryx carpinat
 ErrorMsg=Coordinate is outside known range for Trichopteryx carpinata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005972
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

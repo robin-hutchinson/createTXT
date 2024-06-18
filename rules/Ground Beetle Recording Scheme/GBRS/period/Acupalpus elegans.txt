@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Acupalpus elegans
 Tvk=NBNSYS0000007436
 StartDate=
 EndDate=19521213
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

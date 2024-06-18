@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pterygoneurum ovatum
 ErrorMsg=Coordinate is outside known range for Pterygoneurum ovatum
 DataFieldName=Species
 DataRecordId=NHMSYS0000310521
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

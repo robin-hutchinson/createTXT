@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mycomicrothelia wallr
 ErrorMsg=Coordinate is outside known range for Mycomicrothelia wallrothii
 DataFieldName=Species
 DataRecordId=NHMSYS0001490358
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

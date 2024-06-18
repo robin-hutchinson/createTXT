@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Enteromorpha linza
 ErrorMsg=Coordinate is outside known range for Enteromorpha linza
 DataFieldName=Species
 DataRecordId=NHMSYS0000568135
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

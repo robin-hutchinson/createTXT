@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rinodina beccariana
 ErrorMsg=Coordinate is outside known range for Rinodina beccariana
 DataFieldName=Species
 DataRecordId=BMSSYS0000016413
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

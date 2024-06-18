@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Loricera pilicornis
 ErrorMsg=Coordinate is outside known range for Loricera pilicornis
 DataFieldName=Species
 DataRecordId=NHMSYS0001718877
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

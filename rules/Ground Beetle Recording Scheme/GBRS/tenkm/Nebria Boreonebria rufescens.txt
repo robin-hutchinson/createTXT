@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nebria (Boreonebria) 
 ErrorMsg=Coordinate is outside known range for Nebria (Boreonebria) rufescens
 DataFieldName=Species
 DataRecordId=NHMSYS0001719102
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

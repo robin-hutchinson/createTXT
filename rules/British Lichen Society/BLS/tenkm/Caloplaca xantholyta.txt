@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca xantholyta
 ErrorMsg=Coordinate is outside known range for Caloplaca xantholyta
 DataFieldName=Species
 DataRecordId=BMSSYS0000003160
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

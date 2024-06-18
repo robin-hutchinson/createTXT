@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Isthmoplea sphaeropho
 ErrorMsg=Coordinate is outside known range for Isthmoplea sphaerophora
 DataFieldName=Species
 DataRecordId=NHMSYS0000568233
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

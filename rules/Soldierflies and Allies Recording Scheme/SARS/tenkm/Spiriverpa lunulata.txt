@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Spiriverpa lunulata
 ErrorMsg=Coordinate is outside known range for Spiriverpa lunulata
 DataFieldName=Species
 DataRecordId=NBNSYS0000189495
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Myriospora scabrida
 ErrorMsg=Coordinate is outside known range for Myriospora scabrida
 DataFieldName=Species
 DataRecordId=NHMSYS0020990632
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

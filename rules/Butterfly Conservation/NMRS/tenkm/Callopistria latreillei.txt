@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Callopistria latreill
 ErrorMsg=Coordinate is outside known range for Callopistria latreillei
 DataFieldName=Species
 DataRecordId=NBNSYS0000006405
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Sympecma fusca
 Tvk=NBNSYS0000005618
 StartDate=
 EndDate=18001231
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

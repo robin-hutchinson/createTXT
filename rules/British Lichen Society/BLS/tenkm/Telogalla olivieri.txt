@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Telogalla olivieri
 ErrorMsg=Coordinate is outside known range for Telogalla olivieri
 DataFieldName=Species
 DataRecordId=NHMSYS0001499424
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

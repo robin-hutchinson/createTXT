@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agrotis exclamationis
 ErrorMsg=Coordinate is outside known range for Agrotis exclamationis
 DataFieldName=Species
 DataRecordId=NBNSYS0000006175
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

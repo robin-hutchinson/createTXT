@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Synthymia fixa
 Tvk=NBNSYS0000006501
 StartDate=19370623
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Capreolus capreolus
 ErrorMsg=Coordinate is outside known range for Capreolus capreolus
 DataFieldName=Species
 DataRecordId=NHMSYS0000080203
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

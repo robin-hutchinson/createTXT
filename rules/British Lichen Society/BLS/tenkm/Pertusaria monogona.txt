@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria monogona
 ErrorMsg=Coordinate is outside known range for Pertusaria monogona
 DataFieldName=Species
 DataRecordId=NBNSYS0000019402
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

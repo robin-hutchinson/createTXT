@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rinodina roboris var.
 ErrorMsg=Coordinate is outside known range for Rinodina roboris var. armeriicola
 DataFieldName=Species
 DataRecordId=NBNSYS0000041627
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

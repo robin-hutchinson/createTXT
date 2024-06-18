@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptosphaerulina pelt
 ErrorMsg=Coordinate is outside known range for Leptosphaerulina peltigerae
 DataFieldName=Species
 DataRecordId=BMSSYS0000010440
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

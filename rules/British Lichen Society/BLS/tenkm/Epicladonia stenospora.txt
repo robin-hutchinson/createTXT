@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Epicladonia stenospor
 ErrorMsg=Coordinate is outside known range for Epicladonia stenospora
 DataFieldName=Species
 DataRecordId=BMSSYS0000006608
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

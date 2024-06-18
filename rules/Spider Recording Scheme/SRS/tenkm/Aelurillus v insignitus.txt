@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aelurillus v-insignit
 ErrorMsg=Coordinate is outside known range for Aelurillus v-insignitus
 DataFieldName=Species
 DataRecordId=NBNSYS0100001425
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Amblyptilia punctidac
 ErrorMsg=Coordinate is outside known range for Amblyptilia punctidactyla
 DataFieldName=Species
 DataRecordId=NHMSYS0000501211
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

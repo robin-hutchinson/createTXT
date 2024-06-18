@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladonia convoluta
 ErrorMsg=Coordinate is outside known range for Cladonia convoluta
 DataFieldName=Species
 DataRecordId=NHMSYS0000362056
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

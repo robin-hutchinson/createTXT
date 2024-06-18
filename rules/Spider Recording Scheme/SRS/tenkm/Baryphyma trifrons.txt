@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Baryphyma trifrons
 ErrorMsg=Coordinate is outside known range for Baryphyma trifrons
 DataFieldName=Species
 DataRecordId=NBNSYS0000009015
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

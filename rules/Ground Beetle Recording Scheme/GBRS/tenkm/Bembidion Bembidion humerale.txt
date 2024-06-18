@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Bembidion)
 ErrorMsg=Coordinate is outside known range for Bembidion (Bembidion) humerale
 DataFieldName=Species
 DataRecordId=NBNSYS0100001928
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

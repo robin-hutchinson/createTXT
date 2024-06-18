@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anser indicus
 ErrorMsg=Coordinate is outside known range for Anser indicus
 DataFieldName=Species
 DataRecordId=NHMSYS0000532807
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

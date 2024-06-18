@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria internigre
 ErrorMsg=Coordinate is outside known range for Verrucaria internigrescens
 DataFieldName=Species
 DataRecordId=NBNSYS0000020689
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

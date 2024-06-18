@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Parectropis similaria
 ErrorMsg=Coordinate is outside known range for Parectropis similaria
 DataFieldName=Species
 DataRecordId=NBNSYS0100004476
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

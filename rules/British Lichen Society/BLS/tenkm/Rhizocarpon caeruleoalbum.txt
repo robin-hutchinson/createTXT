@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhizocarpon caeruleoa
 ErrorMsg=Coordinate is outside known range for Rhizocarpon caeruleoalbum
 DataFieldName=Species
 DataRecordId=NBNSYS0000039746
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

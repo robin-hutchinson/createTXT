@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhizocarpon subpostum
 ErrorMsg=Coordinate is outside known range for Rhizocarpon subpostumum
 DataFieldName=Species
 DataRecordId=BMSSYS0000016246
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

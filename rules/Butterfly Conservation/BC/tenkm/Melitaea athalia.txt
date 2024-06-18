@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Melitaea athalia
 ErrorMsg=Coordinate is outside known range for Melitaea athalia
 DataFieldName=Species
 DataRecordId=NHMSYS0000503190
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

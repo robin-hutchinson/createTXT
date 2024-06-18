@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Euplagia quadripuncta
 ErrorMsg=Coordinate is outside known range for Euplagia quadripunctaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000006153
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

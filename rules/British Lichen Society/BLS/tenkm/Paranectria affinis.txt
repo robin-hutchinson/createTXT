@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Paranectria affinis
 ErrorMsg=Coordinate is outside known range for Paranectria affinis
 DataFieldName=Species
 DataRecordId=NBNSYS0000018080
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

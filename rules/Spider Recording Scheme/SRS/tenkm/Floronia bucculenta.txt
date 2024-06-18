@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Floronia bucculenta
 ErrorMsg=Coordinate is outside known range for Floronia bucculenta
 DataFieldName=Species
 DataRecordId=NBNSYS0000009202
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

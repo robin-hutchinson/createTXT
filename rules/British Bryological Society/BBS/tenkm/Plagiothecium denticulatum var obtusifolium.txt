@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Plagiothecium denticu
 ErrorMsg=Coordinate is outside known range for Plagiothecium denticulatum var. obtusifolium
 DataFieldName=Species
 DataRecordId=NHMSYS0000310326
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

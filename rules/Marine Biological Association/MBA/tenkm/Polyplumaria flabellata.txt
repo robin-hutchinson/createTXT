@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polyplumaria flabella
 ErrorMsg=Coordinate is outside known range for Polyplumaria flabellata
 DataFieldName=Species
 DataRecordId=NHMSYS0019996944
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oniscus asellus
 ErrorMsg=Coordinate is outside known range for Oniscus asellus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008561
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Adomerus biguttatus
 ErrorMsg=Coordinate is outside known range for Adomerus biguttatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020308901
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

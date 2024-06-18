@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polysporina cyclocarp
 ErrorMsg=Coordinate is outside known range for Polysporina cyclocarpa
 DataFieldName=Species
 DataRecordId=NHMSYS0001494549
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

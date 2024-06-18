@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Normandina acroglypta
 ErrorMsg=Coordinate is outside known range for Normandina acroglypta
 DataFieldName=Species
 DataRecordId=BMSSYS0000012114
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

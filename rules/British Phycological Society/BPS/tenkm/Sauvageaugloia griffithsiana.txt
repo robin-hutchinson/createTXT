@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sauvageaugloia griffi
 ErrorMsg=Coordinate is outside known range for Sauvageaugloia griffithsiana
 DataFieldName=Species
 DataRecordId=NHMSYS0000377614
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

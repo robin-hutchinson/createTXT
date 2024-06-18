@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pseudephebe minuscula
 ErrorMsg=Coordinate is outside known range for Pseudephebe minuscula
 DataFieldName=Species
 DataRecordId=BMSSYS0000015429
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

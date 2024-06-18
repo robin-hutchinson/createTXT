@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calicium salicinum
 ErrorMsg=Coordinate is outside known range for Calicium salicinum
 DataFieldName=Species
 DataRecordId=NBNSYS0000015541
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

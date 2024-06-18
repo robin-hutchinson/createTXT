@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Daphnis nerii
 ErrorMsg=Coordinate is outside known range for Daphnis nerii
 DataFieldName=Species
 DataRecordId=NBNSYS0000006073
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

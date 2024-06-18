@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Haplodrassus dalmaten
 ErrorMsg=Coordinate is outside known range for Haplodrassus dalmatensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008646
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

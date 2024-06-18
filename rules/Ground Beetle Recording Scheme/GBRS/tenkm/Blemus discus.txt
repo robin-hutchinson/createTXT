@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Blemus discus
 ErrorMsg=Coordinate is outside known range for Blemus discus
 DataFieldName=Species
 DataRecordId=NHMSYS0001717333
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

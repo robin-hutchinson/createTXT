@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Colocasia coryli
 ErrorMsg=Coordinate is outside known range for Colocasia coryli
 DataFieldName=Species
 DataRecordId=NBNSYS0000006530
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

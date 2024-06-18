@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bucephala clangula
 ErrorMsg=Coordinate is outside known range for Bucephala clangula
 DataFieldName=Species
 DataRecordId=NBNSYS0000000191
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

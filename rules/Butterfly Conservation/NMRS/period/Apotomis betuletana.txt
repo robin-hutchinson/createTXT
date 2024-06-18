@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Apotomis betuletana
 Tvk=NHMSYS0000501152
 StartDate=17000101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

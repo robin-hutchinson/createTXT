@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Baeomyces placophyllu
 ErrorMsg=Coordinate is outside known range for Baeomyces placophyllus
 DataFieldName=Species
 DataRecordId=NBNSYS0000017046
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

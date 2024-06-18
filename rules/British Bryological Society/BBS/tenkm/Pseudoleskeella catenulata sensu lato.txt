@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pseudoleskeella caten
 ErrorMsg=Coordinate is outside known range for Pseudoleskeella catenulata sensu lato
 DataFieldName=Species
 DataRecordId=NHMSYS0000310903
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

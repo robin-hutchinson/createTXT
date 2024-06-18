@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphaerophorus globosu
 ErrorMsg=Coordinate is outside known range for Sphaerophorus globosus
 DataFieldName=Species
 DataRecordId=NBNSYS0000015580
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

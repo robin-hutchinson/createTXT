@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lithophane consocia
 ErrorMsg=Coordinate is outside known range for Lithophane consocia
 DataFieldName=Species
 DataRecordId=NHMSYS0001703673
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

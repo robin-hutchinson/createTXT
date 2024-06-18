@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Camarota curvipennis
 ErrorMsg=Coordinate is outside known range for Camarota curvipennis
 DataFieldName=Species
 DataRecordId=NBNSYS0000029941
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Micrargus laudatus
 ErrorMsg=Coordinate is outside known range for Micrargus laudatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000009079
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

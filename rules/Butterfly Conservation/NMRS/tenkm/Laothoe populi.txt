@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Laothoe populi
 ErrorMsg=Coordinate is outside known range for Laothoe populi
 DataFieldName=Species
 DataRecordId=NBNSYS0000006069
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

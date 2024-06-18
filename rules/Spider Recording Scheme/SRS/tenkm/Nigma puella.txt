@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nigma puella
 ErrorMsg=Coordinate is outside known range for Nigma puella
 DataFieldName=Species
 DataRecordId=NBNSYS0000008618
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

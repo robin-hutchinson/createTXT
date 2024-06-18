@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bacidia viridescens a
 ErrorMsg=Coordinate is outside known range for Bacidia viridescens auct. brit.
 DataFieldName=Species
 DataRecordId=NHMSYS0001475449
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

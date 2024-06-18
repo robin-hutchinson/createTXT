@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Lestes barbarus
 Tvk=NBNSYS0000005612
 StartDate=20020101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

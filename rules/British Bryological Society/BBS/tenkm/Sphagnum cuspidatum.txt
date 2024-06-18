@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphagnum cuspidatum
 ErrorMsg=Coordinate is outside known range for Sphagnum cuspidatum
 DataFieldName=Species
 DataRecordId=NBNSYS0000036095
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

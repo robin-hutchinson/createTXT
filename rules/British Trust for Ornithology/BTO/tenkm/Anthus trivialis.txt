@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anthus trivialis
 ErrorMsg=Coordinate is outside known range for Anthus trivialis
 DataFieldName=Species
 DataRecordId=NHMSYS0000530162
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Harpalus (Harpalus) cupreus
 Tvk=NBNSYS0100003339
 StartDate=
 EndDate=19141213
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

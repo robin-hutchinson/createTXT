@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aspicilia melanaspis
 ErrorMsg=Coordinate is outside known range for Aspicilia melanaspis
 DataFieldName=Species
 DataRecordId=NBNSYS0000018199
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

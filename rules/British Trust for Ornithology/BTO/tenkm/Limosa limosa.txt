@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Limosa limosa
 ErrorMsg=Coordinate is outside known range for Limosa limosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000000145
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

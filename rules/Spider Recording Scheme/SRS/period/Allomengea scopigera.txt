@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Allomengea scopigera
 Tvk=NBNSYS0000009240
 StartDate=18930101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

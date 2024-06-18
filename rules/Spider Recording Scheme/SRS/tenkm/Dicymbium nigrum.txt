@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dicymbium nigrum
 ErrorMsg=Coordinate is outside known range for Dicymbium nigrum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008990
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

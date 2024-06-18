@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hydropsyche bulgaroma
 ErrorMsg=Coordinate is outside known range for Hydropsyche bulgaromanorum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008414
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Liocoris tripustulatu
 ErrorMsg=Coordinate is outside known range for Liocoris tripustulatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020109262
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

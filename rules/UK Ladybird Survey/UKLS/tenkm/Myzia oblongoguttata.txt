@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Myzia oblongoguttata
 ErrorMsg=Coordinate is outside known range for Myzia oblongoguttata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008331
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

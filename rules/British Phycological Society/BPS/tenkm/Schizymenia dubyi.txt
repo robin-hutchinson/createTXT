@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Schizymenia dubyi
 ErrorMsg=Coordinate is outside known range for Schizymenia dubyi
 DataFieldName=Species
 DataRecordId=NHMSYS0000568308
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

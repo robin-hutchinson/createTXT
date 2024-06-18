@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Endocarpon pusillum v
 ErrorMsg=Coordinate is outside known range for Endocarpon pusillum var. pallidum
 DataFieldName=Species
 DataRecordId=BMSSYS0000006356
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

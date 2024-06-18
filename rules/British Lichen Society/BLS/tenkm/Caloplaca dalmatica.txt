@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca dalmatica
 ErrorMsg=Coordinate is outside known range for Caloplaca dalmatica
 DataFieldName=Species
 DataRecordId=NHMSYS0001476640
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

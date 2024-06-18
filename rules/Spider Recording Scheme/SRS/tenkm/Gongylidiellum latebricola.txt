@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gongylidiellum latebr
 ErrorMsg=Coordinate is outside known range for Gongylidiellum latebricola
 DataFieldName=Species
 DataRecordId=NBNSYS0000009074
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

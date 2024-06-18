@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nectriopsis lecanodes
 ErrorMsg=Coordinate is outside known range for Nectriopsis lecanodes
 DataFieldName=Species
 DataRecordId=NHMSYS0001490745
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

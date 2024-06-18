@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Platyarthrus hoffmann
 ErrorMsg=Coordinate is outside known range for Platyarthrus hoffmannseggii
 DataFieldName=Species
 DataRecordId=NHMSYS0020302568
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pylaiella littoralis
 ErrorMsg=Coordinate is outside known range for Pylaiella littoralis
 DataFieldName=Species
 DataRecordId=NHMSYS0000377608
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

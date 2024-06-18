@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Fulgensia fulgens
 ErrorMsg=Coordinate is outside known range for Fulgensia fulgens
 DataFieldName=Species
 DataRecordId=NBNSYS0000020569
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

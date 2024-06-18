@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Boergeseniella frutic
 ErrorMsg=Coordinate is outside known range for Boergeseniella fruticulosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000174157
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

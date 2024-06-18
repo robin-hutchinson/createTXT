@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladonia borealis
 ErrorMsg=Coordinate is outside known range for Cladonia borealis
 DataFieldName=Species
 DataRecordId=BMSSYS0000003892
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria viridula
 ErrorMsg=Coordinate is outside known range for Verrucaria viridula
 DataFieldName=Species
 DataRecordId=NBNSYS0000020709
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

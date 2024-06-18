@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calosoma sycophanta
 ErrorMsg=Coordinate is outside known range for Calosoma sycophanta
 DataFieldName=Species
 DataRecordId=NBNSYS0000007144
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dromia personata
 ErrorMsg=Coordinate is outside known range for Dromia personata
 DataFieldName=Species
 DataRecordId=NBNSYS0000175034
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diarsia rubi
 ErrorMsg=Coordinate is outside known range for Diarsia rubi
 DataFieldName=Species
 DataRecordId=NBNSYS0000006214
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

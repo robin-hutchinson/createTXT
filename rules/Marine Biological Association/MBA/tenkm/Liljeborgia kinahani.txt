@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Liljeborgia kinahani
 ErrorMsg=Coordinate is outside known range for Liljeborgia kinahani
 DataFieldName=Species
 DataRecordId=NBNSYS0000176134
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

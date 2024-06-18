@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acrochaete operculata
 ErrorMsg=Coordinate is outside known range for Acrochaete operculata
 DataFieldName=Species
 DataRecordId=NHMSYS0000567737
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

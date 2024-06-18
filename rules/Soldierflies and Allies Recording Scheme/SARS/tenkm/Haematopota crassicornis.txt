@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Haematopota crassicor
 ErrorMsg=Coordinate is outside known range for Haematopota crassicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007872
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

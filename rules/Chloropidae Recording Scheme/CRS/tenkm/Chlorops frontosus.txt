@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chlorops frontosus
 ErrorMsg=Coordinate is outside known range for Chlorops frontosus
 DataFieldName=Species
 DataRecordId=NBNSYS0100002363
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

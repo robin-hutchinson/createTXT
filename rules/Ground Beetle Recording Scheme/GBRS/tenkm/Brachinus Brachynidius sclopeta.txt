@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachinus (Brachynidi
 ErrorMsg=Coordinate is outside known range for Brachinus (Brachynidius) sclopeta
 DataFieldName=Species
 DataRecordId=NHMSYS0001717368
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

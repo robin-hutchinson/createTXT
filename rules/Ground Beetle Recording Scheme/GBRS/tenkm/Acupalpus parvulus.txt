@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acupalpus parvulus
 ErrorMsg=Coordinate is outside known range for Acupalpus parvulus
 DataFieldName=Species
 DataRecordId=NHMSYS0001716499
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

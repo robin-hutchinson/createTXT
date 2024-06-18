@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthonia apotheciorum
 ErrorMsg=Coordinate is outside known range for Arthonia apotheciorum
 DataFieldName=Species
 DataRecordId=BMSSYS0000001639
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

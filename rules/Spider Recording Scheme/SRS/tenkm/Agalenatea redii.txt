@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agalenatea redii
 ErrorMsg=Coordinate is outside known range for Agalenatea redii
 DataFieldName=Species
 DataRecordId=NBNSYS0100001382
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

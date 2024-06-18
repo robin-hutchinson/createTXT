@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Larus marinus
 ErrorMsg=Coordinate is outside known range for Larus marinus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000036
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caenis robusta
 ErrorMsg=Coordinate is outside known range for Caenis robusta
 DataFieldName=Species
 DataRecordId=NBNSYS0000010905
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

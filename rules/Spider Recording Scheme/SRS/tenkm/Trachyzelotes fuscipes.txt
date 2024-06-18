@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trachyzelotes fuscipe
 ErrorMsg=Coordinate is outside known range for Trachyzelotes fuscipes
 DataFieldName=Species
 DataRecordId=NHMSYS0000354403
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

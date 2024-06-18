@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aglaothamnion roseum
 ErrorMsg=Coordinate is outside known range for Aglaothamnion roseum
 DataFieldName=Species
 DataRecordId=NHMSYS0000567762
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

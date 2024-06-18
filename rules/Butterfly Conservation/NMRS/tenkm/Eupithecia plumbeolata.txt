@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eupithecia plumbeolat
 ErrorMsg=Coordinate is outside known range for Eupithecia plumbeolata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005896
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

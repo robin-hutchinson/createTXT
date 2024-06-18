@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Colotois pennaria
 ErrorMsg=Coordinate is outside known range for Colotois pennaria
 DataFieldName=Species
 DataRecordId=NHMSYS0000501963
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

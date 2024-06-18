@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Melogona voigti
 ErrorMsg=Coordinate is outside known range for Melogona voigti
 DataFieldName=Species
 DataRecordId=NHMSYS0000356277
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

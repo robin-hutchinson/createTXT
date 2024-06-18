@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Philomachus pugnax
 ErrorMsg=Coordinate is outside known range for Philomachus pugnax
 DataFieldName=Species
 DataRecordId=NBNSYS0000000153
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

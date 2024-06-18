@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ennomos erosaria
 ErrorMsg=Coordinate is outside known range for Ennomos erosaria
 DataFieldName=Species
 DataRecordId=NHMSYS0021144194
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

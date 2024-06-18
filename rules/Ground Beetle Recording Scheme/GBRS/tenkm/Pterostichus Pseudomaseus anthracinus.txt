@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pterostichus (Pseudom
 ErrorMsg=Coordinate is outside known range for Pterostichus (Pseudomaseus) anthracinus
 DataFieldName=Species
 DataRecordId=NHMSYS0001719790
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

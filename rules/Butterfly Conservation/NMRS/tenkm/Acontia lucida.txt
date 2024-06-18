@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acontia lucida
 ErrorMsg=Coordinate is outside known range for Acontia lucida
 DataFieldName=Species
 DataRecordId=NBNSYS0000006521
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

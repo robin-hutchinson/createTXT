@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Neriene clathrata
 Tvk=NBNSYS0100004232
 StartDate=18330101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

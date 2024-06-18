@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Idaea seriata
 ErrorMsg=Coordinate is outside known range for Idaea seriata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005780
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

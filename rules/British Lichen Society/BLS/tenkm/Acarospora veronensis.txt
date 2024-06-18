@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acarospora veronensis
 ErrorMsg=Coordinate is outside known range for Acarospora veronensis
 DataFieldName=Species
 DataRecordId=NHMSYS0001472799
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

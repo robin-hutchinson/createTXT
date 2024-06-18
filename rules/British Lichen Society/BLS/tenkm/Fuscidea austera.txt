@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Fuscidea austera
 ErrorMsg=Coordinate is outside known range for Fuscidea austera
 DataFieldName=Species
 DataRecordId=NBNSYS0000018485
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

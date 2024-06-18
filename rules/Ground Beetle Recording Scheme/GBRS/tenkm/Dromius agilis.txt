@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dromius agilis
 ErrorMsg=Coordinate is outside known range for Dromius agilis
 DataFieldName=Species
 DataRecordId=NHMSYS0001717970
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

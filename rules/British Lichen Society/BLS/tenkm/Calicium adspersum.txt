@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calicium adspersum
 ErrorMsg=Coordinate is outside known range for Calicium adspersum
 DataFieldName=Species
 DataRecordId=NBNSYS0000015534
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

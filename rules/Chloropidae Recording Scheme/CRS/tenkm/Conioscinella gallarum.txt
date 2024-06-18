@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Conioscinella gallaru
 ErrorMsg=Coordinate is outside known range for Conioscinella gallarum
 DataFieldName=Species
 DataRecordId=NBNSYS0000029878
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porella obtusata
 ErrorMsg=Coordinate is outside known range for Porella obtusata
 DataFieldName=Species
 DataRecordId=NHMSYS0000310404
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

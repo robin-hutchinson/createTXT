@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acosmetia caliginosa
 ErrorMsg=Coordinate is outside known range for Acosmetia caliginosa
 DataFieldName=Species
 DataRecordId=NHMSYS0021144548
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

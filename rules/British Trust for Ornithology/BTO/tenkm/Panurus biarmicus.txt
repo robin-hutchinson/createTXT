@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Panurus biarmicus
 ErrorMsg=Coordinate is outside known range for Panurus biarmicus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530526
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

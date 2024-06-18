@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eristalis arbustorum
 ErrorMsg=Coordinate is outside known range for Eristalis arbustorum
 DataFieldName=Species
 DataRecordId=NBNSYS0000007047
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

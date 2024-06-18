@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Baeomyces rufus
 ErrorMsg=Coordinate is outside known range for Baeomyces rufus
 DataFieldName=Species
 DataRecordId=NBNSYS0000017048
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

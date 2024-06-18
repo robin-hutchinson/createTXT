@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Muscicapa striata
 ErrorMsg=Coordinate is outside known range for Muscicapa striata
 DataFieldName=Species
 DataRecordId=NHMSYS0000530498
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

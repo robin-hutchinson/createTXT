@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gitanopsis bispinosa
 ErrorMsg=Coordinate is outside known range for Gitanopsis bispinosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000182247
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

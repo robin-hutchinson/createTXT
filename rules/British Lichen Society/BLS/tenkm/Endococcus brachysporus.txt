@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Endococcus brachyspor
 ErrorMsg=Coordinate is outside known range for Endococcus brachysporus
 DataFieldName=Species
 DataRecordId=NHMSYS0001481379
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

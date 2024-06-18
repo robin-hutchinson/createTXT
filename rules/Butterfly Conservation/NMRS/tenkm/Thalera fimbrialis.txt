@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thalera fimbrialis
 ErrorMsg=Coordinate is outside known range for Thalera fimbrialis
 DataFieldName=Species
 DataRecordId=NBNSYS0000005745
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

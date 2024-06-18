@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hydroptila valesiaca
 ErrorMsg=Coordinate is outside known range for Hydroptila valesiaca
 DataFieldName=Species
 DataRecordId=NBNSYS0000008364
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

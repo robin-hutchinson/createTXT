@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Larus canus
 ErrorMsg=Coordinate is outside known range for Larus canus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000354
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Compsonema minutum
 ErrorMsg=Coordinate is outside known range for Compsonema minutum
 DataFieldName=Species
 DataRecordId=NHMSYS0000377560
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

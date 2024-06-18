@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Alectoria sarmentosa 
 ErrorMsg=Coordinate is outside known range for Alectoria sarmentosa subsp. sarmentosa
 DataFieldName=Species
 DataRecordId=NHMSYS0001474319
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

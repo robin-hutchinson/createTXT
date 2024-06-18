@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Noctua janthe
 ErrorMsg=Coordinate is outside known range for Noctua janthe
 DataFieldName=Species
 DataRecordId=NHMSYS0000503389
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

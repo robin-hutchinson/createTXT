@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Schaereria corticola
 ErrorMsg=Coordinate is outside known range for Schaereria corticola
 DataFieldName=Species
 DataRecordId=NBNSYS0000039785
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

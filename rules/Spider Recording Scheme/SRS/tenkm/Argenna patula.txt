@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Argenna patula
 ErrorMsg=Coordinate is outside known range for Argenna patula
 DataFieldName=Species
 DataRecordId=NBNSYS0000008625
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

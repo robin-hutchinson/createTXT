@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Melangyna quadrimacul
 ErrorMsg=Coordinate is outside known range for Melangyna quadrimaculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000006928
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

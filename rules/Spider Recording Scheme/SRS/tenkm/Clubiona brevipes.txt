@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Clubiona brevipes
 ErrorMsg=Coordinate is outside known range for Clubiona brevipes
 DataFieldName=Species
 DataRecordId=NBNSYS0000008688
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

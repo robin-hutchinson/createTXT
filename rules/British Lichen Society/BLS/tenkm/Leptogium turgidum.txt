@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptogium turgidum
 ErrorMsg=Coordinate is outside known range for Leptogium turgidum
 DataFieldName=Species
 DataRecordId=NBNSYS0000018791
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

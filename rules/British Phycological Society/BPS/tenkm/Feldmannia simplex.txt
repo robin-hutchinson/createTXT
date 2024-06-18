@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Feldmannia simplex
 ErrorMsg=Coordinate is outside known range for Feldmannia simplex
 DataFieldName=Species
 DataRecordId=NHMSYS0000568160
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

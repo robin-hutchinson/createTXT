@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Psolus phantapus
 ErrorMsg=Coordinate is outside known range for Psolus phantapus
 DataFieldName=Species
 DataRecordId=NBNSYS0000177571
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

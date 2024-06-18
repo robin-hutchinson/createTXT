@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Solieria chordalis
 ErrorMsg=Coordinate is outside known range for Solieria chordalis
 DataFieldName=Species
 DataRecordId=NHMSYS0000568324
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

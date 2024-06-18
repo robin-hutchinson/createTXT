@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lepraria elobata
 ErrorMsg=Coordinate is outside known range for Lepraria elobata
 DataFieldName=Species
 DataRecordId=BMSSYS0000010284
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

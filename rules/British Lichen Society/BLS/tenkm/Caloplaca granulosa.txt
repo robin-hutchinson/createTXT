@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca granulosa
 ErrorMsg=Coordinate is outside known range for Caloplaca granulosa
 DataFieldName=Species
 DataRecordId=NHMSYS0020989893
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ropalospora viridis
 ErrorMsg=Coordinate is outside known range for Ropalospora viridis
 DataFieldName=Species
 DataRecordId=BMSSYS0000016450
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

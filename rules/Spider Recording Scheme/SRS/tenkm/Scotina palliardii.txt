@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scotina palliardii
 ErrorMsg=Coordinate is outside known range for Scotina palliardii
 DataFieldName=Species
 DataRecordId=NBNSYS0100005466
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

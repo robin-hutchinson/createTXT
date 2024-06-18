@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lichenodiplis licheni
 ErrorMsg=Coordinate is outside known range for Lichenodiplis lichenicola
 DataFieldName=Species
 DataRecordId=BMSSYS0000010668
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

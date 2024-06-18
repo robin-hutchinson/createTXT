@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thermutis velutina
 ErrorMsg=Coordinate is outside known range for Thermutis velutina
 DataFieldName=Species
 DataRecordId=NBNSYS0000019087
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Zevadia peroccidental
 ErrorMsg=Coordinate is outside known range for Zevadia peroccidentalis
 DataFieldName=Species
 DataRecordId=BMSSYS0000019863
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

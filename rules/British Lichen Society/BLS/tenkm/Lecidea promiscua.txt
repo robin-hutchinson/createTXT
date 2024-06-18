@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecidea promiscua
 ErrorMsg=Coordinate is outside known range for Lecidea promiscua
 DataFieldName=Species
 DataRecordId=BMSSYS0000009988
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

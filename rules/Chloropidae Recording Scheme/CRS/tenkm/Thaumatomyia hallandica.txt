@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thaumatomyia hallandi
 ErrorMsg=Coordinate is outside known range for Thaumatomyia hallandica
 DataFieldName=Species
 DataRecordId=NBNSYS0000030009
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

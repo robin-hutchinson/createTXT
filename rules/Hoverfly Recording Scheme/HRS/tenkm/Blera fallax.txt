@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Blera fallax
 ErrorMsg=Coordinate is outside known range for Blera fallax
 DataFieldName=Species
 DataRecordId=NBNSYS0000007099
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

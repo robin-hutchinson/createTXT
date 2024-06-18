@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Entelecara errata
 ErrorMsg=Coordinate is outside known range for Entelecara errata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008998
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

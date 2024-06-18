@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Protoblastenia sieben
 ErrorMsg=Coordinate is outside known range for Protoblastenia siebenhaariana
 DataFieldName=Species
 DataRecordId=NHMSYS0001494806
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Carabus (Morphocarabu
 ErrorMsg=Coordinate is outside known range for Carabus (Morphocarabus) monilis
 DataFieldName=Species
 DataRecordId=NHMSYS0001717528
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

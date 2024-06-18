@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polia hepatica
 ErrorMsg=Coordinate is outside known range for Polia hepatica
 DataFieldName=Species
 DataRecordId=NBNSYS0000154404
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

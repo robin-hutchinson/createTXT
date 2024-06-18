@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oedipodium griffithia
 ErrorMsg=Coordinate is outside known range for Oedipodium griffithianum
 DataFieldName=Species
 DataRecordId=NBNSYS0000036531
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

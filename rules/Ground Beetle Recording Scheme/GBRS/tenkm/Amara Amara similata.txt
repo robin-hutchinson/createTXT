@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Amara (Amara) similat
 ErrorMsg=Coordinate is outside known range for Amara (Amara) similata
 DataFieldName=Species
 DataRecordId=NHMSYS0001716733
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

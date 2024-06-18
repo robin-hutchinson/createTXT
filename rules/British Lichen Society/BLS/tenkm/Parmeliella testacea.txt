@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Parmeliella testacea
 ErrorMsg=Coordinate is outside known range for Parmeliella testacea
 DataFieldName=Species
 DataRecordId=NBNSYS0000018914
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

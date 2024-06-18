@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Peritrechus geniculat
 ErrorMsg=Coordinate is outside known range for Peritrechus geniculatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309631
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

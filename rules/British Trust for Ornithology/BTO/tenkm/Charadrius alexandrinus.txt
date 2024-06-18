@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Charadrius alexandrin
 ErrorMsg=Coordinate is outside known range for Charadrius alexandrinus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000159
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

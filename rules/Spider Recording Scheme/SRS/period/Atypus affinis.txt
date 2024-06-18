@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Atypus affinis
 Tvk=NBNSYS0000008608
 StartDate=18850101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

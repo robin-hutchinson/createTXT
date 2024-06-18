@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhopalopterum atricil
 ErrorMsg=Coordinate is outside known range for Rhopalopterum atricilla
 DataFieldName=Species
 DataRecordId=NBNSYS0000029922
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

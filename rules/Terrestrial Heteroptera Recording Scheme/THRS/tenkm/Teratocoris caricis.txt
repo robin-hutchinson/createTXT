@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Teratocoris caricis
 ErrorMsg=Coordinate is outside known range for Teratocoris caricis
 DataFieldName=Species
 DataRecordId=NHMSYS0020309887
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Adelolecia pilati
 ErrorMsg=Coordinate is outside known range for Adelolecia pilati
 DataFieldName=Species
 DataRecordId=NBNSYS0000018706
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Ephemera lineata
 Tvk=NBNSYS0000010898
 StartDate=18700101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

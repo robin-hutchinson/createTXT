@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Callopistria latreillei
 Tvk=NBNSYS0000006405
 StartDate=20061027
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

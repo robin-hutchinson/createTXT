@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Megacoelum infusum
 ErrorMsg=Coordinate is outside known range for Megacoelum infusum
 DataFieldName=Species
 DataRecordId=NHMSYS0020309423
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

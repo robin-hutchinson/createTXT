@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Alsophila aescularia
 ErrorMsg=Coordinate is outside known range for Alsophila aescularia
 DataFieldName=Species
 DataRecordId=NHMSYS0021144210
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

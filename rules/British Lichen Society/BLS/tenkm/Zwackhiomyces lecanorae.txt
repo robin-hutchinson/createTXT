@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Zwackhiomyces lecanor
 ErrorMsg=Coordinate is outside known range for Zwackhiomyces lecanorae
 DataFieldName=Species
 DataRecordId=NHMSYS0001502131
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

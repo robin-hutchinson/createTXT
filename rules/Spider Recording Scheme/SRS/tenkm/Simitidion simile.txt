@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Simitidion simile
 ErrorMsg=Coordinate is outside known range for Simitidion simile
 DataFieldName=Species
 DataRecordId=NBNSYS0100005521
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

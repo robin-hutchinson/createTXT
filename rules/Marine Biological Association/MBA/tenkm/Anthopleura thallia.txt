@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anthopleura thallia
 ErrorMsg=Coordinate is outside known range for Anthopleura thallia
 DataFieldName=Species
 DataRecordId=NBNSYS0000173856
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

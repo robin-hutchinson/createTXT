@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Larus michahellis
 ErrorMsg=Coordinate is outside known range for Larus michahellis
 DataFieldName=Species
 DataRecordId=NHMSYS0001688279
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

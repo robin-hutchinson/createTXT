@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Exochomus quadripustu
 ErrorMsg=Coordinate is outside known range for Exochomus quadripustulatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008312
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecania fructigena
 ErrorMsg=Coordinate is outside known range for Lecania fructigena
 DataFieldName=Species
 DataRecordId=NHMSYS0020039020
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

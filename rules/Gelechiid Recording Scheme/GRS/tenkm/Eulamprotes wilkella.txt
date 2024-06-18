@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eulamprotes wilkella
 ErrorMsg=Coordinate is outside known range for Eulamprotes wilkella
 DataFieldName=Species
 DataRecordId=NHMSYS0000502577
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

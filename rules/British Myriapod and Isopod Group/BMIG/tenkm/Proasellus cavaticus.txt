@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Proasellus cavaticus
 ErrorMsg=Coordinate is outside known range for Proasellus cavaticus
 DataFieldName=Species
 DataRecordId=NBNSYS0000188496
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

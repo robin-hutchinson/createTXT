@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acompocoris pygmaeus
 ErrorMsg=Coordinate is outside known range for Acompocoris pygmaeus
 DataFieldName=Species
 DataRecordId=NHMSYS0020308892
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

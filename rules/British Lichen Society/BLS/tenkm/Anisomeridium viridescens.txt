@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anisomeridium virides
 ErrorMsg=Coordinate is outside known range for Anisomeridium viridescens
 DataFieldName=Species
 DataRecordId=BMSSYS0000001475
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

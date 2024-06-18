@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porphyra drachii
 ErrorMsg=Coordinate is outside known range for Porphyra drachii
 DataFieldName=Species
 DataRecordId=NHMSYS0000568113
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

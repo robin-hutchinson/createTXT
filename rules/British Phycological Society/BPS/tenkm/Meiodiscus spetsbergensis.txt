@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meiodiscus spetsberge
 ErrorMsg=Coordinate is outside known range for Meiodiscus spetsbergensis
 DataFieldName=Species
 DataRecordId=NHMSYS0000568004
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

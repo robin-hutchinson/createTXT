@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Habrophlebia fusca
 ErrorMsg=Coordinate is outside known range for Habrophlebia fusca
 DataFieldName=Species
 DataRecordId=NBNSYS0000010888
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

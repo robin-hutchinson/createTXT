@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Topeliopsis azorica
 ErrorMsg=Coordinate is outside known range for Topeliopsis azorica
 DataFieldName=Species
 DataRecordId=NHMSYS0020536243
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

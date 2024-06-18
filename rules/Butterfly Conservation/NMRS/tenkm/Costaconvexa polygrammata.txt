@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Costaconvexa polygram
 ErrorMsg=Coordinate is outside known range for Costaconvexa polygrammata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005819
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

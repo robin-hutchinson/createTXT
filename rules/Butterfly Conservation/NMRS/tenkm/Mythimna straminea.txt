@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mythimna straminea
 ErrorMsg=Coordinate is outside known range for Mythimna straminea
 DataFieldName=Species
 DataRecordId=NBNSYS0000006290
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

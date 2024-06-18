@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Calopteryx virgo
 Tvk=NBNSYS0000005616
 StartDate=19650101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

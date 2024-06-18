@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thelocarpon strasseri
 ErrorMsg=Coordinate is outside known range for Thelocarpon strasseri
 DataFieldName=Species
 DataRecordId=BMSSYS0000018498
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

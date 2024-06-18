@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Jania rubens
 ErrorMsg=Coordinate is outside known range for Jania rubens
 DataFieldName=Species
 DataRecordId=NHMSYS0000568237
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Islandiana falsifica
 ErrorMsg=Coordinate is outside known range for Islandiana falsifica
 DataFieldName=Species
 DataRecordId=NHMSYS0020953679
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

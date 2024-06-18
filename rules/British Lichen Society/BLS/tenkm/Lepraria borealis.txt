@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lepraria borealis
 ErrorMsg=Coordinate is outside known range for Lepraria borealis
 DataFieldName=Species
 DataRecordId=BMSSYS0000010275
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

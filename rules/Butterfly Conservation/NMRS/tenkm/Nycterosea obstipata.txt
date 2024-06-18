@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nycterosea obstipata
 ErrorMsg=Coordinate is outside known range for Nycterosea obstipata
 DataFieldName=Species
 DataRecordId=NHMSYS0021143912
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

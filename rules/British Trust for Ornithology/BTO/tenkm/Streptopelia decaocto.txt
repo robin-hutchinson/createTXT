@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Streptopelia decaocto
 ErrorMsg=Coordinate is outside known range for Streptopelia decaocto
 DataFieldName=Species
 DataRecordId=NHMSYS0000530621
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

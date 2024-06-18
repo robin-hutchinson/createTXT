@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nola confusalis
 ErrorMsg=Coordinate is outside known range for Nola confusalis
 DataFieldName=Species
 DataRecordId=NHMSYS0000503395
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

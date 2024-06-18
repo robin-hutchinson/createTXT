@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trichocolea tomentell
 ErrorMsg=Coordinate is outside known range for Trichocolea tomentella
 DataFieldName=Species
 DataRecordId=NHMSYS0000310803
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

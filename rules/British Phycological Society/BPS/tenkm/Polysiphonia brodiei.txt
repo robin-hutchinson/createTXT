@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polysiphonia brodiei
 ErrorMsg=Coordinate is outside known range for Polysiphonia brodiei
 DataFieldName=Species
 DataRecordId=NBNSYS0000177400
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

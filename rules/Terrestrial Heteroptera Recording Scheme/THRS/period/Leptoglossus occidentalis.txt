@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Leptoglossus occidentalis
 Tvk=NHMSYS0020476639
 StartDate=20060101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

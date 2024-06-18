@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chrysotoxum bicinctum
 ErrorMsg=Coordinate is outside known range for Chrysotoxum bicinctum
 DataFieldName=Species
 DataRecordId=NBNSYS0000006894
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

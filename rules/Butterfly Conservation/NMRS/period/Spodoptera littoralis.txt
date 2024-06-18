@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Spodoptera littoralis
 Tvk=NBNSYS0000006491
 StartDate=19600901
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

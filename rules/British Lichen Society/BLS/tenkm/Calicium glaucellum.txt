@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calicium glaucellum
 ErrorMsg=Coordinate is outside known range for Calicium glaucellum
 DataFieldName=Species
 DataRecordId=NBNSYS0000015537
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

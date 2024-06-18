@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Harpocera thoracica
 ErrorMsg=Coordinate is outside known range for Harpocera thoracica
 DataFieldName=Species
 DataRecordId=NHMSYS0020109258
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

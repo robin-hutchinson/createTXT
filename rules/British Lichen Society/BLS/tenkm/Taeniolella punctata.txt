@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Taeniolella punctata
 ErrorMsg=Coordinate is outside known range for Taeniolella punctata
 DataFieldName=Species
 DataRecordId=BMSSYS0000018249
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

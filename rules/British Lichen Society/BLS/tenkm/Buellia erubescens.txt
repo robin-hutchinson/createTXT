@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Buellia erubescens
 ErrorMsg=Coordinate is outside known range for Buellia erubescens
 DataFieldName=Species
 DataRecordId=NBNSYS0000018273
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

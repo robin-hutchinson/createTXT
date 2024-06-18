@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Semljicola caliginosu
 ErrorMsg=Coordinate is outside known range for Semljicola caliginosus
 DataFieldName=Species
 DataRecordId=NBNSYS0100005488
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

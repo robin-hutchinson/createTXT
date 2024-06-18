@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Codium vermilara
 ErrorMsg=Coordinate is outside known range for Codium vermilara
 DataFieldName=Species
 DataRecordId=NBNSYS0000174658
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

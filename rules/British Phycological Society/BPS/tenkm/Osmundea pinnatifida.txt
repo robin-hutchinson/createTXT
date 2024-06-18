@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Osmundea pinnatifida
 ErrorMsg=Coordinate is outside known range for Osmundea pinnatifida
 DataFieldName=Species
 DataRecordId=NBNSYS0000176913
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

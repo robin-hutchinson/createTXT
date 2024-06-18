@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Philodromus praedatus
 ErrorMsg=Coordinate is outside known range for Philodromus praedatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008743
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

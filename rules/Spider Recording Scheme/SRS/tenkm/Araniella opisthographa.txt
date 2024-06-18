@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Araniella opisthograp
 ErrorMsg=Coordinate is outside known range for Araniella opisthographa
 DataFieldName=Species
 DataRecordId=NBNSYS0100001625
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Somateria spectabilis
 ErrorMsg=Coordinate is outside known range for Somateria spectabilis
 DataFieldName=Species
 DataRecordId=NBNSYS0000000271
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

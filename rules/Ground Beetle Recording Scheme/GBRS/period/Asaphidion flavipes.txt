@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Asaphidion flavipes
 Tvk=NBNSYS0000007204
 StartDate=19860101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

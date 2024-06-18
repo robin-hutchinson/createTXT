@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lepthyphantes minutus
 ErrorMsg=Coordinate is outside known range for Lepthyphantes minutus
 DataFieldName=Species
 DataRecordId=NBNSYS0000009210
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

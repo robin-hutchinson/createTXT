@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Evernia prunastri
 ErrorMsg=Coordinate is outside known range for Evernia prunastri
 DataFieldName=Species
 DataRecordId=NBNSYS0000018480
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bifurcaria bifurcata
 ErrorMsg=Coordinate is outside known range for Bifurcaria bifurcata
 DataFieldName=Species
 DataRecordId=NHMSYS0000567796
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptocerus interruptu
 ErrorMsg=Coordinate is outside known range for Leptocerus interruptus
 DataFieldName=Species
 DataRecordId=NHMSYS0020442420
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

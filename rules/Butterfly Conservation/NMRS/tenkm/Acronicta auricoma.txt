@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acronicta auricoma
 ErrorMsg=Coordinate is outside known range for Acronicta auricoma
 DataFieldName=Species
 DataRecordId=NHMSYS0021144508
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

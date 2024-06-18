@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aroga velocella
 ErrorMsg=Coordinate is outside known range for Aroga velocella
 DataFieldName=Species
 DataRecordId=NHMSYS0000501403
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lygocoris (Lygocoris)
 ErrorMsg=Coordinate is outside known range for Lygocoris (Lygocoris) pabulinus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309387
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

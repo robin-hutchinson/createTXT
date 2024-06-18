@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aiptasia mutabilis au
 ErrorMsg=Coordinate is outside known range for Aiptasia mutabilis auct. brit.
 DataFieldName=Species
 DataRecordId=NBNSYS0000188415
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

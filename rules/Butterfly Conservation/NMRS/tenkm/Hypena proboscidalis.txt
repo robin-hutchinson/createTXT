@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hypena proboscidalis
 ErrorMsg=Coordinate is outside known range for Hypena proboscidalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000006581
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gymnogongrus griffith
 ErrorMsg=Coordinate is outside known range for Gymnogongrus griffithsiae
 DataFieldName=Species
 DataRecordId=NHMSYS0000567970
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

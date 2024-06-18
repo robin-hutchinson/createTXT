@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Beris morrisii
 ErrorMsg=Coordinate is outside known range for Beris morrisii
 DataFieldName=Species
 DataRecordId=NBNSYS0000007799
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca sorediella
 ErrorMsg=Coordinate is outside known range for Caloplaca sorediella
 DataFieldName=Species
 DataRecordId=NHMSYS0020039008
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

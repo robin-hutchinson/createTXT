@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Notiophilus germinyi
 Tvk=NBNSYS0000007161
 StartDate=19080101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

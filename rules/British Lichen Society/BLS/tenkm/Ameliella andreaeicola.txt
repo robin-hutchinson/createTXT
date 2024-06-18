@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ameliella andreaeicol
 ErrorMsg=Coordinate is outside known range for Ameliella andreaeicola
 DataFieldName=Species
 DataRecordId=NHMSYS0020987448
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

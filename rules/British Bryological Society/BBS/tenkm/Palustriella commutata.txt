@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Palustriella commutat
 ErrorMsg=Coordinate is outside known range for Palustriella commutata
 DataFieldName=Species
 DataRecordId=NBNSYS0000153140
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

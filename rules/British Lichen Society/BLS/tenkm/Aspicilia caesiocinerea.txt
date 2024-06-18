@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aspicilia caesiociner
 ErrorMsg=Coordinate is outside known range for Aspicilia caesiocinerea
 DataFieldName=Species
 DataRecordId=NBNSYS0000018181
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

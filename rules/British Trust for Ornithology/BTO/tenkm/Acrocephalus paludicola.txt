@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acrocephalus paludico
 ErrorMsg=Coordinate is outside known range for Acrocephalus paludicola
 DataFieldName=Species
 DataRecordId=NHMSYS0000530127
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

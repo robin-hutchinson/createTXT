@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Riccia subbifurca
 ErrorMsg=Coordinate is outside known range for Riccia subbifurca
 DataFieldName=Species
 DataRecordId=NHMSYS0000310452
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

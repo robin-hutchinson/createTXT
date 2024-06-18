@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sabra harpagula
 ErrorMsg=Coordinate is outside known range for Sabra harpagula
 DataFieldName=Species
 DataRecordId=NBNSYS0000005722
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

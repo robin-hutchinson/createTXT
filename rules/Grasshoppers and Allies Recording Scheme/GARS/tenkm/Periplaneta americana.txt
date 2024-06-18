@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Periplaneta americana
 ErrorMsg=Coordinate is outside known range for Periplaneta americana
 DataFieldName=Species
 DataRecordId=NBNSYS0000006852
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

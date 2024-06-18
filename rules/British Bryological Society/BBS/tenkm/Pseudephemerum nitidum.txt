@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pseudephemerum nitidu
 ErrorMsg=Coordinate is outside known range for Pseudephemerum nitidum
 DataFieldName=Species
 DataRecordId=NHMSYS0000310497
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

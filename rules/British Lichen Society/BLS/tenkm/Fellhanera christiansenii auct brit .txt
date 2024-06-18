@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Fellhanera christians
 ErrorMsg=Coordinate is outside known range for Fellhanera christiansenii auct. brit.
 DataFieldName=Species
 DataRecordId= non Sérus. & Vězda
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 NA

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Helcystogramma lutate
 ErrorMsg=Coordinate is outside known range for Helcystogramma lutatella
 DataFieldName=Species
 DataRecordId=NBNSYS0100003379
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

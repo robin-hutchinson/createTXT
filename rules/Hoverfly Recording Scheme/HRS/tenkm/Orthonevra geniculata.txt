@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orthonevra geniculata
 ErrorMsg=Coordinate is outside known range for Orthonevra geniculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007033
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

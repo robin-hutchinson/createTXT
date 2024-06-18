@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Agyneta decora
 Tvk=NBNSYS0000009150
 StartDate=19000101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

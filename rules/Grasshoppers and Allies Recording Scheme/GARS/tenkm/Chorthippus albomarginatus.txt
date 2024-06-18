@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chorthippus albomargi
 ErrorMsg=Coordinate is outside known range for Chorthippus albomarginatus
 DataFieldName=Species
 DataRecordId=NHMSYS0001387286
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lygus punctatus
 ErrorMsg=Coordinate is outside known range for Lygus punctatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309397
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

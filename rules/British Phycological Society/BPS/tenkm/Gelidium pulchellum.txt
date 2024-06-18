@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gelidium pulchellum
 ErrorMsg=Coordinate is outside known range for Gelidium pulchellum
 DataFieldName=Species
 DataRecordId=NBNSYS0000175450
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

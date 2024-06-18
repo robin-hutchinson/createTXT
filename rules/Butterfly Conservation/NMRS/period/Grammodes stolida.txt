@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Grammodes stolida
 Tvk=NBNSYS0000006566
 StartDate=19030923
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

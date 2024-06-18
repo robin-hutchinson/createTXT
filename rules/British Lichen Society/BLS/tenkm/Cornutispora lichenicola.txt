@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cornutispora lichenic
 ErrorMsg=Coordinate is outside known range for Cornutispora lichenicola
 DataFieldName=Species
 DataRecordId=BMSSYS0000004779
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Balanus improvisus
 ErrorMsg=Coordinate is outside known range for Balanus improvisus
 DataFieldName=Species
 DataRecordId=NBNSYS0000033002
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

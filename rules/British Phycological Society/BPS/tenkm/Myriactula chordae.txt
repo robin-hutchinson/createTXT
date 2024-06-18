@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Myriactula chordae
 ErrorMsg=Coordinate is outside known range for Myriactula chordae
 DataFieldName=Species
 DataRecordId=NBNSYS0000184416
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

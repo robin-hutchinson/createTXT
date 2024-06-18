@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachydesmus superus
 ErrorMsg=Coordinate is outside known range for Brachydesmus superus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011372
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

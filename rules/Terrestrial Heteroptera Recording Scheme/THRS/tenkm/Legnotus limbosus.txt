@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Legnotus limbosus
 ErrorMsg=Coordinate is outside known range for Legnotus limbosus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309352
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

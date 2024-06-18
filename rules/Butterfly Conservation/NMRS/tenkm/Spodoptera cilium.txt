@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Spodoptera cilium
 ErrorMsg=Coordinate is outside known range for Spodoptera cilium
 DataFieldName=Species
 DataRecordId=NHMSYS0021144566
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

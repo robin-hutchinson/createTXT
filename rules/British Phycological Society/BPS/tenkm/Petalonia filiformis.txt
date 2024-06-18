@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Petalonia filiformis
 ErrorMsg=Coordinate is outside known range for Petalonia filiformis
 DataFieldName=Species
 DataRecordId=NBNSYS0000177079
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

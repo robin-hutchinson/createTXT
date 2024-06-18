@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Machimus atricapillus
 ErrorMsg=Coordinate is outside known range for Machimus atricapillus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007901
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

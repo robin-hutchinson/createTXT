@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Minutophoma chrysopht
 ErrorMsg=Coordinate is outside known range for Minutophoma chrysophthalmae
 DataFieldName=Species
 DataRecordId=BMSSYS0000011362
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

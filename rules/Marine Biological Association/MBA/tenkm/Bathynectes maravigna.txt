@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bathynectes maravigna
 ErrorMsg=Coordinate is outside known range for Bathynectes maravigna
 DataFieldName=Species
 DataRecordId=NBNSYS0000179715
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

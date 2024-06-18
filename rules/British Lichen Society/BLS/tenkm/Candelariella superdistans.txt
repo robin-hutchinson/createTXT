@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Candelariella superdi
 ErrorMsg=Coordinate is outside known range for Candelariella superdistans
 DataFieldName=Species
 DataRecordId=NHMSYS0001476796
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

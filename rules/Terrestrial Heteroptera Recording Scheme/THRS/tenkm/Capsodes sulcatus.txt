@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Capsodes sulcatus
 ErrorMsg=Coordinate is outside known range for Capsodes sulcatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309040
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

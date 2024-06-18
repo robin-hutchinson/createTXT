@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bilimbia sabuletorum
 ErrorMsg=Coordinate is outside known range for Bilimbia sabuletorum
 DataFieldName=Species
 DataRecordId=BMSSYS0000002547
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

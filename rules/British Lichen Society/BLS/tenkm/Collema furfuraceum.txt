@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Collema furfuraceum
 ErrorMsg=Coordinate is outside known range for Collema furfuraceum
 DataFieldName=Species
 DataRecordId=NBNSYS0000018442
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agonimia gelatinosa
 ErrorMsg=Coordinate is outside known range for Agonimia gelatinosa
 DataFieldName=Species
 DataRecordId=BMSSYS0000001190
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

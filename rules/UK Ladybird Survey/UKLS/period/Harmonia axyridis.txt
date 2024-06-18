@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Harmonia axyridis
 Tvk=NHMSYS0000712592
 StartDate=20040101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

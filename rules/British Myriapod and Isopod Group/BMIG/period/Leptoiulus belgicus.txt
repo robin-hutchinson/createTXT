@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Leptoiulus belgicus
 Tvk=NBNSYS0000011383
 StartDate=19220101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

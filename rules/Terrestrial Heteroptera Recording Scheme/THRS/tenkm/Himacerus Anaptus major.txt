@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Himacerus (Anaptus) m
 ErrorMsg=Coordinate is outside known range for Himacerus (Anaptus) major
 DataFieldName=Species
 DataRecordId=NHMSYS0020309313
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

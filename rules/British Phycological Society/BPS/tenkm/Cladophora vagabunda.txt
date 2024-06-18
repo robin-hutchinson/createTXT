@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladophora vagabunda
 ErrorMsg=Coordinate is outside known range for Cladophora vagabunda
 DataFieldName=Species
 DataRecordId=NHMSYS0000567889
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

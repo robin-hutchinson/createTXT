@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthorhoe quadrifasi
 ErrorMsg=Coordinate is outside known range for Xanthorhoe quadrifasiata
 DataFieldName=Species
 DataRecordId=MM0001Z100BZSUG1
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gymnoscelis rufifasci
 ErrorMsg=Coordinate is outside known range for Gymnoscelis rufifasciata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005950
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

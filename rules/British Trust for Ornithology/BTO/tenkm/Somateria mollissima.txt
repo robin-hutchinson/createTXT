@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Somateria mollissima
 ErrorMsg=Coordinate is outside known range for Somateria mollissima
 DataFieldName=Species
 DataRecordId=NBNSYS0000000197
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

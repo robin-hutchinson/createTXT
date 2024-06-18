@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oritoniscus flavus
 ErrorMsg=Coordinate is outside known range for Oritoniscus flavus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008551
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

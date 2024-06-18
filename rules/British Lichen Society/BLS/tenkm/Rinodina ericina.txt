@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rinodina ericina
 ErrorMsg=Coordinate is outside known range for Rinodina ericina
 DataFieldName=Species
 DataRecordId=NHMSYS0001496490
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

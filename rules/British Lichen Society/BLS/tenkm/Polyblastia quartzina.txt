@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polyblastia quartzina
 ErrorMsg=Coordinate is outside known range for Polyblastia quartzina
 DataFieldName=Species
 DataRecordId=NBNSYS0000020629
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

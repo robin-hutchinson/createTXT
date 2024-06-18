@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ennomos quercinaria
 ErrorMsg=Coordinate is outside known range for Ennomos quercinaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000006003
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

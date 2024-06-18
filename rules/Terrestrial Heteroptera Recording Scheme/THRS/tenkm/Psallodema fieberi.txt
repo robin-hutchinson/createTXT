@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Psallodema fieberi
 ErrorMsg=Coordinate is outside known range for Psallodema fieberi
 DataFieldName=Species
 DataRecordId=NHMSYS0020309716
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

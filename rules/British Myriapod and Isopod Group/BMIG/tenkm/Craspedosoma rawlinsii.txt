@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Craspedosoma rawlinsi
 ErrorMsg=Coordinate is outside known range for Craspedosoma rawlinsii
 DataFieldName=Species
 DataRecordId=NHMSYS0020108469
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Gnaphosa occidentalis
 Tvk=NBNSYS0000008666
 StartDate=19220101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

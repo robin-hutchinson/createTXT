@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Greilada elegans
 ErrorMsg=Coordinate is outside known range for Greilada elegans
 DataFieldName=Species
 DataRecordId=NBNSYS0000175561
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

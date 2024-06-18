@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Heterogaster artemisi
 ErrorMsg=Coordinate is outside known range for Heterogaster artemisiae
 DataFieldName=Species
 DataRecordId=NHMSYS0020309306
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

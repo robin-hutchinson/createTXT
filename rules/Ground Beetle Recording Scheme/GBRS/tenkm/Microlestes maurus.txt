@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Microlestes maurus
 ErrorMsg=Coordinate is outside known range for Microlestes maurus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007478
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

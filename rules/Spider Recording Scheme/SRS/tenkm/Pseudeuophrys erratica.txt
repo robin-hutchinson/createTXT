@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pseudeuophrys erratic
 ErrorMsg=Coordinate is outside known range for Pseudeuophrys erratica
 DataFieldName=Species
 DataRecordId=NBNSYS0100004904
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

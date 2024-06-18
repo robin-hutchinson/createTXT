@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nemoura dubitans
 ErrorMsg=Coordinate is outside known range for Nemoura dubitans
 DataFieldName=Species
 DataRecordId=NBNSYS0000022422
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

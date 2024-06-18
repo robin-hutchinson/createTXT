@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ramonia interjecta
 ErrorMsg=Coordinate is outside known range for Ramonia interjecta
 DataFieldName=Species
 DataRecordId=BMSSYS0000015988
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

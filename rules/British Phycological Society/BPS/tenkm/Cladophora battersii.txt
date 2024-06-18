@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladophora battersii
 ErrorMsg=Coordinate is outside known range for Cladophora battersii
 DataFieldName=Species
 DataRecordId=NHMSYS0000567886
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

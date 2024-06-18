@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scapania irrigua
 ErrorMsg=Coordinate is outside known range for Scapania irrigua
 DataFieldName=Species
 DataRecordId=NBNSYS0000035931
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

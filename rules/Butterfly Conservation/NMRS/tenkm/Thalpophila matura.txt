@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thalpophila matura
 ErrorMsg=Coordinate is outside known range for Thalpophila matura
 DataFieldName=Species
 DataRecordId=NBNSYS0000006399
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

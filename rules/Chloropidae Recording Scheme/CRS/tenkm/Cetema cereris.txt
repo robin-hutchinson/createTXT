@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cetema cereris
 ErrorMsg=Coordinate is outside known range for Cetema cereris
 DataFieldName=Species
 DataRecordId=NBNSYS0000029975
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

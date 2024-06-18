@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lateroligia ophiogram
 ErrorMsg=Coordinate is outside known range for Lateroligia ophiogramma
 DataFieldName=Species
 DataRecordId=NHMSYS0021144683
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

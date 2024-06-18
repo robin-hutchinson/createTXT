@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acarospora subrufula
 ErrorMsg=Coordinate is outside known range for Acarospora subrufula
 DataFieldName=Species
 DataRecordId=NBNSYS0000018162
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lunularia cruciata
 ErrorMsg=Coordinate is outside known range for Lunularia cruciata
 DataFieldName=Species
 DataRecordId=NHMSYS0000309936
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

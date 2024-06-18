@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hada plebeja
 ErrorMsg=Coordinate is outside known range for Hada plebeja
 DataFieldName=Species
 DataRecordId=NHMSYS0000502789
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Motacilla flava thunb
 ErrorMsg=Coordinate is outside known range for Motacilla flava thunbergi
 DataFieldName=Species
 DataRecordId=NBNSYS0000001344
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

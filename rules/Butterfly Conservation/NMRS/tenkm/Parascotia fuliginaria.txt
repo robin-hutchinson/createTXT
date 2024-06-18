@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Parascotia fuliginari
 ErrorMsg=Coordinate is outside known range for Parascotia fuliginaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000006579
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

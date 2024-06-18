@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Talavera petrensis
 ErrorMsg=Coordinate is outside known range for Talavera petrensis
 DataFieldName=Species
 DataRecordId=NBNSYS0100005698
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

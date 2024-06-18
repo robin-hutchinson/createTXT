@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora atrosulphure
 ErrorMsg=Coordinate is outside known range for Lecanora atrosulphurea
 DataFieldName=Species
 DataRecordId=NBNSYS0000018571
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

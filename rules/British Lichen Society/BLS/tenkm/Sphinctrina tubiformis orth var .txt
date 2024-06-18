@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphinctrina tubiformi
 ErrorMsg=Coordinate is outside known range for Sphinctrina tubiformis orth. var.
 DataFieldName=Species
 DataRecordId=NBNSYS0000015584
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

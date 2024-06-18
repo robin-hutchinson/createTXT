@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria geminipara
 ErrorMsg=Coordinate is outside known range for Pertusaria geminipara
 DataFieldName=Species
 DataRecordId=NBNSYS0000019367
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

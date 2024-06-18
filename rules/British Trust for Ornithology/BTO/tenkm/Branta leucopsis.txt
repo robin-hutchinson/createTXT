@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Branta leucopsis
 ErrorMsg=Coordinate is outside known range for Branta leucopsis
 DataFieldName=Species
 DataRecordId=NBNSYS0000000214
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

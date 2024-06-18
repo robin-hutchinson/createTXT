@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Neofriseria peliella
 ErrorMsg=Coordinate is outside known range for Neofriseria peliella
 DataFieldName=Species
 DataRecordId=NHMSYS0000503366
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

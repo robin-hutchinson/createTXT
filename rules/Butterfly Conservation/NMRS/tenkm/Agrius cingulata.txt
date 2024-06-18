@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agrius cingulata
 ErrorMsg=Coordinate is outside known range for Agrius cingulata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005251
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

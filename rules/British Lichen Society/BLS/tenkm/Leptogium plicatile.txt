@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptogium plicatile
 ErrorMsg=Coordinate is outside known range for Leptogium plicatile
 DataFieldName=Species
 DataRecordId=NBNSYS0000018786
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

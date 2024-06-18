@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Zanclognatha zelleralis
 Tvk=NBNSYS0100006033
 StartDate=19820721
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

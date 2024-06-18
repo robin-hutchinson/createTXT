@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sagiolechia protubera
 ErrorMsg=Coordinate is outside known range for Sagiolechia protuberans
 DataFieldName=Species
 DataRecordId=NBNSYS0000016949
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

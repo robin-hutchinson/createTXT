@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lejogaster tarsata
 ErrorMsg=Coordinate is outside known range for Lejogaster tarsata
 DataFieldName=Species
 DataRecordId=NBNSYS0000150120
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

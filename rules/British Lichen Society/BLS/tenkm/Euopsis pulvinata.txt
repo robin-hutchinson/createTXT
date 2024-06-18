@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Euopsis pulvinata
 ErrorMsg=Coordinate is outside known range for Euopsis pulvinata
 DataFieldName=Species
 DataRecordId=NHMSYS0001482000
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

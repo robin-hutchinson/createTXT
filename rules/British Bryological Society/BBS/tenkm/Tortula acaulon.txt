@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tortula acaulon
 ErrorMsg=Coordinate is outside known range for Tortula acaulon
 DataFieldName=Species
 DataRecordId=NBNSYS0100005848
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

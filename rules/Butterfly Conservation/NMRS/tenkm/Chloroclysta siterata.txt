@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chloroclysta siterata
 ErrorMsg=Coordinate is outside known range for Chloroclysta siterata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005840
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

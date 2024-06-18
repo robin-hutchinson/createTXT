@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Protanthea simplex
 ErrorMsg=Coordinate is outside known range for Protanthea simplex
 DataFieldName=Species
 DataRecordId=NBNSYS0000177518
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Antithamnion cruciatu
 ErrorMsg=Coordinate is outside known range for Antithamnion cruciatum
 DataFieldName=Species
 DataRecordId=NHMSYS0000567773
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

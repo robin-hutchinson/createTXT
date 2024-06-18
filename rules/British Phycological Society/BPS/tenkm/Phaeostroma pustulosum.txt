@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phaeostroma pustulosu
 ErrorMsg=Coordinate is outside known range for Phaeostroma pustulosum
 DataFieldName=Species
 DataRecordId=NBNSYS0000185542
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

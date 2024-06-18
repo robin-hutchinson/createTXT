@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Halecania viridescens
 ErrorMsg=Coordinate is outside known range for Halecania viridescens
 DataFieldName=Species
 DataRecordId=NHMSYS0001483510
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

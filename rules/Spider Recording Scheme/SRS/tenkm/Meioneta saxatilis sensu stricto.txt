@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meioneta saxatilis se
 ErrorMsg=Coordinate is outside known range for Meioneta saxatilis sensu stricto
 DataFieldName=Species
 DataRecordId=NBNSYS0200000055
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

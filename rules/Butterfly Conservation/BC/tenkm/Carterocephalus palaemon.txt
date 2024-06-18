@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Carterocephalus palae
 ErrorMsg=Coordinate is outside known range for Carterocephalus palaemon
 DataFieldName=Species
 DataRecordId=NHMSYS0000501644
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

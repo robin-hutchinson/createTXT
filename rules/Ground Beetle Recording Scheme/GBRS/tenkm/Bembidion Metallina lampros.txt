@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Metallina)
 ErrorMsg=Coordinate is outside known range for Bembidion (Metallina) lampros
 DataFieldName=Species
 DataRecordId=NBNSYS0100001945
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptocerus tineiformi
 ErrorMsg=Coordinate is outside known range for Leptocerus tineiformis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008524
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

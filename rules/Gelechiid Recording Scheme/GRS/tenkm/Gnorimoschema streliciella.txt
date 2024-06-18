@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gnorimoschema strelic
 ErrorMsg=Coordinate is outside known range for Gnorimoschema streliciella
 DataFieldName=Species
 DataRecordId=NHMSYS0000502746
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

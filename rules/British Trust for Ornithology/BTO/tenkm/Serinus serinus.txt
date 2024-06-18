@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Serinus serinus
 ErrorMsg=Coordinate is outside known range for Serinus serinus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530599
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bacidia saxenii
 ErrorMsg=Coordinate is outside known range for Bacidia saxenii
 DataFieldName=Species
 DataRecordId=NBNSYS0000039578
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

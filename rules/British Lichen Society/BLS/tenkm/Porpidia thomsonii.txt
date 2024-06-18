@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porpidia thomsonii
 ErrorMsg=Coordinate is outside known range for Porpidia thomsonii
 DataFieldName=Species
 DataRecordId=NHMSYS0001494699
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

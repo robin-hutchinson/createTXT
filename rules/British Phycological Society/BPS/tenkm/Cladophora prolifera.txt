@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladophora prolifera
 ErrorMsg=Coordinate is outside known range for Cladophora prolifera
 DataFieldName=Species
 DataRecordId=NBNSYS0000180535
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

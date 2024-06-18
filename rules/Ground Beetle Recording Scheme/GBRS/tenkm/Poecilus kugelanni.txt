@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Poecilus kugelanni
 ErrorMsg=Coordinate is outside known range for Poecilus kugelanni
 DataFieldName=Species
 DataRecordId=NHMSYS0001719655
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

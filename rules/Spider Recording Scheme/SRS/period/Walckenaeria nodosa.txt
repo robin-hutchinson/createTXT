@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Walckenaeria nodosa
 Tvk=NBNSYS0000008974
 StartDate=18500101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Rangifer tarandus
 Tvk=NBNSYS0000005183
 StartDate=19520101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

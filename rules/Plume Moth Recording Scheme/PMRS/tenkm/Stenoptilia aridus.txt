@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stenoptilia aridus
 ErrorMsg=Coordinate is outside known range for Stenoptilia aridus
 DataFieldName=Species
 DataRecordId=NBNSYS0100005591
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

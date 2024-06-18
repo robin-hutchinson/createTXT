@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladonia monomorpha
 ErrorMsg=Coordinate is outside known range for Cladonia monomorpha
 DataFieldName=Species
 DataRecordId=NHMSYS0001477653
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

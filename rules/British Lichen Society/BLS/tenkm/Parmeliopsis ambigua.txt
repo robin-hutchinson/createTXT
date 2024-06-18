@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Parmeliopsis ambigua
 ErrorMsg=Coordinate is outside known range for Parmeliopsis ambigua
 DataFieldName=Species
 DataRecordId=NBNSYS0000153259
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

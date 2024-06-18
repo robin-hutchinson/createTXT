@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thanatus formicinus
 ErrorMsg=Coordinate is outside known range for Thanatus formicinus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008753
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

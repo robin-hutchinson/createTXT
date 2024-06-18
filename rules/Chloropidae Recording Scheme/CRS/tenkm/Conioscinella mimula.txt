@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Conioscinella mimula
 ErrorMsg=Coordinate is outside known range for Conioscinella mimula
 DataFieldName=Species
 DataRecordId=NBNSYS0000029880
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

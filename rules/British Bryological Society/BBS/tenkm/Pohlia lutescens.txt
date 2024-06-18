@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pohlia lutescens
 ErrorMsg=Coordinate is outside known range for Pohlia lutescens
 DataFieldName=Species
 DataRecordId=NHMSYS0000310373
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

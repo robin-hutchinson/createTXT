@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Protarchanara brevili
 ErrorMsg=Coordinate is outside known range for Protarchanara brevilinea
 DataFieldName=Species
 DataRecordId=NHMSYS0021144654
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

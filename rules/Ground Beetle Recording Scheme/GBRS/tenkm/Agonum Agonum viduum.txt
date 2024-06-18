@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agonum (Agonum) viduu
 ErrorMsg=Coordinate is outside known range for Agonum (Agonum) viduum
 DataFieldName=Species
 DataRecordId=NHMSYS0001716603
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

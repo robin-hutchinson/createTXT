@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Blaniulus guttulatus
 Tvk=NBNSYS0000011375
 StartDate=18140101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

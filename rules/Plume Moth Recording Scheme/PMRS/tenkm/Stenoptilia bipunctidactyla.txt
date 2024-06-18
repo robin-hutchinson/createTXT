@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stenoptilia bipunctid
 ErrorMsg=Coordinate is outside known range for Stenoptilia bipunctidactyla
 DataFieldName=Species
 DataRecordId=NHMSYS0000504309
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

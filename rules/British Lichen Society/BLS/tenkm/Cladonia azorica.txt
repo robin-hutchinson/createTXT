@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladonia azorica
 ErrorMsg=Coordinate is outside known range for Cladonia azorica
 DataFieldName=Species
 DataRecordId=NBNSYS0000039612
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

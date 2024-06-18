@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Tmeticus affinis
 Tvk=NBNSYS0000009003
 StartDate=18540101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

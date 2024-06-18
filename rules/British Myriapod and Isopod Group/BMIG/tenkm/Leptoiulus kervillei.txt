@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptoiulus kervillei
 ErrorMsg=Coordinate is outside known range for Leptoiulus kervillei
 DataFieldName=Species
 DataRecordId=NBNSYS0000011384
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anas platyrhynchos
 ErrorMsg=Coordinate is outside known range for Anas platyrhynchos
 DataFieldName=Species
 DataRecordId=NBNSYS0000000007
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

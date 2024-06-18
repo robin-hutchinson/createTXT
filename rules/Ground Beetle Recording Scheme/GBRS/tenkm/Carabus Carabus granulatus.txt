@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Carabus (Carabus) gra
 ErrorMsg=Coordinate is outside known range for Carabus (Carabus) granulatus
 DataFieldName=Species
 DataRecordId=NHMSYS0001717507
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

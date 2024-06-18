@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Asteronyx loveni
 ErrorMsg=Coordinate is outside known range for Asteronyx loveni
 DataFieldName=Species
 DataRecordId=NHMSYS0001908869
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

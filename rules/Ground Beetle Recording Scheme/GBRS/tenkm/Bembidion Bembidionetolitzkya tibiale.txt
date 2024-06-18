@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Bembidione
 ErrorMsg=Coordinate is outside known range for Bembidion (Bembidionetolitzkya) tibiale
 DataFieldName=Species
 DataRecordId=NBNSYS0100001934
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

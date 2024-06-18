@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pleuronectes platessa
 ErrorMsg=Coordinate is outside known range for Pleuronectes platessa
 DataFieldName=Species
 DataRecordId=NBNSYS0000177272
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

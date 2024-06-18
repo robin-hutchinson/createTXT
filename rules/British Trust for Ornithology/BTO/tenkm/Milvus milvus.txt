@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Milvus milvus
 ErrorMsg=Coordinate is outside known range for Milvus milvus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530482
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

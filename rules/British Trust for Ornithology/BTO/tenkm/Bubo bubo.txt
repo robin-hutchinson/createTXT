@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bubo bubo
 ErrorMsg=Coordinate is outside known range for Bubo bubo
 DataFieldName=Species
 DataRecordId=NHMSYS0000532935
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

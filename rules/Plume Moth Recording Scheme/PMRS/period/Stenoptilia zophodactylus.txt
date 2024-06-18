@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Stenoptilia zophodactylus
 Tvk=NHMSYS0000504317
 StartDate=18000101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

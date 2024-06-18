@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Atherix ibis
 ErrorMsg=Coordinate is outside known range for Atherix ibis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007858
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

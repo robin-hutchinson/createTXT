@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphaerophoria fatarum
 ErrorMsg=Coordinate is outside known range for Sphaerophoria fatarum
 DataFieldName=Species
 DataRecordId=NBNSYS0000006953
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

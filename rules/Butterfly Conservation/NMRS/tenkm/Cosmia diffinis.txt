@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cosmia diffinis
 ErrorMsg=Coordinate is outside known range for Cosmia diffinis
 DataFieldName=Species
 DataRecordId=NBNSYS0000006413
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

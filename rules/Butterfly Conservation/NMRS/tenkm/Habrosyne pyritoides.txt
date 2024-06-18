@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Habrosyne pyritoides
 ErrorMsg=Coordinate is outside known range for Habrosyne pyritoides
 DataFieldName=Species
 DataRecordId=NBNSYS0000005725
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

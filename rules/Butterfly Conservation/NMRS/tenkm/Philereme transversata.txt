@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Philereme transversat
 ErrorMsg=Coordinate is outside known range for Philereme transversata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005872
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

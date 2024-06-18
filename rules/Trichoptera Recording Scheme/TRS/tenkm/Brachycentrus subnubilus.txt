@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachycentrus subnubi
 ErrorMsg=Coordinate is outside known range for Brachycentrus subnubilus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008433
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sargus cuprarius
 ErrorMsg=Coordinate is outside known range for Sargus cuprarius
 DataFieldName=Species
 DataRecordId=NBNSYS0000007830
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

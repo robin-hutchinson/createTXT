@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mya arenaria
 ErrorMsg=Coordinate is outside known range for Mya arenaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000176553
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

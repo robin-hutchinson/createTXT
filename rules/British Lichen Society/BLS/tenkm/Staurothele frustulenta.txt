@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Staurothele frustulen
 ErrorMsg=Coordinate is outside known range for Staurothele frustulenta
 DataFieldName=Species
 DataRecordId=BMSSYS0000017888
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

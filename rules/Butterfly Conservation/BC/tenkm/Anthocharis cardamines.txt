@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anthocharis cardamine
 ErrorMsg=Coordinate is outside known range for Anthocharis cardamines
 DataFieldName=Species
 DataRecordId=NHMSYS0000516186
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

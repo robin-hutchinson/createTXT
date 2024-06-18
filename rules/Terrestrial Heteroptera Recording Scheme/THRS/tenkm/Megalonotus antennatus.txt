@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Megalonotus antennatu
 ErrorMsg=Coordinate is outside known range for Megalonotus antennatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309431
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

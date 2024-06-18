@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca ferruginea 
 ErrorMsg=Coordinate is outside known range for Caloplaca ferruginea sensu auct. p.p. (saxicolous)
 DataFieldName=Species
 DataRecordId=NHMSYS0020987546
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

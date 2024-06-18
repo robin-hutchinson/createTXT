@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cymatophorina diluta
 ErrorMsg=Coordinate is outside known range for Cymatophorina diluta
 DataFieldName=Species
 DataRecordId=NHMSYS0021164634
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

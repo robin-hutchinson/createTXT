@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Psoroma hypnorum
 ErrorMsg=Coordinate is outside known range for Psoroma hypnorum
 DataFieldName=Species
 DataRecordId=NBNSYS0000018969
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

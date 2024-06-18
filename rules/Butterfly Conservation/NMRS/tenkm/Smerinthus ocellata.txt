@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Smerinthus ocellata
 ErrorMsg=Coordinate is outside known range for Smerinthus ocellata
 DataFieldName=Species
 DataRecordId=NBNSYS0000006068
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

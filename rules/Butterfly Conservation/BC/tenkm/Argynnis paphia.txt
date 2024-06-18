@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Argynnis paphia
 ErrorMsg=Coordinate is outside known range for Argynnis paphia
 DataFieldName=Species
 DataRecordId=NHMSYS0000501356
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

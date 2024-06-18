@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hoplodrina octogenari
 ErrorMsg=Coordinate is outside known range for Hoplodrina octogenaria
 DataFieldName=Species
 DataRecordId=NHMSYS0021144579
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

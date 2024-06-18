@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caradrina kadenii
 ErrorMsg=Coordinate is outside known range for Caradrina kadenii
 DataFieldName=Species
 DataRecordId=NHMSYS0021144575
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

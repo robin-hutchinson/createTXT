@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Macrargus rufus
 ErrorMsg=Coordinate is outside known range for Macrargus rufus
 DataFieldName=Species
 DataRecordId=NBNSYS0000009189
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

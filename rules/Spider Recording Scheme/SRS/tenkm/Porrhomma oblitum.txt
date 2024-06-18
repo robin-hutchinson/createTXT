@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porrhomma oblitum
 ErrorMsg=Coordinate is outside known range for Porrhomma oblitum
 DataFieldName=Species
 DataRecordId=NBNSYS0000009146
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

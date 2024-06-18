@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hypsosinga pygmaea
 ErrorMsg=Coordinate is outside known range for Hypsosinga pygmaea
 DataFieldName=Species
 DataRecordId=NBNSYS0000008957
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

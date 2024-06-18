@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stigmidium mycobilimb
 ErrorMsg=Coordinate is outside known range for Stigmidium mycobilimbiae
 DataFieldName=Species
 DataRecordId=BMSSYS0000018068
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

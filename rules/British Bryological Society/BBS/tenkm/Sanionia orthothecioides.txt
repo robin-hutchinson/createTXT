@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sanionia orthothecioi
 ErrorMsg=Coordinate is outside known range for Sanionia orthothecioides
 DataFieldName=Species
 DataRecordId=NBNSYS0000036828
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

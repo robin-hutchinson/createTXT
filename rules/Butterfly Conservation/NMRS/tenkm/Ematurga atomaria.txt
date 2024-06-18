@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ematurga atomaria
 ErrorMsg=Coordinate is outside known range for Ematurga atomaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000006044
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

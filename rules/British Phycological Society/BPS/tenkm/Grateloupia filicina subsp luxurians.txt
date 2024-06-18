@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Grateloupia filicina 
 ErrorMsg=Coordinate is outside known range for Grateloupia filicina subsp. luxurians
 DataFieldName=Species
 DataRecordId=NHMSYS0000377578
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Kaestneria dorsalis
 ErrorMsg=Coordinate is outside known range for Kaestneria dorsalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000009196
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

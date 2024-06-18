@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Deltote deceptoria
 Tvk=NBNSYS0000006517
 StartDate=19480101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

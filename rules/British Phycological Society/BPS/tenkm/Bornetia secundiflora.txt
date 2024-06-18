@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bornetia secundiflora
 ErrorMsg=Coordinate is outside known range for Bornetia secundiflora
 DataFieldName=Species
 DataRecordId=NHMSYS0000567811
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

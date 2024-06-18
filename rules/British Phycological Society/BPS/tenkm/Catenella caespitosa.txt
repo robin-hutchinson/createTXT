@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Catenella caespitosa
 ErrorMsg=Coordinate is outside known range for Catenella caespitosa
 DataFieldName=Species
 DataRecordId=NHMSYS0000567838
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Baldia johnstoni
 ErrorMsg=Coordinate is outside known range for Baldia johnstoni
 DataFieldName=Species
 DataRecordId=NBNSYS0000174083
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

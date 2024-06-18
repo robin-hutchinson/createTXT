@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Gortyna borelii borelii
 Tvk=NHMSYS0021144612
 StartDate=19680101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

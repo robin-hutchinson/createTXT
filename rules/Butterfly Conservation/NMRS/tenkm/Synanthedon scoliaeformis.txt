@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Synanthedon scoliaefo
 ErrorMsg=Coordinate is outside known range for Synanthedon scoliaeformis
 DataFieldName=Species
 DataRecordId=NBNSYS0000005691
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

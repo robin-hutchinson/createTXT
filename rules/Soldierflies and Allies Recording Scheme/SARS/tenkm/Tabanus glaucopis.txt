@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tabanus glaucopis
 ErrorMsg=Coordinate is outside known range for Tabanus glaucopis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007894
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Parmeliella triptophy
 ErrorMsg=Coordinate is outside known range for Parmeliella triptophylla
 DataFieldName=Species
 DataRecordId=NHMSYS0001491903
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

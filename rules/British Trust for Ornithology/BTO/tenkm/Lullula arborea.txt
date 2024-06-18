@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lullula arborea
 ErrorMsg=Coordinate is outside known range for Lullula arborea
 DataFieldName=Species
 DataRecordId=NHMSYS0000530459
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

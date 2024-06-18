@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Endectyon (Endectyon)
 ErrorMsg=Coordinate is outside known range for Endectyon (Endectyon) delaubenfelsi
 DataFieldName=Species
 DataRecordId=NHMSYS0020752351
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

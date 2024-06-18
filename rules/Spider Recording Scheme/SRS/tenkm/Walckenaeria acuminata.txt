@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Walckenaeria acuminat
 ErrorMsg=Coordinate is outside known range for Walckenaeria acuminata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008969
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

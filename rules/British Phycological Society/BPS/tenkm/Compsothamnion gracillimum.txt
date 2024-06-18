@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Compsothamnion gracil
 ErrorMsg=Coordinate is outside known range for Compsothamnion gracillimum
 DataFieldName=Species
 DataRecordId=NBNSYS0000174680
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

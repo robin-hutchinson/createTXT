@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oxypselaphus obscurus
 ErrorMsg=Coordinate is outside known range for Oxypselaphus obscurus
 DataFieldName=Species
 DataRecordId=NHMSYS0001719419
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

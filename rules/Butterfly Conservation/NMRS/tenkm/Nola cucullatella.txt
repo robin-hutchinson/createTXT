@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nola cucullatella
 ErrorMsg=Coordinate is outside known range for Nola cucullatella
 DataFieldName=Species
 DataRecordId=NBNSYS0000006163
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

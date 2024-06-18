@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thecla betulae
 ErrorMsg=Coordinate is outside known range for Thecla betulae
 DataFieldName=Species
 DataRecordId=NHMSYS0000504486
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

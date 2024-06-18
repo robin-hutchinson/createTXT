@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Stauropus fagi
 Tvk=NBNSYS0000006085
 StartDate=17000101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

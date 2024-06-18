@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphaerophoria interru
 ErrorMsg=Coordinate is outside known range for Sphaerophoria interrupta
 DataFieldName=Species
 DataRecordId=NBNSYS0000157028
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

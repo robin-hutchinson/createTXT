@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sitticus distinguendu
 ErrorMsg=Coordinate is outside known range for Sitticus distinguendus
 DataFieldName=Species
 DataRecordId=NHMSYS0020001406
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

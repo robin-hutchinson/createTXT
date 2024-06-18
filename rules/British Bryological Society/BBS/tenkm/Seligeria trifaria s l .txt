@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Seligeria trifaria s.
 ErrorMsg=Coordinate is outside known range for Seligeria trifaria s.l.
 DataFieldName=Species
 DataRecordId=NHMSYS0020636805
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

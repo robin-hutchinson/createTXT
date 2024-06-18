@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Scutigera coleoptrata
 Tvk=NBNSYS0000011447
 StartDate=19070101
 EndDate=
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]

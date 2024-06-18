@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Lymnaeum) 
 ErrorMsg=Coordinate is outside known range for Bembidion (Lymnaeum) nigropiceum
 DataFieldName=Species
 DataRecordId=NBNSYS0100001944
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

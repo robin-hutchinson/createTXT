@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aspicilia contorta su
 ErrorMsg=Coordinate is outside known range for Aspicilia contorta subsp. hoffmanniana
 DataFieldName=Species
 DataRecordId=NHMSYS0020989755
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

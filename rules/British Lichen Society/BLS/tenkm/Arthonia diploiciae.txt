@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthonia diploiciae
 ErrorMsg=Coordinate is outside known range for Arthonia diploiciae
 DataFieldName=Species
 DataRecordId=BMSSYS0000001651
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_Ireland]

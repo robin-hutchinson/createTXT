@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphegina clunipes
 ErrorMsg=Coordinate is outside known range for Sphegina clunipes
 DataFieldName=Species
 DataRecordId=NBNSYS0000007036
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

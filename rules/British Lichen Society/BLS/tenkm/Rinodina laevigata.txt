@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rinodina laevigata
 ErrorMsg=Coordinate is outside known range for Rinodina laevigata
 DataFieldName=Species
 DataRecordId=NHMSYS0001496495
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

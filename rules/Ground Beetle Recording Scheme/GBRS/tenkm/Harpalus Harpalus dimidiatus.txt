@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Harpalus (Harpalus) d
 ErrorMsg=Coordinate is outside known range for Harpalus (Harpalus) dimidiatus
 DataFieldName=Species
 DataRecordId=NBNSYS0100003340
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Teloschistes chrysoph
 ErrorMsg=Coordinate is outside known range for Teloschistes chrysophthalmus orth. var.
 DataFieldName=Species
 DataRecordId=NBNSYS0000020577
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meconema thalassinum
 ErrorMsg=Coordinate is outside known range for Meconema thalassinum
 DataFieldName=Species
 DataRecordId=NHMSYS0001387418
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

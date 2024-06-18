@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sitticus saltator
 ErrorMsg=Coordinate is outside known range for Sitticus saltator
 DataFieldName=Species
 DataRecordId=NBNSYS0100005539
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]

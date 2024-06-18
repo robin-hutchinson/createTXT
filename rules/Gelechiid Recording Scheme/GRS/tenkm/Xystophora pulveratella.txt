@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xystophora pulveratel
 ErrorMsg=Coordinate is outside known range for Xystophora pulveratella
 DataFieldName=Species
 DataRecordId=NHMSYS0000504676
-LastChanged=20240617
+LastChanged=20240618
 [EndMetadata]
 
 [10km_GB]
