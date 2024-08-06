@@ -193,8 +193,6 @@ for(i in 1:length(schemes)) {
 
 }
 
-if(nrow(error_df) != 0) {
   setwd("")
 
   write.csv(error_df, "Errors preventing latest commit.csv", na  ="", row.names = FALSE)
-  }
