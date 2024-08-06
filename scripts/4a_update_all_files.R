@@ -1,12 +1,18 @@
 library(tidyverse)
 library(stringr)
 
-source("scripts/2_load_functions.R")
+source("scripts/3_file_test.R")
 
-error_file = paste0("errors_preventing_latest_commit.csv")
-	errors = read.csv(error_file)
+setwd("")
 
-stopifnot(nrow(errors) != 0)
+if(nrow(error_df) != 0) {
+
+	write.csv(error_df, "errors_preventing_latest_commit.csv", na  ="", row.names = FALSE)
+
+	}
+
+  
+stopifnot(nrow(error_df) != 0)
 
 for(i in 1:length(schemes)) {
   
