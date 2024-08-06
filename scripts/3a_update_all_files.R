@@ -3,6 +3,11 @@ library(stringr)
 
 source("scripts/2_load_functions.R")
 
+error_file = paste0("errors_preventing_latest_commit.csv")
+	errors = read.csv(error_file)
+
+stopifnot(nrow(errors) != 0)
+
 for(i in 1:length(schemes)) {
   
   print(names(schemes[i]))
