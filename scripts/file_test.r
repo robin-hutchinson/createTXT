@@ -192,7 +192,3 @@ for(i in 1:length(schemes)) {
   }
 
 }
-
-  setwd("")
-
-  write.csv(error_df, "errors_preventing_latest_commit.csv", na  ="", row.names = FALSE)
