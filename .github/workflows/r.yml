@@ -47,23 +47,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Import data
-        run: Rscript -e 'source("scripts/file_test.R")'
-
-      - name: Commit results
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add Errors preventing latest commit.csv
-          git commit -am 'Error file updated' || echo "No change to error file"
-          git push origin main || echo "No changes to commit"
-
-      - name: Import data
-        run: Rscript -e 'source("scripts/3a_update_all_files.R")'
+        run: Rscript -e 'source("scripts/4a_update_all_files.R")'
 
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add rules_as_txt/\*
+          git add errors_preventing_latest_commit.csv
           git commit -am 'Text file zips added or updated' || echo "No changes to commit"
           git push origin main || echo "No changes to commit"
