@@ -29,6 +29,13 @@ jobs:
          path: scripts/committed_files.txt
          retention-days: 0
          overwrite: true
+      - uses: actions/checkout@v1
+      - run: mkdir -p scripts
+      - run: echo hello > scripts/committed_files.txt
+      - uses: actions/upload-artifact@master
+        with:
+          name: committed_files
+          path: scripts/committed_files.txt
           
    import-data:
     runs-on: ubuntu-latest
