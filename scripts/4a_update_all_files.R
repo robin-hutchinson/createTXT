@@ -1,9 +1,9 @@
 library(tidyverse)
 library(stringr)
 
-source("scripts/3_file_test.R")
-
 setwd("")
+
+source("scripts/3_file_test.R")
 
 write.csv(error_df, "errors_preventing_latest_commit.csv", na  ="", row.names = FALSE)
   
