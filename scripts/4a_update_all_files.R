@@ -5,7 +5,7 @@ source("scripts/3_file_test.R")
 
 write.csv(error_df, "errors_preventing_latest_commit.csv", na  ="", row.names = FALSE)
   
-if(nrow(error_df) == 0) { 
+if(ncol(error_df) != 3) { 
 
 for(i in 1:length(schemes)) {
   
