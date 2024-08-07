@@ -60,5 +60,5 @@ jobs:
           git push origin main || echo "No changes to commit"
           
       - name: Pass or fail
-        if: "contains(github.event.head_commit.message, 'Text file zips added or updated')"
-        run: exit 0
+        if: ${{ github.event.head_commit.message }} != 'Text file zips added or updated'
+        run: exit 1
