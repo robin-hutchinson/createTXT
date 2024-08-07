@@ -58,10 +58,11 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add errors_preventing_latest_commit.csv
           git commit -am 'New error file created' || echo "No changes to commit"
-          git add rules_as_txt/\*
+          git add
           git commit -am 'Text file zips added or updated' || echo "No changes to commit"
           git push origin main || echo "No changes to commit"
           
       - name: Pass or fail
         if: ${{ github.event.head_commit.message }} != 'Text file zips added or updated'
         run: exit 1
+
