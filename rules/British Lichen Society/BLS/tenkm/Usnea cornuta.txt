@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Usnea cornuta
 ErrorMsg=Coordinate is outside known range for Usnea cornuta
 DataFieldName=Species
 DataRecordId=NHMSYS0001501160
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

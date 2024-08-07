@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Kuetzingiella batters
 ErrorMsg=Coordinate is outside known range for Kuetzingiella battersii
 DataFieldName=Species
 DataRecordId=NBNSYS0000183191
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

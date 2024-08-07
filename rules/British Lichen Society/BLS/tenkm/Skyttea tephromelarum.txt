@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Skyttea tephromelarum
 ErrorMsg=Coordinate is outside known range for Skyttea tephromelarum
 DataFieldName=Species
 DataRecordId=BMSSYS0000017191
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

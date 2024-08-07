@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Placynthium subradiat
 ErrorMsg=Coordinate is outside known range for Placynthium subradiatum
 DataFieldName=Species
 DataRecordId=NBNSYS0000019347
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

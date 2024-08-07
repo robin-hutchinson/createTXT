@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mocis trifasciata
 ErrorMsg=Coordinate is outside known range for Mocis trifasciata
 DataFieldName=Species
 DataRecordId=NBNSYS0000006564
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

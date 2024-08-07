@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sporochnus pedunculat
 ErrorMsg=Coordinate is outside known range for Sporochnus pedunculatus
 DataFieldName=Species
 DataRecordId=NHMSYS0000568341
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

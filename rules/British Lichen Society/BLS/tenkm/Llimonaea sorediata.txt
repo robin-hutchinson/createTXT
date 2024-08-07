@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Llimonaea sorediata
 ErrorMsg=Coordinate is outside known range for Llimonaea sorediata
 DataFieldName=Species
 DataRecordId=NHMSYS0020327873
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

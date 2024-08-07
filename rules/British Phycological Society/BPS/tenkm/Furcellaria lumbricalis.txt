@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Furcellaria lumbrical
 ErrorMsg=Coordinate is outside known range for Furcellaria lumbricalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000175390
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

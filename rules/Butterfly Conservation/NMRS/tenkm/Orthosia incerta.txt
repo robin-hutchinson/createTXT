@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orthosia incerta
 ErrorMsg=Coordinate is outside known range for Orthosia incerta
 DataFieldName=Species
 DataRecordId=NBNSYS0000006281
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

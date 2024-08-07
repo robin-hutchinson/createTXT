@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Beraeodes minutus
 ErrorMsg=Coordinate is outside known range for Beraeodes minutus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008503
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

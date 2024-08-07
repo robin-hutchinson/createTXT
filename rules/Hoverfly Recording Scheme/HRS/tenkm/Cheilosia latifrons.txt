@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cheilosia latifrons
 ErrorMsg=Coordinate is outside known range for Cheilosia latifrons
 DataFieldName=Species
 DataRecordId=NBNSYS0100002330
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nowellia curvifolia
 ErrorMsg=Coordinate is outside known range for Nowellia curvifolia
 DataFieldName=Species
 DataRecordId=NBNSYS0000035803
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

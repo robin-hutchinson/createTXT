@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rissoides desmaresti
 ErrorMsg=Coordinate is outside known range for Rissoides desmaresti
 DataFieldName=Species
 DataRecordId=NBNSYS0000186648
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Neoascia geniculata
 ErrorMsg=Coordinate is outside known range for Neoascia geniculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007026
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Platydictya
 ErrorMsg=Coordinate is outside known range for Platydictya
 DataFieldName=Species
 DataRecordId=NHMSYS0000310336
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

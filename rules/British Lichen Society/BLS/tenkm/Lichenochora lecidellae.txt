@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lichenochora lecidell
 ErrorMsg=Coordinate is outside known range for Lichenochora lecidellae
 DataFieldName=Species
 DataRecordId=BMSSYS0000010652
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

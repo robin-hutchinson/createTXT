@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhabdiopteryx acumina
 ErrorMsg=Coordinate is outside known range for Rhabdiopteryx acuminata
 DataFieldName=Species
 DataRecordId=NHMSYS0020316291
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

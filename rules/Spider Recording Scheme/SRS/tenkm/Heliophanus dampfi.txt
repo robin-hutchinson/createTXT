@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Heliophanus dampfi
 ErrorMsg=Coordinate is outside known range for Heliophanus dampfi
 DataFieldName=Species
 DataRecordId=NBNSYS0000033218
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

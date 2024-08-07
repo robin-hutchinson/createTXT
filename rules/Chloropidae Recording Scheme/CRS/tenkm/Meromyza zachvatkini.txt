@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meromyza zachvatkini
 ErrorMsg=Coordinate is outside known range for Meromyza zachvatkini
 DataFieldName=Species
 DataRecordId=NBNSYS0100004007
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

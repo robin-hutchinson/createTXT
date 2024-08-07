@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Euclidia glyphica
 ErrorMsg=Coordinate is outside known range for Euclidia glyphica
 DataFieldName=Species
 DataRecordId=MM0001Z100DH5JN1
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

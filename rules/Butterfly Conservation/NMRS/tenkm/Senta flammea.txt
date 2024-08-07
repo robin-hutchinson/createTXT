@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Senta flammea
 ErrorMsg=Coordinate is outside known range for Senta flammea
 DataFieldName=Species
 DataRecordId=NBNSYS0000006302
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

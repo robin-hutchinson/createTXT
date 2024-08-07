@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chorthippus parallelu
 ErrorMsg=Coordinate is outside known range for Chorthippus parallelus
 DataFieldName=Species
 DataRecordId=NBNSYS0000006843
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

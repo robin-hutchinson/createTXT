@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xestia c-nigrum
 ErrorMsg=Coordinate is outside known range for Xestia c-nigrum
 DataFieldName=Species
 DataRecordId=NBNSYS0000006217
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

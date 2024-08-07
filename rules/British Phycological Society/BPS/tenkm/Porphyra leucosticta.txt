@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porphyra leucosticta
 ErrorMsg=Coordinate is outside known range for Porphyra leucosticta
 DataFieldName=Species
 DataRecordId=NBNSYS0000188765
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

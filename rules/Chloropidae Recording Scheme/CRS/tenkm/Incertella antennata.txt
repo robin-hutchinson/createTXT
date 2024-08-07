@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Incertella antennata
 ErrorMsg=Coordinate is outside known range for Incertella antennata
 DataFieldName=Species
 DataRecordId=NBNSYS0100003591
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

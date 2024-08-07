@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Psammina lobariae
 ErrorMsg=Coordinate is outside known range for Psammina lobariae
 DataFieldName=Species
 DataRecordId=NHMSYS0020039388
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

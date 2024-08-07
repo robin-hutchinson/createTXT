@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Seligeria donniana
 ErrorMsg=Coordinate is outside known range for Seligeria donniana
 DataFieldName=Species
 DataRecordId=NHMSYS0000310624
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

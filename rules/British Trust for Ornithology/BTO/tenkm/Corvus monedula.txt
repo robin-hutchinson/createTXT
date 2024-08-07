@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Corvus monedula
 ErrorMsg=Coordinate is outside known range for Corvus monedula
 DataFieldName=Species
 DataRecordId=NHMSYS0000530317
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

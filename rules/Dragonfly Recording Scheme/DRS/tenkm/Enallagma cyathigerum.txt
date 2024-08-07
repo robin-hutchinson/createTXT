@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Enallagma cyathigerum
 ErrorMsg=Coordinate is outside known range for Enallagma cyathigerum
 DataFieldName=Species
 DataRecordId=NBNSYS0000005602
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

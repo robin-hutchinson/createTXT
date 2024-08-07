@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Fuscopannaria sampaia
 ErrorMsg=Coordinate is outside known range for Fuscopannaria sampaiana
 DataFieldName=Species
 DataRecordId=BMSSYS0000006974
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

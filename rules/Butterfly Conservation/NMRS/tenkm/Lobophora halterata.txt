@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lobophora halterata
 ErrorMsg=Coordinate is outside known range for Lobophora halterata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005970
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

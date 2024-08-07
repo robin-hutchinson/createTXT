@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chesias legatella
 ErrorMsg=Coordinate is outside known range for Chesias legatella
 DataFieldName=Species
 DataRecordId=NHMSYS0021144143
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

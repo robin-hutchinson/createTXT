@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meromyza saltatrix
 ErrorMsg=Coordinate is outside known range for Meromyza saltatrix
 DataFieldName=Species
 DataRecordId=NBNSYS0000029958
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

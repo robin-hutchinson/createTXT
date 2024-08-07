@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pselnophorus heteroda
 ErrorMsg=Coordinate is outside known range for Pselnophorus heterodactyla
 DataFieldName=Species
 DataRecordId=NHMSYS0000503933
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

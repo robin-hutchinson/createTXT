@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora quercicola
 ErrorMsg=Coordinate is outside known range for Lecanora quercicola
 DataFieldName=Species
 DataRecordId=NBNSYS0000018617
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

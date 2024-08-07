@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Garrulus glandarius
 ErrorMsg=Coordinate is outside known range for Garrulus glandarius
 DataFieldName=Species
 DataRecordId=NHMSYS0000530374
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

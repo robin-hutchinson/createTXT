@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Selidosema brunnearia
 ErrorMsg=Coordinate is outside known range for Selidosema brunnearia
 DataFieldName=Species
 DataRecordId=NBNSYS0000006030
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

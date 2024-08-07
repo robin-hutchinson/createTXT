@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Degelia ligulata
 ErrorMsg=Coordinate is outside known range for Degelia ligulata
 DataFieldName=Species
 DataRecordId=NBNSYS0000039623
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Candelariella reflexa
 ErrorMsg=Coordinate is outside known range for Candelariella reflexa
 DataFieldName=Species
 DataRecordId=NBNSYS0000018300
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

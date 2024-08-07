@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Clubiona pseudoneglecta
 Tvk=NBNSYS0100002489
 StartDate=19590101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

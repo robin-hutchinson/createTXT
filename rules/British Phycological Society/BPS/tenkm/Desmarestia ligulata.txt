@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Desmarestia ligulata
 ErrorMsg=Coordinate is outside known range for Desmarestia ligulata
 DataFieldName=Species
 DataRecordId=NHMSYS0000567949
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

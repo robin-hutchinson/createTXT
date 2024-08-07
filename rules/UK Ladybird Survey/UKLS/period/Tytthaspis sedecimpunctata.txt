@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Tytthaspis sedecimpunctata
 Tvk=NBNSYS0000008318
 StartDate=18000101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

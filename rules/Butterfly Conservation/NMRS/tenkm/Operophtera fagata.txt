@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Operophtera fagata
 ErrorMsg=Coordinate is outside known range for Operophtera fagata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005880
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

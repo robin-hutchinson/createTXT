@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Plagiomnium affine
 ErrorMsg=Coordinate is outside known range for Plagiomnium affine
 DataFieldName=Species
 DataRecordId=NHMSYS0000310310
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

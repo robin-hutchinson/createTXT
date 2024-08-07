@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Turdus pilaris
 ErrorMsg=Coordinate is outside known range for Turdus pilaris
 DataFieldName=Species
 DataRecordId=NHMSYS0000530679
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

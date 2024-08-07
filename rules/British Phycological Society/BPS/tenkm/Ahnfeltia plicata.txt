@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ahnfeltia plicata
 ErrorMsg=Coordinate is outside known range for Ahnfeltia plicata
 DataFieldName=Species
 DataRecordId=NBNSYS0000173655
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

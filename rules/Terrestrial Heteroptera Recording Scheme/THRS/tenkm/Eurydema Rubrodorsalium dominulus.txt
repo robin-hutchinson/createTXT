@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eurydema (Rubrodorsal
 ErrorMsg=Coordinate is outside known range for Eurydema (Rubrodorsalium) dominulus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309228
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

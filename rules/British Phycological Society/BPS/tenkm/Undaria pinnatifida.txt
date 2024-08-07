@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Undaria pinnatifida
 ErrorMsg=Coordinate is outside known range for Undaria pinnatifida
 DataFieldName=Species
 DataRecordId=NBNSYS0000188802
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

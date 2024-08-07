@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agyneta cauta
 ErrorMsg=Coordinate is outside known range for Agyneta cauta
 DataFieldName=Species
 DataRecordId=NBNSYS0000009151
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

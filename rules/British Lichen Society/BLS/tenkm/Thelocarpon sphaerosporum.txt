@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thelocarpon sphaerosp
 ErrorMsg=Coordinate is outside known range for Thelocarpon sphaerosporum
 DataFieldName=Species
 DataRecordId=BMSSYS0000018497
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

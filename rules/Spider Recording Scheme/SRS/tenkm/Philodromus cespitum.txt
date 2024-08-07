@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Philodromus cespitum
 ErrorMsg=Coordinate is outside known range for Philodromus cespitum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008744
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

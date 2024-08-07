@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ameliella grisea
 ErrorMsg=Coordinate is outside known range for Ameliella grisea
 DataFieldName=Species
 DataRecordId=NHMSYS0020987450
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

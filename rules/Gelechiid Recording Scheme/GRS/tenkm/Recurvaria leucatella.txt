@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Recurvaria leucatella
 ErrorMsg=Coordinate is outside known range for Recurvaria leucatella
 DataFieldName=Species
 DataRecordId=NHMSYS0000504026
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

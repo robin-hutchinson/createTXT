@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aglaothamnion tenuiss
 ErrorMsg=Coordinate is outside known range for Aglaothamnion tenuissimum
 DataFieldName=Species
 DataRecordId=NHMSYS0000377535
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

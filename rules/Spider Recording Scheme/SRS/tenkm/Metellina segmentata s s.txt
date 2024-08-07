@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Metellina segmentata 
 ErrorMsg=Coordinate is outside known range for Metellina segmentata s.s
 DataFieldName=Species
 DataRecordId=NBNSYS0100004024
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

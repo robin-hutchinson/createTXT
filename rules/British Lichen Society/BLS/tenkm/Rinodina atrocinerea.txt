@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rinodina atrocinerea
 ErrorMsg=Coordinate is outside known range for Rinodina atrocinerea
 DataFieldName=Species
 DataRecordId=NHMSYS0000364001
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

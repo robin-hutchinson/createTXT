@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Skyttea elachistophor
 ErrorMsg=Coordinate is outside known range for Skyttea elachistophora
 DataFieldName=Species
 DataRecordId=NHMSYS0001497622
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

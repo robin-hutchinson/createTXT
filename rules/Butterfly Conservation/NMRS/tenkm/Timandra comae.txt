@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Timandra comae
 ErrorMsg=Coordinate is outside known range for Timandra comae
 DataFieldName=Species
 DataRecordId=NHMSYS0021143879
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

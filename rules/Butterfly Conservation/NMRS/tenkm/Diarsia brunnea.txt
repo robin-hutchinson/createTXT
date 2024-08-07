@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diarsia brunnea
 ErrorMsg=Coordinate is outside known range for Diarsia brunnea
 DataFieldName=Species
 DataRecordId=NHMSYS0021144907
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

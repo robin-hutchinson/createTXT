@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Catarhoe rubidata
 ErrorMsg=Coordinate is outside known range for Catarhoe rubidata
 DataFieldName=Species
 DataRecordId=NHMSYS0021143929
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

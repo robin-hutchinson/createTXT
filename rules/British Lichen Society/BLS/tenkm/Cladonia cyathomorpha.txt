@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladonia cyathomorpha
 ErrorMsg=Coordinate is outside known range for Cladonia cyathomorpha
 DataFieldName=Species
 DataRecordId=NBNSYS0000018366
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phoma lecanorae
 ErrorMsg=Coordinate is outside known range for Phoma lecanorae
 DataFieldName=Species
 DataRecordId=BMSSYS0000013977
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

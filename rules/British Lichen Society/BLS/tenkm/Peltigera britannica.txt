@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Peltigera britannica
 ErrorMsg=Coordinate is outside known range for Peltigera britannica
 DataFieldName=Species
 DataRecordId=NHMSYS0001492052
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agrotis herzogi
 ErrorMsg=Coordinate is outside known range for Agrotis herzogi
 DataFieldName=Species
 DataRecordId=NBNSYS0100001446
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

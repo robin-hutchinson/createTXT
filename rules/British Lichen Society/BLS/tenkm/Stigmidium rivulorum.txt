@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stigmidium rivulorum
 ErrorMsg=Coordinate is outside known range for Stigmidium rivulorum
 DataFieldName=Species
 DataRecordId=BMSSYS0000018070
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

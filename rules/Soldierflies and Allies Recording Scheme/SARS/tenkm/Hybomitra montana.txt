@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hybomitra montana
 ErrorMsg=Coordinate is outside known range for Hybomitra montana
 DataFieldName=Species
 DataRecordId=NBNSYS0000007834
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nitophyllum punctatum
 ErrorMsg=Coordinate is outside known range for Nitophyllum punctatum
 DataFieldName=Species
 DataRecordId=NBNSYS0000176723
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

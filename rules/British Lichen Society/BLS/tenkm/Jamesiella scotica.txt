@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Jamesiella scotica
 ErrorMsg=Coordinate is outside known range for Jamesiella scotica
 DataFieldName=Species
 DataRecordId=NHMSYS0020535584
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Monostroma grevillei
 ErrorMsg=Coordinate is outside known range for Monostroma grevillei
 DataFieldName=Species
 DataRecordId=NBNSYS0000176525
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

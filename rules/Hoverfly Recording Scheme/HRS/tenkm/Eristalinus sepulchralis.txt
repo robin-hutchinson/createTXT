@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eristalinus sepulchra
 ErrorMsg=Coordinate is outside known range for Eristalinus sepulchralis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007045
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

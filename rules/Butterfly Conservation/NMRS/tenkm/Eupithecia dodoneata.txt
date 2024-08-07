@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eupithecia dodoneata
 ErrorMsg=Coordinate is outside known range for Eupithecia dodoneata
 DataFieldName=Species
 DataRecordId=NHMSYS0021144087
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

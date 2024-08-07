@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caryocolum alsinella
 ErrorMsg=Coordinate is outside known range for Caryocolum alsinella
 DataFieldName=Species
 DataRecordId=NHMSYS0000501646
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

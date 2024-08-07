@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Suberites massa
 ErrorMsg=Coordinate is outside known range for Suberites massa
 DataFieldName=Species
 DataRecordId=NBNSYS0000178225
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

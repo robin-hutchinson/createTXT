@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Holocentropus dubius
 ErrorMsg=Coordinate is outside known range for Holocentropus dubius
 DataFieldName=Species
 DataRecordId=NBNSYS0000008402
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

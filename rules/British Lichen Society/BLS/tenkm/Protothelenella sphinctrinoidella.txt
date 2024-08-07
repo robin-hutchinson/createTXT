@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Protothelenella sphin
 ErrorMsg=Coordinate is outside known range for Protothelenella sphinctrinoidella
 DataFieldName=Species
 DataRecordId=NHMSYS0001494861
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

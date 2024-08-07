@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthrocladia villosa
 ErrorMsg=Coordinate is outside known range for Arthrocladia villosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000173960
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

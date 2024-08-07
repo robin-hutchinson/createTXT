@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Passer montanus
 ErrorMsg=Coordinate is outside known range for Passer montanus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530539
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

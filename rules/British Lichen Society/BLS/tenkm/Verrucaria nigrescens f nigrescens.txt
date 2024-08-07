@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria nigrescens
 ErrorMsg=Coordinate is outside known range for Verrucaria nigrescens f. nigrescens
 DataFieldName=Species
 DataRecordId=NHMSYS0020536329
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladonia mediterranea
 ErrorMsg=Coordinate is outside known range for Cladonia mediterranea
 DataFieldName=Species
 DataRecordId=NBNSYS0000018385
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

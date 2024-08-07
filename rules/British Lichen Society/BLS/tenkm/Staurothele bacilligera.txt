@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Staurothele bacillige
 ErrorMsg=Coordinate is outside known range for Staurothele bacilligera
 DataFieldName=Species
 DataRecordId=NBNSYS0000020636
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

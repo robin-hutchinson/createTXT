@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Harpalus (Cryptophonu
 ErrorMsg=Coordinate is outside known range for Harpalus (Cryptophonus) tenebrosus
 DataFieldName=Species
 DataRecordId=NHMSYS0001718349
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

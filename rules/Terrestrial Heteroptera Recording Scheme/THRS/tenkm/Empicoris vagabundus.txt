@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Empicoris vagabundus
 ErrorMsg=Coordinate is outside known range for Empicoris vagabundus
 DataFieldName=Species
 DataRecordId=NHMSYS0020109256
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

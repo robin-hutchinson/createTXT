@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Himanthalia elongata
 ErrorMsg=Coordinate is outside known range for Himanthalia elongata
 DataFieldName=Species
 DataRecordId=NHMSYS0000568214
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

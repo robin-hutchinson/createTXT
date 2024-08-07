@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Plusia putnami
 ErrorMsg=Coordinate is outside known range for Plusia putnami
 DataFieldName=Species
 DataRecordId=NHMSYS0000522622
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

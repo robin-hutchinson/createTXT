@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachyopa insensilis
 ErrorMsg=Coordinate is outside known range for Brachyopa insensilis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007013
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

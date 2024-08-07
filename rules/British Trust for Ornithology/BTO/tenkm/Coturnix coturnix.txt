@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Coturnix coturnix
 ErrorMsg=Coordinate is outside known range for Coturnix coturnix
 DataFieldName=Species
 DataRecordId=NHMSYS0000530319
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

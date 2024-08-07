@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phlegra fasciata
 ErrorMsg=Coordinate is outside known range for Phlegra fasciata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008786
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

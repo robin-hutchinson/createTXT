@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ceraclea dissimilis
 ErrorMsg=Coordinate is outside known range for Ceraclea dissimilis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008518
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

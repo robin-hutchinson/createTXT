@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Euphyia biangulata
 Tvk=NBNSYS0000005873
 StartDate=17000101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

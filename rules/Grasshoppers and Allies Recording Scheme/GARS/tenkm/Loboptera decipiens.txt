@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Loboptera decipiens
 ErrorMsg=Coordinate is outside known range for Loboptera decipiens
 DataFieldName=Species
 DataRecordId=NHMSYS0001693174
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhizocarpon timdalii
 ErrorMsg=Coordinate is outside known range for Rhizocarpon timdalii
 DataFieldName=Species
 DataRecordId=NHMSYS0001496296
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

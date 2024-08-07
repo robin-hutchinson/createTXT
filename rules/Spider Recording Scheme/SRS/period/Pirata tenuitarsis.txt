@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Pirata tenuitarsis
 Tvk=NBNSYS0000008824
 StartDate=19750101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

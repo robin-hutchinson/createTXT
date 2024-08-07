@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eupithecia pimpinella
 ErrorMsg=Coordinate is outside known range for Eupithecia pimpinellata
 DataFieldName=Species
 DataRecordId=NHMSYS0021144097
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

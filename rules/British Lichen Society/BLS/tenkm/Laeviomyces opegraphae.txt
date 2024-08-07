@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Laeviomyces opegrapha
 ErrorMsg=Coordinate is outside known range for Laeviomyces opegraphae
 DataFieldName=Species
 DataRecordId=NHMSYS0001486140
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

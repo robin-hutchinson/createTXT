@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Drassyllus praeficus
 ErrorMsg=Coordinate is outside known range for Drassyllus praeficus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008664
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

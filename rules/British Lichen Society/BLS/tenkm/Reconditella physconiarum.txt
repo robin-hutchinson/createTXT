@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Reconditella physconi
 ErrorMsg=Coordinate is outside known range for Reconditella physconiarum
 DataFieldName=Species
 DataRecordId=NHMSYS0020536032
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

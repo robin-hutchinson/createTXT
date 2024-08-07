@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ramalina fastigiata
 ErrorMsg=Coordinate is outside known range for Ramalina fastigiata
 DataFieldName=Species
 DataRecordId=NBNSYS0000018987
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

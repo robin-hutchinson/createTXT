@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scotophaeus blackwall
 ErrorMsg=Coordinate is outside known range for Scotophaeus blackwalli
 DataFieldName=Species
 DataRecordId=NBNSYS0000008651
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Belonia nidarosiensis
 ErrorMsg=Coordinate is outside known range for Belonia nidarosiensis
 DataFieldName=Species
 DataRecordId=NHMSYS0001475571
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

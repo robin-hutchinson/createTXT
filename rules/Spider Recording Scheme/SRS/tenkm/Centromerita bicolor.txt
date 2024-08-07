@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Centromerita bicolor
 ErrorMsg=Coordinate is outside known range for Centromerita bicolor
 DataFieldName=Species
 DataRecordId=NBNSYS0000009183
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

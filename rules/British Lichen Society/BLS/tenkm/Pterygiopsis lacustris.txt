@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pterygiopsis lacustri
 ErrorMsg=Coordinate is outside known range for Pterygiopsis lacustris
 DataFieldName=Species
 DataRecordId=NHMSYS0001495459
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

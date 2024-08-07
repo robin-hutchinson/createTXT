@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Baetis digitatus
 Tvk=NBNSYS0000010865
 StartDate=19390101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

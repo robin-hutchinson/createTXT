@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Strigula jamesii
 ErrorMsg=Coordinate is outside known range for Strigula jamesii
 DataFieldName=Species
 DataRecordId=NBNSYS0000019906
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

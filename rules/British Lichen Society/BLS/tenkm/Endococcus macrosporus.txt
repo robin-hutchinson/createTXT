@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Endococcus macrosporu
 ErrorMsg=Coordinate is outside known range for Endococcus macrosporus
 DataFieldName=Species
 DataRecordId=NHMSYS0020990189
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

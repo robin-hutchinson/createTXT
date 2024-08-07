@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stigmidium tabacinae
 ErrorMsg=Coordinate is outside known range for Stigmidium tabacinae
 DataFieldName=Species
 DataRecordId=BMSSYS0000018072
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Neja) nigr
 ErrorMsg=Coordinate is outside known range for Bembidion (Neja) nigricorne
 DataFieldName=Species
 DataRecordId=NBNSYS0100001947
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

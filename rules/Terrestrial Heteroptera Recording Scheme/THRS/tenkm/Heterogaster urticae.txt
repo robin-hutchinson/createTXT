@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Heterogaster urticae
 ErrorMsg=Coordinate is outside known range for Heterogaster urticae
 DataFieldName=Species
 DataRecordId=NHMSYS0020109260
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

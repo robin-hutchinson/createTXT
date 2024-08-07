@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tiliacea citrago
 ErrorMsg=Coordinate is outside known range for Tiliacea citrago
 DataFieldName=Species
 DataRecordId=NHMSYS0021144698
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

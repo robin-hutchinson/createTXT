@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Agroeca cuprea
 Tvk=NBNSYS0000008703
 StartDate=19000101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

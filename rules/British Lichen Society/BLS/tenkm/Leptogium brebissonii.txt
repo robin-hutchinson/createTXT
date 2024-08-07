@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptogium brebissonii
 ErrorMsg=Coordinate is outside known range for Leptogium brebissonii
 DataFieldName=Species
 DataRecordId=NBNSYS0000018769
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cordulia aenea
 ErrorMsg=Coordinate is outside known range for Cordulia aenea
 DataFieldName=Species
 DataRecordId=NBNSYS0000005632
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

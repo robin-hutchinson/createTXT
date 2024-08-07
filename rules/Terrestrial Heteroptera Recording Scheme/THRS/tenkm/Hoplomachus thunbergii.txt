@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hoplomachus thunbergi
 ErrorMsg=Coordinate is outside known range for Hoplomachus thunbergii
 DataFieldName=Species
 DataRecordId=NHMSYS0020309324
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cicindela maritima
 ErrorMsg=Coordinate is outside known range for Cicindela maritima
 DataFieldName=Species
 DataRecordId=NHMSYS0001717604
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

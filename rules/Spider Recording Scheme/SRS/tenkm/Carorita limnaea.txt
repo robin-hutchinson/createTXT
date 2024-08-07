@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Carorita limnaea
 ErrorMsg=Coordinate is outside known range for Carorita limnaea
 DataFieldName=Species
 DataRecordId=NBNSYS0000009128
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bacidia herbarum
 ErrorMsg=Coordinate is outside known range for Bacidia herbarum
 DataFieldName=Species
 DataRecordId=NBNSYS0000039580
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

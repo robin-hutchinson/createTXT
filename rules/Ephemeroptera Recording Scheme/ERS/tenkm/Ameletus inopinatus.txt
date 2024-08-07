@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ameletus inopinatus
 ErrorMsg=Coordinate is outside known range for Ameletus inopinatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000010859
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

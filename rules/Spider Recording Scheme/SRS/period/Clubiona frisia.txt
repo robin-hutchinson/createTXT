@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Clubiona frisia
 Tvk=NBNSYS0100002487
 StartDate=18000101
 EndDate=20001231
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

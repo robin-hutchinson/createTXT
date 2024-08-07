@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Podiceps nigricollis
 ErrorMsg=Coordinate is outside known range for Podiceps nigricollis
 DataFieldName=Species
 DataRecordId=NBNSYS0000000225
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

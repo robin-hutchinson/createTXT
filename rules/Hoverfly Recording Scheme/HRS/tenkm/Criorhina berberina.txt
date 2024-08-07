@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Criorhina berberina
 ErrorMsg=Coordinate is outside known range for Criorhina berberina
 DataFieldName=Species
 DataRecordId=NBNSYS0000007106
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

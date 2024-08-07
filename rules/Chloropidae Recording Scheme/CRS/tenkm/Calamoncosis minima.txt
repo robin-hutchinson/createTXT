@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calamoncosis minima
 ErrorMsg=Coordinate is outside known range for Calamoncosis minima
 DataFieldName=Species
 DataRecordId=NBNSYS0000029848
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

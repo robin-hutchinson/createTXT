@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Muellerella hospitans
 ErrorMsg=Coordinate is outside known range for Muellerella hospitans
 DataFieldName=Species
 DataRecordId=NBNSYS0000020605
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora alboflavida
 ErrorMsg=Coordinate is outside known range for Lecanora alboflavida
 DataFieldName=Species
 DataRecordId=NBNSYS0000018565
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

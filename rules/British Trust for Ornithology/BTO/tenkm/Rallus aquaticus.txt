@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rallus aquaticus
 ErrorMsg=Coordinate is outside known range for Rallus aquaticus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530803
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Halcampoides abyssoru
 ErrorMsg=Coordinate is outside known range for Halcampoides abyssorum
 DataFieldName=Species
 DataRecordId=NHMSYS0020668199
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

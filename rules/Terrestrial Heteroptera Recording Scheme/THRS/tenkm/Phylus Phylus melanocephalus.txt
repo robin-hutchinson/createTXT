@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phylus (Phylus) melan
 ErrorMsg=Coordinate is outside known range for Phylus (Phylus) melanocephalus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309642
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

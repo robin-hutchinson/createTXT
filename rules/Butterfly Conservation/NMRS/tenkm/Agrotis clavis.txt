@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agrotis clavis
 ErrorMsg=Coordinate is outside known range for Agrotis clavis
 DataFieldName=Species
 DataRecordId=NBNSYS0000006174
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

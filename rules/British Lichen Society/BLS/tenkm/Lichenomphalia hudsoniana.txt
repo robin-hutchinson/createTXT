@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lichenomphalia hudson
 ErrorMsg=Coordinate is outside known range for Lichenomphalia hudsoniana
 DataFieldName=Species
 DataRecordId=NHMSYS0000362837
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

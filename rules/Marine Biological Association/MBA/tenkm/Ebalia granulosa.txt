@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ebalia granulosa
 ErrorMsg=Coordinate is outside known range for Ebalia granulosa
 DataFieldName=Species
 DataRecordId=NHMSYS0020703900
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

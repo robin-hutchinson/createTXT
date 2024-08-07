@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Seirospora interrupta
 ErrorMsg=Coordinate is outside known range for Seirospora interrupta
 DataFieldName=Species
 DataRecordId=NHMSYS0000568322
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

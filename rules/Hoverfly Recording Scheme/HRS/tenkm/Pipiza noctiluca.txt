@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pipiza noctiluca
 ErrorMsg=Coordinate is outside known range for Pipiza noctiluca
 DataFieldName=Species
 DataRecordId=NBNSYS0000007085
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

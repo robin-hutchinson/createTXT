@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Blastophysa rhizopus
 ErrorMsg=Coordinate is outside known range for Blastophysa rhizopus
 DataFieldName=Species
 DataRecordId=NBNSYS0000174141
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diacrisia sannio
 ErrorMsg=Coordinate is outside known range for Diacrisia sannio
 DataFieldName=Species
 DataRecordId=NBNSYS0000006145
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

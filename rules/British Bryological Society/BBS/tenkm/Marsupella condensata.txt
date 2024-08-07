@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Marsupella condensata
 ErrorMsg=Coordinate is outside known range for Marsupella condensata
 DataFieldName=Species
 DataRecordId=NHMSYS0000309959
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Walckenaeria incisa
 Tvk=NBNSYS0000008977
 StartDate=18600101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

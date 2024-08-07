@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Heliophanus auratus
 Tvk=NBNSYS0000008762
 StartDate=19560101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

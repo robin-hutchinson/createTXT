@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bacidia neosquamulosa
 ErrorMsg=Coordinate is outside known range for Bacidia neosquamulosa
 DataFieldName=Species
 DataRecordId=NHMSYS0001475436
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

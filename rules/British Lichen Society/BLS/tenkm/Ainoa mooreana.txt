@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ainoa mooreana
 ErrorMsg=Coordinate is outside known range for Ainoa mooreana
 DataFieldName=Species
 DataRecordId=NHMSYS0001474269
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

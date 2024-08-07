@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecidea silacea
 ErrorMsg=Coordinate is outside known range for Lecidea silacea
 DataFieldName=Species
 DataRecordId=NHMSYS0020990457
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

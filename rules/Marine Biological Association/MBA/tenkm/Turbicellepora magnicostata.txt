@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Turbicellepora magnic
 ErrorMsg=Coordinate is outside known range for Turbicellepora magnicostata
 DataFieldName=Species
 DataRecordId=NBNSYS0000188574
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

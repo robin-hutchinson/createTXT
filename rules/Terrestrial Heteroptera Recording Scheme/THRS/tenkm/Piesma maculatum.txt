@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Piesma maculatum
 ErrorMsg=Coordinate is outside known range for Piesma maculatum
 DataFieldName=Species
 DataRecordId=NHMSYS0020309662
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

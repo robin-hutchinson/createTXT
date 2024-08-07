@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Proserpinus proserpina
 Tvk=NBNSYS0000005256
 StartDate=19850525
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

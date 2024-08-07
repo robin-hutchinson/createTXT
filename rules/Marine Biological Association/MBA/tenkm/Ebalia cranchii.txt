@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ebalia cranchii
 ErrorMsg=Coordinate is outside known range for Ebalia cranchii
 DataFieldName=Species
 DataRecordId=NBNSYS0000175054
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

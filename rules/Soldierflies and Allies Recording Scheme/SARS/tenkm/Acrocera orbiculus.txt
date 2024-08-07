@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acrocera orbiculus
 ErrorMsg=Coordinate is outside known range for Acrocera orbiculus
 DataFieldName=Species
 DataRecordId=NBNSYS0100027431
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

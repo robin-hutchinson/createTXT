@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria andesiatic
 ErrorMsg=Coordinate is outside known range for Verrucaria andesiatica
 DataFieldName=Species
 DataRecordId=NHMSYS0020536326
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

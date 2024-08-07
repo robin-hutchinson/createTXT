@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Clubiona subsultans
 ErrorMsg=Coordinate is outside known range for Clubiona subsultans
 DataFieldName=Species
 DataRecordId=NBNSYS0000008676
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

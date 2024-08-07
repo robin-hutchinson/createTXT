@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Striaria attenuata
 ErrorMsg=Coordinate is outside known range for Striaria attenuata
 DataFieldName=Species
 DataRecordId=NHMSYS0000377621
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

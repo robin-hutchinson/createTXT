@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladophora rupestris
 ErrorMsg=Coordinate is outside known range for Cladophora rupestris
 DataFieldName=Species
 DataRecordId=NBNSYS0000174597
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

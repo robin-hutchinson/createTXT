@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Deraeocoris (Knightoc
 ErrorMsg=Coordinate is outside known range for Deraeocoris (Knightocapsus) lutescens
 DataFieldName=Species
 DataRecordId=NHMSYS0020309147
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

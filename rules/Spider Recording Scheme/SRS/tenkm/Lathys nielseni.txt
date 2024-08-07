@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lathys nielseni
 ErrorMsg=Coordinate is outside known range for Lathys nielseni
 DataFieldName=Species
 DataRecordId=NBNSYS0000008622
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dermochelys coriacea
 ErrorMsg=Coordinate is outside known range for Dermochelys coriacea
 DataFieldName=Species
 DataRecordId=NBNSYS0000188646
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

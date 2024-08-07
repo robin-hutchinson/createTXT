@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cercidia prominens
 ErrorMsg=Coordinate is outside known range for Cercidia prominens
 DataFieldName=Species
 DataRecordId=NBNSYS0000008961
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

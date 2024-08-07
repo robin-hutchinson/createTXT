@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agraylea multipunctat
 ErrorMsg=Coordinate is outside known range for Agraylea multipunctata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008349
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

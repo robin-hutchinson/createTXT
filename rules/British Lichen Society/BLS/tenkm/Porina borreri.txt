@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porina borreri
 ErrorMsg=Coordinate is outside known range for Porina borreri
 DataFieldName=Species
 DataRecordId=NBNSYS0000019884
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

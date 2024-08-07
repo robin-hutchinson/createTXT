@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scolopostethus grandi
 ErrorMsg=Coordinate is outside known range for Scolopostethus grandis
 DataFieldName=Species
 DataRecordId=NHMSYS0020309810
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

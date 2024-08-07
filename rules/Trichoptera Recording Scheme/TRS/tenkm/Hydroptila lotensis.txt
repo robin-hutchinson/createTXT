@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hydroptila lotensis
 ErrorMsg=Coordinate is outside known range for Hydroptila lotensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008355
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

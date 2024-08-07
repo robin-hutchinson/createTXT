@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anthus richardi
 ErrorMsg=Coordinate is outside known range for Anthus richardi
 DataFieldName=Species
 DataRecordId=NHMSYS0000533927
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

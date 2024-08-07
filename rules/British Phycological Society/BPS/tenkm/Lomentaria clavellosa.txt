@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lomentaria clavellosa
 ErrorMsg=Coordinate is outside known range for Lomentaria clavellosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000176236
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Lithophane leautieri
 Tvk=NHMSYS0000520793
 StartDate=19510101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

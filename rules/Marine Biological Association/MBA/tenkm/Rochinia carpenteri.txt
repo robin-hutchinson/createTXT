@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rochinia carpenteri
 ErrorMsg=Coordinate is outside known range for Rochinia carpenteri
 DataFieldName=Species
 DataRecordId=NBNSYS0000186671
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

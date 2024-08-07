@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anacampsis blattariel
 ErrorMsg=Coordinate is outside known range for Anacampsis blattariella
 DataFieldName=Species
 DataRecordId=NHMSYS0000501224
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

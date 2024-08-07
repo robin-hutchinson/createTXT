@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Paradromius longiceps
 ErrorMsg=Coordinate is outside known range for Paradromius longiceps
 DataFieldName=Species
 DataRecordId=NHMSYS0001719454
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

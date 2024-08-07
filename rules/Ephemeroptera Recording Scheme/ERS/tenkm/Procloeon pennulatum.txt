@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Procloeon pennulatum
 ErrorMsg=Coordinate is outside known range for Procloeon pennulatum
 DataFieldName=Species
 DataRecordId=NHMSYS0000066965
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

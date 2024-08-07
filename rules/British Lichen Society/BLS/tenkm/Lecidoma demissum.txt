@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecidoma demissum
 ErrorMsg=Coordinate is outside known range for Lecidoma demissum
 DataFieldName=Species
 DataRecordId=NBNSYS0000018750
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

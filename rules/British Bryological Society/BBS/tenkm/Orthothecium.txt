@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orthothecium
 ErrorMsg=Coordinate is outside known range for Orthothecium
 DataFieldName=Species
 DataRecordId=NHMSYS0000310247
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

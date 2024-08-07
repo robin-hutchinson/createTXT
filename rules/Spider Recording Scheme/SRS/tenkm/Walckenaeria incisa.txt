@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Walckenaeria incisa
 ErrorMsg=Coordinate is outside known range for Walckenaeria incisa
 DataFieldName=Species
 DataRecordId=NBNSYS0000008977
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

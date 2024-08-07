@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Syntrichia ruralis
 ErrorMsg=Coordinate is outside known range for Syntrichia ruralis
 DataFieldName=Species
 DataRecordId=NHMSYS0000310723
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

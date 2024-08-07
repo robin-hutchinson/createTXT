@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nysius graminicola
 ErrorMsg=Coordinate is outside known range for Nysius graminicola
 DataFieldName=Species
 DataRecordId=NHMSYS0020309536
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

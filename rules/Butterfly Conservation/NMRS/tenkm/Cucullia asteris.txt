@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cucullia asteris
 ErrorMsg=Coordinate is outside known range for Cucullia asteris
 DataFieldName=Species
 DataRecordId=NHMSYS0021144523
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

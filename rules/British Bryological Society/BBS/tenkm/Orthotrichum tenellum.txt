@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orthotrichum tenellum
 ErrorMsg=Coordinate is outside known range for Orthotrichum tenellum
 DataFieldName=Species
 DataRecordId=NBNSYS0000036714
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

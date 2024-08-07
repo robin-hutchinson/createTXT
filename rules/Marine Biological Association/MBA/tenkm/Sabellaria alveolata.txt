@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sabellaria alveolata
 ErrorMsg=Coordinate is outside known range for Sabellaria alveolata
 DataFieldName=Species
 DataRecordId=NBNSYS0000188452
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Odezia atrata
 ErrorMsg=Coordinate is outside known range for Odezia atrata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005961
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

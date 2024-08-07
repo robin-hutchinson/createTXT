@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhynchostegium ripari
 ErrorMsg=Coordinate is outside known range for Rhynchostegium riparioides
 DataFieldName=Species
 DataRecordId=NHMSYS0000310437
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

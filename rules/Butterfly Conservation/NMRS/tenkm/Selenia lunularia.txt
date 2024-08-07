@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Selenia lunularia
 ErrorMsg=Coordinate is outside known range for Selenia lunularia
 DataFieldName=Species
 DataRecordId=NHMSYS0021144200
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

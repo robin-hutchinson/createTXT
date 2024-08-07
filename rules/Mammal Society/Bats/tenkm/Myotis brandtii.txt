@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Myotis brandtii
 ErrorMsg=Coordinate is outside known range for Myotis brandtii
 DataFieldName=Species
 DataRecordId=NHMSYS0000528026
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 NA

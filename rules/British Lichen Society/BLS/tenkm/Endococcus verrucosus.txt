@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Endococcus verrucosus
 ErrorMsg=Coordinate is outside known range for Endococcus verrucosus
 DataFieldName=Species
 DataRecordId=NHMSYS0020327863
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

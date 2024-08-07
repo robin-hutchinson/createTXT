@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanographa grumulos
 ErrorMsg=Coordinate is outside known range for Lecanographa grumulosa
 DataFieldName=Species
 DataRecordId=BMSSYS0000009443
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhodophysema elegans
 ErrorMsg=Coordinate is outside known range for Rhodophysema elegans
 DataFieldName=Species
 DataRecordId=NBNSYS0000177695
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

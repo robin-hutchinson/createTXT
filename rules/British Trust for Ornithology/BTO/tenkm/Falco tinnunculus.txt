@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Falco tinnunculus
 ErrorMsg=Coordinate is outside known range for Falco tinnunculus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530358
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

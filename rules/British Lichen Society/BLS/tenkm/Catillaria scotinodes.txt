@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Catillaria scotinodes
 ErrorMsg=Coordinate is outside known range for Catillaria scotinodes
 DataFieldName=Species
 DataRecordId=NBNSYS0000018714
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

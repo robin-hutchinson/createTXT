@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hybomitra micans
 ErrorMsg=Coordinate is outside known range for Hybomitra micans
 DataFieldName=Species
 DataRecordId=NBNSYS0000007884
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

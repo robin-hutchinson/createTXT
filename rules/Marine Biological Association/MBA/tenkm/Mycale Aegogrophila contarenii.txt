@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mycale (Aegogrophila)
 ErrorMsg=Coordinate is outside known range for Mycale (Aegogrophila) contarenii
 DataFieldName=Species
 DataRecordId=NHMSYS0000341755
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ulothrix speciosa
 ErrorMsg=Coordinate is outside known range for Ulothrix speciosa
 DataFieldName=Species
 DataRecordId=NHMSYS0000568380
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

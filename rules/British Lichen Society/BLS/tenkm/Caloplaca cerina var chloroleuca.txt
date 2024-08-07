@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca cerina var.
 ErrorMsg=Coordinate is outside known range for Caloplaca cerina var. chloroleuca
 DataFieldName=Species
 DataRecordId=BMSSYS0000003123
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

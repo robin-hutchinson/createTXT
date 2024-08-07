@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nardia compressa
 ErrorMsg=Coordinate is outside known range for Nardia compressa
 DataFieldName=Species
 DataRecordId=NHMSYS0000310227
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

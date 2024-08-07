@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Clubiona pseudoneglec
 ErrorMsg=Coordinate is outside known range for Clubiona pseudoneglecta
 DataFieldName=Species
 DataRecordId=NBNSYS0100002489
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

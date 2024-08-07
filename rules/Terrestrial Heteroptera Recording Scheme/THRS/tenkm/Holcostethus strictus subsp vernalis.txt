@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Holcostethus strictus
 ErrorMsg=Coordinate is outside known range for Holcostethus strictus subsp. vernalis
 DataFieldName=Species
 DataRecordId=NHMSYS0020705623
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

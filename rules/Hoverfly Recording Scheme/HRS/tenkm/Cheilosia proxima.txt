@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cheilosia proxima
 ErrorMsg=Coordinate is outside known range for Cheilosia proxima
 DataFieldName=Species
 DataRecordId=NBNSYS0000006995
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

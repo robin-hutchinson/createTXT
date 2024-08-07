@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Perigona nigriceps
 ErrorMsg=Coordinate is outside known range for Perigona nigriceps
 DataFieldName=Species
 DataRecordId=NBNSYS0000007342
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

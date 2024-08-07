@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Helicoverpa armigera
 ErrorMsg=Coordinate is outside known range for Helicoverpa armigera
 DataFieldName=Species
 DataRecordId=NHMSYS0021144542
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

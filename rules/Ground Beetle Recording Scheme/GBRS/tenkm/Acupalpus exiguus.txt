@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acupalpus exiguus
 ErrorMsg=Coordinate is outside known range for Acupalpus exiguus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007437
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

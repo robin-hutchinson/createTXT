@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oscinella maura
 ErrorMsg=Coordinate is outside known range for Oscinella maura
 DataFieldName=Species
 DataRecordId=NBNSYS0000029914
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

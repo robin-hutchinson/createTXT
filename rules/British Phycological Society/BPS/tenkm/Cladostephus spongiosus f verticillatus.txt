@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladostephus spongios
 ErrorMsg=Coordinate is outside known range for Cladostephus spongiosus f. verticillatus
 DataFieldName=Species
 DataRecordId=NHMSYS0000377550
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

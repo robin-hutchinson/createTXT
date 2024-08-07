@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porina curnowii
 ErrorMsg=Coordinate is outside known range for Porina curnowii
 DataFieldName=Species
 DataRecordId=NBNSYS0000019888
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

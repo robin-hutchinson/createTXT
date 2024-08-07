@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hecatonema terminale
 ErrorMsg=Coordinate is outside known range for Hecatonema terminale
 DataFieldName=Species
 DataRecordId=NBNSYS0000182631
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Deraeocoris (Deraeoco
 ErrorMsg=Coordinate is outside known range for Deraeocoris (Deraeocoris) scutellaris
 DataFieldName=Species
 DataRecordId=NHMSYS0020309145
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

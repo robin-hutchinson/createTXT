@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Synanthedon scoliaeformis
 Tvk=NBNSYS0000005691
 StartDate=18540101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lebia (Lamprias) cyan
 ErrorMsg=Coordinate is outside known range for Lebia (Lamprias) cyanocephala
 DataFieldName=Species
 DataRecordId=NHMSYS0001718726
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

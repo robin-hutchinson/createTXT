@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Euleioptilus carphoda
 ErrorMsg=Coordinate is outside known range for Euleioptilus carphodactyla
 DataFieldName=Species
 DataRecordId=NBNSYS0100003103
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

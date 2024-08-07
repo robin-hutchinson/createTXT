@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Megalonotus emarginat
 ErrorMsg=Coordinate is outside known range for Megalonotus emarginatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309434
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

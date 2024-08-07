@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ectropis sp.
 ErrorMsg=Coordinate is outside known range for Ectropis sp.
 DataFieldName=Species
 DataRecordId=NHMSYS0021144254
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

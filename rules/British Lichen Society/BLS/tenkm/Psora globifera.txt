@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Psora globifera
 ErrorMsg=Coordinate is outside known range for Psora globifera
 DataFieldName=Species
 DataRecordId=NBNSYS0000039731
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

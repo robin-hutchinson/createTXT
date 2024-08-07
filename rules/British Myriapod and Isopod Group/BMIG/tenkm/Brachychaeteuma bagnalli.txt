@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachychaeteuma bagna
 ErrorMsg=Coordinate is outside known range for Brachychaeteuma bagnalli
 DataFieldName=Species
 DataRecordId=NBNSYS0000011357
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

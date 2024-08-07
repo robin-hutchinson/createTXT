@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Philonotis fontana
 ErrorMsg=Coordinate is outside known range for Philonotis fontana
 DataFieldName=Species
 DataRecordId=NBNSYS0000036682
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

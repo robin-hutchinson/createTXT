@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Radula aquilegia
 ErrorMsg=Coordinate is outside known range for Radula aquilegia
 DataFieldName=Species
 DataRecordId=NHMSYS0000310547
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

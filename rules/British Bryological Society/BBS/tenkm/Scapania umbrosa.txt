@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scapania umbrosa
 ErrorMsg=Coordinate is outside known range for Scapania umbrosa
 DataFieldName=Species
 DataRecordId=NHMSYS0000310586
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

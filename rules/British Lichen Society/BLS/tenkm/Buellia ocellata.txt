@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Buellia ocellata
 ErrorMsg=Coordinate is outside known range for Buellia ocellata
 DataFieldName=Species
 DataRecordId=NHMSYS0001476332
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

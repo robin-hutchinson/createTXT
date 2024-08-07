@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sideridis turbida
 ErrorMsg=Coordinate is outside known range for Sideridis turbida
 DataFieldName=Species
 DataRecordId=NHMSYS0021144827
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xylota tarda
 ErrorMsg=Coordinate is outside known range for Xylota tarda
 DataFieldName=Species
 DataRecordId=NBNSYS0000007117
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eristalis similis
 ErrorMsg=Coordinate is outside known range for Eristalis similis
 DataFieldName=Species
 DataRecordId=NBNSYS0100003072
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

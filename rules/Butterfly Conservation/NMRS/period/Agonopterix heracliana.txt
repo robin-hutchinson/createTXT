@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Agonopterix heracliana
 Tvk=NHMSYS0000501056
 StartDate=17000101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

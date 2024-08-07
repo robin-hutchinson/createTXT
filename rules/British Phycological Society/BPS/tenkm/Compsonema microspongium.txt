@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Compsonema microspong
 ErrorMsg=Coordinate is outside known range for Compsonema microspongium
 DataFieldName=Species
 DataRecordId=NHMSYS0000567910
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

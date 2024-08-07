@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mycocalicium subtile
 ErrorMsg=Coordinate is outside known range for Mycocalicium subtile
 DataFieldName=Species
 DataRecordId=NBNSYS0000015576
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

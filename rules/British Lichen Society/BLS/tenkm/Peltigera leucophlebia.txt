@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Peltigera leucophlebi
 ErrorMsg=Coordinate is outside known range for Peltigera leucophlebia
 DataFieldName=Species
 DataRecordId=NBNSYS0000019330
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

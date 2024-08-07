@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Jordanita globulariae
 ErrorMsg=Coordinate is outside known range for Jordanita globulariae
 DataFieldName=Species
 DataRecordId=NHMSYS0000502970
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

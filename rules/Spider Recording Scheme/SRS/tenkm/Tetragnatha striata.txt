@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tetragnatha striata
 ErrorMsg=Coordinate is outside known range for Tetragnatha striata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008922
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

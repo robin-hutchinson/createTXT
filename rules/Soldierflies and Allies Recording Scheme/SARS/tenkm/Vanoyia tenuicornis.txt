@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Vanoyia tenuicornis
 ErrorMsg=Coordinate is outside known range for Vanoyia tenuicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007819
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

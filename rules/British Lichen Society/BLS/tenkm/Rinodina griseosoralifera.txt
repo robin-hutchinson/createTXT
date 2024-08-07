@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rinodina griseosorali
 ErrorMsg=Coordinate is outside known range for Rinodina griseosoralifera
 DataFieldName=Species
 DataRecordId=NBNSYS0000039780
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

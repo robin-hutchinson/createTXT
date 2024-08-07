@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthoparmelia perrug
 ErrorMsg=Coordinate is outside known range for Xanthoparmelia perrugata
 DataFieldName=Species
 DataRecordId=NHMSYS0020327895
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

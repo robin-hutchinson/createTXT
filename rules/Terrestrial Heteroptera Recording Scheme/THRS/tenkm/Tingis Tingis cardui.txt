@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tingis (Tingis) cardu
 ErrorMsg=Coordinate is outside known range for Tingis (Tingis) cardui
 DataFieldName=Species
 DataRecordId=NHMSYS0020309901
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ennomos fuscantaria
 ErrorMsg=Coordinate is outside known range for Ennomos fuscantaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000006005
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

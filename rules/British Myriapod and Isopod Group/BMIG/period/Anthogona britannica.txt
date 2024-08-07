@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Anthogona britannica
 Tvk=NHMSYS0000356226
 StartDate=19831018
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

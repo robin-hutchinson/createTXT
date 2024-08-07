@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scrobipalpula tussila
 ErrorMsg=Coordinate is outside known range for Scrobipalpula tussilaginis
 DataFieldName=Species
 DataRecordId=NHMSYS0000504158
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

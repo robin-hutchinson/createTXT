@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ipimorpha retusa
 ErrorMsg=Coordinate is outside known range for Ipimorpha retusa
 DataFieldName=Species
 DataRecordId=NHMSYS0000502954
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

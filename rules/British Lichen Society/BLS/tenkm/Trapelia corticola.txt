@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trapelia corticola
 ErrorMsg=Coordinate is outside known range for Trapelia corticola
 DataFieldName=Species
 DataRecordId=NHMSYS0001499947
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

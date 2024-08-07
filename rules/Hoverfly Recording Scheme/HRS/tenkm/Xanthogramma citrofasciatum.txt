@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthogramma citrofas
 ErrorMsg=Coordinate is outside known range for Xanthogramma citrofasciatum
 DataFieldName=Species
 DataRecordId=NBNSYS0000006967
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

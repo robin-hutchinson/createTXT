@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Miriquidica nigrolepr
 ErrorMsg=Coordinate is outside known range for Miriquidica nigroleprosa var. nigroleprosa
 DataFieldName=Species
 DataRecordId=NHMSYS0001489678
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

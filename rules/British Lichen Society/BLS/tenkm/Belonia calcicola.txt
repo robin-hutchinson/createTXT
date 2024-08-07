@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Belonia calcicola
 ErrorMsg=Coordinate is outside known range for Belonia calcicola
 DataFieldName=Species
 DataRecordId=NBNSYS0000016957
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

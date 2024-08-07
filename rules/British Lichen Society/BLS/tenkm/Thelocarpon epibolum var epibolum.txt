@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thelocarpon epibolum 
 ErrorMsg=Coordinate is outside known range for Thelocarpon epibolum var. epibolum
 DataFieldName=Species
 DataRecordId=NHMSYS0001499647
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

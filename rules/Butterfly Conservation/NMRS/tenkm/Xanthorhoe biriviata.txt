@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthorhoe biriviata
 ErrorMsg=Coordinate is outside known range for Xanthorhoe biriviata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005794
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

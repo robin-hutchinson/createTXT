@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chamaesyrphus caledon
 ErrorMsg=Coordinate is outside known range for Chamaesyrphus caledonicus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007071
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Globiceps dispar
 ErrorMsg=Coordinate is outside known range for Globiceps dispar
 DataFieldName=Species
 DataRecordId=NBNSYS0000010221
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

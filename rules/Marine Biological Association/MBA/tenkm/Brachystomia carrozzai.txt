@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachystomia carrozza
 ErrorMsg=Coordinate is outside known range for Brachystomia carrozzai
 DataFieldName=Species
 DataRecordId=NBNSYS0000174189
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

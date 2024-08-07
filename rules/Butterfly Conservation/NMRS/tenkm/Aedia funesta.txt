@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aedia funesta
 ErrorMsg=Coordinate is outside known range for Aedia funesta
 DataFieldName=Species
 DataRecordId=NHMSYS0021126078
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

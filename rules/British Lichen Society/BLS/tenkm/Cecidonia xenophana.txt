@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cecidonia xenophana
 ErrorMsg=Coordinate is outside known range for Cecidonia xenophana
 DataFieldName=Species
 DataRecordId=NHMSYS0001476955
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

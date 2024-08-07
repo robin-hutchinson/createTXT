@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Amblytylus delicatus
 Tvk=NHMSYS0020308919
 StartDate=18570101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

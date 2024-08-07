@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aulactinia verrucosa
 ErrorMsg=Coordinate is outside known range for Aulactinia verrucosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000174044
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

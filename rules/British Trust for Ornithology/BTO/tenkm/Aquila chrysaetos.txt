@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aquila chrysaetos
 ErrorMsg=Coordinate is outside known range for Aquila chrysaetos
 DataFieldName=Species
 DataRecordId=NHMSYS0000530170
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

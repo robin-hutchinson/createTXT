@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphagnum imbricatum s
 ErrorMsg=Coordinate is outside known range for Sphagnum imbricatum sensu lato
 DataFieldName=Species
 DataRecordId=NHMSYS0000310917
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

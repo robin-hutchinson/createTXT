@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Monocephalus castanei
 ErrorMsg=Coordinate is outside known range for Monocephalus castaneipes
 DataFieldName=Species
 DataRecordId=NBNSYS0000009070
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

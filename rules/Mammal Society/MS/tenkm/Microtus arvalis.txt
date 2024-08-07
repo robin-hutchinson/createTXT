@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Microtus arvalis
 ErrorMsg=Coordinate is outside known range for Microtus arvalis
 DataFieldName=Species
 DataRecordId=NHMSYS0000080208
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

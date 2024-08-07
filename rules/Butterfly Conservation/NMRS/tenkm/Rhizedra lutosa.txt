@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhizedra lutosa
 ErrorMsg=Coordinate is outside known range for Rhizedra lutosa
 DataFieldName=Species
 DataRecordId=NHMSYS0021144629
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Calathus (Calathus) cinctus
 Tvk=NHMSYS0001717446
 StartDate=19890101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chlorops varsoviensis
 ErrorMsg=Coordinate is outside known range for Chlorops varsoviensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000030006
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

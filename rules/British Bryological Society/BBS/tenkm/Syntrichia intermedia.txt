@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Syntrichia intermedia
 ErrorMsg=Coordinate is outside known range for Syntrichia intermedia
 DataFieldName=Species
 DataRecordId=NBNSYS0100005681
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

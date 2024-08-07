@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhyacophila munda
 ErrorMsg=Coordinate is outside known range for Rhyacophila munda
 DataFieldName=Species
 DataRecordId=NBNSYS0000008340
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

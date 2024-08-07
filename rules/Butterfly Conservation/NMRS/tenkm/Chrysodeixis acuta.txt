@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chrysodeixis acuta
 ErrorMsg=Coordinate is outside known range for Chrysodeixis acuta
 DataFieldName=Species
 DataRecordId=NHMSYS0021144469
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

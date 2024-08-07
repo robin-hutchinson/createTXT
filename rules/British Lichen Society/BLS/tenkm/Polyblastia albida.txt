@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polyblastia albida
 ErrorMsg=Coordinate is outside known range for Polyblastia albida
 DataFieldName=Species
 DataRecordId=NBNSYS0000020617
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

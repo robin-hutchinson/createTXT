@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polybius henslowii
 ErrorMsg=Coordinate is outside known range for Polybius henslowii
 DataFieldName=Species
 DataRecordId=NBNSYS0000185862
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Haplophilus souletinu
 ErrorMsg=Coordinate is outside known range for Haplophilus souletinus
 DataFieldName=Species
 DataRecordId=NHMSYS0021131341
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

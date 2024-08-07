@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orius (Heterorius) ma
 ErrorMsg=Coordinate is outside known range for Orius (Heterorius) majusculus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309560
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

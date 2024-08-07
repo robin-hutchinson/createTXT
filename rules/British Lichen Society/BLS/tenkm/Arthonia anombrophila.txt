@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthonia anombrophila
 ErrorMsg=Coordinate is outside known range for Arthonia anombrophila
 DataFieldName=Species
 DataRecordId=NHMSYS0001474923
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

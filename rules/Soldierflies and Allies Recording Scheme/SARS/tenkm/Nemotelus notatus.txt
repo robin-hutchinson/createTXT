@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nemotelus notatus
 ErrorMsg=Coordinate is outside known range for Nemotelus notatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007805
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

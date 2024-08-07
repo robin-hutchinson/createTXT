@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Umbilicaria deusta
 ErrorMsg=Coordinate is outside known range for Umbilicaria deusta
 DataFieldName=Species
 DataRecordId=NBNSYS0000019124
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

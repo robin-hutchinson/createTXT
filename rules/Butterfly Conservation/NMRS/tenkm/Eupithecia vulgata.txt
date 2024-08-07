@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eupithecia vulgata
 ErrorMsg=Coordinate is outside known range for Eupithecia vulgata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005922
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sehirus luctuosus
 ErrorMsg=Coordinate is outside known range for Sehirus luctuosus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309817
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

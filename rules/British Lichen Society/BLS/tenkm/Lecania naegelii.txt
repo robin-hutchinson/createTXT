@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecania naegelii
 ErrorMsg=Coordinate is outside known range for Lecania naegelii
 DataFieldName=Species
 DataRecordId=BMSSYS0000009425
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

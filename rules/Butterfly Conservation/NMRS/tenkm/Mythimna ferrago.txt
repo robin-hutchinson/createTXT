@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mythimna ferrago
 ErrorMsg=Coordinate is outside known range for Mythimna ferrago
 DataFieldName=Species
 DataRecordId=NBNSYS0000006286
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

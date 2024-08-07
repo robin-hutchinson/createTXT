@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptogium tenuissimum
 ErrorMsg=Coordinate is outside known range for Leptogium tenuissimum
 DataFieldName=Species
 DataRecordId=NBNSYS0000018789
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

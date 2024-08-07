@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Melitaea cinxia
 ErrorMsg=Coordinate is outside known range for Melitaea cinxia
 DataFieldName=Species
 DataRecordId=NHMSYS0000503191
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

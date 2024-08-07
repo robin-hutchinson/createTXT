@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porina mammillosa
 ErrorMsg=Coordinate is outside known range for Porina mammillosa
 DataFieldName=Species
 DataRecordId=NHMSYS0001494652
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

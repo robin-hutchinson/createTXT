@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lophomma punctatum
 ErrorMsg=Coordinate is outside known range for Lophomma punctatum
 DataFieldName=Species
 DataRecordId=NBNSYS0000009071
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

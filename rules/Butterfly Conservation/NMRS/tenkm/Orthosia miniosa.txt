@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orthosia miniosa
 ErrorMsg=Coordinate is outside known range for Orthosia miniosa
 DataFieldName=Species
 DataRecordId=NHMSYS0021144788
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sericomyia lappona
 ErrorMsg=Coordinate is outside known range for Sericomyia lappona
 DataFieldName=Species
 DataRecordId=NBNSYS0000007092
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

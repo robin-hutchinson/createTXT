@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tetrao tetrix
 ErrorMsg=Coordinate is outside known range for Tetrao tetrix
 DataFieldName=Species
 DataRecordId=NHMSYS0000530658
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

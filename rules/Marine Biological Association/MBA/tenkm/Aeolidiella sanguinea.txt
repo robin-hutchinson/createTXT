@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aeolidiella sanguinea
 ErrorMsg=Coordinate is outside known range for Aeolidiella sanguinea
 DataFieldName=Species
 DataRecordId=NBNSYS0000173624
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

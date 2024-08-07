@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nucella lapillus
 ErrorMsg=Coordinate is outside known range for Nucella lapillus
 DataFieldName=Species
 DataRecordId=NBNSYS0000188539
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

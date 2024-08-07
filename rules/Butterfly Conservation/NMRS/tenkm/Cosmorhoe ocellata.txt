@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cosmorhoe ocellata
 ErrorMsg=Coordinate is outside known range for Cosmorhoe ocellata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005832
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

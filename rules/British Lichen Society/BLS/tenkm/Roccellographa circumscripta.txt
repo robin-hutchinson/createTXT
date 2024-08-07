@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Roccellographa circum
 ErrorMsg=Coordinate is outside known range for Roccellographa circumscripta
 DataFieldName=Species
 DataRecordId=NHMSYS0020990830
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

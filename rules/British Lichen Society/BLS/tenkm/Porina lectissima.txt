@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porina lectissima
 ErrorMsg=Coordinate is outside known range for Porina lectissima
 DataFieldName=Species
 DataRecordId=NBNSYS0000019895
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

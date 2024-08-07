@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Araneus triguttatus
 ErrorMsg=Coordinate is outside known range for Araneus triguttatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000142208
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

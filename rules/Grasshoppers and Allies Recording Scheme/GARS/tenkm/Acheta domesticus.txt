@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acheta domesticus
 ErrorMsg=Coordinate is outside known range for Acheta domesticus
 DataFieldName=Species
 DataRecordId=NBNSYS0000006827
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

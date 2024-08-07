@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Neriene emphana
 ErrorMsg=Coordinate is outside known range for Neriene emphana
 DataFieldName=Species
 DataRecordId=NBNSYS0100004233
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Halticus saltator
 Tvk=NHMSYS0020309285
 StartDate=19070101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

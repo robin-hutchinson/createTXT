@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Catillaria nigroclava
 ErrorMsg=Coordinate is outside known range for Catillaria nigroclavata
 DataFieldName=Species
 DataRecordId=NHMSYS0020990038
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

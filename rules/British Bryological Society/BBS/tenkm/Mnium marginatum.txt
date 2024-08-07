@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mnium marginatum
 ErrorMsg=Coordinate is outside known range for Mnium marginatum
 DataFieldName=Species
 DataRecordId=NBNSYS0000036644
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

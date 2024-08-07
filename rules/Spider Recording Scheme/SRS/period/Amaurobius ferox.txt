@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Amaurobius ferox
 Tvk=NBNSYS0000008612
 StartDate=18470101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

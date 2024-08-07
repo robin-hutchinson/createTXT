@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phaeoceros laevis sen
 ErrorMsg=Coordinate is outside known range for Phaeoceros laevis sensu lato
 DataFieldName=Species
 DataRecordId=NHMSYS0000310891
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

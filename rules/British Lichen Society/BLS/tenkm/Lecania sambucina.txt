@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecania sambucina
 ErrorMsg=Coordinate is outside known range for Lecania sambucina
 DataFieldName=Species
 DataRecordId=NHMSYS0000362614
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

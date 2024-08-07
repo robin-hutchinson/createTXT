@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bactrospora homalotro
 ErrorMsg=Coordinate is outside known range for Bactrospora homalotropa
 DataFieldName=Species
 DataRecordId=BMSSYS0000002237
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

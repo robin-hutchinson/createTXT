@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caryocolum blandelloi
 ErrorMsg=Coordinate is outside known range for Caryocolum blandelloides
 DataFieldName=Species
 DataRecordId=NBNSYS0100002206
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Patrobus septentrioni
 ErrorMsg=Coordinate is outside known range for Patrobus septentrionis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007189
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

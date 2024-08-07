@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eilema depressa
 ErrorMsg=Coordinate is outside known range for Eilema depressa
 DataFieldName=Species
 DataRecordId=NBNSYS0100002922
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

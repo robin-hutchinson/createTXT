@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phalaropus lobatus
 ErrorMsg=Coordinate is outside known range for Phalaropus lobatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000172
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

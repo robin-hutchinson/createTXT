@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Licinus punctatulus
 ErrorMsg=Coordinate is outside known range for Licinus punctatulus
 DataFieldName=Species
 DataRecordId=NHMSYS0001718827
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

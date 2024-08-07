@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora gisleriana
 ErrorMsg=Coordinate is outside known range for Lecanora gisleriana
 DataFieldName=Species
 DataRecordId=NHMSYS0001486378
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

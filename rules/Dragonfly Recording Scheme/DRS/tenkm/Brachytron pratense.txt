@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachytron pratense
 ErrorMsg=Coordinate is outside known range for Brachytron pratense
 DataFieldName=Species
 DataRecordId=NBNSYS0000005622
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

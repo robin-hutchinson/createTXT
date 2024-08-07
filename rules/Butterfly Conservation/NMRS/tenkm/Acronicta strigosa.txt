@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acronicta strigosa
 ErrorMsg=Coordinate is outside known range for Acronicta strigosa
 DataFieldName=Species
 DataRecordId=NHMSYS0021144504
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

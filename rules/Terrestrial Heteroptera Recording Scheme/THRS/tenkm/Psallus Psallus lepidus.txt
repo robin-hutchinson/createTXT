@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Psallus (Psallus) lep
 ErrorMsg=Coordinate is outside known range for Psallus (Psallus) lepidus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309739
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

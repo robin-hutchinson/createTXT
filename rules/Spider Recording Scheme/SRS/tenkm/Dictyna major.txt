@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dictyna major
 ErrorMsg=Coordinate is outside known range for Dictyna major
 DataFieldName=Species
 DataRecordId=NBNSYS0000008615
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dendrocygna bicolor
 ErrorMsg=Coordinate is outside known range for Dendrocygna bicolor
 DataFieldName=Species
 DataRecordId=NHMSYS0000533227
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

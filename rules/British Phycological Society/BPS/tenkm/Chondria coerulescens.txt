@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chondria coerulescens
 ErrorMsg=Coordinate is outside known range for Chondria coerulescens
 DataFieldName=Species
 DataRecordId=NHMSYS0000567868
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

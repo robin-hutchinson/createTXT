@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lobaria pulmonaria
 ErrorMsg=Coordinate is outside known range for Lobaria pulmonaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000019311
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

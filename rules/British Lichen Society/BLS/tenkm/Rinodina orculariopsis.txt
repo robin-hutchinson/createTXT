@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rinodina orculariopsi
 ErrorMsg=Coordinate is outside known range for Rinodina orculariopsis
 DataFieldName=Species
 DataRecordId=NHMSYS0001496503
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hydropsyche saxonica
 ErrorMsg=Coordinate is outside known range for Hydropsyche saxonica
 DataFieldName=Species
 DataRecordId=NBNSYS0000008420
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

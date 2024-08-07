@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porcellionides pruino
 ErrorMsg=Coordinate is outside known range for Porcellionides pruinosus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008583
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Physcia dubia
 ErrorMsg=Coordinate is outside known range for Physcia dubia
 DataFieldName=Species
 DataRecordId=NBNSYS0000018930
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

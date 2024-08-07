@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Petroderma maculiform
 ErrorMsg=Coordinate is outside known range for Petroderma maculiforme
 DataFieldName=Species
 DataRecordId=NBNSYS0000177089
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

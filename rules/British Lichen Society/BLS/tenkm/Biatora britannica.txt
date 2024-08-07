@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Biatora britannica
 ErrorMsg=Coordinate is outside known range for Biatora britannica
 DataFieldName=Species
 DataRecordId=NHMSYS0001475631
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

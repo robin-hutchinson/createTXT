@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Emberiza citrinella
 ErrorMsg=Coordinate is outside known range for Emberiza citrinella
 DataFieldName=Species
 DataRecordId=NHMSYS0000530727
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Troglodytes troglodyt
 ErrorMsg=Coordinate is outside known range for Troglodytes troglodytes
 DataFieldName=Species
 DataRecordId=NHMSYS0000530671
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

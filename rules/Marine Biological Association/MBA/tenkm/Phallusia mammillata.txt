@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phallusia mammillata
 ErrorMsg=Coordinate is outside known range for Phallusia mammillata
 DataFieldName=Species
 DataRecordId=NBNSYS0000177106
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

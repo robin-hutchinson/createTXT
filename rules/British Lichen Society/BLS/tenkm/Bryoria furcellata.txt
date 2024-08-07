@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bryoria furcellata
 ErrorMsg=Coordinate is outside known range for Bryoria furcellata
 DataFieldName=Species
 DataRecordId=NBNSYS0000018258
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

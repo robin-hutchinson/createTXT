@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stigmidium xanthoparm
 ErrorMsg=Coordinate is outside known range for Stigmidium xanthoparmeliarum
 DataFieldName=Species
 DataRecordId=BMSSYS0000018073
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

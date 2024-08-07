@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arvicola amphibius
 ErrorMsg=Coordinate is outside known range for Arvicola amphibius
 DataFieldName=Species
 DataRecordId=NHMSYS0020546253
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptogium gelatinosum
 ErrorMsg=Coordinate is outside known range for Leptogium gelatinosum
 DataFieldName=Species
 DataRecordId=NHMSYS0001487425
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tinodes unicolor
 ErrorMsg=Coordinate is outside known range for Tinodes unicolor
 DataFieldName=Species
 DataRecordId=NBNSYS0000008395
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

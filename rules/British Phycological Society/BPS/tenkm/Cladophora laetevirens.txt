@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladophora laeteviren
 ErrorMsg=Coordinate is outside known range for Cladophora laetevirens
 DataFieldName=Species
 DataRecordId=NBNSYS0000174590
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

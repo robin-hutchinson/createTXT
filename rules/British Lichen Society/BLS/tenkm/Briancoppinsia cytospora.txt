@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Briancoppinsia cytosp
 ErrorMsg=Coordinate is outside known range for Briancoppinsia cytospora
 DataFieldName=Species
 DataRecordId=NHMSYS0020989835
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

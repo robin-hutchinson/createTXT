@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Tegenaria atrica
 Tvk=NBNSYS0000008838
 StartDate=18860101
 EndDate=19971231
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

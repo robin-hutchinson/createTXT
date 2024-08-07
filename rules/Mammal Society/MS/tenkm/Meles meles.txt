@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meles meles
 ErrorMsg=Coordinate is outside known range for Meles meles
 DataFieldName=Species
 DataRecordId=NHMSYS0000080191
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

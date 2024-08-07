@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Globiceps (Kelidocori
 ErrorMsg=Coordinate is outside known range for Globiceps (Kelidocoris) fulvicollis subsp. cruciatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309266
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

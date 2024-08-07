@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria pseudocora
 ErrorMsg=Coordinate is outside known range for Pertusaria pseudocorallina
 DataFieldName=Species
 DataRecordId=NBNSYS0000019409
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

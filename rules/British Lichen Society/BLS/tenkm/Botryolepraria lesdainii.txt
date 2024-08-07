@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Botryolepraria lesdai
 ErrorMsg=Coordinate is outside known range for Botryolepraria lesdainii
 DataFieldName=Species
 DataRecordId=NHMSYS0000361568
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lepus europaeus
 ErrorMsg=Coordinate is outside known range for Lepus europaeus
 DataFieldName=Species
 DataRecordId=NHMSYS0000080218
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

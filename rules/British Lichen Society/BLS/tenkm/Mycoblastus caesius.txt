@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mycoblastus caesius
 ErrorMsg=Coordinate is outside known range for Mycoblastus caesius
 DataFieldName=Species
 DataRecordId=BMSSYS0000011765
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

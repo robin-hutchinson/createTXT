@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chlorissa viridata
 ErrorMsg=Coordinate is outside known range for Chlorissa viridata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005743
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

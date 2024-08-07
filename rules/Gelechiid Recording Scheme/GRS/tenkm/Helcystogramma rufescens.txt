@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Helcystogramma rufesc
 ErrorMsg=Coordinate is outside known range for Helcystogramma rufescens
 DataFieldName=Species
 DataRecordId=NBNSYS0100003380
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

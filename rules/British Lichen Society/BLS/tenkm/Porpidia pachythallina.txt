@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porpidia pachythallin
 ErrorMsg=Coordinate is outside known range for Porpidia pachythallina
 DataFieldName=Species
 DataRecordId=NHMSYS0001494694
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhizocarpon subgemina
 ErrorMsg=Coordinate is outside known range for Rhizocarpon subgeminatum
 DataFieldName=Species
 DataRecordId=NBNSYS0000039775
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

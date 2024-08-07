@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Wormaldia mediana
 ErrorMsg=Coordinate is outside known range for Wormaldia mediana
 DataFieldName=Species
 DataRecordId=NBNSYS0000008381
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

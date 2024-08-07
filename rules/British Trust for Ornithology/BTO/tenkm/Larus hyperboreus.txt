@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Larus hyperboreus
 ErrorMsg=Coordinate is outside known range for Larus hyperboreus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000356
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

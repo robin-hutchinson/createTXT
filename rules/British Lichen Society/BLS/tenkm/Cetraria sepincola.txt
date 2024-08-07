@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cetraria sepincola
 ErrorMsg=Coordinate is outside known range for Cetraria sepincola
 DataFieldName=Species
 DataRecordId=NBNSYS0000018339
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

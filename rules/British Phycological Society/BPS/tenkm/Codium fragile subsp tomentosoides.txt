@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Codium fragile subsp.
 ErrorMsg=Coordinate is outside known range for Codium fragile subsp. tomentosoides
 DataFieldName=Species
 DataRecordId=NHMSYS0000567899
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

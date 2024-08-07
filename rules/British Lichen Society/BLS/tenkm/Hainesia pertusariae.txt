@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hainesia pertusariae
 ErrorMsg=Coordinate is outside known range for Hainesia pertusariae
 DataFieldName=Species
 DataRecordId=BMSSYS0000007608
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

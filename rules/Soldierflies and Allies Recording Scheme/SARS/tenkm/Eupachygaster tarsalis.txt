@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eupachygaster tarsali
 ErrorMsg=Coordinate is outside known range for Eupachygaster tarsalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007824
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

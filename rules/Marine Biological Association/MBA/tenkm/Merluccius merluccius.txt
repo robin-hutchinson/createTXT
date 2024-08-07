@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Merluccius merluccius
 ErrorMsg=Coordinate is outside known range for Merluccius merluccius
 DataFieldName=Species
 DataRecordId=NBNSYS0000176426
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

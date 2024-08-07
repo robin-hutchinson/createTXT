@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sympetrum striolatum
 ErrorMsg=Coordinate is outside known range for Sympetrum striolatum
 DataFieldName=Species
 DataRecordId=NBNSYS0000005645
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

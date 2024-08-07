@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sylvia cantillans
 ErrorMsg=Coordinate is outside known range for Sylvia cantillans
 DataFieldName=Species
 DataRecordId=NHMSYS0000530635
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

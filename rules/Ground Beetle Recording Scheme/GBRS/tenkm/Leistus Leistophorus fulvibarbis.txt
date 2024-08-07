@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leistus (Leistophorus
 ErrorMsg=Coordinate is outside known range for Leistus (Leistophorus) fulvibarbis
 DataFieldName=Species
 DataRecordId=NHMSYS0001718795
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

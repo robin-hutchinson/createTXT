@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calliteara pudibunda
 ErrorMsg=Coordinate is outside known range for Calliteara pudibunda
 DataFieldName=Species
 DataRecordId=NBNSYS0000006114
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

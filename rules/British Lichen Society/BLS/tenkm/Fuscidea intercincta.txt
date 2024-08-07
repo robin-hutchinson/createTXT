@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Fuscidea intercincta
 ErrorMsg=Coordinate is outside known range for Fuscidea intercincta
 DataFieldName=Species
 DataRecordId=NBNSYS0000018491
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

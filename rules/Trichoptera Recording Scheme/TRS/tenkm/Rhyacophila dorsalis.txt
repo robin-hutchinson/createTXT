@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhyacophila dorsalis
 ErrorMsg=Coordinate is outside known range for Rhyacophila dorsalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008339
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aspicilia laevata
 ErrorMsg=Coordinate is outside known range for Aspicilia laevata
 DataFieldName=Species
 DataRecordId=NBNSYS0000018194
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

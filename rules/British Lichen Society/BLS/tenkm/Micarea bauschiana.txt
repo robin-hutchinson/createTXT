@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Micarea bauschiana
 ErrorMsg=Coordinate is outside known range for Micarea bauschiana
 DataFieldName=Species
 DataRecordId=NHMSYS0001489441
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ozyptila brevipes
 ErrorMsg=Coordinate is outside known range for Ozyptila brevipes
 DataFieldName=Species
 DataRecordId=NBNSYS0000008740
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

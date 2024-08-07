@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stercorarius longicau
 ErrorMsg=Coordinate is outside known range for Stercorarius longicaudus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000342
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

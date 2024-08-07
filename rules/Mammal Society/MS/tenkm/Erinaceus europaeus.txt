@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Erinaceus europaeus
 ErrorMsg=Coordinate is outside known range for Erinaceus europaeus
 DataFieldName=Species
 DataRecordId=NBNSYS0000005078
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Farnoldia jurana
 ErrorMsg=Coordinate is outside known range for Farnoldia jurana
 DataFieldName=Species
 DataRecordId=NBNSYS0000018482
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Clubiona neglecta sen
 ErrorMsg=Coordinate is outside known range for Clubiona neglecta sensu stricto
 DataFieldName=Species
 DataRecordId=NBNSYS0200000057
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

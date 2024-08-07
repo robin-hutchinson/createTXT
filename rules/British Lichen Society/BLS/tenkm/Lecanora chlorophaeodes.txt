@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora chlorophaeod
 ErrorMsg=Coordinate is outside known range for Lecanora chlorophaeodes
 DataFieldName=Species
 DataRecordId=NBNSYS0000039650
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

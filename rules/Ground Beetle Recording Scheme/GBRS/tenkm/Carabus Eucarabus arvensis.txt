@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Carabus (Eucarabus) a
 ErrorMsg=Coordinate is outside known range for Carabus (Eucarabus) arvensis
 DataFieldName=Species
 DataRecordId=NHMSYS0001717513
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

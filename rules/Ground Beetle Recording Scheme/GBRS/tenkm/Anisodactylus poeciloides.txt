@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anisodactylus poecilo
 ErrorMsg=Coordinate is outside known range for Anisodactylus poeciloides
 DataFieldName=Species
 DataRecordId=NBNSYS0000007412
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

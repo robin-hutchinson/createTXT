@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dioctria baumhaueri
 ErrorMsg=Coordinate is outside known range for Dioctria baumhaueri
 DataFieldName=Species
 DataRecordId=NBNSYS0000007915
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scenopinus fenestrali
 ErrorMsg=Coordinate is outside known range for Scenopinus fenestralis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007935
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

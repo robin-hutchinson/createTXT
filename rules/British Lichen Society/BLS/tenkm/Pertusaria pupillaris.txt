@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria pupillaris
 ErrorMsg=Coordinate is outside known range for Pertusaria pupillaris
 DataFieldName=Species
 DataRecordId=NHMSYS0001492313
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

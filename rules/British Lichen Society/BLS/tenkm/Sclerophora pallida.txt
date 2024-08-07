@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sclerophora pallida
 ErrorMsg=Coordinate is outside known range for Sclerophora pallida
 DataFieldName=Species
 DataRecordId=NHMSYS0001497251
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

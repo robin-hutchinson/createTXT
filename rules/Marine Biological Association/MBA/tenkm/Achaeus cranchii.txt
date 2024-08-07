@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Achaeus cranchii
 ErrorMsg=Coordinate is outside known range for Achaeus cranchii
 DataFieldName=Species
 DataRecordId=NBNSYS0000173566
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

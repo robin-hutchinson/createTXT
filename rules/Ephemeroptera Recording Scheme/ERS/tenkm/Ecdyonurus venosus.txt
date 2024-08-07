@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ecdyonurus venosus
 ErrorMsg=Coordinate is outside known range for Ecdyonurus venosus
 DataFieldName=Species
 DataRecordId=NBNSYS0000010881
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pogonatum urnigerum
 ErrorMsg=Coordinate is outside known range for Pogonatum urnigerum
 DataFieldName=Species
 DataRecordId=NBNSYS0000036144
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

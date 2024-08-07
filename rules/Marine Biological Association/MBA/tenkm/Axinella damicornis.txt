@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Axinella damicornis
 ErrorMsg=Coordinate is outside known range for Axinella damicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000174066
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trapezonotus (Trapezo
 ErrorMsg=Coordinate is outside known range for Trapezonotus (Trapezonotus) ullrichi
 DataFieldName=Species
 DataRecordId=NHMSYS0020309913
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

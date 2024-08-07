@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phylloscopus trochilu
 ErrorMsg=Coordinate is outside known range for Phylloscopus trochilus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530759
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

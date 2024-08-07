@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porcellio dilatatus
 ErrorMsg=Coordinate is outside known range for Porcellio dilatatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008578
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

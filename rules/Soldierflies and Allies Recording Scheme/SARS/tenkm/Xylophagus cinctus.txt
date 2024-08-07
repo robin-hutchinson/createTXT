@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xylophagus cinctus
 ErrorMsg=Coordinate is outside known range for Xylophagus cinctus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007847
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Riccia glauca
 ErrorMsg=Coordinate is outside known range for Riccia glauca
 DataFieldName=Species
 DataRecordId=NBNSYS0000036055
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acrocordia subglobosa
 ErrorMsg=Coordinate is outside known range for Acrocordia subglobosa
 DataFieldName=Species
 DataRecordId=NHMSYS0020989689
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

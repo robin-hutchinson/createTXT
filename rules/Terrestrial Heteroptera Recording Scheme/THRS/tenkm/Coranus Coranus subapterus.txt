@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Coranus (Coranus) sub
 ErrorMsg=Coordinate is outside known range for Coranus (Coranus) subapterus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309101
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

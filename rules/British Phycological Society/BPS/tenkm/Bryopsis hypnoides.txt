@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bryopsis hypnoides
 ErrorMsg=Coordinate is outside known range for Bryopsis hypnoides
 DataFieldName=Species
 DataRecordId=NHMSYS0000567817
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

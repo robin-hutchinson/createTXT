@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chlaenius nigricornis
 ErrorMsg=Coordinate is outside known range for Chlaenius nigricornis
 DataFieldName=Species
 DataRecordId=NHMSYS0001717674
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

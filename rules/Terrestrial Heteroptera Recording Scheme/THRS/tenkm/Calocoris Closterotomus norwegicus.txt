@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calocoris (Closteroto
 ErrorMsg=Coordinate is outside known range for Calocoris (Closterotomus) norwegicus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309021
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

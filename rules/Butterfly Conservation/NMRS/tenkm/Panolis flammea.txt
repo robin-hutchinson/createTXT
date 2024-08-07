@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Panolis flammea
 ErrorMsg=Coordinate is outside known range for Panolis flammea
 DataFieldName=Species
 DataRecordId=NHMSYS0021144783
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

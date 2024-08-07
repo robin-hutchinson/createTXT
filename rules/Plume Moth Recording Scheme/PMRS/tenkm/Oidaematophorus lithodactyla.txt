@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oidaematophorus litho
 ErrorMsg=Coordinate is outside known range for Oidaematophorus lithodactyla
 DataFieldName=Species
 DataRecordId=NHMSYS0000503464
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

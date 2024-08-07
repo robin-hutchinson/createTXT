@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agrypnia pagetana
 ErrorMsg=Coordinate is outside known range for Agrypnia pagetana
 DataFieldName=Species
 DataRecordId=NBNSYS0000008425
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

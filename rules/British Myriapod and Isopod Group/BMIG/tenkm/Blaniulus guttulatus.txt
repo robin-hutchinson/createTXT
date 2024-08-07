@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Blaniulus guttulatus
 ErrorMsg=Coordinate is outside known range for Blaniulus guttulatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011375
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cyphelium sessile
 ErrorMsg=Coordinate is outside known range for Cyphelium sessile
 DataFieldName=Species
 DataRecordId=NBNSYS0000015571
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

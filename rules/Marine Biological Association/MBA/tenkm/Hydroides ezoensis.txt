@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hydroides ezoensis
 ErrorMsg=Coordinate is outside known range for Hydroides ezoensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000175834
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

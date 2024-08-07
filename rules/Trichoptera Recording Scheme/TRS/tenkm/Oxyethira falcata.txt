@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oxyethira falcata
 ErrorMsg=Coordinate is outside known range for Oxyethira falcata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008367
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptogium hibernicum
 ErrorMsg=Coordinate is outside known range for Leptogium hibernicum
 DataFieldName=Species
 DataRecordId=NBNSYS0000018778
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

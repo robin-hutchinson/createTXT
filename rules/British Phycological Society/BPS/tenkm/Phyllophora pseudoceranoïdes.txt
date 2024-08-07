@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phyllophora pseudocer
 ErrorMsg=Coordinate is outside known range for Phyllophora pseudoceranoïdes
 DataFieldName=Species
 DataRecordId=NHMSYS0000568076
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

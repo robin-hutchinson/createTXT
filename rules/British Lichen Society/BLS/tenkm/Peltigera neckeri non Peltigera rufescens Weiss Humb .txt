@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Peltigera neckeri non
 ErrorMsg=Coordinate is outside known range for Peltigera neckeri non Peltigera rufescens (Weiss) Humb.
 DataFieldName=Species
 DataRecordId= 1793
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 NA

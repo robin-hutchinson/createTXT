@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca teicholyta
 ErrorMsg=Coordinate is outside known range for Caloplaca teicholyta
 DataFieldName=Species
 DataRecordId=NBNSYS0000020560
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

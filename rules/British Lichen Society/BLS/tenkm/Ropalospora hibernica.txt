@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ropalospora hibernica
 ErrorMsg=Coordinate is outside known range for Ropalospora hibernica
 DataFieldName=Species
 DataRecordId=NHMSYS0001496545
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

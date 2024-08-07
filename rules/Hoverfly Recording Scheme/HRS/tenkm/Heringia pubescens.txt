@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Heringia pubescens
 ErrorMsg=Coordinate is outside known range for Heringia pubescens
 DataFieldName=Species
 DataRecordId=NBNSYS0100003450
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

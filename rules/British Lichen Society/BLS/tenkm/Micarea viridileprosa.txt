@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Micarea viridileprosa
 ErrorMsg=Coordinate is outside known range for Micarea viridileprosa
 DataFieldName=Species
 DataRecordId=NHMSYS0000363161
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

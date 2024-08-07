@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria albescens 
 ErrorMsg=Coordinate is outside known range for Pertusaria albescens var. corallina
 DataFieldName=Species
 DataRecordId=NHMSYS0001492276
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cygnus cygnus
 ErrorMsg=Coordinate is outside known range for Cygnus cygnus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000199
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

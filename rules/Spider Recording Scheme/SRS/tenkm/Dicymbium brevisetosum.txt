@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dicymbium brevisetosu
 ErrorMsg=Coordinate is outside known range for Dicymbium brevisetosum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008991
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Epidalea calamita
 ErrorMsg=Coordinate is outside known range for Epidalea calamita
 DataFieldName=Species
 DataRecordId=NHMSYS0020194825
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ophonus (Ophonus) ard
 ErrorMsg=Coordinate is outside known range for Ophonus (Ophonus) ardosiacus
 DataFieldName=Species
 DataRecordId=NHMSYS0001719336
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

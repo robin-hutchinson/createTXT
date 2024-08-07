@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Gonatium paradoxum
 Tvk=NBNSYS0000009019
 StartDate=19540101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

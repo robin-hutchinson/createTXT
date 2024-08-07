@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptonematella fascic
 ErrorMsg=Coordinate is outside known range for Leptonematella fasciculata
 DataFieldName=Species
 DataRecordId=NHMSYS0000567987
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

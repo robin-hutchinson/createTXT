@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nemoura cambrica
 ErrorMsg=Coordinate is outside known range for Nemoura cambrica
 DataFieldName=Species
 DataRecordId=NBNSYS0000022420
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

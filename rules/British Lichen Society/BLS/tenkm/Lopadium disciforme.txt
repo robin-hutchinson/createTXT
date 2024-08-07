@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lopadium disciforme
 ErrorMsg=Coordinate is outside known range for Lopadium disciforme
 DataFieldName=Species
 DataRecordId=NBNSYS0000039675
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

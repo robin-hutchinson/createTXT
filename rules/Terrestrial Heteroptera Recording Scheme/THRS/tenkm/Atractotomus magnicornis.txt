@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Atractotomus magnicor
 ErrorMsg=Coordinate is outside known range for Atractotomus magnicornis
 DataFieldName=Species
 DataRecordId=NHMSYS0020308971
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

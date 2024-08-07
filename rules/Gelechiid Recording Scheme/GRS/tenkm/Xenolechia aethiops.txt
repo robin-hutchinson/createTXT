@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xenolechia aethiops
 ErrorMsg=Coordinate is outside known range for Xenolechia aethiops
 DataFieldName=Species
 DataRecordId=NHMSYS0000504665
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

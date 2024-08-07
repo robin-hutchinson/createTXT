@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Laeviomyces pertusari
 ErrorMsg=Coordinate is outside known range for Laeviomyces pertusariicola
 DataFieldName=Species
 DataRecordId=BMSSYS0000009338
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anthogona britannica
 ErrorMsg=Coordinate is outside known range for Anthogona britannica
 DataFieldName=Species
 DataRecordId=NHMSYS0000356226
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

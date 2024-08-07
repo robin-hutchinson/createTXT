@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Neriene furtiva
 ErrorMsg=Coordinate is outside known range for Neriene furtiva
 DataFieldName=Species
 DataRecordId=NBNSYS0000033140
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

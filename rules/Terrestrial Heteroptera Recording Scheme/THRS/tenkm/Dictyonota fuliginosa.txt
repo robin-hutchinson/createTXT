@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dictyonota fuliginosa
 ErrorMsg=Coordinate is outside known range for Dictyonota fuliginosa
 DataFieldName=Species
 DataRecordId=NHMSYS0020309160
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calosiphonia vermicul
 ErrorMsg=Coordinate is outside known range for Calosiphonia vermicularis
 DataFieldName=Species
 DataRecordId=NHMSYS0000567832
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

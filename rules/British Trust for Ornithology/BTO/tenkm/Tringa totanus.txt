@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tringa totanus
 ErrorMsg=Coordinate is outside known range for Tringa totanus
 DataFieldName=Species
 DataRecordId=NBNSYS0000000034
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

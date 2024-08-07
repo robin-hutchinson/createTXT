@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trochosa spinipalpis
 ErrorMsg=Coordinate is outside known range for Trochosa spinipalpis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008817
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

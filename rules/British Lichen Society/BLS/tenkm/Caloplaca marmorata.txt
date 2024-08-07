@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca marmorata
 ErrorMsg=Coordinate is outside known range for Caloplaca marmorata
 DataFieldName=Species
 DataRecordId=NHMSYS0020989896
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

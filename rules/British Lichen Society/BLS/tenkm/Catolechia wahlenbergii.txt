@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Catolechia wahlenberg
 ErrorMsg=Coordinate is outside known range for Catolechia wahlenbergii
 DataFieldName=Species
 DataRecordId=NHMSYS0020990040
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

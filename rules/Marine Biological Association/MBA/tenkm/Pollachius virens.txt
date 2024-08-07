@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pollachius virens
 ErrorMsg=Coordinate is outside known range for Pollachius virens
 DataFieldName=Species
 DataRecordId=NBNSYS0000177329
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

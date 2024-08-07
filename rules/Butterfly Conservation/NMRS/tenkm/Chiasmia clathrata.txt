@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chiasmia clathrata
 ErrorMsg=Coordinate is outside known range for Chiasmia clathrata
 DataFieldName=Species
 DataRecordId=NBNSYS0100002337
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

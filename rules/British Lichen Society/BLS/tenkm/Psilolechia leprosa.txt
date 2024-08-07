@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Psilolechia leprosa
 ErrorMsg=Coordinate is outside known range for Psilolechia leprosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000039730
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

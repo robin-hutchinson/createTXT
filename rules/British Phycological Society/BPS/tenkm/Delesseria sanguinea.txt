@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Delesseria sanguinea
 ErrorMsg=Coordinate is outside known range for Delesseria sanguinea
 DataFieldName=Species
 DataRecordId=NHMSYS0000567939
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oxyethira frici
 ErrorMsg=Coordinate is outside known range for Oxyethira frici
 DataFieldName=Species
 DataRecordId=NBNSYS0000008369
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

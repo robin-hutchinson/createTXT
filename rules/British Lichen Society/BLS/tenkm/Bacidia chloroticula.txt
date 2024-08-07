@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bacidia chloroticula
 ErrorMsg=Coordinate is outside known range for Bacidia chloroticula
 DataFieldName=Species
 DataRecordId=NBNSYS0000018218
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

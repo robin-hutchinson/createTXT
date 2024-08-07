@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Portevinia maculata
 ErrorMsg=Coordinate is outside known range for Portevinia maculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007009
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Monodictys fuliginosa
 ErrorMsg=Coordinate is outside known range for Monodictys fuliginosa
 DataFieldName=Species
 DataRecordId=BMSSYS0000011478
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

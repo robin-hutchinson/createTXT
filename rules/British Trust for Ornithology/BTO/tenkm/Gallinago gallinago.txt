@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gallinago gallinago
 ErrorMsg=Coordinate is outside known range for Gallinago gallinago
 DataFieldName=Species
 DataRecordId=NBNSYS0000000030
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

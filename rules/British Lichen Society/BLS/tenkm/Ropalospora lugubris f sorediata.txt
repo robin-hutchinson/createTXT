@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ropalospora lugubris 
 ErrorMsg=Coordinate is outside known range for Ropalospora lugubris f. sorediata
 DataFieldName=Species
 DataRecordId=NHMSYS0020990833
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

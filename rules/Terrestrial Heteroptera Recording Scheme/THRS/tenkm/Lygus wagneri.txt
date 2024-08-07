@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lygus wagneri
 ErrorMsg=Coordinate is outside known range for Lygus wagneri
 DataFieldName=Species
 DataRecordId=NHMSYS0020309399
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

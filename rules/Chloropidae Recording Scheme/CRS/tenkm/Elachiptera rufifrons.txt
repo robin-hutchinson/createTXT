@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Elachiptera rufifrons
 ErrorMsg=Coordinate is outside known range for Elachiptera rufifrons
 DataFieldName=Species
 DataRecordId=NBNSYS0000029935
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

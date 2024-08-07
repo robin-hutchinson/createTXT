@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nopoiulus kochii
 ErrorMsg=Coordinate is outside known range for Nopoiulus kochii
 DataFieldName=Species
 DataRecordId=NBNSYS0000011379
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

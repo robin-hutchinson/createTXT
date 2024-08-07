@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acherontia atropos
 ErrorMsg=Coordinate is outside known range for Acherontia atropos
 DataFieldName=Species
 DataRecordId=NBNSYS0000006064
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

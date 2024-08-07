@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhopalus (Rhopalus) r
 ErrorMsg=Coordinate is outside known range for Rhopalus (Rhopalus) rufus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309776
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

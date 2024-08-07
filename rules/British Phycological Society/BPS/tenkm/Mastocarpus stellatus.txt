@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mastocarpus stellatus
 ErrorMsg=Coordinate is outside known range for Mastocarpus stellatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000176385
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

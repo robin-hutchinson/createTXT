@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanographa abscondi
 ErrorMsg=Coordinate is outside known range for Lecanographa abscondita
 DataFieldName=Species
 DataRecordId=BMSSYS0000009441
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xylota sylvarum
 ErrorMsg=Coordinate is outside known range for Xylota sylvarum
 DataFieldName=Species
 DataRecordId=NBNSYS0000007116
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

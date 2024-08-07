@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porpidia zeoroides
 ErrorMsg=Coordinate is outside known range for Porpidia zeoroides
 DataFieldName=Species
 DataRecordId=BMSSYS0000015267
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

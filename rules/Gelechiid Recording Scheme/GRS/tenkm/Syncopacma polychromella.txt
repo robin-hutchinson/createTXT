@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Syncopacma polychrome
 ErrorMsg=Coordinate is outside known range for Syncopacma polychromella
 DataFieldName=Species
 DataRecordId=NHMSYS0000504431
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

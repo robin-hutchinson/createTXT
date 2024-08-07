@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lemmopsis oblongans
 ErrorMsg=Coordinate is outside known range for Lemmopsis oblongans
 DataFieldName=Species
 DataRecordId=NBNSYS0000018752
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

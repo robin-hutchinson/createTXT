@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Unciger foetidus
 ErrorMsg=Coordinate is outside known range for Unciger foetidus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011397
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

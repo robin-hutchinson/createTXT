@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Usnea glabrata
 ErrorMsg=Coordinate is outside known range for Usnea glabrata
 DataFieldName=Species
 DataRecordId=NBNSYS0000019143
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hypotrachyna endochlo
 ErrorMsg=Coordinate is outside known range for Hypotrachyna endochlora
 DataFieldName=Species
 DataRecordId=NHMSYS0001485114
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

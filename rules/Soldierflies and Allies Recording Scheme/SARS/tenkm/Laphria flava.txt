@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Laphria flava
 ErrorMsg=Coordinate is outside known range for Laphria flava
 DataFieldName=Species
 DataRecordId=NBNSYS0000007908
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

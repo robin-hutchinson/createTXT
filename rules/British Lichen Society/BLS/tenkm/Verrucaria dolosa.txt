@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria dolosa
 ErrorMsg=Coordinate is outside known range for Verrucaria dolosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000020699
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

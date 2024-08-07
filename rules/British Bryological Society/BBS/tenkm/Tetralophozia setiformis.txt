@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tetralophozia setifor
 ErrorMsg=Coordinate is outside known range for Tetralophozia setiformis
 DataFieldName=Species
 DataRecordId=NHMSYS0000310735
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

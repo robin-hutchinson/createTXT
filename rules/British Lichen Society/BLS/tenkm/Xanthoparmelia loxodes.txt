@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthoparmelia loxode
 ErrorMsg=Coordinate is outside known range for Xanthoparmelia loxodes
 DataFieldName=Species
 DataRecordId=NHMSYS0020536348
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

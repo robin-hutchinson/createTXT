@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Titanoderma laminaria
 ErrorMsg=Coordinate is outside known range for Titanoderma laminariae
 DataFieldName=Species
 DataRecordId=NHMSYS0000568373
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

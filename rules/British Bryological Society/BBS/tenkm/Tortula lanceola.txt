@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tortula lanceola
 ErrorMsg=Coordinate is outside known range for Tortula lanceola
 DataFieldName=Species
 DataRecordId=NBNSYS0100005853
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Weissia controversa v
 ErrorMsg=Coordinate is outside known range for Weissia controversa var. densifolia
 DataFieldName=Species
 DataRecordId=NHMSYS0000310834
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

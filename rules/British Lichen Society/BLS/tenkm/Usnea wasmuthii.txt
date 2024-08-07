@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Usnea wasmuthii
 ErrorMsg=Coordinate is outside known range for Usnea wasmuthii
 DataFieldName=Species
 DataRecordId=NHMSYS0001501190
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

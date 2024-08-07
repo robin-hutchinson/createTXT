@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Conostethus brevis
 ErrorMsg=Coordinate is outside known range for Conostethus brevis
 DataFieldName=Species
 DataRecordId=NHMSYS0020309095
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

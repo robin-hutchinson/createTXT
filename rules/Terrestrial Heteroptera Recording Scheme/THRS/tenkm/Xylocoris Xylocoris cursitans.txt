@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xylocoris (Xylocoris)
 ErrorMsg=Coordinate is outside known range for Xylocoris (Xylocoris) cursitans
 DataFieldName=Species
 DataRecordId=NHMSYS0020309948
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

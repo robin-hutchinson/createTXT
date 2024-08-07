@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sterna paradisaea
 ErrorMsg=Coordinate is outside known range for Sterna paradisaea
 DataFieldName=Species
 DataRecordId=NBNSYS0000000365
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

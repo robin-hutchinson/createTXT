@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Umbilicaria proboscid
 ErrorMsg=Coordinate is outside known range for Umbilicaria proboscidea
 DataFieldName=Species
 DataRecordId=NHMSYS0001500765
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

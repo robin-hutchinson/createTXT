@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trechus (Trechus) obt
 ErrorMsg=Coordinate is outside known range for Trechus (Trechus) obtusus
 DataFieldName=Species
 DataRecordId=NBNSYS0100005871
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

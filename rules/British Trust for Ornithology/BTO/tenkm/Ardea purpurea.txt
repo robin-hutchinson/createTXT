@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ardea purpurea
 ErrorMsg=Coordinate is outside known range for Ardea purpurea
 DataFieldName=Species
 DataRecordId=NHMSYS0000530173
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

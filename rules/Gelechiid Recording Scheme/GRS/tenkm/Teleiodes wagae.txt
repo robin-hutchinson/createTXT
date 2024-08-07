@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Teleiodes wagae
 ErrorMsg=Coordinate is outside known range for Teleiodes wagae
 DataFieldName=Species
 DataRecordId=NHMSYS0000504466
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

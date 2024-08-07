@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gonatium paradoxum
 ErrorMsg=Coordinate is outside known range for Gonatium paradoxum
 DataFieldName=Species
 DataRecordId=NBNSYS0000009019
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

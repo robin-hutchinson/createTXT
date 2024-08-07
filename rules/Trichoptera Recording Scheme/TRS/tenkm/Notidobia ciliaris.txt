@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Notidobia ciliaris
 ErrorMsg=Coordinate is outside known range for Notidobia ciliaris
 DataFieldName=Species
 DataRecordId=NBNSYS0000008505
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

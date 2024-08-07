@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria pachyderma
 ErrorMsg=Coordinate is outside known range for Verrucaria pachyderma
 DataFieldName=Species
 DataRecordId=NHMSYS0000364506
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

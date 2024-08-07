@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stenocybe pullatula
 ErrorMsg=Coordinate is outside known range for Stenocybe pullatula
 DataFieldName=Species
 DataRecordId=BMSSYS0000017943
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

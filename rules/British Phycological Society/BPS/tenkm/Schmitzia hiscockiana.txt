@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Schmitzia hiscockiana
 ErrorMsg=Coordinate is outside known range for Schmitzia hiscockiana
 DataFieldName=Species
 DataRecordId=NHMSYS0000568310
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

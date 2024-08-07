@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ceramium deslongchamp
 ErrorMsg=Coordinate is outside known range for Ceramium deslongchampsii
 DataFieldName=Species
 DataRecordId=NHMSYS0000377542
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

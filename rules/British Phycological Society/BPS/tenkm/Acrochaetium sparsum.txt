@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acrochaetium sparsum
 ErrorMsg=Coordinate is outside known range for Acrochaetium sparsum
 DataFieldName=Species
 DataRecordId=NHMSYS0000567748
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

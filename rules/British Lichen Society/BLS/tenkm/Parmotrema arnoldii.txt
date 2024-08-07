@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Parmotrema arnoldii
 ErrorMsg=Coordinate is outside known range for Parmotrema arnoldii
 DataFieldName=Species
 DataRecordId=NBNSYS0000018866
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

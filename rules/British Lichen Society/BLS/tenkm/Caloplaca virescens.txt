@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca virescens
 ErrorMsg=Coordinate is outside known range for Caloplaca virescens
 DataFieldName=Species
 DataRecordId=NBNSYS0000020566
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

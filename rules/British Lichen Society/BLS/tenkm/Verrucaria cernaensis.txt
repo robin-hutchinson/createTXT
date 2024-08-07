@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria cernaensis
 ErrorMsg=Coordinate is outside known range for Verrucaria cernaensis
 DataFieldName=Species
 DataRecordId=NHMSYS0020991192
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

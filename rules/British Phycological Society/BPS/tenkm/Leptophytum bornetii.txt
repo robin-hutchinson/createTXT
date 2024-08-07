@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptophytum bornetii
 ErrorMsg=Coordinate is outside known range for Leptophytum bornetii
 DataFieldName=Species
 DataRecordId=NBNSYS0000183471
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

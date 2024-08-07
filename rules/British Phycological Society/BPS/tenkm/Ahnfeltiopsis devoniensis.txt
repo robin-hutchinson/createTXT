@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ahnfeltiopsis devonie
 ErrorMsg=Coordinate is outside known range for Ahnfeltiopsis devoniensis
 DataFieldName=Species
 DataRecordId=NHMSYS0000567767
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

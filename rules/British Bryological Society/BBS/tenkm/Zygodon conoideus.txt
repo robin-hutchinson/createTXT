@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Zygodon conoideus
 ErrorMsg=Coordinate is outside known range for Zygodon conoideus
 DataFieldName=Species
 DataRecordId=NHMSYS0000310576
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

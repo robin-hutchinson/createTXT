@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anticollix sparsata
 ErrorMsg=Coordinate is outside known range for Anticollix sparsata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005951
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

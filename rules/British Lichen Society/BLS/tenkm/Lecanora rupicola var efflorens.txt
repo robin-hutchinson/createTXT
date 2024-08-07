@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora rupicola var
 ErrorMsg=Coordinate is outside known range for Lecanora rupicola var. efflorens
 DataFieldName=Species
 DataRecordId=NBNSYS0000018620
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

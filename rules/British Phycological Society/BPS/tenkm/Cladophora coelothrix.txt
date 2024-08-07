@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladophora coelothrix
 ErrorMsg=Coordinate is outside known range for Cladophora coelothrix
 DataFieldName=Species
 DataRecordId=NBNSYS0000180532
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

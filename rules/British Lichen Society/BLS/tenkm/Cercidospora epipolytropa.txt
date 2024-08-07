@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cercidospora epipolyt
 ErrorMsg=Coordinate is outside known range for Cercidospora epipolytropa
 DataFieldName=Species
 DataRecordId=NBNSYS0000015956
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

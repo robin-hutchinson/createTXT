@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Palmaria palmata
 ErrorMsg=Coordinate is outside known range for Palmaria palmata
 DataFieldName=Species
 DataRecordId=NBNSYS0000176953
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

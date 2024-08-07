@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora frustulosa
 ErrorMsg=Coordinate is outside known range for Lecanora frustulosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000018591
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

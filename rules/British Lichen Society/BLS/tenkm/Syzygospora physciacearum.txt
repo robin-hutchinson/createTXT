@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Syzygospora physciace
 ErrorMsg=Coordinate is outside known range for Syzygospora physciacearum
 DataFieldName=Species
 DataRecordId=BMSSYS0000018238
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

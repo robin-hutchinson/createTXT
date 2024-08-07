@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tortella bambergeri s
 ErrorMsg=Coordinate is outside known range for Tortella bambergeri sensu Bosanquet (2006)
 DataFieldName=Species
 DataRecordId=NBNSYS0000158108
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

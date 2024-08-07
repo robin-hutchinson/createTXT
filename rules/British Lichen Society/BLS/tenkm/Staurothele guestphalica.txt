@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Staurothele guestphal
 ErrorMsg=Coordinate is outside known range for Staurothele guestphalica
 DataFieldName=Species
 DataRecordId=NHMSYS0001498852
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

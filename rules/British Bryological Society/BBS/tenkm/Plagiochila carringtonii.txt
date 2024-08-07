@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Plagiochila carringto
 ErrorMsg=Coordinate is outside known range for Plagiochila carringtonii
 DataFieldName=Species
 DataRecordId=NHMSYS0000310296
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

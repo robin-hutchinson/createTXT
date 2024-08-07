@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pronectria oligospora
 ErrorMsg=Coordinate is outside known range for Pronectria oligospora
 DataFieldName=Species
 DataRecordId=NHMSYS0020535966
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

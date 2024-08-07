@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dactylospora parellar
 ErrorMsg=Coordinate is outside known range for Dactylospora parellaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000018468
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

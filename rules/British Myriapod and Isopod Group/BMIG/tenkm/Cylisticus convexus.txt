@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cylisticus convexus
 ErrorMsg=Coordinate is outside known range for Cylisticus convexus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008575
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

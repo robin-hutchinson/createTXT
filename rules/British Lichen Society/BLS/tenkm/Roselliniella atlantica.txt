@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Roselliniella atlanti
 ErrorMsg=Coordinate is outside known range for Roselliniella atlantica
 DataFieldName=Species
 DataRecordId=BMSSYS0000016467
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

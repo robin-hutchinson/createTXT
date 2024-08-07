@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hartlaubella gelatino
 ErrorMsg=Coordinate is outside known range for Hartlaubella gelatinosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000175703
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

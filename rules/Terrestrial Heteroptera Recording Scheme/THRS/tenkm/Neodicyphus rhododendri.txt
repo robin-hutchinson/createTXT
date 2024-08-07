@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Neodicyphus rhododend
 ErrorMsg=Coordinate is outside known range for Neodicyphus rhododendri
 DataFieldName=Species
 DataRecordId=NBNSYS0000010199
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Buellia disciformis
 ErrorMsg=Coordinate is outside known range for Buellia disciformis
 DataFieldName=Species
 DataRecordId=NBNSYS0000018272
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

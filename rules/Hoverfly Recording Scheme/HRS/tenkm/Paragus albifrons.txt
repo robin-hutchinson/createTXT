@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Paragus albifrons
 ErrorMsg=Coordinate is outside known range for Paragus albifrons
 DataFieldName=Species
 DataRecordId=NBNSYS0000006892
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

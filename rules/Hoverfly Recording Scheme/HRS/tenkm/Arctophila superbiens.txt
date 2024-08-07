@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arctophila superbiens
 ErrorMsg=Coordinate is outside known range for Arctophila superbiens
 DataFieldName=Species
 DataRecordId=NBNSYS0100001633
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

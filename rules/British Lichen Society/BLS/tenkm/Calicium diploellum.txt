@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Calicium diploellum
 ErrorMsg=Coordinate is outside known range for Calicium diploellum
 DataFieldName=Species
 DataRecordId=NBNSYS0000015536
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

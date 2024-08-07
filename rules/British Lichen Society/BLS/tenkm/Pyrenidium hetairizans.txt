@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pyrenidium hetairizan
 ErrorMsg=Coordinate is outside known range for Pyrenidium hetairizans
 DataFieldName=Species
 DataRecordId=BMSSYS0000015751
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

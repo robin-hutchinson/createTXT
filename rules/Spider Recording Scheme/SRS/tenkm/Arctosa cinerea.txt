@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arctosa cinerea
 ErrorMsg=Coordinate is outside known range for Arctosa cinerea
 DataFieldName=Species
 DataRecordId=NBNSYS0000008821
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

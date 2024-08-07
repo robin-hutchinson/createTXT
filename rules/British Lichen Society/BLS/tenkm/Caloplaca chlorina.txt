@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca chlorina
 ErrorMsg=Coordinate is outside known range for Caloplaca chlorina
 DataFieldName=Species
 DataRecordId=NHMSYS0000361660
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

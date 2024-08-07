@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trichoplusia ni
 ErrorMsg=Coordinate is outside known range for Trichoplusia ni
 DataFieldName=Species
 DataRecordId=NHMSYS0021144463
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Alectoris chukar
 ErrorMsg=Coordinate is outside known range for Alectoris chukar
 DataFieldName=Species
 DataRecordId=NHMSYS0000532731
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

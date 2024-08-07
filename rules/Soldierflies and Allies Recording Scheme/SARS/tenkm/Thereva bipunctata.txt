@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thereva bipunctata
 ErrorMsg=Coordinate is outside known range for Thereva bipunctata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007927
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

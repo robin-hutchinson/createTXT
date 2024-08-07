@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dactylospora purpuras
 ErrorMsg=Coordinate is outside known range for Dactylospora purpurascens
 DataFieldName=Species
 DataRecordId=BMSSYS0000005642
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

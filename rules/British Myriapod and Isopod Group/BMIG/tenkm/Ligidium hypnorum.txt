@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ligidium hypnorum
 ErrorMsg=Coordinate is outside known range for Ligidium hypnorum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008543
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

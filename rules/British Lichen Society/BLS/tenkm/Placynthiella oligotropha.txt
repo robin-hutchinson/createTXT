@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Placynthiella oligotr
 ErrorMsg=Coordinate is outside known range for Placynthiella oligotropha
 DataFieldName=Species
 DataRecordId=NHMSYS0001493904
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

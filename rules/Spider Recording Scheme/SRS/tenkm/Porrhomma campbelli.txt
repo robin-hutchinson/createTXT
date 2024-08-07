@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porrhomma campbelli
 ErrorMsg=Coordinate is outside known range for Porrhomma campbelli
 DataFieldName=Species
 DataRecordId=NBNSYS0000009142
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

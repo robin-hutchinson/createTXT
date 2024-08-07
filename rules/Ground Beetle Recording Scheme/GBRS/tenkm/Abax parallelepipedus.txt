@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Abax parallelepipedus
 ErrorMsg=Coordinate is outside known range for Abax parallelepipedus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007302
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

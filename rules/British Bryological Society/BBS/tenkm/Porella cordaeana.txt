@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porella cordaeana
 ErrorMsg=Coordinate is outside known range for Porella cordaeana
 DataFieldName=Species
 DataRecordId=NHMSYS0000310401
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthonia muscigena
 ErrorMsg=Coordinate is outside known range for Arthonia muscigena
 DataFieldName=Species
 DataRecordId=BMSSYS0000001680
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

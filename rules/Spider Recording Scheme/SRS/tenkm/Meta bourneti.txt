@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meta bourneti
 ErrorMsg=Coordinate is outside known range for Meta bourneti
 DataFieldName=Species
 DataRecordId=NBNSYS0000008930
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lettauia cladoniicola
 ErrorMsg=Coordinate is outside known range for Lettauia cladoniicola
 DataFieldName=Species
 DataRecordId=BMSSYS0000010500
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

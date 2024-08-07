@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mesapamea secalis
 ErrorMsg=Coordinate is outside known range for Mesapamea secalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000006442
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

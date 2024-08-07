@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Triglyphus primus
 ErrorMsg=Coordinate is outside known range for Triglyphus primus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007090
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

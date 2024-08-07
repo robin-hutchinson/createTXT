@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phycodrys rubens
 ErrorMsg=Coordinate is outside known range for Phycodrys rubens
 DataFieldName=Species
 DataRecordId=NBNSYS0000177178
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

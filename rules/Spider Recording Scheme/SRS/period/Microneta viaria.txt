@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Microneta viaria
 Tvk=NBNSYS0000009162
 StartDate=18380101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

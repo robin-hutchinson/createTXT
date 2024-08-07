@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lygocoris (Lygocoris)
 ErrorMsg=Coordinate is outside known range for Lygocoris (Lygocoris) rugicollis
 DataFieldName=Species
 DataRecordId=NHMSYS0020309388
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phoenicopterus ruber
 ErrorMsg=Coordinate is outside known range for Phoenicopterus ruber
 DataFieldName=Species
 DataRecordId=NBNSYS0000000256
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

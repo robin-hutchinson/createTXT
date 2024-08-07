@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Fellhanera duplex
 ErrorMsg=Coordinate is outside known range for Fellhanera duplex
 DataFieldName=Species
 DataRecordId=NHMSYS0020535445
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

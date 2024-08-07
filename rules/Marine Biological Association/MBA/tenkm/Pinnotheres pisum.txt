@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pinnotheres pisum
 ErrorMsg=Coordinate is outside known range for Pinnotheres pisum
 DataFieldName=Species
 DataRecordId=NBNSYS0000177225
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

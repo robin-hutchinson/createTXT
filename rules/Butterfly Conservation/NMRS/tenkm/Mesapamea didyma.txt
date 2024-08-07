@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mesapamea didyma
 ErrorMsg=Coordinate is outside known range for Mesapamea didyma
 DataFieldName=Species
 DataRecordId=NBNSYS0000006443
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

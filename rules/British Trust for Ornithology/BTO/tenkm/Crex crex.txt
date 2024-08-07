@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Crex crex
 ErrorMsg=Coordinate is outside known range for Crex crex
 DataFieldName=Species
 DataRecordId=NHMSYS0000530322
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

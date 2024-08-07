@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bryotropha senectella
 ErrorMsg=Coordinate is outside known range for Bryotropha senectella
 DataFieldName=Species
 DataRecordId=NHMSYS0000501557
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

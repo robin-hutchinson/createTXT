@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Spilosoma lutea
 ErrorMsg=Coordinate is outside known range for Spilosoma lutea
 DataFieldName=Species
 DataRecordId=NHMSYS0021144388
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

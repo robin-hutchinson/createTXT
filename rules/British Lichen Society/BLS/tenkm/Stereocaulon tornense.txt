@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stereocaulon tornense
 ErrorMsg=Coordinate is outside known range for Stereocaulon tornense
 DataFieldName=Species
 DataRecordId=NHMSYS0001498952
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Allophyes oxyacanthae
 ErrorMsg=Coordinate is outside known range for Allophyes oxyacanthae
 DataFieldName=Species
 DataRecordId=NBNSYS0000006338
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

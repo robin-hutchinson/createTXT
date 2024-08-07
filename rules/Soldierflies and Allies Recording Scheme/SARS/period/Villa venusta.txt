@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Villa venusta
 Tvk=NBNSYS0100005964
 StartDate=
 EndDate=19581231
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acartauchenius scurri
 ErrorMsg=Coordinate is outside known range for Acartauchenius scurrilis
 DataFieldName=Species
 DataRecordId=NBNSYS0000009048
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

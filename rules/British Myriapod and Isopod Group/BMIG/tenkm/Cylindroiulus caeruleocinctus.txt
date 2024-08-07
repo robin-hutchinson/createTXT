@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cylindroiulus caerule
 ErrorMsg=Coordinate is outside known range for Cylindroiulus caeruleocinctus
 DataFieldName=Species
 DataRecordId=NBNSYS0000033245
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

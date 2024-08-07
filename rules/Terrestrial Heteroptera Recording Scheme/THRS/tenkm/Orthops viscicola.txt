@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orthops viscicola
 ErrorMsg=Coordinate is outside known range for Orthops viscicola
 DataFieldName=Species
 DataRecordId=NBNSYS0000010259
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

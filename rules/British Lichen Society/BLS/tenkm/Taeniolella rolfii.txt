@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Taeniolella rolfii
 ErrorMsg=Coordinate is outside known range for Taeniolella rolfii
 DataFieldName=Species
 DataRecordId=NHMSYS0001499339
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

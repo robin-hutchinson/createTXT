@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Itonoa marginifera
 ErrorMsg=Coordinate is outside known range for Itonoa marginifera
 DataFieldName=Species
 DataRecordId=NHMSYS0000568235
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

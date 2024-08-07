@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Biatoropsis usnearum
 ErrorMsg=Coordinate is outside known range for Biatoropsis usnearum
 DataFieldName=Species
 DataRecordId=BMSSYS0000002503
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lichenodiplis lecanor
 ErrorMsg=Coordinate is outside known range for Lichenodiplis lecanorae
 DataFieldName=Species
 DataRecordId=BMSSYS0000010667
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

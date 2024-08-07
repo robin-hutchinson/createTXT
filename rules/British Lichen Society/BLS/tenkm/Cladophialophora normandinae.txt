@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladophialophora norm
 ErrorMsg=Coordinate is outside known range for Cladophialophora normandinae
 DataFieldName=Species
 DataRecordId=NHMSYS0020990100
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

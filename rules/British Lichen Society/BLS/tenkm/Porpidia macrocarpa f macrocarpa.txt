@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porpidia macrocarpa f
 ErrorMsg=Coordinate is outside known range for Porpidia macrocarpa f. macrocarpa
 DataFieldName=Species
 DataRecordId=NHMSYS0020990986
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

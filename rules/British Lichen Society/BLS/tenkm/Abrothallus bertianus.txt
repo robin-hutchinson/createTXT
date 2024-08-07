@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Abrothallus bertianus
 ErrorMsg=Coordinate is outside known range for Abrothallus bertianus
 DataFieldName=Species
 DataRecordId=NBNSYS0000015870
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

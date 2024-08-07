@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Marmaronetta angustir
 ErrorMsg=Coordinate is outside known range for Marmaronetta angustirostris
 DataFieldName=Species
 DataRecordId=NHMSYS0000533427
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

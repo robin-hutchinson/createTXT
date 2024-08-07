@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthonia stereocaulin
 ErrorMsg=Coordinate is outside known range for Arthonia stereocaulina
 DataFieldName=Species
 DataRecordId=NHMSYS0001474972
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

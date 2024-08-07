@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cetraria islandica su
 ErrorMsg=Coordinate is outside known range for Cetraria islandica subsp. crispiformis
 DataFieldName=Species
 DataRecordId=NHMSYS0001477208
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

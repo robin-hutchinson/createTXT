@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Theridion pinastri
 Tvk=NBNSYS0000008891
 StartDate=19770101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

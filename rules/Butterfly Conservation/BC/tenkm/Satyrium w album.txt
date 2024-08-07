@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Satyrium w-album
 ErrorMsg=Coordinate is outside known range for Satyrium w-album
 DataFieldName=Species
 DataRecordId=NHMSYS0000504085
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

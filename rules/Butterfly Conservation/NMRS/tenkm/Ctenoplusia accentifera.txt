@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ctenoplusia accentife
 ErrorMsg=Coordinate is outside known range for Ctenoplusia accentifera
 DataFieldName=Species
 DataRecordId=NBNSYS0000006536
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

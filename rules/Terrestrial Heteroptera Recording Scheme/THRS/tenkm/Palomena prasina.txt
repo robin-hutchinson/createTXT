@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Palomena prasina
 ErrorMsg=Coordinate is outside known range for Palomena prasina
 DataFieldName=Species
 DataRecordId=NHMSYS0020109266
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

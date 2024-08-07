@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chaetomorpha litorea
 ErrorMsg=Coordinate is outside known range for Chaetomorpha litorea
 DataFieldName=Species
 DataRecordId=NHMSYS0000377547
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Graphina pauciloculat
 ErrorMsg=Coordinate is outside known range for Graphina pauciloculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000016932
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

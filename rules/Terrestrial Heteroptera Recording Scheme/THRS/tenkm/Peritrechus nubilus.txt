@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Peritrechus nubilus
 ErrorMsg=Coordinate is outside known range for Peritrechus nubilus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309634
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tyta luctuosa
 ErrorMsg=Coordinate is outside known range for Tyta luctuosa
 DataFieldName=Species
 DataRecordId=NHMSYS0021144495
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

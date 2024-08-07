@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Urospora wormskioldii
 ErrorMsg=Coordinate is outside known range for Urospora wormskioldii
 DataFieldName=Species
 DataRecordId=NHMSYS0000568392
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

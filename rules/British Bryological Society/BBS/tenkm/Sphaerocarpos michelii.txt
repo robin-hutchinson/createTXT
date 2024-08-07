@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphaerocarpos micheli
 ErrorMsg=Coordinate is outside known range for Sphaerocarpos michelii
 DataFieldName=Species
 DataRecordId=NBNSYS0000036042
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

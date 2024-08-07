@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sticta canariensis (d
 ErrorMsg=Coordinate is outside known range for Sticta canariensis (dufourii)
 DataFieldName=Species
 DataRecordId=NHMSYS0020991108
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Egira conspicillaris
 ErrorMsg=Coordinate is outside known range for Egira conspicillaris
 DataFieldName=Species
 DataRecordId=NBNSYS0000006274
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

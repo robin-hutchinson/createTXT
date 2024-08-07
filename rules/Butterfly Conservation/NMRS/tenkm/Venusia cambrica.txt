@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Venusia cambrica
 ErrorMsg=Coordinate is outside known range for Venusia cambrica
 DataFieldName=Species
 DataRecordId=NBNSYS0000005964
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

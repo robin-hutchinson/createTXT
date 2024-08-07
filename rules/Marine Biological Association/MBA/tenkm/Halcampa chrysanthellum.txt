@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Halcampa chrysanthell
 ErrorMsg=Coordinate is outside known range for Halcampa chrysanthellum
 DataFieldName=Species
 DataRecordId=NHMSYS0000304750
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

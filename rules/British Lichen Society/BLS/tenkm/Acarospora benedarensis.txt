@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acarospora benedarens
 ErrorMsg=Coordinate is outside known range for Acarospora benedarensis
 DataFieldName=Species
 DataRecordId=NHMSYS0001472769
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

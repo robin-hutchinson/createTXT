@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lobaria virens
 ErrorMsg=Coordinate is outside known range for Lobaria virens
 DataFieldName=Species
 DataRecordId=NBNSYS0000019313
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pantilius (Pantilius)
 ErrorMsg=Coordinate is outside known range for Pantilius (Pantilius) tunicatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309616
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

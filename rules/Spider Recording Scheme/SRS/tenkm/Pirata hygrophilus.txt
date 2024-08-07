@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pirata hygrophilus
 ErrorMsg=Coordinate is outside known range for Pirata hygrophilus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008825
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

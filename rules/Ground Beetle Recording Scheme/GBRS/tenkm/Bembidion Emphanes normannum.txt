@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Emphanes) 
 ErrorMsg=Coordinate is outside known range for Bembidion (Emphanes) normannum
 DataFieldName=Species
 DataRecordId=NBNSYS0100001942
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

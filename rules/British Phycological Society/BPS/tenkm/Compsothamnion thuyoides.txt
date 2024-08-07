@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Compsothamnion thuyoi
 ErrorMsg=Coordinate is outside known range for Compsothamnion thuyoides
 DataFieldName=Species
 DataRecordId=NHMSYS0000567913
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

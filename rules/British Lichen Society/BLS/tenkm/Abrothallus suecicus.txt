@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Abrothallus suecicus
 ErrorMsg=Coordinate is outside known range for Abrothallus suecicus
 DataFieldName=Species
 DataRecordId=NBNSYS0000015874
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

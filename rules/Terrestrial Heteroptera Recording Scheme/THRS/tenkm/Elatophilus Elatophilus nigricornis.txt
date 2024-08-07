@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Elatophilus (Elatophi
 ErrorMsg=Coordinate is outside known range for Elatophilus (Elatophilus) nigricornis
 DataFieldName=Species
 DataRecordId=NHMSYS0020309203
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

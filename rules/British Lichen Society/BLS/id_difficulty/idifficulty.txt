@@ -1,7 +1,7 @@
 [Metadata]
 TestType=IdentificationDifficulty
 Organisation=British Lichen Society
-LastChanged= 20240618
+LastChanged= 20240807
 [EndMetadata]
 
 [INI]

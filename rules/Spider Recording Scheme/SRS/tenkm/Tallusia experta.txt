@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tallusia experta
 ErrorMsg=Coordinate is outside known range for Tallusia experta
 DataFieldName=Species
 DataRecordId=NBNSYS0000009182
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

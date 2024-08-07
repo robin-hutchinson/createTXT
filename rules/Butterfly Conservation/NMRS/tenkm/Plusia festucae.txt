@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Plusia festucae
 ErrorMsg=Coordinate is outside known range for Plusia festucae
 DataFieldName=Species
 DataRecordId=NBNSYS0000006544
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

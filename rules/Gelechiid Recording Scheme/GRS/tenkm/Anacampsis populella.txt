@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anacampsis populella
 ErrorMsg=Coordinate is outside known range for Anacampsis populella
 DataFieldName=Species
 DataRecordId=NHMSYS0000501225
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

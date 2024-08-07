@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Trichoplat
 ErrorMsg=Coordinate is outside known range for Bembidion (Trichoplataphus) virens
 DataFieldName=Species
 DataRecordId=NHMSYS0001717194
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

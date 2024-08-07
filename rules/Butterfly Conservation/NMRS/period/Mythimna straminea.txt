@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Mythimna straminea
 Tvk=NBNSYS0000006290
 StartDate=17000101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

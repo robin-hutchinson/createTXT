@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diplotomma chlorophae
 ErrorMsg=Coordinate is outside known range for Diplotomma chlorophaeum
 DataFieldName=Species
 DataRecordId=NHMSYS0000361911
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

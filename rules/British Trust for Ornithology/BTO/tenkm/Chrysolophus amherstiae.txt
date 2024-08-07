@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chrysolophus amhersti
 ErrorMsg=Coordinate is outside known range for Chrysolophus amherstiae
 DataFieldName=Species
 DataRecordId=NHMSYS0000530283
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

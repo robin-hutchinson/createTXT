@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gelechia senticetella
 ErrorMsg=Coordinate is outside known range for Gelechia senticetella
 DataFieldName=Species
 DataRecordId=NHMSYS0000502712
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

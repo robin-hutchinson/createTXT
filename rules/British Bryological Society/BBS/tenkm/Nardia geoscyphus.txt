@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nardia geoscyphus
 ErrorMsg=Coordinate is outside known range for Nardia geoscyphus
 DataFieldName=Species
 DataRecordId=NBNSYS0000035894
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

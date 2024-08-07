@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladonia caespiticia
 ErrorMsg=Coordinate is outside known range for Cladonia caespiticia
 DataFieldName=Species
 DataRecordId=NHMSYS0001477602
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

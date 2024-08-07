@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Niesslia lobariae
 ErrorMsg=Coordinate is outside known range for Niesslia lobariae
 DataFieldName=Species
 DataRecordId=BMSSYS0000012070
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

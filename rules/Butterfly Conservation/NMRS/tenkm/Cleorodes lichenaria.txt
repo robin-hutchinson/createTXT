@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cleorodes lichenaria
 ErrorMsg=Coordinate is outside known range for Cleorodes lichenaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000006037
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

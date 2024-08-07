@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptogium hildenbrand
 ErrorMsg=Coordinate is outside known range for Leptogium hildenbrandii
 DataFieldName=Species
 DataRecordId=NBNSYS0000162172
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

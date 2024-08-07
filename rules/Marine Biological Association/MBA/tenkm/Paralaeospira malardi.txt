@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Paralaeospira malardi
 ErrorMsg=Coordinate is outside known range for Paralaeospira malardi
 DataFieldName=Species
 DataRecordId=NBNSYS0000185201
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

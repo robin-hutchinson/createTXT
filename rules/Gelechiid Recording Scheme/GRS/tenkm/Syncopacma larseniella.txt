@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Syncopacma larseniell
 ErrorMsg=Coordinate is outside known range for Syncopacma larseniella
 DataFieldName=Species
 DataRecordId=NHMSYS0000504430
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

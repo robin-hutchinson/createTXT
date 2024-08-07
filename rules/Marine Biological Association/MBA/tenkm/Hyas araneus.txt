@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hyas araneus
 ErrorMsg=Coordinate is outside known range for Hyas araneus
 DataFieldName=Species
 DataRecordId=NBNSYS0000175822
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

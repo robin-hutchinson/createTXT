@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Solorina bispora var.
 ErrorMsg=Coordinate is outside known range for Solorina bispora var. bispora
 DataFieldName=Species
 DataRecordId=NHMSYS0001497673
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

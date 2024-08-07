@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lacanobia splendens
 ErrorMsg=Coordinate is outside known range for Lacanobia splendens
 DataFieldName=Species
 DataRecordId=NHMSYS0001703672
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

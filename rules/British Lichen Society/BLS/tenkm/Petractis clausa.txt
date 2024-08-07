@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Petractis clausa
 ErrorMsg=Coordinate is outside known range for Petractis clausa
 DataFieldName=Species
 DataRecordId=NBNSYS0000016975
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scoliciosporum pruino
 ErrorMsg=Coordinate is outside known range for Scoliciosporum pruinosum
 DataFieldName=Species
 DataRecordId=NHMSYS0001497329
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

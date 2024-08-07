@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dasypolia templi
 ErrorMsg=Coordinate is outside known range for Dasypolia templi
 DataFieldName=Species
 DataRecordId=NBNSYS0000006322
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

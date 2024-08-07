@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mormo maura
 ErrorMsg=Coordinate is outside known range for Mormo maura
 DataFieldName=Species
 DataRecordId=NBNSYS0000006396
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

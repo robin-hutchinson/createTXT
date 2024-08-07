@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Miridius quadrivirgat
 ErrorMsg=Coordinate is outside known range for Miridius quadrivirgatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309470
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Apamea epomidion
 ErrorMsg=Coordinate is outside known range for Apamea epomidion
 DataFieldName=Species
 DataRecordId=NBNSYS0000006426
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

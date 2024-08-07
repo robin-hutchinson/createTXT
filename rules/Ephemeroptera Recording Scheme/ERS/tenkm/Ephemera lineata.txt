@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ephemera lineata
 ErrorMsg=Coordinate is outside known range for Ephemera lineata
 DataFieldName=Species
 DataRecordId=NBNSYS0000010898
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

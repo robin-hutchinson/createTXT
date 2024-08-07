@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tetrix subulata
 ErrorMsg=Coordinate is outside known range for Tetrix subulata
 DataFieldName=Species
 DataRecordId=NBNSYS0000006832
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

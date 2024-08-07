@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scapania scandica
 ErrorMsg=Coordinate is outside known range for Scapania scandica
 DataFieldName=Species
 DataRecordId=NHMSYS0000310476
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agrotis cinerea
 ErrorMsg=Coordinate is outside known range for Agrotis cinerea
 DataFieldName=Species
 DataRecordId=NHMSYS0021144892
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

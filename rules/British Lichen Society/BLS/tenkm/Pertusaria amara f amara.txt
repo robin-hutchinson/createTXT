@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria amara f. a
 ErrorMsg=Coordinate is outside known range for Pertusaria amara f. amara
 DataFieldName=Species
 DataRecordId=NHMSYS0020990744
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

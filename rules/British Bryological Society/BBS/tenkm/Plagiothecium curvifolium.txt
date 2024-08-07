@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Plagiothecium curvifo
 ErrorMsg=Coordinate is outside known range for Plagiothecium curvifolium
 DataFieldName=Species
 DataRecordId=NHMSYS0000310323
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

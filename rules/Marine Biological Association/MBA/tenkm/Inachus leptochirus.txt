@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Inachus leptochirus
 ErrorMsg=Coordinate is outside known range for Inachus leptochirus
 DataFieldName=Species
 DataRecordId=NBNSYS0000175874
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stigmidium fuscatae
 ErrorMsg=Coordinate is outside known range for Stigmidium fuscatae
 DataFieldName=Species
 DataRecordId=BMSSYS0000018064
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

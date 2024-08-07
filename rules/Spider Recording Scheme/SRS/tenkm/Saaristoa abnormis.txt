@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Saaristoa abnormis
 ErrorMsg=Coordinate is outside known range for Saaristoa abnormis
 DataFieldName=Species
 DataRecordId=NBNSYS0000009187
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

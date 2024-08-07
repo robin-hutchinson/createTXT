@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Biatora efflorescens
 ErrorMsg=Coordinate is outside known range for Biatora efflorescens
 DataFieldName=Species
 DataRecordId=BMSSYS0000002359
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

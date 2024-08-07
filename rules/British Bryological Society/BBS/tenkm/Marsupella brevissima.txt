@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Marsupella brevissima
 ErrorMsg=Coordinate is outside known range for Marsupella brevissima
 DataFieldName=Species
 DataRecordId=NHMSYS0000309958
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

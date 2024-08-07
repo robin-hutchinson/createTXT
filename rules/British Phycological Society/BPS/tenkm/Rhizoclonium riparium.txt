@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhizoclonium riparium
 ErrorMsg=Coordinate is outside known range for Rhizoclonium riparium
 DataFieldName=Species
 DataRecordId=NHMSYS0000568281
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

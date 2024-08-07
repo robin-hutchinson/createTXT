@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thyreosthenius biovat
 ErrorMsg=Coordinate is outside known range for Thyreosthenius biovatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000009068
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Heterotoma merioptera
 ErrorMsg=Coordinate is outside known range for Heterotoma merioptera
 DataFieldName=Species
 DataRecordId=NHMSYS0020705622
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

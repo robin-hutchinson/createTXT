@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tegenaria picta
 ErrorMsg=Coordinate is outside known range for Tegenaria picta
 DataFieldName=Species
 DataRecordId=NBNSYS0000008843
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scorpidium scorpioide
 ErrorMsg=Coordinate is outside known range for Scorpidium scorpioides
 DataFieldName=Species
 DataRecordId=NBNSYS0000036840
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

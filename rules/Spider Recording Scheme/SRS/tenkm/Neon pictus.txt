@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Neon pictus
 ErrorMsg=Coordinate is outside known range for Neon pictus
 DataFieldName=Species
 DataRecordId=NBNSYS0100004213
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

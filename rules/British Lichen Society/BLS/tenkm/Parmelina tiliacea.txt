@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Parmelina tiliacea
 ErrorMsg=Coordinate is outside known range for Parmelina tiliacea
 DataFieldName=Species
 DataRecordId=NBNSYS0000153256
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

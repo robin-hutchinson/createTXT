@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phrurolithus festivus
 ErrorMsg=Coordinate is outside known range for Phrurolithus festivus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008697
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

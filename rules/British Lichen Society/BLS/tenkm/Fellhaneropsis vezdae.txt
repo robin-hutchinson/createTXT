@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Fellhaneropsis vezdae
 ErrorMsg=Coordinate is outside known range for Fellhaneropsis vezdae
 DataFieldName=Species
 DataRecordId=BMSSYS0000006758
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

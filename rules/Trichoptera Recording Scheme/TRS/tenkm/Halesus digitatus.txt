@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Halesus digitatus
 ErrorMsg=Coordinate is outside known range for Halesus digitatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008446
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

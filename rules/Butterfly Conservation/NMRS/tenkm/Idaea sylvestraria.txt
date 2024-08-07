@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Idaea sylvestraria
 ErrorMsg=Coordinate is outside known range for Idaea sylvestraria
 DataFieldName=Species
 DataRecordId=NHMSYS0021143853
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

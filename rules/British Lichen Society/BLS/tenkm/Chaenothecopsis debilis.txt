@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chaenothecopsis debil
 ErrorMsg=Coordinate is outside known range for Chaenothecopsis debilis
 DataFieldName=Species
 DataRecordId=NHMSYS0000361835
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

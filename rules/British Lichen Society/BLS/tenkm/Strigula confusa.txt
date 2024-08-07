@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Strigula confusa
 ErrorMsg=Coordinate is outside known range for Strigula confusa
 DataFieldName=Species
 DataRecordId=NHMSYS0020105983
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

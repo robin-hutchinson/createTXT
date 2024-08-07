@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Deltote pygarga
 ErrorMsg=Coordinate is outside known range for Deltote pygarga
 DataFieldName=Species
 DataRecordId=NHMSYS0021144484
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

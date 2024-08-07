@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Micropterna sequax
 Tvk=NBNSYS0000008455
 StartDate=18590101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

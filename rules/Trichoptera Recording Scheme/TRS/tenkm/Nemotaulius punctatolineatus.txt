@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nemotaulius punctatol
 ErrorMsg=Coordinate is outside known range for Nemotaulius punctatolineatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008495
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

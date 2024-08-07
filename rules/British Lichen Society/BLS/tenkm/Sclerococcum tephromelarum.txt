@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sclerococcum tephrome
 ErrorMsg=Coordinate is outside known range for Sclerococcum tephromelarum
 DataFieldName=Species
 DataRecordId=NHMSYS0020990851
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

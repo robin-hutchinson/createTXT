@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphagnum teres
 ErrorMsg=Coordinate is outside known range for Sphagnum teres
 DataFieldName=Species
 DataRecordId=NHMSYS0000310702
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

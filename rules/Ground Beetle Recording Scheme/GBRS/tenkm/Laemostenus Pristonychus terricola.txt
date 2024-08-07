@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Laemostenus (Pristony
 ErrorMsg=Coordinate is outside known range for Laemostenus (Pristonychus) terricola
 DataFieldName=Species
 DataRecordId=NHMSYS0001718679
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

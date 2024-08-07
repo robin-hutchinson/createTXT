@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sideridis rivularis
 ErrorMsg=Coordinate is outside known range for Sideridis rivularis
 DataFieldName=Species
 DataRecordId=NHMSYS0021144830
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

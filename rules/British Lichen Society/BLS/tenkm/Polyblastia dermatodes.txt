@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polyblastia dermatode
 ErrorMsg=Coordinate is outside known range for Polyblastia dermatodes
 DataFieldName=Species
 DataRecordId=NHMSYS0001494361
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

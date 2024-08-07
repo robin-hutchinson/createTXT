@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Baryphyma gowerense
 ErrorMsg=Coordinate is outside known range for Baryphyma gowerense
 DataFieldName=Species
 DataRecordId=NBNSYS0000009014
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

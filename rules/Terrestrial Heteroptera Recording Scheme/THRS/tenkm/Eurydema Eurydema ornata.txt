@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eurydema (Eurydema) o
 ErrorMsg=Coordinate is outside known range for Eurydema (Eurydema) ornata
 DataFieldName=Species
 DataRecordId=NHMSYS0020309226
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

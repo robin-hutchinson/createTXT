@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pocadicnemis pumila s
 ErrorMsg=Coordinate is outside known range for Pocadicnemis pumila sensu stricto
 DataFieldName=Species
 DataRecordId=NBNSYS0200000045
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

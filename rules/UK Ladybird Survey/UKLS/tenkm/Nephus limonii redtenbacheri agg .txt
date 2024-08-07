@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nephus limonii/redten
 ErrorMsg=Coordinate is outside known range for Nephus limonii/redtenbacheri agg.
 DataFieldName=Species
 DataRecordId=NHMSYS0021366799
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

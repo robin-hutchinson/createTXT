@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Platyptilia gonodacty
 ErrorMsg=Coordinate is outside known range for Platyptilia gonodactyla
 DataFieldName=Species
 DataRecordId=NHMSYS0000503852
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

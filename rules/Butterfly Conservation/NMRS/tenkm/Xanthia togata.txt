@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthia togata
 ErrorMsg=Coordinate is outside known range for Xanthia togata
 DataFieldName=Species
 DataRecordId=NBNSYS0000006368
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

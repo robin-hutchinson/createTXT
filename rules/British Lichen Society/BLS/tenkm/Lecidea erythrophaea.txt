@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecidea erythrophaea
 ErrorMsg=Coordinate is outside known range for Lecidea erythrophaea
 DataFieldName=Species
 DataRecordId=NHMSYS0020990012
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cliostomum griffithii
 ErrorMsg=Coordinate is outside known range for Cliostomum griffithii
 DataFieldName=Species
 DataRecordId=NBNSYS0000018421
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

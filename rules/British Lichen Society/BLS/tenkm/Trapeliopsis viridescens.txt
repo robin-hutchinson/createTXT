@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trapeliopsis viridesc
 ErrorMsg=Coordinate is outside known range for Trapeliopsis viridescens
 DataFieldName=Species
 DataRecordId=NBNSYS0000019117
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

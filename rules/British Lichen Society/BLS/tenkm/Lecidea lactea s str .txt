@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecidea lactea s. str
 ErrorMsg=Coordinate is outside known range for Lecidea lactea s. str.
 DataFieldName=Species
 DataRecordId=NHMSYS0020987764
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

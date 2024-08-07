@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oxyptilus laetus
 ErrorMsg=Coordinate is outside known range for Oxyptilus laetus
 DataFieldName=Species
 DataRecordId=NHMSYS0000503532
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Heterodermia speciosa
 ErrorMsg=Coordinate is outside known range for Heterodermia speciosa
 DataFieldName=Species
 DataRecordId=NHMSYS0001484076
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

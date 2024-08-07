@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dioctria linearis
 ErrorMsg=Coordinate is outside known range for Dioctria linearis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007917
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

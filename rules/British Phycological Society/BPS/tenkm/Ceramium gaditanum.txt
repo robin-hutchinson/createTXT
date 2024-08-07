@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ceramium gaditanum
 ErrorMsg=Coordinate is outside known range for Ceramium gaditanum
 DataFieldName=Species
 DataRecordId=NBNSYS0000174423
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

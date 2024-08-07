@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Salmo salar
 ErrorMsg=Coordinate is outside known range for Salmo salar
 DataFieldName=Species
 DataRecordId=NBNSYS0000188606
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Branta canadensis
 ErrorMsg=Coordinate is outside known range for Branta canadensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000000009
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

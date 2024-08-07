@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Collema limosum
 ErrorMsg=Coordinate is outside known range for Collema limosum
 DataFieldName=Species
 DataRecordId=NBNSYS0000018445
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

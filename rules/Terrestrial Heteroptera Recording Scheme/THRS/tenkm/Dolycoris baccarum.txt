@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dolycoris baccarum
 ErrorMsg=Coordinate is outside known range for Dolycoris baccarum
 DataFieldName=Species
 DataRecordId=NHMSYS0020309177
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

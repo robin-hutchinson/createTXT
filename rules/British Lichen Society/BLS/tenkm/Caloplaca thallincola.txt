@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca thallincola
 ErrorMsg=Coordinate is outside known range for Caloplaca thallincola
 DataFieldName=Species
 DataRecordId=NBNSYS0000020561
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

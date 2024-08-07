@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Utetheisa pulchella
 ErrorMsg=Coordinate is outside known range for Utetheisa pulchella
 DataFieldName=Species
 DataRecordId=NBNSYS0000006140
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

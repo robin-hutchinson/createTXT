@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Atylotus latistriatus
 ErrorMsg=Coordinate is outside known range for Atylotus latistriatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007876
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

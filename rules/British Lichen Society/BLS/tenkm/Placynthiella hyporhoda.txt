@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Placynthiella hyporho
 ErrorMsg=Coordinate is outside known range for Placynthiella hyporhoda
 DataFieldName=Species
 DataRecordId=NHMSYS0001493902
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

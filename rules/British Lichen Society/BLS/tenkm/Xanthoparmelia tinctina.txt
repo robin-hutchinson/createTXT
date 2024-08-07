@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthoparmelia tincti
 ErrorMsg=Coordinate is outside known range for Xanthoparmelia tinctina
 DataFieldName=Species
 DataRecordId=NHMSYS0001501916
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

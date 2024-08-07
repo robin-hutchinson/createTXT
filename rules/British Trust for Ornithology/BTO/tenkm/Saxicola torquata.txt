@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Saxicola torquata
 ErrorMsg=Coordinate is outside known range for Saxicola torquata
 DataFieldName=Species
 DataRecordId=NHMSYS0000530591
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

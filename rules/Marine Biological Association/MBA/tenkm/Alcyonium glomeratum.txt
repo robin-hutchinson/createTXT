@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Alcyonium glomeratum
 ErrorMsg=Coordinate is outside known range for Alcyonium glomeratum
 DataFieldName=Species
 DataRecordId=NBNSYS0000188408
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

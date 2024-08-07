@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chaenothecopsis epith
 ErrorMsg=Coordinate is outside known range for Chaenothecopsis epithallina
 DataFieldName=Species
 DataRecordId=NBNSYS0000015557
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

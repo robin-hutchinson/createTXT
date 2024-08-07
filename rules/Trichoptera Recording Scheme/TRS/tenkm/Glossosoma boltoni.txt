@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Glossosoma boltoni
 ErrorMsg=Coordinate is outside known range for Glossosoma boltoni
 DataFieldName=Species
 DataRecordId=NBNSYS0000008343
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

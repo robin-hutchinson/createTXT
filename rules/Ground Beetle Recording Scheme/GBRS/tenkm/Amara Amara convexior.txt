@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Amara (Amara) convexi
 ErrorMsg=Coordinate is outside known range for Amara (Amara) convexior
 DataFieldName=Species
 DataRecordId=NHMSYS0001716723
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

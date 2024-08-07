@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Coenophila subrosea
 ErrorMsg=Coordinate is outside known range for Coenophila subrosea
 DataFieldName=Species
 DataRecordId=NHMSYS0000501811
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

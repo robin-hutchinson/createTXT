@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Philopotamus montanus
 ErrorMsg=Coordinate is outside known range for Philopotamus montanus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008380
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gracilaria bursa-past
 ErrorMsg=Coordinate is outside known range for Gracilaria bursa-pastoris
 DataFieldName=Species
 DataRecordId=NHMSYS0000567959
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

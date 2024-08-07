@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Refractohilum gallige
 ErrorMsg=Coordinate is outside known range for Refractohilum galligenum
 DataFieldName=Species
 DataRecordId=BMSSYS0000016128
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eopyrenula avellanae
 ErrorMsg=Coordinate is outside known range for Eopyrenula avellanae
 DataFieldName=Species
 DataRecordId=NBNSYS0000039624
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

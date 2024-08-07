@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eublemma parva
 ErrorMsg=Coordinate is outside known range for Eublemma parva
 DataFieldName=Species
 DataRecordId=NHMSYS0021144444
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

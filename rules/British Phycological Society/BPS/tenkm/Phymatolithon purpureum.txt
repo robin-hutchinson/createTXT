@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phymatolithon purpure
 ErrorMsg=Coordinate is outside known range for Phymatolithon purpureum
 DataFieldName=Species
 DataRecordId=NHMSYS0000568083
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

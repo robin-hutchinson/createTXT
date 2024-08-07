@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Targionia hypophylla
 ErrorMsg=Coordinate is outside known range for Targionia hypophylla
 DataFieldName=Species
 DataRecordId=NBNSYS0000036044
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

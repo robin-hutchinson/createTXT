@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Physcomitrium sphaeri
 ErrorMsg=Coordinate is outside known range for Physcomitrium sphaericum
 DataFieldName=Species
 DataRecordId=NHMSYS0000310285
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

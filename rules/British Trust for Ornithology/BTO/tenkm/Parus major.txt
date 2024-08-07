@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Parus major
 ErrorMsg=Coordinate is outside known range for Parus major
 DataFieldName=Species
 DataRecordId=NHMSYS0000530533
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

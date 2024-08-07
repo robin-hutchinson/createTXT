@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphagnum recurvum sen
 ErrorMsg=Coordinate is outside known range for Sphagnum recurvum sensu lato
 DataFieldName=Species
 DataRecordId=NHMSYS0000310918
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

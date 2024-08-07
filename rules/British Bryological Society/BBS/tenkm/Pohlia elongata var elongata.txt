@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pohlia elongata var. 
 ErrorMsg=Coordinate is outside known range for Pohlia elongata var. elongata
 DataFieldName=Species
 DataRecordId=NHMSYS0000310367
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

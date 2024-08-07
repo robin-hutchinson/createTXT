@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gastrodes abietum
 ErrorMsg=Coordinate is outside known range for Gastrodes abietum
 DataFieldName=Species
 DataRecordId=NHMSYS0020309243
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

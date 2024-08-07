@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Myrmeleotettix macula
 ErrorMsg=Coordinate is outside known range for Myrmeleotettix maculatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000006839
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

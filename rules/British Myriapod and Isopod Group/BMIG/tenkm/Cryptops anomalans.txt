@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cryptops anomalans
 ErrorMsg=Coordinate is outside known range for Cryptops anomalans
 DataFieldName=Species
 DataRecordId=NBNSYS0000011398
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

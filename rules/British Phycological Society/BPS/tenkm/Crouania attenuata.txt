@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Crouania attenuata
 ErrorMsg=Coordinate is outside known range for Crouania attenuata
 DataFieldName=Species
 DataRecordId=NHMSYS0000567920
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

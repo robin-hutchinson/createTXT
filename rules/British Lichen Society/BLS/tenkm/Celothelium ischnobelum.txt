@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Celothelium ischnobel
 ErrorMsg=Coordinate is outside known range for Celothelium ischnobelum
 DataFieldName=Species
 DataRecordId=NBNSYS0000016155
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

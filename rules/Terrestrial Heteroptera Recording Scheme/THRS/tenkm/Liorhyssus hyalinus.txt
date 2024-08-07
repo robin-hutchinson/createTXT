@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Liorhyssus hyalinus
 ErrorMsg=Coordinate is outside known range for Liorhyssus hyalinus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309367
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

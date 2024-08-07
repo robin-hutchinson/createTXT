@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Zodarion rubidum
 ErrorMsg=Coordinate is outside known range for Zodarion rubidum
 DataFieldName=Species
 DataRecordId=NBNSYS0100006051
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

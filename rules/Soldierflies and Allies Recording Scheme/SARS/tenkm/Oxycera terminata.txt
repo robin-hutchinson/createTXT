@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oxycera terminata
 ErrorMsg=Coordinate is outside known range for Oxycera terminata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007817
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

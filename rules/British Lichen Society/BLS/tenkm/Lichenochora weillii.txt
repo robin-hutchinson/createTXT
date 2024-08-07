@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lichenochora weillii
 ErrorMsg=Coordinate is outside known range for Lichenochora weillii
 DataFieldName=Species
 DataRecordId=NHMSYS0001488359
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

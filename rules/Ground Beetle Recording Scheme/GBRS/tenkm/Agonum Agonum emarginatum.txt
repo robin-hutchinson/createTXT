@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agonum (Agonum) emarg
 ErrorMsg=Coordinate is outside known range for Agonum (Agonum) emarginatum
 DataFieldName=Species
 DataRecordId=NHMSYS0001716594
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

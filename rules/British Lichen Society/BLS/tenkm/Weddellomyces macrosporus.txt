@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Weddellomyces macrosp
 ErrorMsg=Coordinate is outside known range for Weddellomyces macrosporus
 DataFieldName=Species
 DataRecordId=BMSSYS0000019728
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

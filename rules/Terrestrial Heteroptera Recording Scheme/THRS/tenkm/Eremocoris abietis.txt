@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eremocoris abietis
 ErrorMsg=Coordinate is outside known range for Eremocoris abietis
 DataFieldName=Species
 DataRecordId=NHMSYS0020309214
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

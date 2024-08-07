@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca cerina var.
 ErrorMsg=Coordinate is outside known range for Caloplaca cerina var. cerina
 DataFieldName=Species
 DataRecordId=BMSSYS0000003121
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

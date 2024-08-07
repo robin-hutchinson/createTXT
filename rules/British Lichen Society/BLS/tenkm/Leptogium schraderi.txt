@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Leptogium schraderi
 ErrorMsg=Coordinate is outside known range for Leptogium schraderi
 DataFieldName=Species
 DataRecordId=NHMSYS0020990516
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

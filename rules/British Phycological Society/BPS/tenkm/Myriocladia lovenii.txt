@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Myriocladia lovenii
 ErrorMsg=Coordinate is outside known range for Myriocladia lovenii
 DataFieldName=Species
 DataRecordId=NHMSYS0000568032
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

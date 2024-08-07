@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anchoscelis haematide
 ErrorMsg=Coordinate is outside known range for Anchoscelis haematidea
 DataFieldName=Species
 DataRecordId=NHMSYS0021566578
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

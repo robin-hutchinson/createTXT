@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Flavoparmelia caperat
 ErrorMsg=Coordinate is outside known range for Flavoparmelia caperata
 DataFieldName=Species
 DataRecordId=NBNSYS0000147457
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

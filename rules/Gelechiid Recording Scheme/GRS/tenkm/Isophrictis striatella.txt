@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Isophrictis striatell
 ErrorMsg=Coordinate is outside known range for Isophrictis striatella
 DataFieldName=Species
 DataRecordId=NHMSYS0000502959
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

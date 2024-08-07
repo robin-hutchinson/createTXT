@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sarcodiotheca gaudich
 ErrorMsg=Coordinate is outside known range for Sarcodiotheca gaudichaudii
 DataFieldName=Species
 DataRecordId=NHMSYS0000568302
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

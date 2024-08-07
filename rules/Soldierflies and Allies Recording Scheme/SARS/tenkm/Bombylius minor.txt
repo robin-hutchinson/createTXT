@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bombylius minor
 ErrorMsg=Coordinate is outside known range for Bombylius minor
 DataFieldName=Species
 DataRecordId=NBNSYS0000007944
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

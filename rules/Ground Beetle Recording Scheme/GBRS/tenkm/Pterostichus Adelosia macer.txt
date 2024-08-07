@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pterostichus (Adelosi
 ErrorMsg=Coordinate is outside known range for Pterostichus (Adelosia) macer
 DataFieldName=Species
 DataRecordId=NHMSYS0001719771
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

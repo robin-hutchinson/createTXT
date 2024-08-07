@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lepraria nivalis
 ErrorMsg=Coordinate is outside known range for Lepraria nivalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000018763
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

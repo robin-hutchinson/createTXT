@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Micarea globulosella
 ErrorMsg=Coordinate is outside known range for Micarea globulosella
 DataFieldName=Species
 DataRecordId=NBNSYS0000018816
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Antedon petasus
 ErrorMsg=Coordinate is outside known range for Antedon petasus
 DataFieldName=Species
 DataRecordId=NBNSYS0000173845
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

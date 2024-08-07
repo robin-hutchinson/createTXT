@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Triphosa dubitata
 ErrorMsg=Coordinate is outside known range for Triphosa dubitata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005870
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

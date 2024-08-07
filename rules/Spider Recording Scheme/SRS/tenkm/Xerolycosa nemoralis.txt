@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xerolycosa nemoralis
 ErrorMsg=Coordinate is outside known range for Xerolycosa nemoralis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008808
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

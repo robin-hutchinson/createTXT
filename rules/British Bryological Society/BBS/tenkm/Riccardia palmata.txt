@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Riccardia palmata
 ErrorMsg=Coordinate is outside known range for Riccardia palmata
 DataFieldName=Species
 DataRecordId=NBNSYS0000036033
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

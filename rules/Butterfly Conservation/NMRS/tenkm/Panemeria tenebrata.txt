@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Panemeria tenebrata
 ErrorMsg=Coordinate is outside known range for Panemeria tenebrata
 DataFieldName=Species
 DataRecordId=NBNSYS0000006503
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thera juniperata
 ErrorMsg=Coordinate is outside known range for Thera juniperata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005851
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pogonus chalceus
 ErrorMsg=Coordinate is outside known range for Pogonus chalceus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007274
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Microdon devius
 ErrorMsg=Coordinate is outside known range for Microdon devius
 DataFieldName=Species
 DataRecordId=NBNSYS0000007119
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

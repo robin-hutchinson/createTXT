@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Neriene radiata
 ErrorMsg=Coordinate is outside known range for Neriene radiata
 DataFieldName=Species
 DataRecordId=NBNSYS0000152322
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

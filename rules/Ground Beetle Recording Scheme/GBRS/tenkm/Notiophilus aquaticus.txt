@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Notiophilus aquaticus
 ErrorMsg=Coordinate is outside known range for Notiophilus aquaticus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007159
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

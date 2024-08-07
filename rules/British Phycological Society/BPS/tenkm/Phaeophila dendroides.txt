@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phaeophila dendroides
 ErrorMsg=Coordinate is outside known range for Phaeophila dendroides
 DataFieldName=Species
 DataRecordId=NHMSYS0000568069
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

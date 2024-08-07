@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Euxoa tritici
 ErrorMsg=Coordinate is outside known range for Euxoa tritici
 DataFieldName=Species
 DataRecordId=NBNSYS0000006167
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

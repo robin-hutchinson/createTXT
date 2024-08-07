@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Buellia pulverea
 ErrorMsg=Coordinate is outside known range for Buellia pulverea
 DataFieldName=Species
 DataRecordId=NHMSYS0001476336
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

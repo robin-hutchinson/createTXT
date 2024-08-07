@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lycophotia porphyrea
 ErrorMsg=Coordinate is outside known range for Lycophotia porphyrea
 DataFieldName=Species
 DataRecordId=NHMSYS0021144917
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

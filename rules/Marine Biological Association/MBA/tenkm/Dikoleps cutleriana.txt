@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dikoleps cutleriana
 ErrorMsg=Coordinate is outside known range for Dikoleps cutleriana
 DataFieldName=Species
 DataRecordId=NBNSYS0000174946
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

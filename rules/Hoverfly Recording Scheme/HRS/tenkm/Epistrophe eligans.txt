@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Epistrophe eligans
 ErrorMsg=Coordinate is outside known range for Epistrophe eligans
 DataFieldName=Species
 DataRecordId=NBNSYS0000006912
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Idaea biselata
 ErrorMsg=Coordinate is outside known range for Idaea biselata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005775
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thalassisobates litto
 ErrorMsg=Coordinate is outside known range for Thalassisobates littoralis
 DataFieldName=Species
 DataRecordId=NBNSYS0000011374
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

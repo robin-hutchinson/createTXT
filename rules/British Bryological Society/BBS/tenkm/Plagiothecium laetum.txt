@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Plagiothecium laetum
 ErrorMsg=Coordinate is outside known range for Plagiothecium laetum
 DataFieldName=Species
 DataRecordId=NHMSYS0000310327
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

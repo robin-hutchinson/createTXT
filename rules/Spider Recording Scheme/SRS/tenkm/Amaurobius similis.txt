@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Amaurobius similis
 ErrorMsg=Coordinate is outside known range for Amaurobius similis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008611
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

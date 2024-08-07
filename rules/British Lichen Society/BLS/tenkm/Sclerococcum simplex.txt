@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sclerococcum simplex
 ErrorMsg=Coordinate is outside known range for Sclerococcum simplex
 DataFieldName=Species
 DataRecordId=BMSSYS0000016727
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

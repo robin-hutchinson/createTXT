@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ceratinopsis romana
 ErrorMsg=Coordinate is outside known range for Ceratinopsis romana
 DataFieldName=Species
 DataRecordId=NBNSYS0000009052
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

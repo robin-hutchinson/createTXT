@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agriopis marginaria
 ErrorMsg=Coordinate is outside known range for Agriopis marginaria
 DataFieldName=Species
 DataRecordId=NHMSYS0021144223
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

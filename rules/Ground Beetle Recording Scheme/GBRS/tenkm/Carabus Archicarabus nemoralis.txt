@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Carabus (Archicarabus
 ErrorMsg=Coordinate is outside known range for Carabus (Archicarabus) nemoralis
 DataFieldName=Species
 DataRecordId=NHMSYS0001717502
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

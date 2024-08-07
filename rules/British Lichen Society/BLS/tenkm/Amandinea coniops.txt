@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Amandinea coniops
 ErrorMsg=Coordinate is outside known range for Amandinea coniops
 DataFieldName=Species
 DataRecordId=NHMSYS0020989708
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

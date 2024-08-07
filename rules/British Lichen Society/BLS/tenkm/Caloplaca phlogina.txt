@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca phlogina
 ErrorMsg=Coordinate is outside known range for Caloplaca phlogina
 DataFieldName=Species
 DataRecordId=BMSSYS0000003150
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Coptotriche angusticollella
 Tvk=NHMSYS0021142183
 StartDate=17000101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

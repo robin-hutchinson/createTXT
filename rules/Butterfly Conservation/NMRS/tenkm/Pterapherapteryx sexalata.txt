@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pterapherapteryx sexa
 ErrorMsg=Coordinate is outside known range for Pterapherapteryx sexalata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005973
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

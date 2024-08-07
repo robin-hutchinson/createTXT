@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gelechia hippophaella
 ErrorMsg=Coordinate is outside known range for Gelechia hippophaella
 DataFieldName=Species
 DataRecordId=NHMSYS0000502706
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

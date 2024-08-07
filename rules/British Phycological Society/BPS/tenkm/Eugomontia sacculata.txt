@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eugomontia sacculata
 ErrorMsg=Coordinate is outside known range for Eugomontia sacculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000181918
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

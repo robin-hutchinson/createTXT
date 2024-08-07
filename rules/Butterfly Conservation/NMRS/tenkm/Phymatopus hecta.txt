@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phymatopus hecta
 ErrorMsg=Coordinate is outside known range for Phymatopus hecta
 DataFieldName=Species
 DataRecordId=NHMSYS0021142347
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

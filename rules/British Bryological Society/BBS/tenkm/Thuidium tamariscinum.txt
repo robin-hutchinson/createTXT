@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thuidium tamariscinum
 ErrorMsg=Coordinate is outside known range for Thuidium tamariscinum
 DataFieldName=Species
 DataRecordId=NHMSYS0000310759
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

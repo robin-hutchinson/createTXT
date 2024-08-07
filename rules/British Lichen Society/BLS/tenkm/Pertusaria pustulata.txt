@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria pustulata
 ErrorMsg=Coordinate is outside known range for Pertusaria pustulata
 DataFieldName=Species
 DataRecordId=NBNSYS0000019412
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

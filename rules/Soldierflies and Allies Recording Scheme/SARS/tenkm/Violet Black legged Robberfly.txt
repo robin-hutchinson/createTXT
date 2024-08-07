@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Violet Black-legged R
 ErrorMsg=Coordinate is outside known range for Violet Black-legged Robberfly
 DataFieldName=Species
 DataRecordId=NBNSYS0000007914
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

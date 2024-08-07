@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria flavocoral
 ErrorMsg=Coordinate is outside known range for Pertusaria flavocorallina
 DataFieldName=Species
 DataRecordId=NBNSYS0000039706
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

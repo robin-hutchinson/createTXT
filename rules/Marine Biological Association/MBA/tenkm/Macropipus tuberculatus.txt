@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Macropipus tuberculat
 ErrorMsg=Coordinate is outside known range for Macropipus tuberculatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000176327
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

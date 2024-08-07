@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dysmachus trigonus
 ErrorMsg=Coordinate is outside known range for Dysmachus trigonus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007896
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

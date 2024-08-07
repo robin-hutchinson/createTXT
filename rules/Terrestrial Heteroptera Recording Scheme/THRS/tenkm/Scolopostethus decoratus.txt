@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scolopostethus decora
 ErrorMsg=Coordinate is outside known range for Scolopostethus decoratus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309809
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

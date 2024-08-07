@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Forficula lesnei
 ErrorMsg=Coordinate is outside known range for Forficula lesnei
 DataFieldName=Species
 DataRecordId=NHMSYS0001387336
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

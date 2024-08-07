@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bembidion (Phyla) obt
 ErrorMsg=Coordinate is outside known range for Bembidion (Phyla) obtusum
 DataFieldName=Species
 DataRecordId=NHMSYS0001717181
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

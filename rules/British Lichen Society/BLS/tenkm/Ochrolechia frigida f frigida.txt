@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ochrolechia frigida f
 ErrorMsg=Coordinate is outside known range for Ochrolechia frigida f. frigida
 DataFieldName=Species
 DataRecordId=NHMSYS0020990645
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

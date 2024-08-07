@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Paracentrotus lividus
 ErrorMsg=Coordinate is outside known range for Paracentrotus lividus
 DataFieldName=Species
 DataRecordId=NBNSYS0000188577
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

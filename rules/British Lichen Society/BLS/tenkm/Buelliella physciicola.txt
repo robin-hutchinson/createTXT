@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Buelliella physciicol
 ErrorMsg=Coordinate is outside known range for Buelliella physciicola
 DataFieldName=Species
 DataRecordId=NBNSYS0000015941
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

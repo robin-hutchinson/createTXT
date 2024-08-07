@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nyctalus leisleri
 ErrorMsg=Coordinate is outside known range for Nyctalus leisleri
 DataFieldName=Species
 DataRecordId=NHMSYS0000080185
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

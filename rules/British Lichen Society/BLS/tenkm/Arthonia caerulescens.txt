@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthonia caerulescens
 ErrorMsg=Coordinate is outside known range for Arthonia caerulescens
 DataFieldName=Species
 DataRecordId=NHMSYS0020989720
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

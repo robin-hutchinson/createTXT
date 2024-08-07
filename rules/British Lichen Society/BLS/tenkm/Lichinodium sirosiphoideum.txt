@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lichinodium sirosipho
 ErrorMsg=Coordinate is outside known range for Lichinodium sirosiphoideum
 DataFieldName=Species
 DataRecordId=BMSSYS0000010693
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

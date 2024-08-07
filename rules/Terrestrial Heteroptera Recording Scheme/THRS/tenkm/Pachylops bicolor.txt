@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pachylops bicolor
 ErrorMsg=Coordinate is outside known range for Pachylops bicolor
 DataFieldName=Species
 DataRecordId=NBNSYS0000010226
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

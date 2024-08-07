@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ptilodon capucina
 ErrorMsg=Coordinate is outside known range for Ptilodon capucina
 DataFieldName=Species
 DataRecordId=NBNSYS0000006094
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

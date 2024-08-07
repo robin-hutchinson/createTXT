@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porpidia contraponend
 ErrorMsg=Coordinate is outside known range for Porpidia contraponenda
 DataFieldName=Species
 DataRecordId=NBNSYS0000039720
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trachelipus rathkii
 ErrorMsg=Coordinate is outside known range for Trachelipus rathkii
 DataFieldName=Species
 DataRecordId=NHMSYS0001593918
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

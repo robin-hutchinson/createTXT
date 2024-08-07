@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Oxyura jamaicensis
 ErrorMsg=Coordinate is outside known range for Oxyura jamaicensis
 DataFieldName=Species
 DataRecordId=NHMSYS0000530524
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

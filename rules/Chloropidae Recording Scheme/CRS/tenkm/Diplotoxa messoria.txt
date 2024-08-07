@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diplotoxa messoria
 ErrorMsg=Coordinate is outside known range for Diplotoxa messoria
 DataFieldName=Species
 DataRecordId=NBNSYS0000029972
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

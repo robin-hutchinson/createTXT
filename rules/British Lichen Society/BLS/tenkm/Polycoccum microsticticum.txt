@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polycoccum microstict
 ErrorMsg=Coordinate is outside known range for Polycoccum microsticticum
 DataFieldName=Species
 DataRecordId=NHMSYS0020990970
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

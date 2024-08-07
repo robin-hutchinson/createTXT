@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Microchrysa cyaneiven
 ErrorMsg=Coordinate is outside known range for Microchrysa cyaneiventris
 DataFieldName=Species
 DataRecordId=NBNSYS0000007826
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

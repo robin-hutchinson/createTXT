@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sarcopyrenia beckhaus
 ErrorMsg=Coordinate is outside known range for Sarcopyrenia beckhausiana
 DataFieldName=Species
 DataRecordId=NHMSYS0001497073
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

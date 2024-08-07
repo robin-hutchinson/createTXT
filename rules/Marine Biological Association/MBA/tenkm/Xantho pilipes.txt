@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xantho pilipes
 ErrorMsg=Coordinate is outside known range for Xantho pilipes
 DataFieldName=Species
 DataRecordId=NBNSYS0000178652
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

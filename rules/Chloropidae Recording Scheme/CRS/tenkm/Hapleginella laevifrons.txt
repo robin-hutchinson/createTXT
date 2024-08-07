@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hapleginella laevifro
 ErrorMsg=Coordinate is outside known range for Hapleginella laevifrons
 DataFieldName=Species
 DataRecordId=NBNSYS0100003327
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

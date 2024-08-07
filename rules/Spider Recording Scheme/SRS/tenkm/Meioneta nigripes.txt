@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Meioneta nigripes
 ErrorMsg=Coordinate is outside known range for Meioneta nigripes
 DataFieldName=Species
 DataRecordId=NBNSYS0000009161
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

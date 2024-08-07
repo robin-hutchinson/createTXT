@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Nysius ericae
 ErrorMsg=Coordinate is outside known range for Nysius ericae
 DataFieldName=Species
 DataRecordId=NHMSYS0020309535
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

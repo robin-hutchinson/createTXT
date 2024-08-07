@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Metzneria metzneriell
 ErrorMsg=Coordinate is outside known range for Metzneria metzneriella
 DataFieldName=Species
 DataRecordId=NHMSYS0000503225
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

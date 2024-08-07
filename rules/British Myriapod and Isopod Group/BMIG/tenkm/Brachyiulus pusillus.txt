@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachyiulus pusillus
 ErrorMsg=Coordinate is outside known range for Brachyiulus pusillus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011387
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

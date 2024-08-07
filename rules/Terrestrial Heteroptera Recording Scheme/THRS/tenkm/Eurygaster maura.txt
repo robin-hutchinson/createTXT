@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eurygaster maura
 ErrorMsg=Coordinate is outside known range for Eurygaster maura
 DataFieldName=Species
 DataRecordId=NHMSYS0020309230
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

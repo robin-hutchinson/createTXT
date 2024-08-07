@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Didea intermedia
 ErrorMsg=Coordinate is outside known range for Didea intermedia
 DataFieldName=Species
 DataRecordId=NBNSYS0000006909
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

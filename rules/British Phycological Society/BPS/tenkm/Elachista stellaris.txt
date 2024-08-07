@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Elachista stellaris
 ErrorMsg=Coordinate is outside known range for Elachista stellaris
 DataFieldName=Species
 DataRecordId=NHMSYS0000568130
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

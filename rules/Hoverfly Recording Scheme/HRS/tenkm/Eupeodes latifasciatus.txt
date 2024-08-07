@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eupeodes latifasciatu
 ErrorMsg=Coordinate is outside known range for Eupeodes latifasciatus
 DataFieldName=Species
 DataRecordId=NBNSYS0100003109
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Eurygeophilus pinguis
 Tvk=NHMSYS0020108917
 StartDate=19700401
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

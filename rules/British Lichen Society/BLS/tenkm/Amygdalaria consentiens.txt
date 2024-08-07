@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Amygdalaria consentie
 ErrorMsg=Coordinate is outside known range for Amygdalaria consentiens
 DataFieldName=Species
 DataRecordId=NHMSYS0020987452
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

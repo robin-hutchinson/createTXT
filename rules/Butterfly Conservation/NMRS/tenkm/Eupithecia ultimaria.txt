@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eupithecia ultimaria
 ErrorMsg=Coordinate is outside known range for Eupithecia ultimaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000033137
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

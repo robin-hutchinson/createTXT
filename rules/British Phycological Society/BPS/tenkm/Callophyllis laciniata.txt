@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Callophyllis laciniat
 ErrorMsg=Coordinate is outside known range for Callophyllis laciniata
 DataFieldName=Species
 DataRecordId=NBNSYS0000174299
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Roselliniella nephrom
 ErrorMsg=Coordinate is outside known range for Roselliniella nephromatis
 DataFieldName=Species
 DataRecordId=NBNSYS0000020197
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pseudoloxops coccineu
 ErrorMsg=Coordinate is outside known range for Pseudoloxops coccineus
 DataFieldName=Species
 DataRecordId=NHMSYS0020309744
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

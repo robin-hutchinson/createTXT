@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tritomaria exsecta
 ErrorMsg=Coordinate is outside known range for Tritomaria exsecta
 DataFieldName=Species
 DataRecordId=NBNSYS0000035870
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

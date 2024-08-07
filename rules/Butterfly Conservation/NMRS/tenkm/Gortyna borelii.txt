@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gortyna borelii
 ErrorMsg=Coordinate is outside known range for Gortyna borelii
 DataFieldName=Species
 DataRecordId=NHMSYS0000520248
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

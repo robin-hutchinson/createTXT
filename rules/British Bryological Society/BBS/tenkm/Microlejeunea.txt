@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Microlejeunea
 ErrorMsg=Coordinate is outside known range for Microlejeunea
 DataFieldName=Species
 DataRecordId=NHMSYS0000310189
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

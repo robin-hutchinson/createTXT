@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthonia digitatae
 ErrorMsg=Coordinate is outside known range for Arthonia digitatae
 DataFieldName=Species
 DataRecordId=NHMSYS0001474940
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cheilosia vulpina
 ErrorMsg=Coordinate is outside known range for Cheilosia vulpina
 DataFieldName=Species
 DataRecordId=NBNSYS0000007004
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

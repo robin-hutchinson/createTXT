@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphagnum warnstorfii
 ErrorMsg=Coordinate is outside known range for Sphagnum warnstorfii
 DataFieldName=Species
 DataRecordId=NHMSYS0000310704
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

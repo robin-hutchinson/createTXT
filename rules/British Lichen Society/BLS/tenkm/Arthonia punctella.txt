@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthonia punctella
 ErrorMsg=Coordinate is outside known range for Arthonia punctella
 DataFieldName=Species
 DataRecordId=NBNSYS0000015510
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

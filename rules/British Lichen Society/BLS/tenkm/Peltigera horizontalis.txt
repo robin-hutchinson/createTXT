@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Peltigera horizontali
 ErrorMsg=Coordinate is outside known range for Peltigera horizontalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000019327
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

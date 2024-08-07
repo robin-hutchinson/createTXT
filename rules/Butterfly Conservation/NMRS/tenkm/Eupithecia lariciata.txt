@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eupithecia lariciata
 ErrorMsg=Coordinate is outside known range for Eupithecia lariciata
 DataFieldName=Species
 DataRecordId=NHMSYS0021144095
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Clubiona caerulescens
 Tvk=NBNSYS0000008680
 StartDate=18980101
 EndDate=20021231
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

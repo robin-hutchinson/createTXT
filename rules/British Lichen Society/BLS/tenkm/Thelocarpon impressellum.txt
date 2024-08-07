@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thelocarpon impressel
 ErrorMsg=Coordinate is outside known range for Thelocarpon impressellum
 DataFieldName=Species
 DataRecordId=NHMSYS0001499649
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eristalis intricarius
 ErrorMsg=Coordinate is outside known range for Eristalis intricarius
 DataFieldName=Species
 DataRecordId=NBNSYS0000007050
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

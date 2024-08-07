@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Ctenoplusia accentifera
 Tvk=NBNSYS0000006536
 StartDate=19690910
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

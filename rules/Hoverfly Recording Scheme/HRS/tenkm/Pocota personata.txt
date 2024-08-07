@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pocota personata
 ErrorMsg=Coordinate is outside known range for Pocota personata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007109
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

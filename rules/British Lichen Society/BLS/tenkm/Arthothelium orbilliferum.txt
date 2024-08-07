@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthothelium orbillif
 ErrorMsg=Coordinate is outside known range for Arthothelium orbilliferum
 DataFieldName=Species
 DataRecordId=NHMSYS0001475016
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

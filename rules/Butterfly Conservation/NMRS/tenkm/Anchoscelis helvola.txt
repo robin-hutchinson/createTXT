@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anchoscelis helvola
 ErrorMsg=Coordinate is outside known range for Anchoscelis helvola
 DataFieldName=Species
 DataRecordId=NHMSYS0021566573
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Clubiona rosserae
 ErrorMsg=Coordinate is outside known range for Clubiona rosserae
 DataFieldName=Species
 DataRecordId=NBNSYS0000008678
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

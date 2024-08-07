@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Loxia curvirostra
 ErrorMsg=Coordinate is outside known range for Loxia curvirostra
 DataFieldName=Species
 DataRecordId=NHMSYS0000530454
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

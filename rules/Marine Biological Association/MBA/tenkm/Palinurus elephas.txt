@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Palinurus elephas
 ErrorMsg=Coordinate is outside known range for Palinurus elephas
 DataFieldName=Species
 DataRecordId=NBNSYS0000188515
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

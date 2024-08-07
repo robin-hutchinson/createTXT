@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diplectrona felix
 ErrorMsg=Coordinate is outside known range for Diplectrona felix
 DataFieldName=Species
 DataRecordId=NBNSYS0000008422
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

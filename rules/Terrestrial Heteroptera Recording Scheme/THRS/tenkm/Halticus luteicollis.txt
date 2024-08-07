@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Halticus luteicollis
 ErrorMsg=Coordinate is outside known range for Halticus luteicollis
 DataFieldName=Species
 DataRecordId=NHMSYS0020309283
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

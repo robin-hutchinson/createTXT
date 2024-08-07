@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladonia incrassata
 ErrorMsg=Coordinate is outside known range for Cladonia incrassata
 DataFieldName=Species
 DataRecordId=NHMSYS0001477646
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

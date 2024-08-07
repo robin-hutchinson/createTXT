@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eulithis prunata
 ErrorMsg=Coordinate is outside known range for Eulithis prunata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005834
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

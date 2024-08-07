@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Brachinus (Brachinus)
 ErrorMsg=Coordinate is outside known range for Brachinus (Brachinus) crepitans
 DataFieldName=Species
 DataRecordId=NHMSYS0001717366
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

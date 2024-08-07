@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orthops (Orthops) kal
 ErrorMsg=Coordinate is outside known range for Orthops (Orthops) kalmii
 DataFieldName=Species
 DataRecordId=NHMSYS0020309580
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

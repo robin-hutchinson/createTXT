@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Desmarestia dresnayi
 ErrorMsg=Coordinate is outside known range for Desmarestia dresnayi
 DataFieldName=Species
 DataRecordId=NHMSYS0000567948
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

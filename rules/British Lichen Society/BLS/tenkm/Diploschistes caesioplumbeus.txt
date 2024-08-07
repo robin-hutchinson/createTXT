@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Diploschistes caesiop
 ErrorMsg=Coordinate is outside known range for Diploschistes caesioplumbeus
 DataFieldName=Species
 DataRecordId=NBNSYS0000016927
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

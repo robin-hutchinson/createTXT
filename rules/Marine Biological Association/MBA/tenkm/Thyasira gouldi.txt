@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thyasira gouldi
 ErrorMsg=Coordinate is outside known range for Thyasira gouldi
 DataFieldName=Species
 DataRecordId=NBNSYS0000040773
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

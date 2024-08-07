@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Amara (Celia) infima
 ErrorMsg=Coordinate is outside known range for Amara (Celia) infima
 DataFieldName=Species
 DataRecordId=NHMSYS0001716744
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

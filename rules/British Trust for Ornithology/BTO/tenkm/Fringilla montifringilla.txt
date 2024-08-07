@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Fringilla montifringi
 ErrorMsg=Coordinate is outside known range for Fringilla montifringilla
 DataFieldName=Species
 DataRecordId=NHMSYS0000530368
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Stypocaulon scoparium
 ErrorMsg=Coordinate is outside known range for Stypocaulon scoparium
 DataFieldName=Species
 DataRecordId=NHMSYS0000568363
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

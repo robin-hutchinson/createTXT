@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cybosia mesomella
 ErrorMsg=Coordinate is outside known range for Cybosia mesomella
 DataFieldName=Species
 DataRecordId=NBNSYS0000006126
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

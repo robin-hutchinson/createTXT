@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Altella lucida
 Tvk=NBNSYS0000008626
 StartDate=18800101
 EndDate=19711231
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

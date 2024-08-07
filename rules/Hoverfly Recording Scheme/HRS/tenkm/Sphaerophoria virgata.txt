@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sphaerophoria virgata
 ErrorMsg=Coordinate is outside known range for Sphaerophoria virgata
 DataFieldName=Species
 DataRecordId=NBNSYS0000006961
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

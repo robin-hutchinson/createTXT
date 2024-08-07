@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Motacilla alba yarrel
 ErrorMsg=Coordinate is outside known range for Motacilla alba yarrellii
 DataFieldName=Species
 DataRecordId=NBNSYS0000001346
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

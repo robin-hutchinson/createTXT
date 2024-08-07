@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chrysothrix chlorina
 ErrorMsg=Coordinate is outside known range for Chrysothrix chlorina
 DataFieldName=Species
 DataRecordId=NBNSYS0000018342
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

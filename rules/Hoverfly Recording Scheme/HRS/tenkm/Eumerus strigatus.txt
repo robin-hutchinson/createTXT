@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eumerus strigatus
 ErrorMsg=Coordinate is outside known range for Eumerus strigatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007067
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

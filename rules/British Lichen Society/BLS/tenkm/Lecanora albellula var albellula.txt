@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecanora albellula va
 ErrorMsg=Coordinate is outside known range for Lecanora albellula var. albellula
 DataFieldName=Species
 DataRecordId=NHMSYS0020535607
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

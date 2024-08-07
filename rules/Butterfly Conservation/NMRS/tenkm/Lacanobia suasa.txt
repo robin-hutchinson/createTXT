@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lacanobia suasa
 ErrorMsg=Coordinate is outside known range for Lacanobia suasa
 DataFieldName=Species
 DataRecordId=NHMSYS0021144817
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

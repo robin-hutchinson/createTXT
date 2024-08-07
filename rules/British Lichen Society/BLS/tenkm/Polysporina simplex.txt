@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polysporina simplex
 ErrorMsg=Coordinate is outside known range for Polysporina simplex
 DataFieldName=Species
 DataRecordId=NHMSYS0020990976
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

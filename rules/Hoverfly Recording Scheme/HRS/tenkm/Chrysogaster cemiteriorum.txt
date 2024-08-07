@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Chrysogaster cemiteri
 ErrorMsg=Coordinate is outside known range for Chrysogaster cemiteriorum
 DataFieldName=Species
 DataRecordId=NBNSYS0000144380
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

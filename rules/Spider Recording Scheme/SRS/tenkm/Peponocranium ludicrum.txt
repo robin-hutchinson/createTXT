@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Peponocranium ludicru
 ErrorMsg=Coordinate is outside known range for Peponocranium ludicrum
 DataFieldName=Species
 DataRecordId=NBNSYS0000009022
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Peltigera scabrosa
 ErrorMsg=Coordinate is outside known range for Peltigera scabrosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000019337
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

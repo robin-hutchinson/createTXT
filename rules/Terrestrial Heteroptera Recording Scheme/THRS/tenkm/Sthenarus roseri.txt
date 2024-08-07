@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sthenarus roseri
 ErrorMsg=Coordinate is outside known range for Sthenarus roseri
 DataFieldName=Species
 DataRecordId=NBNSYS0000010181
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

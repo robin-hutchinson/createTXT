@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Charadrius dubius
 ErrorMsg=Coordinate is outside known range for Charadrius dubius
 DataFieldName=Species
 DataRecordId=NBNSYS0000000162
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Thuidium abietinum
 ErrorMsg=Coordinate is outside known range for Thuidium abietinum
 DataFieldName=Species
 DataRecordId=NHMSYS0000310755
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

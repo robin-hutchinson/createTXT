@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aphanotrigonum nigrip
 ErrorMsg=Coordinate is outside known range for Aphanotrigonum nigripes
 DataFieldName=Species
 DataRecordId=NBNSYS0000029872
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

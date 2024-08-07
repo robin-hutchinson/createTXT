@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Paraleptophlebia subm
 ErrorMsg=Coordinate is outside known range for Paraleptophlebia submarginata
 DataFieldName=Species
 DataRecordId=NBNSYS0000010892
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

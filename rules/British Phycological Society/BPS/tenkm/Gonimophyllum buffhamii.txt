@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gonimophyllum buffham
 ErrorMsg=Coordinate is outside known range for Gonimophyllum buffhamii
 DataFieldName=Species
 DataRecordId=NBNSYS0000175522
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

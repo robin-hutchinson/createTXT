@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scopula emutaria
 ErrorMsg=Coordinate is outside known range for Scopula emutaria
 DataFieldName=Species
 DataRecordId=NHMSYS0021143877
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

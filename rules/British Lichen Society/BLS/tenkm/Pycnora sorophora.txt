@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pycnora sorophora
 ErrorMsg=Coordinate is outside known range for Pycnora sorophora
 DataFieldName=Species
 DataRecordId=NHMSYS0001495830
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

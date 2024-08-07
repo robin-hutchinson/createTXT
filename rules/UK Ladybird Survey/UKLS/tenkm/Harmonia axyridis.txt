@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Harmonia axyridis
 ErrorMsg=Coordinate is outside known range for Harmonia axyridis
 DataFieldName=Species
 DataRecordId=NHMSYS0000712592
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

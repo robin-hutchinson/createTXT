@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Candelariella aurella
 ErrorMsg=Coordinate is outside known range for Candelariella aurella f. smaragdula
 DataFieldName=Species
 DataRecordId=NHMSYS0020989910
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

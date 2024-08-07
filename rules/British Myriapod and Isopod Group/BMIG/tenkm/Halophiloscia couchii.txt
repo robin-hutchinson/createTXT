@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Halophiloscia couchii
 ErrorMsg=Coordinate is outside known range for Halophiloscia couchii
 DataFieldName=Species
 DataRecordId=NHMSYS0001593599
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

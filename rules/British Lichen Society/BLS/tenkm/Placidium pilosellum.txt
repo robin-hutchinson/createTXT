@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Placidium pilosellum
 ErrorMsg=Coordinate is outside known range for Placidium pilosellum
 DataFieldName=Species
 DataRecordId=NHMSYS0001493871
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

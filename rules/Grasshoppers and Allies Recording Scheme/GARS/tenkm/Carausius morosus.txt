@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Carausius morosus
 ErrorMsg=Coordinate is outside known range for Carausius morosus
 DataFieldName=Species
 DataRecordId=NHMSYS0001387282
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

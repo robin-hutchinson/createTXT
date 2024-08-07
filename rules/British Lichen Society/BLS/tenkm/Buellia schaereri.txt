@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Buellia schaereri
 ErrorMsg=Coordinate is outside known range for Buellia schaereri
 DataFieldName=Species
 DataRecordId=NBNSYS0000018285
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

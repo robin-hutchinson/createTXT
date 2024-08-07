@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Geophilus insculptus
 ErrorMsg=Coordinate is outside known range for Geophilus insculptus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011411
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xanthogramma pedisseq
 ErrorMsg=Coordinate is outside known range for Xanthogramma pedissequum
 DataFieldName=Species
 DataRecordId=NBNSYS0000006968
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

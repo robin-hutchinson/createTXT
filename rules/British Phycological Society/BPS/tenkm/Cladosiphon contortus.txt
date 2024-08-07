@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cladosiphon contortus
 ErrorMsg=Coordinate is outside known range for Cladosiphon contortus
 DataFieldName=Species
 DataRecordId=NBNSYS0000180543
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

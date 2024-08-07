@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Araniella alpica
 ErrorMsg=Coordinate is outside known range for Araniella alpica
 DataFieldName=Species
 DataRecordId=NBNSYS0000008953
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

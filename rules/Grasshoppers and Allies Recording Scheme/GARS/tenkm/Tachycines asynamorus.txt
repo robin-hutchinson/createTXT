@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tachycines asynamorus
 ErrorMsg=Coordinate is outside known range for Tachycines asynamorus
 DataFieldName=Species
 DataRecordId=NHMSYS0001387466
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

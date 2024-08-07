@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Opegrapha niveoatra
 ErrorMsg=Coordinate is outside known range for Opegrapha niveoatra
 DataFieldName=Species
 DataRecordId=NHMSYS0001491390
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

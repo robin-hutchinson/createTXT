@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Duponchelia fovealis
 ErrorMsg=Coordinate is outside known range for Duponchelia fovealis
 DataFieldName=Species
 DataRecordId=MM0001Z1D7P511Z1
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

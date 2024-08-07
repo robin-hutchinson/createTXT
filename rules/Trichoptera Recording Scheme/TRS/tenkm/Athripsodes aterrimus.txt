@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Athripsodes aterrimus
 ErrorMsg=Coordinate is outside known range for Athripsodes aterrimus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008512
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

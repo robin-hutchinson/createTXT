@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria leioplaca
 ErrorMsg=Coordinate is outside known range for Pertusaria leioplaca
 DataFieldName=Species
 DataRecordId=NBNSYS0000019399
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

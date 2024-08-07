@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ficedula hypoleuca
 ErrorMsg=Coordinate is outside known range for Ficedula hypoleuca
 DataFieldName=Species
 DataRecordId=NHMSYS0000530362
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

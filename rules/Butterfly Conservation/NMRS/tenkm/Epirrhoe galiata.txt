@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Epirrhoe galiata
 ErrorMsg=Coordinate is outside known range for Epirrhoe galiata
 DataFieldName=Species
 DataRecordId=NHMSYS0021143939
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

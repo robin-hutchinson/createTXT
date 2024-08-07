@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Carduelis hornemanni
 ErrorMsg=Coordinate is outside known range for Carduelis hornemanni
 DataFieldName=Species
 DataRecordId=NHMSYS0000530251
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

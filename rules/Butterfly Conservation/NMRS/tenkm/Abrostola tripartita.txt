@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Abrostola tripartita
 ErrorMsg=Coordinate is outside known range for Abrostola tripartita
 DataFieldName=Species
 DataRecordId=NBNSYS0100001391
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

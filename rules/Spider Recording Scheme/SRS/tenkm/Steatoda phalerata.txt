@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Steatoda phalerata
 ErrorMsg=Coordinate is outside known range for Steatoda phalerata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008875
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

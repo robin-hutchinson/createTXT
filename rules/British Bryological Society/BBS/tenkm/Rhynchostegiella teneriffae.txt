@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhynchostegiella tene
 ErrorMsg=Coordinate is outside known range for Rhynchostegiella teneriffae
 DataFieldName=Species
 DataRecordId=NBNSYS0100005163
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

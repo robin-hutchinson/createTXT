@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Agroeca proxima
 ErrorMsg=Coordinate is outside known range for Agroeca proxima
 DataFieldName=Species
 DataRecordId=NBNSYS0000008700
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

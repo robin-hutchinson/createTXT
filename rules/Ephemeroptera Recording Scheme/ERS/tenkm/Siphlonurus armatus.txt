@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Siphlonurus armatus
 ErrorMsg=Coordinate is outside known range for Siphlonurus armatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000010861
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

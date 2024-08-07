@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hydroptila vectis
 ErrorMsg=Coordinate is outside known range for Hydroptila vectis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008365
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

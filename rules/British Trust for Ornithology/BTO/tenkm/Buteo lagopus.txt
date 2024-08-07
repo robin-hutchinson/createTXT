@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Buteo lagopus
 ErrorMsg=Coordinate is outside known range for Buteo lagopus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530226
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

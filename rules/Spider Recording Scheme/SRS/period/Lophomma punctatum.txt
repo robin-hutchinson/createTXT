@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Lophomma punctatum
 Tvk=NBNSYS0000009071
 StartDate=18380101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

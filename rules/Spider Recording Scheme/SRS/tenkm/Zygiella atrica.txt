@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Zygiella atrica
 ErrorMsg=Coordinate is outside known range for Zygiella atrica
 DataFieldName=Species
 DataRecordId=NBNSYS0000008932
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

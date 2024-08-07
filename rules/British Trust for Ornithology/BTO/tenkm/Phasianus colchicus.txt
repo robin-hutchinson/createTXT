@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phasianus colchicus
 ErrorMsg=Coordinate is outside known range for Phasianus colchicus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530559
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

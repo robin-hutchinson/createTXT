@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Opisthograptis luteol
 ErrorMsg=Coordinate is outside known range for Opisthograptis luteolata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005997
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Botrytella micromora
 ErrorMsg=Coordinate is outside known range for Botrytella micromora
 DataFieldName=Species
 DataRecordId=NHMSYS0000377538
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

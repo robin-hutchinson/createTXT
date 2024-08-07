@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Catocala elocata
 Tvk=NHMSYS0021144448
 StartDate=19031020
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

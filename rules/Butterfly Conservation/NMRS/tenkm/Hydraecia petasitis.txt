@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hydraecia petasitis
 ErrorMsg=Coordinate is outside known range for Hydraecia petasitis
 DataFieldName=Species
 DataRecordId=NBNSYS0000006467
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

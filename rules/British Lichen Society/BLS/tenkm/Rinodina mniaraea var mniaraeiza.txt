@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rinodina mniaraea var
 ErrorMsg=Coordinate is outside known range for Rinodina mniaraea var. mniaraeiza
 DataFieldName=Species
 DataRecordId=BMSSYS0000016428
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hypsosinga sanguinea
 ErrorMsg=Coordinate is outside known range for Hypsosinga sanguinea
 DataFieldName=Species
 DataRecordId=NBNSYS0000008958
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

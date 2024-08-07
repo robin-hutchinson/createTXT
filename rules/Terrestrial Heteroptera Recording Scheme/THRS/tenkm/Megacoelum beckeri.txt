@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Megacoelum beckeri
 ErrorMsg=Coordinate is outside known range for Megacoelum beckeri
 DataFieldName=Species
 DataRecordId=NHMSYS0020309422
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

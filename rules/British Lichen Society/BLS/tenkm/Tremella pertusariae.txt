@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Tremella pertusariae
 ErrorMsg=Coordinate is outside known range for Tremella pertusariae
 DataFieldName=Species
 DataRecordId=BMSSYS0000018798
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

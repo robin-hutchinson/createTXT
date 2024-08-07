@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Schrankia costaestrig
 ErrorMsg=Coordinate is outside known range for Schrankia costaestrigalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000006586
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

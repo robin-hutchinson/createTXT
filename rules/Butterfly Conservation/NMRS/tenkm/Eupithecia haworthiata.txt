@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Eupithecia haworthiat
 ErrorMsg=Coordinate is outside known range for Eupithecia haworthiata
 DataFieldName=Species
 DataRecordId=NHMSYS0000502600
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

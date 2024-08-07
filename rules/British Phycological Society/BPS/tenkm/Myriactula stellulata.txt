@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Myriactula stellulata
 ErrorMsg=Coordinate is outside known range for Myriactula stellulata
 DataFieldName=Species
 DataRecordId=NBNSYS0000184419
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

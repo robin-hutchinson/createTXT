@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhytidiadelphus triqu
 ErrorMsg=Coordinate is outside known range for Rhytidiadelphus triquetrus
 DataFieldName=Species
 DataRecordId=NBNSYS0000022279
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

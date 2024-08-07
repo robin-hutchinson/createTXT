@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhynchostegiella curv
 ErrorMsg=Coordinate is outside known range for Rhynchostegiella curviseta
 DataFieldName=Species
 DataRecordId=NBNSYS0000036902
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

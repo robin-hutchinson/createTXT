@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polyblastia effloresc
 ErrorMsg=Coordinate is outside known range for Polyblastia efflorescens
 DataFieldName=Species
 DataRecordId=NBNSYS0000039713
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

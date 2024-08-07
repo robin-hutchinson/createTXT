@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Electrogena affinis
 Tvk=NBNSYS0100002943
 StartDate=19880101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

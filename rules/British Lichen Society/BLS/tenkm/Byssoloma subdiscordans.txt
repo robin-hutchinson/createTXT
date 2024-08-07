@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Byssoloma subdiscorda
 ErrorMsg=Coordinate is outside known range for Byssoloma subdiscordans
 DataFieldName=Species
 DataRecordId=NHMSYS0001476396
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

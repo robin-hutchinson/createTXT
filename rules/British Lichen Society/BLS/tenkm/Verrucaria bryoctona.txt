@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Verrucaria bryoctona
 ErrorMsg=Coordinate is outside known range for Verrucaria bryoctona
 DataFieldName=Species
 DataRecordId=NBNSYS0000039813
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

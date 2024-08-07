@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lepraria ecorticata
 ErrorMsg=Coordinate is outside known range for Lepraria ecorticata
 DataFieldName=Species
 DataRecordId=NHMSYS0020327871
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

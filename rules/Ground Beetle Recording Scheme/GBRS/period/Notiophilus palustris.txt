@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Notiophilus palustris
 Tvk=NBNSYS0000007162
 StartDate=19080101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

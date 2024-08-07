@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pertusaria multipunct
 ErrorMsg=Coordinate is outside known range for Pertusaria multipuncta
 DataFieldName=Species
 DataRecordId=NBNSYS0000019403
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scoliciosporum umbrin
 ErrorMsg=Coordinate is outside known range for Scoliciosporum umbrinum
 DataFieldName=Species
 DataRecordId=BMSSYS0000016782
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

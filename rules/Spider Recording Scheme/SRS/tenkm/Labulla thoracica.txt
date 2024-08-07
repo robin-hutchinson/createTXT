@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Labulla thoracica
 ErrorMsg=Coordinate is outside known range for Labulla thoracica
 DataFieldName=Species
 DataRecordId=NBNSYS0000009204
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

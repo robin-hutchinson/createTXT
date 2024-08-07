@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Solenopsora holophaea
 ErrorMsg=Coordinate is outside known range for Solenopsora holophaea
 DataFieldName=Species
 DataRecordId=NHMSYS0001497669
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

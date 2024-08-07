@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aleucis distinctata
 ErrorMsg=Coordinate is outside known range for Aleucis distinctata
 DataFieldName=Species
 DataRecordId=NHMSYS0021144272
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

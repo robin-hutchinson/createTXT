@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Balaenoptera acutoros
 ErrorMsg=Coordinate is outside known range for Balaenoptera acutorostrata
 DataFieldName=Species
 DataRecordId=NHMSYS0000080192
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

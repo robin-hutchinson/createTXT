@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xestia ditrapezium
 ErrorMsg=Coordinate is outside known range for Xestia ditrapezium
 DataFieldName=Species
 DataRecordId=NHMSYS0021144942
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

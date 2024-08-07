@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Helminthora divaricat
 ErrorMsg=Coordinate is outside known range for Helminthora divaricata
 DataFieldName=Species
 DataRecordId=NHMSYS0000568204
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Trechus (Trechus) subnotatus
 Tvk=NBNSYS0100005876
 StartDate=19100101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Catillaria chalybeia 
 ErrorMsg=Coordinate is outside known range for Catillaria chalybeia var. chalybeia
 DataFieldName=Species
 DataRecordId=NHMSYS0001476913
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Abrothallus microsper
 ErrorMsg=Coordinate is outside known range for Abrothallus microspermus
 DataFieldName=Species
 DataRecordId=NBNSYS0000015872
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

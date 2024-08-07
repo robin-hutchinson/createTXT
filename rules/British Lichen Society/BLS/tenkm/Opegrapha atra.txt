@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Opegrapha atra
 ErrorMsg=Coordinate is outside known range for Opegrapha atra
 DataFieldName=Species
 DataRecordId=NBNSYS0000019199
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

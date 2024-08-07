@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dolomedes fimbriatus
 ErrorMsg=Coordinate is outside known range for Dolomedes fimbriatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008831
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

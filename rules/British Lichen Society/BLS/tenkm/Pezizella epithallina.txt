@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pezizella epithallina
 ErrorMsg=Coordinate is outside known range for Pezizella epithallina
 DataFieldName=Species
 DataRecordId=NBNSYS0000017706
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

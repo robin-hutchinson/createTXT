@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lygephila craccae
 ErrorMsg=Coordinate is outside known range for Lygephila craccae
 DataFieldName=Species
 DataRecordId=NHMSYS0021144436
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

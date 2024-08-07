@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pipizella virens
 ErrorMsg=Coordinate is outside known range for Pipizella virens
 DataFieldName=Species
 DataRecordId=NBNSYS0000007088
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Orthotrichum obtusifo
 ErrorMsg=Coordinate is outside known range for Orthotrichum obtusifolium
 DataFieldName=Species
 DataRecordId=NBNSYS0000036699
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

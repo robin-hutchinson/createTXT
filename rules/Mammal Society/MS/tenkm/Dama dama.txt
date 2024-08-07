@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Dama dama
 ErrorMsg=Coordinate is outside known range for Dama dama
 DataFieldName=Species
 DataRecordId=NBNSYS0000005145
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Buckleria paludum
 ErrorMsg=Coordinate is outside known range for Buckleria paludum
 DataFieldName=Species
 DataRecordId=NBNSYS0000027027
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

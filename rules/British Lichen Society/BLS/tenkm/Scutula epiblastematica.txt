@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Scutula epiblastemati
 ErrorMsg=Coordinate is outside known range for Scutula epiblastematica
 DataFieldName=Species
 DataRecordId=NBNSYS0000019037
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

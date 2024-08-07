@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pelvetia canaliculata
 ErrorMsg=Coordinate is outside known range for Pelvetia canaliculata
 DataFieldName=Species
 DataRecordId=NHMSYS0000568054
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

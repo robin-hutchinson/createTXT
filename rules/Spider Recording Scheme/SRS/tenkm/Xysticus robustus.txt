@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xysticus robustus
 ErrorMsg=Coordinate is outside known range for Xysticus robustus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008731
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

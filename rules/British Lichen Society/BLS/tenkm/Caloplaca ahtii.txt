@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Caloplaca ahtii
 ErrorMsg=Coordinate is outside known range for Caloplaca ahtii
 DataFieldName=Species
 DataRecordId=NHMSYS0001476619
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

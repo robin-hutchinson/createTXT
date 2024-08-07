@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Henia brevis
 ErrorMsg=Coordinate is outside known range for Henia brevis
 DataFieldName=Species
 DataRecordId=NBNSYS0000011401
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

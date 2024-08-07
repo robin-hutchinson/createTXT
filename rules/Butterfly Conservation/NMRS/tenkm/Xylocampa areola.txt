@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Xylocampa areola
 ErrorMsg=Coordinate is outside known range for Xylocampa areola
 DataFieldName=Species
 DataRecordId=NBNSYS0000006336
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Corystes cassivelaunu
 ErrorMsg=Coordinate is outside known range for Corystes cassivelaunus
 DataFieldName=Species
 DataRecordId=NBNSYS0000174726
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

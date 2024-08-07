@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Megalographa biloba
 ErrorMsg=Coordinate is outside known range for Megalographa biloba
 DataFieldName=Species
 DataRecordId=NBNSYS0100003895
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

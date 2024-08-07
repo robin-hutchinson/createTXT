@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porpidia ochrolemma
 ErrorMsg=Coordinate is outside known range for Porpidia ochrolemma
 DataFieldName=Species
 DataRecordId=BMSSYS0000015265
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Opegrapha corticola
 ErrorMsg=Coordinate is outside known range for Opegrapha corticola
 DataFieldName=Species
 DataRecordId=NHMSYS0001491371
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

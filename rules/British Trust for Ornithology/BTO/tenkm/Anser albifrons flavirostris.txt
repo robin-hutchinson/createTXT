@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anser albifrons flavi
 ErrorMsg=Coordinate is outside known range for Anser albifrons flavirostris
 DataFieldName=Species
 DataRecordId=NHMSYS0000532795
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

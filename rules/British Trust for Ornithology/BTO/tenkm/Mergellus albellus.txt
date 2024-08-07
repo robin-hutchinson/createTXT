@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Mergellus albellus
 ErrorMsg=Coordinate is outside known range for Mergellus albellus
 DataFieldName=Species
 DataRecordId=NHMSYS0000530474
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

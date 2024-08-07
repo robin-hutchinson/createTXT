@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecidea fuscoatra sen
 ErrorMsg=Coordinate is outside known range for Lecidea fuscoatra sensu auct. p.p.
 DataFieldName=Species
 DataRecordId=NHMSYS0020987754
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

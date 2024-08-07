@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hamearis lucina
 ErrorMsg=Coordinate is outside known range for Hamearis lucina
 DataFieldName=Species
 DataRecordId=NHMSYS0000502800
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

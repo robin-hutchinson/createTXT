@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Atelecyclus undecimde
 ErrorMsg=Coordinate is outside known range for Atelecyclus undecimdentatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000179523
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

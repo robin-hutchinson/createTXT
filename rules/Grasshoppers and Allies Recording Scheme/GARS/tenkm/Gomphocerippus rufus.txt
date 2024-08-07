@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Gomphocerippus rufus
 ErrorMsg=Coordinate is outside known range for Gomphocerippus rufus
 DataFieldName=Species
 DataRecordId=NBNSYS0000006840
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

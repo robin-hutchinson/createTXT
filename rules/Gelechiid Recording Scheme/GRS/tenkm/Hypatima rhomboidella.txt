@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hypatima rhomboidella
 ErrorMsg=Coordinate is outside known range for Hypatima rhomboidella
 DataFieldName=Species
 DataRecordId=NHMSYS0000502903
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

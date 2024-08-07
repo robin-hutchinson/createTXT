@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Perizoma albulata
 ErrorMsg=Coordinate is outside known range for Perizoma albulata
 DataFieldName=Species
 DataRecordId=NHMSYS0000522437
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

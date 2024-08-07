@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Cheilosia psilophthal
 ErrorMsg=Coordinate is outside known range for Cheilosia psilophthalma
 DataFieldName=Species
 DataRecordId=NBNSYS0000042524
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

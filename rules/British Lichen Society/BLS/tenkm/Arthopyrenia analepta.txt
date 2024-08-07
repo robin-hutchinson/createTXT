@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Arthopyrenia analepta
 ErrorMsg=Coordinate is outside known range for Arthopyrenia analepta
 DataFieldName=Species
 DataRecordId=NHMSYS0001474984
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

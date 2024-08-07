@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Trichostomum brachydo
 ErrorMsg=Coordinate is outside known range for Trichostomum brachydontium
 DataFieldName=Species
 DataRecordId=NBNSYS0000036427
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

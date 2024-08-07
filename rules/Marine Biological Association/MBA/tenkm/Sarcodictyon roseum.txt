@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sarcodictyon roseum
 ErrorMsg=Coordinate is outside known range for Sarcodictyon roseum
 DataFieldName=Species
 DataRecordId=NBNSYS0000177799
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

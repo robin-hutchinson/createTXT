@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lionychus quadrillum
 ErrorMsg=Coordinate is outside known range for Lionychus quadrillum
 DataFieldName=Species
 DataRecordId=NBNSYS0000007483
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

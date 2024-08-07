@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lichenoconium usneae
 ErrorMsg=Coordinate is outside known range for Lichenoconium usneae
 DataFieldName=Species
 DataRecordId=BMSSYS0000010664
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

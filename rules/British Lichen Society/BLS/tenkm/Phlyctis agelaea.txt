@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phlyctis agelaea
 ErrorMsg=Coordinate is outside known range for Phlyctis agelaea
 DataFieldName=Species
 DataRecordId=NHMSYS0001493251
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

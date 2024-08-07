@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Rhinolophus hipposide
 ErrorMsg=Coordinate is outside known range for Rhinolophus hipposideros
 DataFieldName=Species
 DataRecordId=NHMSYS0000080177
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

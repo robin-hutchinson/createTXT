@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lype reducta
 ErrorMsg=Coordinate is outside known range for Lype reducta
 DataFieldName=Species
 DataRecordId=NBNSYS0000008386
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Spermothamnion repens
 ErrorMsg=Coordinate is outside known range for Spermothamnion repens
 DataFieldName=Species
 DataRecordId=NBNSYS0000178037
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

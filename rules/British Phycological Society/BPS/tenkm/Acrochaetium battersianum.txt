@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Acrochaetium battersi
 ErrorMsg=Coordinate is outside known range for Acrochaetium battersianum
 DataFieldName=Species
 DataRecordId=NHMSYS0000377514
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

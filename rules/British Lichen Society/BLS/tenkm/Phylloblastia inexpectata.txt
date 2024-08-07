@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Phylloblastia inexpec
 ErrorMsg=Coordinate is outside known range for Phylloblastia inexpectata
 DataFieldName=Species
 DataRecordId=NHMSYS0020039036
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

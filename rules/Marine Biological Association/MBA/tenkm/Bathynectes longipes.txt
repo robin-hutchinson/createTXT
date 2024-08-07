@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bathynectes longipes
 ErrorMsg=Coordinate is outside known range for Bathynectes longipes
 DataFieldName=Species
 DataRecordId=NBNSYS0000188520
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

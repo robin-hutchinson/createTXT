@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Hyppa rectilinea
 ErrorMsg=Coordinate is outside known range for Hyppa rectilinea
 DataFieldName=Species
 DataRecordId=NHMSYS0021144595
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecania cuprea
 ErrorMsg=Coordinate is outside known range for Lecania cuprea
 DataFieldName=Species
 DataRecordId=NHMSYS0001486274
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_Ireland]

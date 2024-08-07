@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polysiphonia foetidis
 ErrorMsg=Coordinate is outside known range for Polysiphonia foetidissima
 DataFieldName=Species
 DataRecordId=NBNSYS0000188797
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

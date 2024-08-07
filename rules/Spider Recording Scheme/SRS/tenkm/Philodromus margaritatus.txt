@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Philodromus margarita
 ErrorMsg=Coordinate is outside known range for Philodromus margaritatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008751
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Bugula neritina
 ErrorMsg=Coordinate is outside known range for Bugula neritina
 DataFieldName=Species
 DataRecordId=NBNSYS0000179958
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

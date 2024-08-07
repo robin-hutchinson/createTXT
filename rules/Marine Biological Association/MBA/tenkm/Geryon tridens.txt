@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Geryon tridens
 ErrorMsg=Coordinate is outside known range for Geryon tridens
 DataFieldName=Species
 DataRecordId=NHMSYS0020498864
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

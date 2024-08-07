@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Megalographa biloba
 Tvk=NBNSYS0100003895
 StartDate=19540719
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

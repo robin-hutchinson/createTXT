@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Araneus triguttatus
 Tvk=NBNSYS0000142208
 StartDate=18640101
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Porphyra umbilicalis
 ErrorMsg=Coordinate is outside known range for Porphyra umbilicalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000188769
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

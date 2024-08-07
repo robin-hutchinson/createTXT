@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Pneophyllum lobescens
 ErrorMsg=Coordinate is outside known range for Pneophyllum lobescens
 DataFieldName=Species
 DataRecordId=NHMSYS0000568095
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

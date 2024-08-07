@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ceratinella brevis
 ErrorMsg=Coordinate is outside known range for Ceratinella brevis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008967
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

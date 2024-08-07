@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Psamathocrita argente
 ErrorMsg=Coordinate is outside known range for Psamathocrita argentella
 DataFieldName=Species
 DataRecordId=NHMSYS0000503929
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

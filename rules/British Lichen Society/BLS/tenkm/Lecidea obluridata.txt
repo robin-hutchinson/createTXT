@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lecidea obluridata
 ErrorMsg=Coordinate is outside known range for Lecidea obluridata
 DataFieldName=Species
 DataRecordId=NHMSYS0001486814
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

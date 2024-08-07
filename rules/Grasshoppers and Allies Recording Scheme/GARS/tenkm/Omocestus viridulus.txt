@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Omocestus viridulus
 ErrorMsg=Coordinate is outside known range for Omocestus viridulus
 DataFieldName=Species
 DataRecordId=NBNSYS0000006838
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

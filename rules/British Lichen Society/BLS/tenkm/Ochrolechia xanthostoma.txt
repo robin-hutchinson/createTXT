@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Ochrolechia xanthosto
 ErrorMsg=Coordinate is outside known range for Ochrolechia xanthostoma
 DataFieldName=Species
 DataRecordId=BMSSYS0000012156
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

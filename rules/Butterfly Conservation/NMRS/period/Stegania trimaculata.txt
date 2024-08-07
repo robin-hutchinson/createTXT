@@ -7,5 +7,5 @@ ErrorMsg=Date is outside known recording period of Stegania trimaculata
 Tvk=NHMSYS0000504304
 StartDate=19780613
 EndDate=
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]

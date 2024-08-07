@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aricia artaxerxes
 ErrorMsg=Coordinate is outside known range for Aricia artaxerxes
 DataFieldName=Species
 DataRecordId=NHMSYS0000516231
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

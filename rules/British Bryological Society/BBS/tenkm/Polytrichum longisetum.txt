@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Polytrichum longisetu
 ErrorMsg=Coordinate is outside known range for Polytrichum longisetum
 DataFieldName=Species
 DataRecordId=NBNSYS0000036131
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

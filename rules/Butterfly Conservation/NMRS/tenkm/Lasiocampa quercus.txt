@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Lasiocampa quercus
 ErrorMsg=Coordinate is outside known range for Lasiocampa quercus
 DataFieldName=Species
 DataRecordId=NBNSYS0000005707
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]

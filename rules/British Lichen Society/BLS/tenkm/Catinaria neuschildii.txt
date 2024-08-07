@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Catinaria neuschildii
 ErrorMsg=Coordinate is outside known range for Catinaria neuschildii
 DataFieldName=Species
 DataRecordId=NHMSYS0001476943
-LastChanged=20240618
+LastChanged=20240807
 [EndMetadata]
 
 [10km_GB]
