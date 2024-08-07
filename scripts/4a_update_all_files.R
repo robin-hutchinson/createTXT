@@ -5,6 +5,7 @@ source("scripts/3_file_test.R")
 
 if(ncol(error_df) == 3) {write.csv(error_df, "errors_preventing_latest_commit.csv", na  ="", row.names = FALSE)} else { 
 
+  write.csv(error_df, "errors_preventing_latest_commit.csv", row.names = FALSE)
 for(i in 1:length(schemes)) {
   
   print(names(schemes[i]))
