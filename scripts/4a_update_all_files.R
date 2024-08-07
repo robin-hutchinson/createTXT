@@ -5,7 +5,7 @@ source("scripts/3_file_test.R")
 
 write.csv(error_df, "errors_preventing_latest_commit.csv", na  ="", row.names = FALSE)
   
-if(nrow(error_df) != 0) { break }
+if(nrow(error_df) == 0) { 
 
 for(i in 1:length(schemes)) {
   
@@ -50,4 +50,5 @@ for(i in 1:length(schemes)) {
   zip(paste(mainwd, "/", "rules_as_txt/", gsub("/", " - ", names(schemes[i])), ".zip", sep = ""), files = file_list)
 
   setwd(mainwd)
+}
 }
