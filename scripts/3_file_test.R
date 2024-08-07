@@ -7,8 +7,7 @@ error_df <- data.frame()
 for(i in 1:length(schemes)) {
   
   print(names(schemes[i]))
-  species_checks(group = names(schemes[i]))
-  species_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/id_difficulty.csv")
+  species_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/id_difficulty.csv")
 
   if(file.exists(species_file)){
 	  
