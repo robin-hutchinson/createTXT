@@ -11,6 +11,9 @@ name: R
 
 on:
   workflow_dispatch:
+  push:
+   branches:
+      - 'main/rules_as_csv'
 
 jobs:
    changed_files:
