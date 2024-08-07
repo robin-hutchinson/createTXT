@@ -30,6 +30,8 @@ for(i in 1:length(schemes)) {
                               column_identifier = paste(dups$tvk, collapse="\n\t"))
 	    error_df <- bind_rows(error_df, new_error)
 	    species = unique(species)
+
+		  print(new_error)
 	  }
 	  
 	  # Look for TVKs that are matched to more than one name
@@ -43,6 +45,7 @@ for(i in 1:length(schemes)) {
                               error_msg = "TVKs are linked to more than 1 name",
                               column_identifier = paste(names(chk_inds), collapse="\n\t"))
 	    error_df <- bind_rows(error_df, new_error)
+		  print(new_error)
 	  }
 	  
 	  # Look for names that are matched to more than one TVK
@@ -55,6 +58,7 @@ for(i in 1:length(schemes)) {
                               error_msg = "Names are linked to more than 1 TVK",
                               column_identifier = paste(names(chk_inds), collapse="\n\t"))
 	    error_df <- bind_rows(error_df, new_error)
+		  print(new_error)
 	  }
 	  
 	  # Print progress
@@ -68,6 +72,7 @@ for(i in 1:length(schemes)) {
                             error_msg = "Species file does not exist")
 	    
     error_df <- bind_rows(error_df, new_error)
+	  print(new_error)
 	  flush.console()
 	  
 	}	
@@ -102,6 +107,7 @@ for(i in 1:length(schemes)) {
                               column_identifier = paste(dups$tvk, collapse="\n\t"))
 	  
     error_df <- bind_rows(error_df, new_error)
+		print(new_error)
 
 	}
 			
@@ -116,6 +122,7 @@ for(i in 1:length(schemes)) {
                               column_identifier = paste(period_tvk[chk_inds], collapse="\n\t"))
 	  
     error_df <- bind_rows(error_df, new_error)
+		print(new_error)
     
 	}
     
@@ -139,6 +146,7 @@ for(i in 1:length(schemes)) {
                               column_identifier = paste(species_idiff[chk_inds], collapse="\n\t"))
 	  
     error_df <- bind_rows(error_df, new_error)
+	  print(new_error)
     
 	}
     
@@ -162,6 +170,7 @@ for(i in 1:length(schemes)) {
                               column_identifier = paste(tenkm_tvk[chk_inds], collapse="\n\t"))
 	  
     error_df <- bind_rows(error_df, new_error)
+		print(new_error)
     
 	}
     
@@ -185,6 +194,7 @@ for(i in 1:length(schemes)) {
                               column_identifier = paste(period_tvk[chk_inds], collapse="\n\t"))
 	  
     error_df <- bind_rows(error_df, new_error)
+		print(new_error)
     
 	}
     
