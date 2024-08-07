@@ -3,9 +3,7 @@ library(stringr)
 print(getwd())
 source("scripts/3_file_test.R")
 
-write.csv(error_df, "errors_preventing_latest_commit.csv", na  ="", row.names = FALSE)
-  
-if(ncol(error_df) != 3) { 
+if(ncol(error_df) == 3) {write.csv(error_df, "errors_preventing_latest_commit.csv", na  ="", row.names = FALSE)} else { 
 
 for(i in 1:length(schemes)) {
   
