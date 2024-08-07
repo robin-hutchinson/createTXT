@@ -76,9 +76,9 @@ for(i in 1:length(schemes)) {
 
   if(file.exists(paste0("rules_as_csv/", names(schemes[i]), "/periodwithinyear.csv"))) {
     
-    species_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/id_difficulty.csv")
+    species_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/id_difficulty.csv")
     species = read.csv(species_file)
-	  period_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/periodwithinyear.csv")
+	  period_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/periodwithinyear.csv")
 	  periods = read.csv(period_file)
 	
 	
@@ -123,9 +123,9 @@ for(i in 1:length(schemes)) {
 
   if(file.exists(paste0("rules_as_csv/", names(schemes[i]), "/id_difficulty.csv"))) {
     
-    species_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/id_difficulty.csv")
+    species_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/id_difficulty.csv")
     species = read.csv(species_file)
-    difficulty_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/difficulty_codes.csv")
+    difficulty_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/difficulty_codes.csv")
     difficulties = read.csv(difficulty_file)
     species = species[!is.na(species$code),]
 	
@@ -146,9 +146,9 @@ for(i in 1:length(schemes)) {
   
   if(file.exists(paste0("rules_as_csv/", names(schemes[i]), "/tenkm.csv"))) {
     
-    species_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/id_difficulty.csv")
+    species_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/id_difficulty.csv")
   species = read.csv(species_file)
-	tenkm_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/tenkm.csv")
+	tenkm_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/tenkm.csv")
 	tenkm = read.csv(tenkm_file)
 
 	# Check all tvk referenced in periods are in species
@@ -169,9 +169,9 @@ for(i in 1:length(schemes)) {
   
   if(file.exists(paste0("rules_as_csv/", names(schemes[i]), "/period.csv"))) {
     
-    species_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/id_difficulty.csv")
+    species_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/id_difficulty.csv")
     species = read.csv(species_file)
-    period_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/period.csv")
+    period_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/period.csv")
     periods = read.csv(period_file)
 
     period_tvk = unique(periods$tvk)
