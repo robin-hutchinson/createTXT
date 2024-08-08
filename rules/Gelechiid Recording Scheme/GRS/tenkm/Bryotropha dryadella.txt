@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Bryotropha dryadella 10km
+Description=Check coordinate against known distribution of Bryotropha dryadella
+ErrorMsg=Coordinate is outside known range for Bryotropha dryadella
+DataFieldName=Species
+DataRecordId=NHMSYS0000501551
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS22
+SW54
+SW61
+SW74
+SW75
+SX17
+SX95
+SX96
+TQ57
+TQ67
+
+

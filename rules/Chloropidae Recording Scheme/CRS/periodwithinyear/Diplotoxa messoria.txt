@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Diplotoxa messoria
+Description=Checks date is within known flight period of Diplotoxa messoria
+ErrorMsg=Date is outside known flight period of Diplotoxa messoria
+Tvk=NBNSYS0000029972
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

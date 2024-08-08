@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex patientia subsp. orientalis 10km
+Description=Check coordinate against known distribution of Rumex patientia subsp. orientalis
+ErrorMsg=Coordinate is outside known range for Rumex patientia subsp. orientalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000003787
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO60
+TL91
+TQ16
+TQ17
+TQ26
+TQ27
+TQ38
+TQ47
+TQ48
+TQ58
+TQ67
+TQ88
+
+

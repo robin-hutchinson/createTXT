@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Crataegus crus-galli
+Description=Checks date is within known recording period of Crataegus crus-galli
+ErrorMsg=Date is outside known recording period of Crataegus crus-galli
+Tvk=NBNSYS0000003434
+StartDate=19120101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

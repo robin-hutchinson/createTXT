@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Bryum dyffrynense 10km
+Description=Check coordinate against known distribution of Bryum dyffrynense
+ErrorMsg=Coordinate is outside known range for Bryum dyffrynense
+DataFieldName=Species
+DataRecordId=NHMSYS0000309491
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD09
+SD16
+SD17
+SD20
+SD21
+SD26
+SD32
+SD33
+SD34
+SD36
+SD45
+
+

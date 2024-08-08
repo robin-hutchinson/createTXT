@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Crambus ericella
+Description=Checks date is within known flight period of Crambus ericella
+ErrorMsg=Date is outside known flight period of Crambus ericella
+Tvk=NHMSYS0021143757
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

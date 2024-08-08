@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Orthotrichia angustella
+Description=Checks date is within known recording period of Orthotrichia angustella
+ErrorMsg=Date is outside known recording period of Orthotrichia angustella
+Tvk=NBNSYS0000008377
+StartDate=18620101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

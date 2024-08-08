@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Plectrocnemia brevis
+Description=Checks date is within known recording period of Plectrocnemia brevis
+ErrorMsg=Date is outside known recording period of Plectrocnemia brevis
+Tvk=NBNSYS0000008406
+StartDate=18980101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

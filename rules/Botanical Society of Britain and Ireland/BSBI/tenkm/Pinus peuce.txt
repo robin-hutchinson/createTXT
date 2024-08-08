@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pinus peuce 10km
+Description=Check coordinate against known distribution of Pinus peuce
+ErrorMsg=Coordinate is outside known range for Pinus peuce
+DataFieldName=Species
+DataRecordId=NBNSYS0000014779
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT07
+SD88
+SH46
+SJ11
+SJ84
+SK67
+SN34
+SN57
+SN69
+SN77
+SN79
+SP50
+SX87
+TL01
+TQ25
+
+

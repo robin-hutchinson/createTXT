@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hydroptila occulta
+Description=Checks date is within known flight period of Hydroptila occulta
+ErrorMsg=Date is outside known flight period of Hydroptila occulta
+Tvk=NBNSYS0000008357
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

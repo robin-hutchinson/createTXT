@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Passaloecus insignis
+Description=Checks date is within known flight period of Passaloecus insignis
+ErrorMsg=Date is outside known flight period of Passaloecus insignis
+Tvk=NHMSYS0000876541
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

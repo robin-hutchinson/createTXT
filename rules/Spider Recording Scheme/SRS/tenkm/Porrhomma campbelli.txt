@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Porrhomma campbelli 10km
+Description=Check coordinate against known distribution of Porrhomma campbelli
+ErrorMsg=Coordinate is outside known range for Porrhomma campbelli
+DataFieldName=Species
+DataRecordId=NBNSYS0000009142
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC73
+NH91
+NJ80
+NN31
+NN33
+NN48
+NO17
+NO19
+NT09
+NY62
+SD30
+SE46
+SE64
+SE77
+SH57
+SH61
+SH76
+SK00
+SK31
+SK41
+SN69
+SN87
+SO62
+SO67
+SP75
+ST11
+SU56
+SY78
+SY89
+TL08
+TL10
+TL13
+TL14
+TL40
+TL66
+TL95
+TM45
+TQ28
+TQ47
+
+

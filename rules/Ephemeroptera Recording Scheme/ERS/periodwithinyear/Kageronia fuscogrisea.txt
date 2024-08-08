@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Kageronia fuscogrisea
+Description=Checks date is within known flight period of Kageronia fuscogrisea
+ErrorMsg=Date is outside known flight period of Kageronia fuscogrisea
+Tvk=NBNSYS0100003631
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

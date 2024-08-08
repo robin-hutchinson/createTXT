@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Cynodontium strumiferum 10km
+Description=Check coordinate against known distribution of Cynodontium strumiferum
+ErrorMsg=Coordinate is outside known range for Cynodontium strumiferum
+DataFieldName=Species
+DataRecordId=NHMSYS0000309728
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH60
+NH80
+NH81
+NH90
+NJ00
+NJ10
+NJ11
+NJ20
+NJ30
+NN67
+NN68
+NN76
+NN77
+NN78
+NN87
+NN88
+NN89
+NN96
+NN97
+NN98
+NN99
+NO06
+NO07
+NO08
+NO09
+NO16
+NO17
+NO18
+NO19
+NO27
+NO28
+NO29
+NO37
+NO38
+NO39
+NO47
+NO48
+NO49
+
+

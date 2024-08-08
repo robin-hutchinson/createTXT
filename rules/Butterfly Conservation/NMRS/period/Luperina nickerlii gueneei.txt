@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Luperina nickerlii gueneei
+Description=Checks date is within known recording period of Luperina nickerlii gueneei
+ErrorMsg=Date is outside known recording period of Luperina nickerlii gueneei
+Tvk=NHMSYS0021144623
+StartDate=19630101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

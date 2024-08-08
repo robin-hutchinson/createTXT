@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Sedum dasyphyllum
+Description=Checks date is within known recording period of Sedum dasyphyllum
+ErrorMsg=Date is outside known recording period of Sedum dasyphyllum
+Tvk=NBNSYS0000003471
+StartDate=17240101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

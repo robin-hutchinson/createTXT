@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Nysius helveticus
+Description=Checks date is within known recording period of Nysius helveticus
+ErrorMsg=Date is outside known recording period of Nysius helveticus
+Tvk=NHMSYS0020309537
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

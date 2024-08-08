@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Haplospora globosa 10km
+Description=Check coordinate against known distribution of Haplospora globosa
+ErrorMsg=Coordinate is outside known range for Haplospora globosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000182570
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM95
+NS15
+
+

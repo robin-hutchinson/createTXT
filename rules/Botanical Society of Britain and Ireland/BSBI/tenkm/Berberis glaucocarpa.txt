@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Berberis glaucocarpa 10km
+Description=Check coordinate against known distribution of Berberis glaucocarpa
+ErrorMsg=Coordinate is outside known range for Berberis glaucocarpa
+DataFieldName=Species
+DataRecordId=NBNSYS0000002753
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS27
+SN58
+SS69
+SS84
+SS93
+SS94
+ST53
+SU78
+SW64
+SZ19
+TQ26
+TQ35
+
+

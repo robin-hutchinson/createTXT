@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphorbia corallioides 10km
+Description=Check coordinate against known distribution of Euphorbia corallioides
+ErrorMsg=Coordinate is outside known range for Euphorbia corallioides
+DataFieldName=Species
+DataRecordId=NBNSYS0000003727
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ51
+SO93
+SP40
+SP50
+SS58
+SS87
+ST41
+ST42
+ST45
+ST54
+ST59
+SU36
+SU93
+SY89
+TQ13
+TQ28
+TQ42
+TQ71
+
+

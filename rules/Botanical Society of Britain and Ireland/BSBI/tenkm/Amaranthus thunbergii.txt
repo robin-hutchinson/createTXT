@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Amaranthus thunbergii 10km
+Description=Check coordinate against known distribution of Amaranthus thunbergii
+ErrorMsg=Coordinate is outside known range for Amaranthus thunbergii
+DataFieldName=Species
+DataRecordId=NBNSYS0000033937
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO41
+NT53
+SD80
+SD90
+SE11
+SE22
+SE32
+SE38
+SO94
+SU73
+TA02
+TL03
+TL13
+TL14
+TM05
+TQ47
+TQ48
+
+

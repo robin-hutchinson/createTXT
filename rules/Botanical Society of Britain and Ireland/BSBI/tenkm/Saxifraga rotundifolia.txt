@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Saxifraga rotundifolia 10km
+Description=Check coordinate against known distribution of Saxifraga rotundifolia
+ErrorMsg=Coordinate is outside known range for Saxifraga rotundifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000034027
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+NS57
+NS67
+NT17
+NT23
+NU00
+SD67
+SD74
+
+

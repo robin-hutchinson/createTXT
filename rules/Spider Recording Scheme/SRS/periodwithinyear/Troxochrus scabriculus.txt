@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Troxochrus scabriculus
+Description=Checks date is within known flight period of Troxochrus scabriculus
+ErrorMsg=Date is outside known flight period of Troxochrus scabriculus
+Tvk=NBNSYS0000009057
+DataFieldName=
+StartDate=0218
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

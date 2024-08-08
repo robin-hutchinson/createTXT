@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Javesella (Javesella) discolor
+Description=Checks date is within known flight period of Javesella (Javesella) discolor
+ErrorMsg=Date is outside known flight period of Javesella (Javesella) discolor
+Tvk=NHMSYS0020705659
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

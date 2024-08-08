@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Haematomma sorediatum 10km
+Description=Check coordinate against known distribution of Haematomma sorediatum
+ErrorMsg=Coordinate is outside known range for Haematomma sorediatum
+DataFieldName=Species
+DataRecordId=BMSSYS0000007601
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+V98
+
+

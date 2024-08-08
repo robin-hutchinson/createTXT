@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium calenduliflorum 10km
+Description=Check coordinate against known distribution of Hieracium calenduliflorum
+ErrorMsg=Coordinate is outside known range for Hieracium calenduliflorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459364
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN17
+NN25
+NN27
+NN48
+NN49
+NO07
+NO17
+NO27
+NO28
+NO37
+NO47
+NX57
+
+

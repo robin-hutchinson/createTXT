@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Micropterix calthella
+Description=Checks date is within known flight period of Micropterix calthella
+ErrorMsg=Date is outside known flight period of Micropterix calthella
+Tvk=NHMSYS0000503231
+DataFieldName=
+StartDate=0401
+EndDate=0707
+LastChanged=20240808
+[EndMetadata]

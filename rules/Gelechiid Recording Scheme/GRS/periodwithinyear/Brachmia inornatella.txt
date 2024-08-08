@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Brachmia inornatella
+Description=Checks date is within known flight period of Brachmia inornatella
+ErrorMsg=Date is outside known flight period of Brachmia inornatella
+Tvk=NHMSYS0000501524
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

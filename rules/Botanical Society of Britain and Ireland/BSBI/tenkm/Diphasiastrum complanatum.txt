@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Diphasiastrum complanatum 10km
+Description=Check coordinate against known distribution of Diphasiastrum complanatum
+ErrorMsg=Coordinate is outside known range for Diphasiastrum complanatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000458106
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC21
+NG42
+NH81
+NJ00
+NN99
+NO19
+NO28
+NY69
+SO80
+SO87
+SU83
+
+

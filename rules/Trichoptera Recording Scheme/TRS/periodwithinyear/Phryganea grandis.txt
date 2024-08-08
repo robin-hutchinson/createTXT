@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Phryganea grandis
+Description=Checks date is within known flight period of Phryganea grandis
+ErrorMsg=Date is outside known flight period of Phryganea grandis
+Tvk=NBNSYS0000008431
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

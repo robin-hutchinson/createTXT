@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Eopyrenula leucoplaca 10km
+Description=Check coordinate against known distribution of Eopyrenula leucoplaca
+ErrorMsg=Coordinate is outside known range for Eopyrenula leucoplaca
+DataFieldName=Species
+DataRecordId=NHMSYS0001481799
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH54
+NH68
+NN16
+NR60
+NR75
+NR76
+SH63
+SS64
+SS93
+ST10
+SX67
+
+

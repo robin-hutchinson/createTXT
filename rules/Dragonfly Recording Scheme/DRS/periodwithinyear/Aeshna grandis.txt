@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Dragonfly Recording Scheme/DRS Flight Period
+ShortName=Aeshna grandis
+Description=Checks date is within known flight period of Aeshna grandis
+ErrorMsg=Date is outside known flight period of Aeshna grandis
+Tvk=NBNSYS0000005625
+DataFieldName=
+StartDate=0622
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Alydus calcaratus
+Description=Checks date is within known recording period of Alydus calcaratus
+ErrorMsg=Date is outside known recording period of Alydus calcaratus
+Tvk=NHMSYS0020308916
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

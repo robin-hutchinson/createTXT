@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Athysanus argentarius
+Description=Checks date is within known flight period of Athysanus argentarius
+ErrorMsg=Date is outside known flight period of Athysanus argentarius
+Tvk=NHMSYS0020705240
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

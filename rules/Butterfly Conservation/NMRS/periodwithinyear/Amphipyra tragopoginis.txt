@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Amphipyra tragopoginis
+Description=Checks date is within known flight period of Amphipyra tragopoginis
+ErrorMsg=Date is outside known flight period of Amphipyra tragopoginis
+Tvk=NBNSYS0000006395
+DataFieldName=
+StartDate=0621
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

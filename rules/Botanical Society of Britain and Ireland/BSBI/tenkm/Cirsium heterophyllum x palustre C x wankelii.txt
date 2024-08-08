@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cirsium heterophyllum x palustre = C. x wankelii 10km
+Description=Check coordinate against known distribution of Cirsium heterophyllum x palustre = C. x wankelii
+ErrorMsg=Coordinate is outside known range for Cirsium heterophyllum x palustre = C. x wankelii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754788
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC30
+NG09
+NG14
+NG24
+NG51
+NH22
+NH32
+NH42
+NH45
+NH70
+NH73
+NH84
+NH94
+NM56
+NM67
+NM74
+NM85
+NM86
+NM97
+NN28
+NN33
+NN34
+NN59
+NN68
+NN86
+NO06
+NO26
+NO27
+NO35
+NR97
+NT15
+SD71
+SD84
+
+

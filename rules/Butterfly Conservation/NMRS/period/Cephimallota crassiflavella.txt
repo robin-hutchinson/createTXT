@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Cephimallota crassiflavella
+Description=Checks date is within known recording period of Cephimallota crassiflavella
+ErrorMsg=Date is outside known recording period of Cephimallota crassiflavella
+Tvk=NHMSYS0021142384
+StartDate=17000101
+EndDate=18991231
+LastChanged=20240808
+[EndMetadata]

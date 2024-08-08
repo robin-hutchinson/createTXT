@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cuscuta epilinum 10km
+Description=Check coordinate against known distribution of Cuscuta epilinum
+ErrorMsg=Coordinate is outside known range for Cuscuta epilinum
+DataFieldName=Species
+DataRecordId=NBNSYS0000004029
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D05
+H88
+J15
+J58
+L80
+
+
+[10km_GB]
+NT63
+NU11
+SE70
+SE80
+SJ43
+SO75
+SO95
+SP26
+SP95
+SZ19
+TF00
+TF17
+TL03
+TL04
+TL13
+TL23
+TL31
+TL37
+TM17
+TQ15
+TQ28
+TQ41
+TQ43
+TQ78
+
+

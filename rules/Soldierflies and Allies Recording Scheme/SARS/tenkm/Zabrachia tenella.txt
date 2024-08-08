@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Zabrachia tenella 10km
+Description=Check coordinate against known distribution of Zabrachia tenella
+ErrorMsg=Coordinate is outside known range for Zabrachia tenella
+DataFieldName=Species
+DataRecordId=NBNSYS0000159204
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU23
+TL14
+TL33
+TL87
+TQ17
+
+

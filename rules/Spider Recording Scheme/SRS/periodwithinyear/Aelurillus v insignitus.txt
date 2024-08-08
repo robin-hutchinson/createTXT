@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Aelurillus v-insignitus
+Description=Checks date is within known flight period of Aelurillus v-insignitus
+ErrorMsg=Date is outside known flight period of Aelurillus v-insignitus
+Tvk=NBNSYS0100001425
+DataFieldName=
+StartDate=0320
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

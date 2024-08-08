@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Perizoma minorata minorata
+Description=Checks date is within known flight period of Perizoma minorata minorata
+ErrorMsg=Date is outside known flight period of Perizoma minorata minorata
+Tvk=NHMSYS0021144054
+DataFieldName=
+StartDate=0607
+EndDate=0815
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecania dubitans 10km
+Description=Check coordinate against known distribution of Lecania dubitans
+ErrorMsg=Coordinate is outside known range for Lecania dubitans
+DataFieldName=Species
+DataRecordId=NBNSYS0000018553
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH41
+NH49
+NH80
+NJ03
+
+

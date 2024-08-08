@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Narcissus cyclamineus 10km
+Description=Check coordinate against known distribution of Narcissus cyclamineus
+ErrorMsg=Coordinate is outside known range for Narcissus cyclamineus
+DataFieldName=Species
+DataRecordId=NBNSYS0000164149
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN35
+ST90
+SU11
+SU46
+SU53
+SU86
+SU96
+SU97
+SY79
+SY89
+SY99
+SZ08
+TQ23
+
+

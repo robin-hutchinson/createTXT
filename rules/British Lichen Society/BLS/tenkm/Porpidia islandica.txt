@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Porpidia islandica 10km
+Description=Check coordinate against known distribution of Porpidia islandica
+ErrorMsg=Coordinate is outside known range for Porpidia islandica
+DataFieldName=Species
+DataRecordId=NHMSYS0020039041
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG55
+NM42
+NN43
+SH65
+
+

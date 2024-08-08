@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Stereocaulon spathuliferum 10km
+Description=Check coordinate against known distribution of Stereocaulon spathuliferum
+ErrorMsg=Coordinate is outside known range for Stereocaulon spathuliferum
+DataFieldName=Species
+DataRecordId=NBNSYS0000019064
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG80
+NG81
+NG82
+NG90
+NG91
+NG92
+NH00
+NH01
+NH02
+NH90
+NJ00
+NJ10
+NN04
+NN05
+NN06
+NN07
+NN08
+NN14
+NN15
+NN16
+NN17
+NN18
+NN24
+NN25
+NN26
+NN27
+NN28
+NN53
+NN54
+NN55
+NN63
+NN64
+NN65
+NN73
+NN74
+NN75
+NN98
+NN99
+NO08
+NO09
+NO18
+NO19
+
+

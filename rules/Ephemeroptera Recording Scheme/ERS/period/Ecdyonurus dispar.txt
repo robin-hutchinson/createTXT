@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ephemeroptera Recording Scheme/ERS Recording Period
+ShortName=Ecdyonurus dispar
+Description=Checks date is within known recording period of Ecdyonurus dispar
+ErrorMsg=Date is outside known recording period of Ecdyonurus dispar
+Tvk=NBNSYS0000010878
+StartDate=18340101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

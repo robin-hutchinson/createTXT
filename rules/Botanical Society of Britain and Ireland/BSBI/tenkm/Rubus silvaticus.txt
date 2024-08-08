@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus silvaticus 10km
+Description=Check coordinate against known distribution of Rubus silvaticus
+ErrorMsg=Coordinate is outside known range for Rubus silvaticus
+DataFieldName=Species
+DataRecordId=NHMSYS0000840685
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH57
+SH66
+SJ52
+SK94
+SO32
+SO49
+SO50
+SP22
+SP31
+SP41
+ST84
+ST87
+ST98
+SU08
+SU46
+SU66
+SU76
+SU85
+SU95
+SZ48
+TQ06
+
+

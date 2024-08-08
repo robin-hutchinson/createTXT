@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Meioneta simplicitarsis
+Description=Checks date is within known flight period of Meioneta simplicitarsis
+ErrorMsg=Date is outside known flight period of Meioneta simplicitarsis
+Tvk=NBNSYS0000009158
+DataFieldName=
+StartDate=0121
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

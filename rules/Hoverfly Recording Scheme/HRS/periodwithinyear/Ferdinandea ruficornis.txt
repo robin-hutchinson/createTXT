@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Ferdinandea ruficornis
+Description=Checks date is within known flight period of Ferdinandea ruficornis
+ErrorMsg=Date is outside known flight period of Ferdinandea ruficornis
+Tvk=NBNSYS0000007008
+DataFieldName=
+StartDate=0402
+EndDate=0912
+LastChanged=20240808
+[EndMetadata]

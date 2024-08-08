@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plume Moth Recording Scheme/PMRS Flight Period
+ShortName=Oxyptilus parvidactylus
+Description=Checks date is within known flight period of Oxyptilus parvidactylus
+ErrorMsg=Date is outside known flight period of Oxyptilus parvidactylus
+Tvk=NHMSYS0000503533
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

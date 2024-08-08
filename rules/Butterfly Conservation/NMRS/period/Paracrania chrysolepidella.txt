@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Paracrania chrysolepidella
+Description=Checks date is within known recording period of Paracrania chrysolepidella
+ErrorMsg=Date is outside known recording period of Paracrania chrysolepidella
+Tvk=NHMSYS0021142335
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

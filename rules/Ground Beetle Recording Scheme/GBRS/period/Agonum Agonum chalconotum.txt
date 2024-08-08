@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Agonum (Agonum) chalconotum
+Description=Checks date is within known recording period of Agonum (Agonum) chalconotum
+ErrorMsg=Date is outside known recording period of Agonum (Agonum) chalconotum
+Tvk=NHMSYS0001716593
+StartDate=
+EndDate=19141213
+LastChanged=20240808
+[EndMetadata]

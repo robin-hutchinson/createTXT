@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Chloropsina varleyi
+Description=Checks date is within known flight period of Chloropsina varleyi
+ErrorMsg=Date is outside known flight period of Chloropsina varleyi
+Tvk=NBNSYS0100002377
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

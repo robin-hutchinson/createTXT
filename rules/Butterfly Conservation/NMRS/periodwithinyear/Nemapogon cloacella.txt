@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Nemapogon cloacella
+Description=Checks date is within known flight period of Nemapogon cloacella
+ErrorMsg=Date is outside known flight period of Nemapogon cloacella
+Tvk=NHMSYS0000503334
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

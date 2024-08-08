@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Syritta pipiens
+Description=Checks date is within known flight period of Syritta pipiens
+ErrorMsg=Date is outside known flight period of Syritta pipiens
+Tvk=NBNSYS0000007110
+DataFieldName=
+StartDate=0108
+EndDate=1218
+LastChanged=20240808
+[EndMetadata]

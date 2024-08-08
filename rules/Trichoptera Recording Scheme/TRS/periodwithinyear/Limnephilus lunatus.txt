@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Limnephilus lunatus
+Description=Checks date is within known flight period of Limnephilus lunatus
+ErrorMsg=Date is outside known flight period of Limnephilus lunatus
+Tvk=NBNSYS0000008483
+DataFieldName=
+StartDate=0301
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

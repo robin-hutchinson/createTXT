@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Ditrichum plumbicola 10km
+Description=Check coordinate against known distribution of Ditrichum plumbicola
+ErrorMsg=Coordinate is outside known range for Ditrichum plumbicola
+DataFieldName=Species
+DataRecordId=NBNSYS0000036167
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX30
+NX40
+SC26
+SC27
+SC28
+SC37
+SC39
+SC47
+SC49
+
+

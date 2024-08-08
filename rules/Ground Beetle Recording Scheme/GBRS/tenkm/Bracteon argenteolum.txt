@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ground Beetle Recording Scheme/GBRS 10km distribution
+ShortName=Bracteon argenteolum 10km
+Description=Check coordinate against known distribution of Bracteon argenteolum
+ErrorMsg=Coordinate is outside known range for Bracteon argenteolum
+DataFieldName=Species
+DataRecordId=NHMSYS0001717388
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TL66
+TL67
+TL68
+TL76
+TL77
+TL78
+TL86
+TL87
+TL88
+TQ91
+TQ92
+TR01
+TR02
+TR12
+
+

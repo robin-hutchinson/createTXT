@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Hydroptila lotensis
+Description=Checks date is within known recording period of Hydroptila lotensis
+ErrorMsg=Date is outside known recording period of Hydroptila lotensis
+Tvk=NBNSYS0000008355
+StartDate=19590101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

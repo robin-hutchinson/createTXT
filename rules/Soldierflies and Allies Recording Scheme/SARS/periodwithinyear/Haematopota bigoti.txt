@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Haematopota bigoti
+Description=Checks date is within known flight period of Haematopota bigoti
+ErrorMsg=Date is outside known flight period of Haematopota bigoti
+Tvk=NBNSYS0000007871
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

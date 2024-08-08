@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lonicera tatarica
+Description=Checks date is within known recording period of Lonicera tatarica
+ErrorMsg=Date is outside known recording period of Lonicera tatarica
+Tvk=NHMSYS0100001958
+StartDate=18670101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Linaria arenaria 10km
+Description=Check coordinate against known distribution of Linaria arenaria
+ErrorMsg=Coordinate is outside known range for Linaria arenaria
+DataFieldName=Species
+DataRecordId=NBNSYS0000004071
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY40
+NZ24
+SS43
+
+

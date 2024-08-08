@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Oncodelphax pullulus
+Description=Checks date is within known flight period of Oncodelphax pullulus
+ErrorMsg=Date is outside known flight period of Oncodelphax pullulus
+Tvk=NHMSYS0020442443
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

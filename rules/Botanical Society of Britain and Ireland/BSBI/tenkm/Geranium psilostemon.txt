@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Geranium psilostemon 10km
+Description=Check coordinate against known distribution of Geranium psilostemon
+ErrorMsg=Coordinate is outside known range for Geranium psilostemon
+DataFieldName=Species
+DataRecordId=NHMSYS0000345279
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH45
+NO39
+NS48
+NS56
+NS65
+NT27
+SE27
+SJ93
+ST66
+SU88
+TL45
+TQ15
+
+

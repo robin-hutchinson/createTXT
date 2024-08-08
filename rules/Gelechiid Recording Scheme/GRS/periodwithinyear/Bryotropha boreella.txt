@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Bryotropha boreella
+Description=Checks date is within known flight period of Bryotropha boreella
+ErrorMsg=Date is outside known flight period of Bryotropha boreella
+Tvk=NHMSYS0000501548
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

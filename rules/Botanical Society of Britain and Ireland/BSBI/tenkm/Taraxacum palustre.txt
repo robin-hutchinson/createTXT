@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum palustre 10km
+Description=Check coordinate against known distribution of Taraxacum palustre
+ErrorMsg=Coordinate is outside known range for Taraxacum palustre
+DataFieldName=Species
+DataRecordId=NHMSYS0000840903
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+G95
+H14
+H23
+H24
+H26
+H33
+R25
+R34
+
+
+[10km_GB]
+NC56
+NX54
+NX55
+NX64
+NZ43
+SE89
+SH47
+SK07
+SK08
+SK17
+SK18
+SP92
+SS88
+SU05
+SU20
+SW43
+SW53
+SW54
+SW61
+SW62
+SW71
+SW72
+SW73
+SX05
+SX06
+SX17
+TL24
+TL57
+TL78
+TM07
+
+

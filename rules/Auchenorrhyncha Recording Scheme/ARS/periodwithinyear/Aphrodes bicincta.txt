@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Aphrodes bicincta
+Description=Checks date is within known flight period of Aphrodes bicincta
+ErrorMsg=Date is outside known flight period of Aphrodes bicincta
+Tvk=NHMSYS0020705214
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

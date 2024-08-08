@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus caesarius 10km
+Description=Check coordinate against known distribution of Rubus caesarius
+ErrorMsg=Coordinate is outside known range for Rubus caesarius
+DataFieldName=Species
+DataRecordId=NHMSYS0000462625
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H05
+H14
+W76
+X09
+X29
+
+
+[10km_GB]
+SU50
+
+
+NA
+
+

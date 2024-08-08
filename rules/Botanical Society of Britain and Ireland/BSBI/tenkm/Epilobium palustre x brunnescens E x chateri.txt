@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium palustre x brunnescens = E. x chateri 10km
+Description=Check coordinate against known distribution of Epilobium palustre x brunnescens = E. x chateri
+ErrorMsg=Coordinate is outside known range for Epilobium palustre x brunnescens = E. x chateri
+DataFieldName=Species
+DataRecordId=NBNSYS0100003042
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN85
+
+

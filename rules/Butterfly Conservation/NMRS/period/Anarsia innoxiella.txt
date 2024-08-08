@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Anarsia innoxiella
+Description=Checks date is within known recording period of Anarsia innoxiella
+ErrorMsg=Date is outside known recording period of Anarsia innoxiella
+Tvk=NHMSYS0021168793
+StartDate=19910802
+EndDate=
+LastChanged=20240808
+[EndMetadata]

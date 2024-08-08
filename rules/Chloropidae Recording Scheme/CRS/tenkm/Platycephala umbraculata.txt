@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Platycephala umbraculata 10km
+Description=Check coordinate against known distribution of Platycephala umbraculata
+ErrorMsg=Coordinate is outside known range for Platycephala umbraculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000029943
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO84
+SY29
+SY39
+SY49
+
+

@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Simethis planifolia 10km
+Description=Check coordinate against known distribution of Simethis planifolia
+ErrorMsg=Coordinate is outside known range for Simethis planifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000002157
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SZ09
+SZ19
+
+
+[10km_Ireland]
+V55
+V56
+V65
+V66
+
+

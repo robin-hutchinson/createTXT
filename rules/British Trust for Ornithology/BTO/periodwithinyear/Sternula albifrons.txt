@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Sternula albifrons
+Description=Checks date is within known flight period of Sternula albifrons
+ErrorMsg=Date is outside known flight period of Sternula albifrons
+Tvk=NHMSYS0001688285
+DataFieldName=
+StartDate=0410
+EndDate=1010
+LastChanged=20240808
+[EndMetadata]

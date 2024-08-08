@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Pandivirilia melaleuca
+Description=Checks date is within known flight period of Pandivirilia melaleuca
+ErrorMsg=Date is outside known flight period of Pandivirilia melaleuca
+Tvk=NBNSYS0000173330
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

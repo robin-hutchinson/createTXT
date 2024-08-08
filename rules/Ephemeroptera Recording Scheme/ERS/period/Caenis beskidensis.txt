@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ephemeroptera Recording Scheme/ERS Recording Period
+ShortName=Caenis beskidensis
+Description=Checks date is within known recording period of Caenis beskidensis
+ErrorMsg=Date is outside known recording period of Caenis beskidensis
+Tvk=NBNSYS0100002144
+StartDate=19840101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Micrargus laudatus
+Description=Checks date is within known flight period of Micrargus laudatus
+ErrorMsg=Date is outside known flight period of Micrargus laudatus
+Tvk=NBNSYS0000009079
+DataFieldName=
+StartDate=0121
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Eriochloa pseudoacrotricha
+Description=Checks date is within known recording period of Eriochloa pseudoacrotricha
+ErrorMsg=Date is outside known recording period of Eriochloa pseudoacrotricha
+Tvk=NHMSYS0000458551
+StartDate=19150101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

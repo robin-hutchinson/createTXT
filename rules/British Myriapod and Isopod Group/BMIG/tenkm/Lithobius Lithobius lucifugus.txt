@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Lithobius (Lithobius) lucifugus 10km
+Description=Check coordinate against known distribution of Lithobius (Lithobius) lucifugus
+ErrorMsg=Coordinate is outside known range for Lithobius (Lithobius) lucifugus
+DataFieldName=Species
+DataRecordId=NHMSYS0020500670
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NL69
+NM73
+NR86
+NS56
+NT17
+
+

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Ditrichum pusillum 10km
+Description=Check coordinate against known distribution of Ditrichum pusillum
+ErrorMsg=Coordinate is outside known range for Ditrichum pusillum
+DataFieldName=Species
+DataRecordId=NBNSYS0000036165
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY23
+ND03
+ND04
+ND24
+ND33
+ND47
+
+

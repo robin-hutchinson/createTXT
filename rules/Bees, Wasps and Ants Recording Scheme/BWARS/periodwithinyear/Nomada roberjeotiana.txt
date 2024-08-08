@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Nomada roberjeotiana
+Description=Checks date is within known flight period of Nomada roberjeotiana
+ErrorMsg=Date is outside known flight period of Nomada roberjeotiana
+Tvk=NBNSYS0100004273
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

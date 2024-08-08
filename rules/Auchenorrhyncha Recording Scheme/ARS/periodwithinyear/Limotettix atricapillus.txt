@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Limotettix atricapillus
+Description=Checks date is within known flight period of Limotettix atricapillus
+ErrorMsg=Date is outside known flight period of Limotettix atricapillus
+Tvk=NHMSYS0020442422
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sigesbeckia serrata 10km
+Description=Check coordinate against known distribution of Sigesbeckia serrata
+ErrorMsg=Coordinate is outside known range for Sigesbeckia serrata
+DataFieldName=Species
+DataRecordId=NBNSYS0000013904
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD20
+SD31
+SE33
+SJ39
+SJ84
+SU73
+SU75
+SU85
+TL31
+TQ38
+TQ55
+
+

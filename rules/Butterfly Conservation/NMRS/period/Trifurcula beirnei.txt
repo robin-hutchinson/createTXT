@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Trifurcula beirnei
+Description=Checks date is within known recording period of Trifurcula beirnei
+ErrorMsg=Date is outside known recording period of Trifurcula beirnei
+Tvk=NBNSYS0100005898
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Brachyopa bicolor
+Description=Checks date is within known flight period of Brachyopa bicolor
+ErrorMsg=Date is outside known flight period of Brachyopa bicolor
+Tvk=NBNSYS0000007012
+DataFieldName=
+StartDate=0324
+EndDate=0626
+LastChanged=20240808
+[EndMetadata]

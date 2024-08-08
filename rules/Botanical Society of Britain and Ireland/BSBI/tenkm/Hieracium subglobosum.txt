@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium subglobosum 10km
+Description=Check coordinate against known distribution of Hieracium subglobosum
+ErrorMsg=Coordinate is outside known range for Hieracium subglobosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459663
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC00
+NC22
+NC24
+NC26
+NC32
+NC33
+NC35
+NC44
+NC45
+NC54
+NC55
+NG71
+NG72
+NG81
+NG90
+NG91
+NH00
+NH01
+NH06
+NH11
+NH12
+NH13
+NH15
+NH26
+NH27
+NH28
+NH46
+NM89
+NM99
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Grapholita lathyrana
+Description=Checks date is within known flight period of Grapholita lathyrana
+ErrorMsg=Date is outside known flight period of Grapholita lathyrana
+Tvk=NHMSYS0021143371
+DataFieldName=
+StartDate=0321
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

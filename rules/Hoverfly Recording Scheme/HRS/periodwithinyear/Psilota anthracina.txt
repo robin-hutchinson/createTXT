@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Psilota anthracina
+Description=Checks date is within known flight period of Psilota anthracina
+ErrorMsg=Date is outside known flight period of Psilota anthracina
+Tvk=NBNSYS0000007070
+DataFieldName=
+StartDate=0423
+EndDate=0617
+LastChanged=20240808
+[EndMetadata]

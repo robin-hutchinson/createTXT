@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Triticum aestivum
+Description=Checks date is within known recording period of Triticum aestivum
+ErrorMsg=Date is outside known recording period of Triticum aestivum
+Tvk=NBNSYS0000002689
+StartDate=18910101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

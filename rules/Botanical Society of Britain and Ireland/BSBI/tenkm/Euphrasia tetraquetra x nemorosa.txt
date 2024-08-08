@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia tetraquetra x nemorosa 10km
+Description=Check coordinate against known distribution of Euphrasia tetraquetra x nemorosa
+ErrorMsg=Coordinate is outside known range for Euphrasia tetraquetra x nemorosa
+DataFieldName=Species
+DataRecordId=NBNSYS0100003136
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NR26
+NT48
+NT95
+NW95
+NW96
+NW97
+NX04
+NX05
+NX13
+NX25
+NX43
+NX54
+SD17
+SD20
+SD21
+SD33
+SD45
+SD47
+SH33
+SO80
+SO81
+SP12
+SS19
+SW75
+SY99
+SZ29
+SZ49
+SZ69
+
+
+[10km_Ireland]
+O23
+O24
+
+
+NA
+
+

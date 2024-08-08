@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Epinotia caprana
+Description=Checks date is within known flight period of Epinotia caprana
+ErrorMsg=Date is outside known flight period of Epinotia caprana
+Tvk=NHMSYS0000502431
+DataFieldName=
+StartDate=0721
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

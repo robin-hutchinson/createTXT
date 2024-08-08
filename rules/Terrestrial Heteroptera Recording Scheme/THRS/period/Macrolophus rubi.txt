@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Macrolophus rubi
+Description=Checks date is within known recording period of Macrolophus rubi
+ErrorMsg=Date is outside known recording period of Macrolophus rubi
+Tvk=NHMSYS0020309404
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Rhus typhina
+Description=Checks date is within known recording period of Rhus typhina
+ErrorMsg=Date is outside known recording period of Rhus typhina
+Tvk=NBNSYS0000042194
+StartDate=19660101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

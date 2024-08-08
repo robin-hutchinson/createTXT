@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Phlegra fasciata 10km
+Description=Check coordinate against known distribution of Phlegra fasciata
+ErrorMsg=Coordinate is outside known range for Phlegra fasciata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008786
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS48
+SS58
+SS78
+SS88
+SY67
+SZ08
+SZ49
+TQ91
+TR01
+TR02
+TR35
+TR36
+
+

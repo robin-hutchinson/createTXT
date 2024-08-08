@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Pselnophorus heterodactyla
+Description=Checks date is within known recording period of Pselnophorus heterodactyla
+ErrorMsg=Date is outside known recording period of Pselnophorus heterodactyla
+Tvk=NHMSYS0000503933
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

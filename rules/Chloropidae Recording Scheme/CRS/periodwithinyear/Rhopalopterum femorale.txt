@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Rhopalopterum femorale
+Description=Checks date is within known flight period of Rhopalopterum femorale
+ErrorMsg=Date is outside known flight period of Rhopalopterum femorale
+Tvk=NBNSYS0100005140
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

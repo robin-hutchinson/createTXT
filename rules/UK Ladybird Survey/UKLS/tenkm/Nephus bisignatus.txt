@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=UK Ladybird Survey/UKLS 10km distribution
+ShortName=Nephus bisignatus 10km
+Description=Check coordinate against known distribution of Nephus bisignatus
+ErrorMsg=Coordinate is outside known range for Nephus bisignatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008304
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ91
+
+

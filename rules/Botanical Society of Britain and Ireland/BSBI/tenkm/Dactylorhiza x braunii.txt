@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactylorhiza x braunii 10km
+Description=Check coordinate against known distribution of Dactylorhiza x braunii
+ErrorMsg=Coordinate is outside known range for Dactylorhiza x braunii
+DataFieldName=Species
+DataRecordId=NHMSYS0000457961
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H03
+N29
+
+
+[10km_GB]
+SH46
+SJ08
+SJ37
+
+

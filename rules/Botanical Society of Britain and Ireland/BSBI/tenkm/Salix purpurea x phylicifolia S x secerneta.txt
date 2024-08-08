@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix purpurea x phylicifolia = S. x secerneta 10km
+Description=Check coordinate against known distribution of Salix purpurea x phylicifolia = S. x secerneta
+ErrorMsg=Coordinate is outside known range for Salix purpurea x phylicifolia = S. x secerneta
+DataFieldName=Species
+DataRecordId=NHMSYS0001754589
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ06
+NZ16
+NZ25
+
+

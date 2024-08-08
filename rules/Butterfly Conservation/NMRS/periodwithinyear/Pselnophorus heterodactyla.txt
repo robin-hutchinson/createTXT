@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pselnophorus heterodactyla
+Description=Checks date is within known flight period of Pselnophorus heterodactyla
+ErrorMsg=Date is outside known flight period of Pselnophorus heterodactyla
+Tvk=NHMSYS0000503933
+DataFieldName=
+StartDate=0601
+EndDate=0715
+LastChanged=20240808
+[EndMetadata]

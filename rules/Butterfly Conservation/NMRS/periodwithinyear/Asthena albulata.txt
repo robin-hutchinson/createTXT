@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Asthena albulata
+Description=Checks date is within known flight period of Asthena albulata
+ErrorMsg=Date is outside known flight period of Asthena albulata
+Tvk=NBNSYS0000005966
+DataFieldName=
+StartDate=0415
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

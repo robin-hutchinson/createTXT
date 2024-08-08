@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Lithophane consocia 10km
+Description=Check coordinate against known distribution of Lithophane consocia
+ErrorMsg=Coordinate is outside known range for Lithophane consocia
+DataFieldName=Species
+DataRecordId=NHMSYS0001703673
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ17
+TQ18
+TQ19
+TQ27
+TQ28
+TQ29
+TQ37
+TQ38
+TQ39
+
+

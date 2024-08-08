@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Ernodes articularis
+Description=Checks date is within known flight period of Ernodes articularis
+ErrorMsg=Date is outside known flight period of Ernodes articularis
+Tvk=NBNSYS0000008504
+DataFieldName=
+StartDate=1001
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

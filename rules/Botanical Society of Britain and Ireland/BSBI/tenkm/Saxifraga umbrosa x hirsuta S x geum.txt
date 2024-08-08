@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Saxifraga umbrosa x hirsuta = S. x geum 10km
+Description=Check coordinate against known distribution of Saxifraga umbrosa x hirsuta = S. x geum
+ErrorMsg=Coordinate is outside known range for Saxifraga umbrosa x hirsuta = S. x geum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754515
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H87
+H88
+
+
+[10km_GB]
+NJ24
+NM49
+NM55
+NO40
+NS27
+NS28
+NS36
+NS38
+NS45
+NS46
+NT17
+NT29
+NX30
+SC37
+SD55
+SD66
+SD77
+SD92
+SD97
+SU84
+SW71
+SW72
+SX05
+SX44
+TA07
+TA16
+
+

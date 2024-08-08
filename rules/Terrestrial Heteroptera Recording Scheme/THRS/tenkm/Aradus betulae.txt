@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Aradus betulae 10km
+Description=Check coordinate against known distribution of Aradus betulae
+ErrorMsg=Coordinate is outside known range for Aradus betulae
+DataFieldName=Species
+DataRecordId=NHMSYS0020308955
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH20
+NH21
+NH22
+NH23
+NH25
+NH30
+NH31
+NH32
+NH33
+NH34
+NH35
+NH36
+NH41
+NH42
+NH43
+NH44
+NH45
+NH46
+NH51
+NH52
+NH53
+NH54
+NH55
+NH56
+NH57
+NH62
+NH63
+NH65
+NH72
+NH73
+NN69
+
+

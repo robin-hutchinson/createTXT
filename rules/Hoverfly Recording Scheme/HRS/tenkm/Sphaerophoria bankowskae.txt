@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Sphaerophoria bankowskae 10km
+Description=Check coordinate against known distribution of Sphaerophoria bankowskae
+ErrorMsg=Coordinate is outside known range for Sphaerophoria bankowskae
+DataFieldName=Species
+DataRecordId=NBNSYS0000033254
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP85
+TL51
+
+

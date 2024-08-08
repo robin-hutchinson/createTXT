@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Phymatosorus diversifolius
+Description=Checks date is within known recording period of Phymatosorus diversifolius
+ErrorMsg=Date is outside known recording period of Phymatosorus diversifolius
+Tvk=NHMSYS0000461229
+StartDate=19690101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex recta x aquatilis = C. x grantii 10km
+Description=Check coordinate against known distribution of Carex recta x aquatilis = C. x grantii
+ErrorMsg=Coordinate is outside known range for Carex recta x aquatilis = C. x grantii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754384
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ND35
+
+

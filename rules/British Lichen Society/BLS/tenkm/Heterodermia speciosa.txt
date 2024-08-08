@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Heterodermia speciosa 10km
+Description=Check coordinate against known distribution of Heterodermia speciosa
+ErrorMsg=Coordinate is outside known range for Heterodermia speciosa
+DataFieldName=Species
+DataRecordId=NHMSYS0001484076
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+G78
+W07
+
+
+[10km_GB]
+SW61
+
+

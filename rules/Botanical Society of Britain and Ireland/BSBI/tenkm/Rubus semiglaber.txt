@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus semiglaber 10km
+Description=Check coordinate against known distribution of Rubus semiglaber
+ErrorMsg=Coordinate is outside known range for Rubus semiglaber
+DataFieldName=Species
+DataRecordId=NHMSYS0000462912
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH56
+SH57
+SH66
+SH67
+SH72
+SH76
+SH77
+SH85
+SH86
+SH87
+SH96
+SH97
+SJ04
+SJ05
+SJ06
+SJ07
+SJ25
+SW73
+SW75
+TQ09
+
+

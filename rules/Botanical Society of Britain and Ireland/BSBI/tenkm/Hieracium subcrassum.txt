@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium subcrassum 10km
+Description=Check coordinate against known distribution of Hieracium subcrassum
+ErrorMsg=Coordinate is outside known range for Hieracium subcrassum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459657
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS47
+NS56
+NY31
+NZ06
+SO35
+SO49
+SO58
+SO59
+
+

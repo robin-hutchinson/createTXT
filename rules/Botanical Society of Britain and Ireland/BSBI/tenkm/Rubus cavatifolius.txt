@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus cavatifolius 10km
+Description=Check coordinate against known distribution of Rubus cavatifolius
+ErrorMsg=Coordinate is outside known range for Rubus cavatifolius
+DataFieldName=Species
+DataRecordId=NHMSYS0000462633
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO40
+SO50
+SO51
+SO61
+SO62
+SO72
+ST49
+ST59
+SX35
+SX45
+
+

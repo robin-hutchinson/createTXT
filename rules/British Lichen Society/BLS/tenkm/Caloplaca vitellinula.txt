@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Caloplaca vitellinula 10km
+Description=Check coordinate against known distribution of Caloplaca vitellinula
+ErrorMsg=Coordinate is outside known range for Caloplaca vitellinula
+DataFieldName=Species
+DataRecordId=NHMSYS0001476666
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NU21
+NY80
+NY96
+NZ38
+SE08
+SN69
+SN85
+SN97
+SO04
+SS99
+SX74
+TM02
+TQ36
+
+

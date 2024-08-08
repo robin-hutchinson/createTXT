@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium komarovianum 10km
+Description=Check coordinate against known distribution of Epilobium komarovianum
+ErrorMsg=Coordinate is outside known range for Epilobium komarovianum
+DataFieldName=Species
+DataRecordId=NHMSYS0000458398
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J26
+J37
+J56
+
+
+[10km_GB]
+NM83
+NS46
+NS56
+NS84
+NT03
+NY73
+NY92
+NZ52
+NZ53
+SK07
+SK14
+SW74
+SW95
+SX05
+SX76
+TA05
+
+

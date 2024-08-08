@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Pogotrichum filiforme 10km
+Description=Check coordinate against known distribution of Pogotrichum filiforme
+ErrorMsg=Coordinate is outside known range for Pogotrichum filiforme
+DataFieldName=Species
+DataRecordId=NBNSYS0000177319
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU33
+HU34
+HU37
+NJ76
+NM22
+NM43
+NM44
+NM52
+NO51
+NR39
+NR67
+NS15
+SH57
+SJ39
+SW62
+SW71
+SW82
+
+

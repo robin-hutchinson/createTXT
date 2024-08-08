@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Ulopa reticulata
+Description=Checks date is within known recording period of Ulopa reticulata
+ErrorMsg=Date is outside known recording period of Ulopa reticulata
+Tvk=NHMSYS0020705964
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

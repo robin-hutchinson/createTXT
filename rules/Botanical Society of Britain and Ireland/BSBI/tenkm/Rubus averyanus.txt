@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus averyanus 10km
+Description=Check coordinate against known distribution of Rubus averyanus
+ErrorMsg=Coordinate is outside known range for Rubus averyanus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462602
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ06
+TQ14
+TQ15
+TQ25
+TQ32
+TQ64
+
+

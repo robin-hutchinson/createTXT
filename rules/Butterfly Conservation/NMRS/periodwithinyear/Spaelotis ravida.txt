@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Spaelotis ravida
+Description=Checks date is within known flight period of Spaelotis ravida
+ErrorMsg=Date is outside known flight period of Spaelotis ravida
+Tvk=NHMSYS0021144929
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

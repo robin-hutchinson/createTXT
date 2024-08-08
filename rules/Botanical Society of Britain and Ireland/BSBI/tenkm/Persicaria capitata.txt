@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Persicaria capitata 10km
+Description=Check coordinate against known distribution of Persicaria capitata
+ErrorMsg=Coordinate is outside known range for Persicaria capitata
+DataFieldName=Species
+DataRecordId=NHMSYS0000461601
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC26
+SC37
+SH32
+SH53
+SJ92
+SJ95
+SJ97
+SK22
+SK97
+SN58
+SO21
+SO51
+SO74
+SO80
+SO81
+SO84
+SO97
+SO98
+SP04
+SS69
+ST13
+ST31
+ST42
+ST51
+ST54
+SU13
+SU31
+SU38
+SU50
+SU80
+SZ38
+TF62
+TF92
+TL03
+TL31
+TM17
+TM57
+TQ00
+TQ17
+TQ27
+TQ37
+TQ47
+TQ48
+
+

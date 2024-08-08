@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Fuscidea pusilla 10km
+Description=Check coordinate against known distribution of Fuscidea pusilla
+ErrorMsg=Coordinate is outside known range for Fuscidea pusilla
+DataFieldName=Species
+DataRecordId=NHMSYS0001482517
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH33
+NJ02
+NM46
+NN81
+
+

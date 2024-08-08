@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Upupa epops
+Description=Checks date is within known flight period of Upupa epops
+ErrorMsg=Date is outside known flight period of Upupa epops
+Tvk=NHMSYS0000530687
+DataFieldName=
+StartDate=0315
+EndDate=1110
+LastChanged=20240808
+[EndMetadata]

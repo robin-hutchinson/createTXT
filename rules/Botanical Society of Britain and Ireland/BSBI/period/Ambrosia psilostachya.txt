@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Ambrosia psilostachya
+Description=Checks date is within known recording period of Ambrosia psilostachya
+ErrorMsg=Date is outside known recording period of Ambrosia psilostachya
+Tvk=NBNSYS0000033422
+StartDate=19020101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

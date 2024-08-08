@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Linaria dalmatica 10km
+Description=Check coordinate against known distribution of Linaria dalmatica
+ErrorMsg=Coordinate is outside known range for Linaria dalmatica
+DataFieldName=Species
+DataRecordId=NHMSYS0000460379
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT53
+SD31
+SD60
+SD86
+ST42
+ST57
+SW53
+SW95
+SX05
+SX26
+SX48
+TQ16
+TQ18
+TQ35
+TQ47
+
+

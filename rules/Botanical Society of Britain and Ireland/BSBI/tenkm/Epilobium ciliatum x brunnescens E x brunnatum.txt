@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium ciliatum x brunnescens = E. x brunnatum 10km
+Description=Check coordinate against known distribution of Epilobium ciliatum x brunnescens = E. x brunnatum
+ErrorMsg=Coordinate is outside known range for Epilobium ciliatum x brunnescens = E. x brunnatum
+DataFieldName=Species
+DataRecordId=NBNSYS0100003037
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN63
+SW74
+SW95
+SX05
+SX16
+SX17
+
+

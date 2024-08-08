@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Acompocoris pygmaeus
+Description=Checks date is within known recording period of Acompocoris pygmaeus
+ErrorMsg=Date is outside known recording period of Acompocoris pygmaeus
+Tvk=NHMSYS0020308892
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

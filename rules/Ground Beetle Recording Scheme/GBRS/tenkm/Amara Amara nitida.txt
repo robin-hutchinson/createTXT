@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ground Beetle Recording Scheme/GBRS 10km distribution
+ShortName=Amara (Amara) nitida 10km
+Description=Check coordinate against known distribution of Amara (Amara) nitida
+ErrorMsg=Coordinate is outside known range for Amara (Amara) nitida
+DataFieldName=Species
+DataRecordId=NHMSYS0001716731
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY72
+NY73
+NY74
+NY82
+NY83
+NY84
+NY91
+NY92
+NY93
+NY94
+NZ01
+NZ02
+NZ03
+NZ11
+NZ12
+NZ13
+TF16
+TF17
+TF18
+TF26
+TF27
+TF28
+TF36
+TF37
+TF38
+TF92
+TF93
+TF94
+TG02
+TG03
+TG04
+TG12
+TG13
+TG14
+
+

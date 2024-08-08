@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Anorthoa munda
+Description=Checks date is within known recording period of Anorthoa munda
+ErrorMsg=Date is outside known recording period of Anorthoa munda
+Tvk=NHMSYS0021144798
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

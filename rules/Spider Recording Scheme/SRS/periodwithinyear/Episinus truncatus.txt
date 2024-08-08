@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Episinus truncatus
+Description=Checks date is within known flight period of Episinus truncatus
+ErrorMsg=Date is outside known flight period of Episinus truncatus
+Tvk=NBNSYS0000008863
+DataFieldName=
+StartDate=0418
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

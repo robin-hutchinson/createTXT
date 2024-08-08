@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sarracenia purpurea 10km
+Description=Check coordinate against known distribution of Sarracenia purpurea
+ErrorMsg=Coordinate is outside known range for Sarracenia purpurea
+DataFieldName=Species
+DataRecordId=NBNSYS0000003523
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+F91
+H86
+M20
+N04
+N07
+N23
+N24
+N55
+N71
+R03
+S48
+
+
+[10km_GB]
+NH91
+NN34
+NY25
+NY30
+SD39
+SD71
+SD72
+SO60
+SU20
+SU95
+SU96
+SY89
+TQ94
+
+

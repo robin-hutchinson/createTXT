@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Scutula epicladonia 10km
+Description=Check coordinate against known distribution of Scutula epicladonia
+ErrorMsg=Coordinate is outside known range for Scutula epicladonia
+DataFieldName=Species
+DataRecordId=NHMSYS0001497379
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC22
+ND27
+NG71
+NG84
+NH80
+NH89
+
+

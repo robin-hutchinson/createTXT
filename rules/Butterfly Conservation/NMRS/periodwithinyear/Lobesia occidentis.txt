@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lobesia occidentis
+Description=Checks date is within known flight period of Lobesia occidentis
+ErrorMsg=Date is outside known flight period of Lobesia occidentis
+Tvk=NHMSYS0000503088
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

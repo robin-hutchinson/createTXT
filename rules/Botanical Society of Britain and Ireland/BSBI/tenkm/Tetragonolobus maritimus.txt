@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tetragonolobus maritimus 10km
+Description=Check coordinate against known distribution of Tetragonolobus maritimus
+ErrorMsg=Coordinate is outside known range for Tetragonolobus maritimus
+DataFieldName=Species
+DataRecordId=NBNSYS0000003263
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE42
+SK22
+SK58
+SP52
+SP61
+SP80
+SP91
+ST17
+ST31
+ST77
+SU42
+SU57
+SU58
+SU60
+SU68
+SU73
+SU78
+SU79
+SU89
+SZ08
+TM01
+TQ57
+TQ66
+TQ89
+TR06
+TR07
+TR26
+TR35
+
+
+[10km_CI]
+WA50
+
+

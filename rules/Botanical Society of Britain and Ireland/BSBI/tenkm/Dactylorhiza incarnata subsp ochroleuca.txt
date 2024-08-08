@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactylorhiza incarnata subsp. ochroleuca 10km
+Description=Check coordinate against known distribution of Dactylorhiza incarnata subsp. ochroleuca
+ErrorMsg=Coordinate is outside known range for Dactylorhiza incarnata subsp. ochroleuca
+DataFieldName=Species
+DataRecordId=NHMSYS0000457916
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN40
+TL66
+TL97
+TM07
+TM08
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Perittia obscurepunctella
+Description=Checks date is within known flight period of Perittia obscurepunctella
+ErrorMsg=Date is outside known flight period of Perittia obscurepunctella
+Tvk=NHMSYS0000503691
+DataFieldName=
+StartDate=0321
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

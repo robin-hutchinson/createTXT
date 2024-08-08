@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Delairea odorata 10km
+Description=Check coordinate against known distribution of Delairea odorata
+ErrorMsg=Coordinate is outside known range for Delairea odorata
+DataFieldName=Species
+DataRecordId=NHMSYS0000458028
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+S60
+W46
+W54
+W75
+
+
+[10km_GB]
+SV80
+SV81
+SV91
+SW43
+SW83
+SW84
+SX96
+SZ08
+
+
+NA
+
+

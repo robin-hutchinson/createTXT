@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Astragalus boeticus 10km
+Description=Check coordinate against known distribution of Astragalus boeticus
+ErrorMsg=Coordinate is outside known range for Astragalus boeticus
+DataFieldName=Species
+DataRecordId=NBNSYS0000003270
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK22
+SX05
+
+

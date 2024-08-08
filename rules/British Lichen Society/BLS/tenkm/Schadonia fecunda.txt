@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Schadonia fecunda 10km
+Description=Check coordinate against known distribution of Schadonia fecunda
+ErrorMsg=Coordinate is outside known range for Schadonia fecunda
+DataFieldName=Species
+DataRecordId=NHMSYS0001497115
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG96
+NN64
+
+

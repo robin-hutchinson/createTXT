@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Cheilosia grossa
+Description=Checks date is within known flight period of Cheilosia grossa
+ErrorMsg=Date is outside known flight period of Cheilosia grossa
+Tvk=NBNSYS0000006982
+DataFieldName=
+StartDate=0228
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

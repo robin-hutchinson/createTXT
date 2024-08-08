@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Gelechia sororculella
+Description=Checks date is within known flight period of Gelechia sororculella
+ErrorMsg=Date is outside known flight period of Gelechia sororculella
+Tvk=NHMSYS0000502713
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

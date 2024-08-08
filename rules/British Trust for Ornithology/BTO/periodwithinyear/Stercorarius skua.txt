@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Stercorarius skua
+Description=Checks date is within known flight period of Stercorarius skua
+ErrorMsg=Date is outside known flight period of Stercorarius skua
+Tvk=NBNSYS0000000343
+DataFieldName=
+StartDate=0315
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

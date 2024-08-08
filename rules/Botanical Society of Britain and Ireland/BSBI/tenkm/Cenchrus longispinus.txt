@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cenchrus longispinus 10km
+Description=Check coordinate against known distribution of Cenchrus longispinus
+ErrorMsg=Coordinate is outside known range for Cenchrus longispinus
+DataFieldName=Species
+DataRecordId=NHMSYS0000457012
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TL44
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stenolechia gemmella
+Description=Checks date is within known flight period of Stenolechia gemmella
+ErrorMsg=Date is outside known flight period of Stenolechia gemmella
+Tvk=NHMSYS0000504307
+DataFieldName=
+StartDate=0721
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

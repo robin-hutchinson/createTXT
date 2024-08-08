@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Stigmatogaster souletina 10km
+Description=Check coordinate against known distribution of Stigmatogaster souletina
+ErrorMsg=Coordinate is outside known range for Stigmatogaster souletina
+DataFieldName=Species
+DataRecordId=NHMSYS0020500697
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW62
+SW63
+SW73
+TQ74
+
+

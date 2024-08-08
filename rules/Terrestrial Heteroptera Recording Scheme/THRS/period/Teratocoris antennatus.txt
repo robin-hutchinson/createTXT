@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Teratocoris antennatus
+Description=Checks date is within known recording period of Teratocoris antennatus
+ErrorMsg=Date is outside known recording period of Teratocoris antennatus
+Tvk=NHMSYS0020309886
+StartDate=18500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

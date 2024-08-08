@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Rorippa austriaca
+Description=Checks date is within known recording period of Rorippa austriaca
+ErrorMsg=Date is outside known recording period of Rorippa austriaca
+Tvk=NBNSYS0000002899
+StartDate=19050101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

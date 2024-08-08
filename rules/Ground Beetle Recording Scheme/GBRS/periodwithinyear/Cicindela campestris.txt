@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Cicindela campestris
+Description=Checks date is within known flight period of Cicindela campestris
+ErrorMsg=Date is outside known flight period of Cicindela campestris
+Tvk=NBNSYS0000007122
+DataFieldName=
+StartDate=0201
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

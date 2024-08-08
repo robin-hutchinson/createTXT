@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fumaria muralis subsp. muralis 10km
+Description=Check coordinate against known distribution of Fumaria muralis subsp. muralis
+ErrorMsg=Coordinate is outside known range for Fumaria muralis subsp. muralis
+DataFieldName=Species
+DataRecordId=NHMSYS0000458913
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY21
+HY40
+ND48
+NH30
+NH45
+NH53
+NH55
+NH64
+NH75
+NH78
+NJ62
+NJ76
+NJ84
+NJ94
+NO00
+NO10
+NO20
+NO21
+NO30
+NO31
+NO32
+NO42
+NO60
+NO76
+NR82
+NR95
+NS02
+NS98
+NT08
+NT14
+NT18
+NT19
+NT23
+NT24
+NT28
+NT29
+NT39
+NT46
+SD40
+SD47
+
+

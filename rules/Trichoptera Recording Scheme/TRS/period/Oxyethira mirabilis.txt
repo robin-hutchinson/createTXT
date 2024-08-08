@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Oxyethira mirabilis
+Description=Checks date is within known recording period of Oxyethira mirabilis
+ErrorMsg=Date is outside known recording period of Oxyethira mirabilis
+Tvk=NBNSYS0000008370
+StartDate=19030101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

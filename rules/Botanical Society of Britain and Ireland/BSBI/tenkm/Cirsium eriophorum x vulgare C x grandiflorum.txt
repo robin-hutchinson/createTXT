@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cirsium eriophorum x vulgare = C. x grandiflorum 10km
+Description=Check coordinate against known distribution of Cirsium eriophorum x vulgare = C. x grandiflorum
+ErrorMsg=Coordinate is outside known range for Cirsium eriophorum x vulgare = C. x grandiflorum
+DataFieldName=Species
+DataRecordId=NBNSYS0000161519
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE84
+SE86
+SK37
+SK63
+SK91
+SP31
+SP50
+SP51
+ST42
+ST86
+SY58
+TL53
+
+

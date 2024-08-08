@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Chloriona glaucescens
+Description=Checks date is within known flight period of Chloriona glaucescens
+ErrorMsg=Date is outside known flight period of Chloriona glaucescens
+Tvk=NHMSYS0020705263
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Pilosella praealta
+Description=Checks date is within known recording period of Pilosella praealta
+ErrorMsg=Date is outside known recording period of Pilosella praealta
+Tvk=NHMSYS0000461680
+StartDate=18770101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

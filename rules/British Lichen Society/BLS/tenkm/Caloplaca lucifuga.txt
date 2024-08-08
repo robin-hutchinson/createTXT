@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Caloplaca lucifuga 10km
+Description=Check coordinate against known distribution of Caloplaca lucifuga
+ErrorMsg=Coordinate is outside known range for Caloplaca lucifuga
+DataFieldName=Species
+DataRecordId=NBNSYS0000039596
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH84
+NJ05
+NN81
+NT13
+NY88
+SJ04
+SN67
+SN95
+SN96
+SO05
+SO09
+SO12
+SO13
+SO14
+SO31
+SO34
+SO37
+SO38
+SS74
+ST50
+SU44
+
+

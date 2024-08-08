@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Aphrophora major
+Description=Checks date is within known recording period of Aphrophora major
+ErrorMsg=Date is outside known recording period of Aphrophora major
+Tvk=NHMSYS0020705222
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

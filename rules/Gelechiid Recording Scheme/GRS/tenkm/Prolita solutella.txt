@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Prolita solutella 10km
+Description=Check coordinate against known distribution of Prolita solutella
+ErrorMsg=Coordinate is outside known range for Prolita solutella
+DataFieldName=Species
+DataRecordId=NBNSYS0000026301
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH90
+NH91
+NJ02
+NN76
+NO19
+NY55
+NZ03
+NZ51
+SE20
+SW61
+TA08
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Mesophleps silacella 10km
+Description=Check coordinate against known distribution of Mesophleps silacella
+ErrorMsg=Coordinate is outside known range for Mesophleps silacella
+DataFieldName=Species
+DataRecordId=NHMSYS0000503210
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ30
+
+

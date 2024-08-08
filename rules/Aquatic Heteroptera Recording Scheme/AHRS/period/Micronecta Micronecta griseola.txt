@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Aquatic Heteroptera Recording Scheme/AHRS Recording Period
+ShortName=Micronecta (Micronecta) griseola
+Description=Checks date is within known recording period of Micronecta (Micronecta) griseola
+ErrorMsg=Date is outside known recording period of Micronecta (Micronecta) griseola
+Tvk=NHMSYS0020309456
+StartDate=20000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Monostroma obscurum 10km
+Description=Check coordinate against known distribution of Monostroma obscurum
+ErrorMsg=Coordinate is outside known range for Monostroma obscurum
+DataFieldName=Species
+DataRecordId=NHMSYS0000568026
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO30
+NO88
+SS58
+SS87
+
+

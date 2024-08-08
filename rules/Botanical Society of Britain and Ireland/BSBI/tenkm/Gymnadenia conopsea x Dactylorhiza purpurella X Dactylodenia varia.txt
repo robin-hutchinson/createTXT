@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gymnadenia conopsea x Dactylorhiza purpurella = X Dactylodenia varia 10km
+Description=Check coordinate against known distribution of Gymnadenia conopsea x Dactylorhiza purpurella = X Dactylodenia varia
+ErrorMsg=Coordinate is outside known range for Gymnadenia conopsea x Dactylorhiza purpurella = X Dactylodenia varia
+DataFieldName=Species
+DataRecordId=NHMSYS0001754474
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J47
+
+
+[10km_GB]
+NG53
+NG89
+NJ46
+NM71
+NR67
+NR78
+NY60
+NY67
+NZ33
+SJ17
+
+

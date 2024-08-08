@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Syedra gracilis
+Description=Checks date is within known flight period of Syedra gracilis
+ErrorMsg=Date is outside known flight period of Syedra gracilis
+Tvk=NBNSYS0000009166
+DataFieldName=
+StartDate=0320
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

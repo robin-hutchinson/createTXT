@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Pandion haliaetus
+Description=Checks date is within known flight period of Pandion haliaetus
+ErrorMsg=Date is outside known flight period of Pandion haliaetus
+Tvk=NBNSYS0000000292
+DataFieldName=
+StartDate=0315
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

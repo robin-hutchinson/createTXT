@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Centromerus cavernarum 10km
+Description=Check coordinate against known distribution of Centromerus cavernarum
+ErrorMsg=Coordinate is outside known range for Centromerus cavernarum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009180
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK51
+SO81
+ST59
+ST79
+TL01
+TR16
+
+

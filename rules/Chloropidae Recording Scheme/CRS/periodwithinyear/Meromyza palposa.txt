@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Meromyza palposa
+Description=Checks date is within known flight period of Meromyza palposa
+ErrorMsg=Date is outside known flight period of Meromyza palposa
+Tvk=NBNSYS0000029954
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

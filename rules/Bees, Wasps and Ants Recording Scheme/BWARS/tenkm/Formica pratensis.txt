@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Bees, Wasps and Ants Recording Scheme/BWARS 10km distribution
+ShortName=Formica pratensis 10km
+Description=Check coordinate against known distribution of Formica pratensis
+ErrorMsg=Coordinate is outside known range for Formica pratensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000875961
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU00
+SU01
+SU10
+SU11
+SU20
+SU21
+SU30
+SU31
+SU32
+SU40
+SU41
+SU50
+SY39
+SY58
+SY68
+SY78
+SY88
+SY89
+SY98
+SY99
+SZ08
+SZ09
+SZ19
+SZ29
+SZ38
+SZ39
+SZ49
+SZ58
+SZ59
+SZ68
+SZ69
+
+

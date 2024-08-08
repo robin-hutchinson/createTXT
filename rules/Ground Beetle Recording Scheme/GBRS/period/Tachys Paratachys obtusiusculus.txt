@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Tachys (Paratachys) obtusiusculus
+Description=Checks date is within known recording period of Tachys (Paratachys) obtusiusculus
+ErrorMsg=Date is outside known recording period of Tachys (Paratachys) obtusiusculus
+Tvk=NHMSYS0001720305
+StartDate=19340101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

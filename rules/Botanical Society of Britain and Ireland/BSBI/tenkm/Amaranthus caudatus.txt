@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Amaranthus caudatus 10km
+Description=Check coordinate against known distribution of Amaranthus caudatus
+ErrorMsg=Coordinate is outside known range for Amaranthus caudatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014653
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ26
+NT27
+SD33
+SE13
+SN40
+SO92
+SP08
+SP96
+ST31
+ST38
+ST41
+ST63
+ST67
+SU76
+SU95
+SU96
+SV80
+SX65
+SX88
+SY08
+TG20
+TL02
+TL04
+TL05
+TL11
+TL30
+TL31
+TL41
+TQ06
+TQ08
+TQ09
+TQ16
+TQ18
+TQ26
+TQ30
+TQ37
+TQ48
+TQ57
+TQ67
+TQ78
+
+
+NA
+
+

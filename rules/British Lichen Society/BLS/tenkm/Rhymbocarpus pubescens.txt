@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rhymbocarpus pubescens 10km
+Description=Check coordinate against known distribution of Rhymbocarpus pubescens
+ErrorMsg=Coordinate is outside known range for Rhymbocarpus pubescens
+DataFieldName=Species
+DataRecordId=NHMSYS0001496438
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG40
+NG41
+NG42
+NG50
+NG51
+NG52
+NG53
+NG60
+NG61
+NG62
+NG63
+NG64
+NG70
+NG71
+NG72
+NG73
+NG74
+NG82
+NG83
+NG84
+NH41
+NH42
+NH43
+NH51
+NH52
+NH53
+NH61
+NH62
+NH63
+
+

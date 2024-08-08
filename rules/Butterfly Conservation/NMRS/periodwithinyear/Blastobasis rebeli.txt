@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Blastobasis rebeli
+Description=Checks date is within known flight period of Blastobasis rebeli
+ErrorMsg=Date is outside known flight period of Blastobasis rebeli
+Tvk=NHMSYS0021142871
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

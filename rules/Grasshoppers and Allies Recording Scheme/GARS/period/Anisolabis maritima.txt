@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Anisolabis maritima
+Description=Checks date is within known recording period of Anisolabis maritima
+ErrorMsg=Date is outside known recording period of Anisolabis maritima
+Tvk=NHMSYS0001387250
+StartDate=19000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

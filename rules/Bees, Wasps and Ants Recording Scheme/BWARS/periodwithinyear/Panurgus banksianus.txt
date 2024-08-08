@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Panurgus banksianus
+Description=Checks date is within known flight period of Panurgus banksianus
+ErrorMsg=Date is outside known flight period of Panurgus banksianus
+Tvk=NHMSYS0000876528
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

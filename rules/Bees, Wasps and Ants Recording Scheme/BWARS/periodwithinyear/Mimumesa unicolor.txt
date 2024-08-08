@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Mimumesa unicolor
+Description=Checks date is within known flight period of Mimumesa unicolor
+ErrorMsg=Date is outside known flight period of Mimumesa unicolor
+Tvk=NHMSYS0000876343
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

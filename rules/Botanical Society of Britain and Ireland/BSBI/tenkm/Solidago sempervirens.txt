@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Solidago sempervirens 10km
+Description=Check coordinate against known distribution of Solidago sempervirens
+ErrorMsg=Coordinate is outside known range for Solidago sempervirens
+DataFieldName=Species
+DataRecordId=NBNSYS0200003207
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG35
+NM47
+NM55
+NT56
+NT86
+
+

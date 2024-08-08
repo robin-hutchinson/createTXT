@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lepidium graminifolium 10km
+Description=Check coordinate against known distribution of Lepidium graminifolium
+ErrorMsg=Coordinate is outside known range for Lepidium graminifolium
+DataFieldName=Species
+DataRecordId=NBNSYS0000002834
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH53
+SJ39
+SP08
+SP50
+ST16
+ST17
+ST27
+ST57
+ST67
+SX85
+TL10
+TL41
+TL45
+TQ01
+TQ14
+TQ15
+TQ17
+TQ18
+TQ27
+
+

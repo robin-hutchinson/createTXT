@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Clauzadea chondrodes 10km
+Description=Check coordinate against known distribution of Clauzadea chondrodes
+ErrorMsg=Coordinate is outside known range for Clauzadea chondrodes
+DataFieldName=Species
+DataRecordId=NHMSYS0000362142
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG94
+NG95
+NG96
+NH04
+NH05
+NH06
+NH14
+NH15
+NH16
+NM73
+NM74
+NM75
+NM83
+NM84
+NM85
+NM93
+NM94
+NM95
+ST24
+ST25
+ST26
+ST34
+ST35
+ST36
+ST44
+ST45
+ST46
+ST54
+ST55
+ST56
+
+

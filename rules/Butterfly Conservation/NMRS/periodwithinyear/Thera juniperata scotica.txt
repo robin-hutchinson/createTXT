@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Thera juniperata scotica
+Description=Checks date is within known flight period of Thera juniperata scotica
+ErrorMsg=Date is outside known flight period of Thera juniperata scotica
+Tvk=NHMSYS0021143979
+DataFieldName=
+StartDate=0915
+EndDate=1115
+LastChanged=20240808
+[EndMetadata]

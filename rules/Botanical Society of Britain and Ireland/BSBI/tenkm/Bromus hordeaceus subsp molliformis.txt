@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Bromus hordeaceus subsp. molliformis 10km
+Description=Check coordinate against known distribution of Bromus hordeaceus subsp. molliformis
+ErrorMsg=Coordinate is outside known range for Bromus hordeaceus subsp. molliformis
+DataFieldName=Species
+DataRecordId=NHMSYS0000456670
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NR73
+NR75
+NT53
+SD90
+SE13
+SE38
+SK22
+SU41
+SU73
+TL23
+
+

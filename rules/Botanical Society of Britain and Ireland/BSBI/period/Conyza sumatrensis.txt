@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Conyza sumatrensis
+Description=Checks date is within known recording period of Conyza sumatrensis
+ErrorMsg=Date is outside known recording period of Conyza sumatrensis
+Tvk=NHMSYS0000457486
+StartDate=19610101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

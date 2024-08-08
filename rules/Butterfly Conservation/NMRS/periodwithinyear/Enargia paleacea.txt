@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Enargia paleacea
+Description=Checks date is within known flight period of Enargia paleacea
+ErrorMsg=Date is outside known flight period of Enargia paleacea
+Tvk=NHMSYS0021144744
+DataFieldName=
+StartDate=0621
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

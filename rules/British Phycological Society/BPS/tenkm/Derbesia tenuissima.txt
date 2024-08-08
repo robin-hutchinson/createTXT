@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Derbesia tenuissima 10km
+Description=Check coordinate against known distribution of Derbesia tenuissima
+ErrorMsg=Coordinate is outside known range for Derbesia tenuissima
+DataFieldName=Species
+DataRecordId=NHMSYS0000567942
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT86
+SH57
+SM70
+SM73
+TR23
+
+

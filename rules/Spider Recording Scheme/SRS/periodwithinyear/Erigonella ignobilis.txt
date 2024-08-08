@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Erigonella ignobilis
+Description=Checks date is within known flight period of Erigonella ignobilis
+ErrorMsg=Date is outside known flight period of Erigonella ignobilis
+Tvk=NBNSYS0000009084
+DataFieldName=
+StartDate=0215
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

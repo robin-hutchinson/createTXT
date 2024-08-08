@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Berytinus (Berytinus) signoreti
+Description=Checks date is within known recording period of Berytinus (Berytinus) signoreti
+ErrorMsg=Date is outside known recording period of Berytinus (Berytinus) signoreti
+Tvk=NHMSYS0020308989
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Schizymenia dubyi 10km
+Description=Check coordinate against known distribution of Schizymenia dubyi
+ErrorMsg=Coordinate is outside known range for Schizymenia dubyi
+DataFieldName=Species
+DataRecordId=NHMSYS0000568308
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HW83
+NA10
+NF09
+NF19
+NF86
+NR78
+NT67
+SC17
+SM70
+SM73
+SM80
+SM81
+SS14
+SV80
+SV81
+SV90
+SV91
+SW71
+SW72
+SX44
+SX45
+SX54
+SX73
+SX86
+SX94
+SX95
+SX96
+SY87
+SY88
+SY97
+SZ28
+TQ30
+
+

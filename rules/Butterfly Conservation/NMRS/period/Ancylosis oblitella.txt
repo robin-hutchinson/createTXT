@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Ancylosis oblitella
+Description=Checks date is within known recording period of Ancylosis oblitella
+ErrorMsg=Date is outside known recording period of Ancylosis oblitella
+Tvk=NHMSYS0000501242
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

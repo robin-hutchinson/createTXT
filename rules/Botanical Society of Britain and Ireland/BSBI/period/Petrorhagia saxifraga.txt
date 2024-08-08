@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Petrorhagia saxifraga
+Description=Checks date is within known recording period of Petrorhagia saxifraga
+ErrorMsg=Date is outside known recording period of Petrorhagia saxifraga
+Tvk=NBNSYS0000014535
+StartDate=18930101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Ephemera vulgata
+Description=Checks date is within known flight period of Ephemera vulgata
+ErrorMsg=Date is outside known flight period of Ephemera vulgata
+Tvk=NBNSYS0000010899
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

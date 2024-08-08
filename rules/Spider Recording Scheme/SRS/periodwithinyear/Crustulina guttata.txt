@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Crustulina guttata
+Description=Checks date is within known flight period of Crustulina guttata
+ErrorMsg=Date is outside known flight period of Crustulina guttata
+Tvk=NBNSYS0000008873
+DataFieldName=
+StartDate=0317
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

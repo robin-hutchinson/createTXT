@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Sericomyia silentis
+Description=Checks date is within known flight period of Sericomyia silentis
+ErrorMsg=Date is outside known flight period of Sericomyia silentis
+Tvk=NBNSYS0000007093
+DataFieldName=
+StartDate=0412
+EndDate=1218
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Furcula bicuspis
+Description=Checks date is within known flight period of Furcula bicuspis
+ErrorMsg=Date is outside known flight period of Furcula bicuspis
+Tvk=NBNSYS0000006082
+DataFieldName=
+StartDate=0415
+EndDate=0821
+LastChanged=20240808
+[EndMetadata]

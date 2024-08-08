@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Baetis niger
+Description=Checks date is within known flight period of Baetis niger
+ErrorMsg=Date is outside known flight period of Baetis niger
+Tvk=NBNSYS0000010868
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

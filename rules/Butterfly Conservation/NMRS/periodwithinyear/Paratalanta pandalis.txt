@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Paratalanta pandalis
+Description=Checks date is within known flight period of Paratalanta pandalis
+ErrorMsg=Date is outside known flight period of Paratalanta pandalis
+Tvk=NHMSYS0021143721
+DataFieldName=
+StartDate=0515
+EndDate=0807
+LastChanged=20240808
+[EndMetadata]

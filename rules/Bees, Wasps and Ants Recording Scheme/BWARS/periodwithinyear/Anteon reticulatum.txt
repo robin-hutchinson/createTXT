@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Anteon reticulatum
+Description=Checks date is within known flight period of Anteon reticulatum
+ErrorMsg=Date is outside known flight period of Anteon reticulatum
+Tvk=NHMSYS0000875367
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

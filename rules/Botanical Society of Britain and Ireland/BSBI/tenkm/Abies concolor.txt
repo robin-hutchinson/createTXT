@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Abies concolor 10km
+Description=Check coordinate against known distribution of Abies concolor
+ErrorMsg=Coordinate is outside known range for Abies concolor
+DataFieldName=Species
+DataRecordId=NHMSYS0000455515
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS03
+SD88
+SN67
+SN78
+ST67
+
+

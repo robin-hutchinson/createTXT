@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Callicera spinolae
+Description=Checks date is within known flight period of Callicera spinolae
+ErrorMsg=Date is outside known flight period of Callicera spinolae
+Tvk=NBNSYS0000006971
+DataFieldName=
+StartDate=0909
+EndDate=1008
+LastChanged=20240808
+[EndMetadata]

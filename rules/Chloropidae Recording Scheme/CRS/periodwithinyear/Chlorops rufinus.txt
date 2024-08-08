@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Chlorops rufinus
+Description=Checks date is within known flight period of Chlorops rufinus
+ErrorMsg=Date is outside known flight period of Chlorops rufinus
+Tvk=NBNSYS0100002371
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

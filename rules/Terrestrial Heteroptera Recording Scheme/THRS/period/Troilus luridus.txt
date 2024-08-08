@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Troilus luridus
+Description=Checks date is within known recording period of Troilus luridus
+ErrorMsg=Date is outside known recording period of Troilus luridus
+Tvk=NHMSYS0020309921
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Chrysis schencki
+Description=Checks date is within known flight period of Chrysis schencki
+ErrorMsg=Date is outside known flight period of Chrysis schencki
+Tvk=NHMSYS0000875670
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Cloeon simile
+Description=Checks date is within known flight period of Cloeon simile
+ErrorMsg=Date is outside known flight period of Cloeon simile
+Tvk=NBNSYS0000010875
+DataFieldName=
+StartDate=0301
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

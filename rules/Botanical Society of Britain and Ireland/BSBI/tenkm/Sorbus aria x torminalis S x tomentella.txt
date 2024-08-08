@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sorbus aria x torminalis = S. x tomentella 10km
+Description=Check coordinate against known distribution of Sorbus aria x torminalis = S. x tomentella
+ErrorMsg=Coordinate is outside known range for Sorbus aria x torminalis = S. x tomentella
+DataFieldName=Species
+DataRecordId=NBNSYS0000162085
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS47
+NZ42
+SO50
+SO51
+SO60
+SP03
+ST45
+ST46
+ST47
+ST57
+ST59
+SU61
+TQ05
+TQ15
+TQ25
+TQ27
+TQ35
+TQ36
+TQ47
+
+

@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Tricimba brachyptera 10km
+Description=Check coordinate against known distribution of Tricimba brachyptera
+ErrorMsg=Coordinate is outside known range for Tricimba brachyptera
+DataFieldName=Species
+DataRecordId=NBNSYS0100005891
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK55
+SK56
+SK57
+SK58
+SK65
+SK66
+SK67
+SK68
+SK75
+SK76
+SK77
+SK78
+TL66
+TL67
+TL68
+TL69
+TL76
+TL77
+TL78
+TL79
+TL86
+TL87
+TL88
+TL89
+TQ16
+TQ17
+TQ18
+TQ26
+TQ27
+TQ28
+TQ36
+TQ37
+TQ38
+
+

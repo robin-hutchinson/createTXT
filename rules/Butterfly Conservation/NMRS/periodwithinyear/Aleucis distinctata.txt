@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Aleucis distinctata
+Description=Checks date is within known flight period of Aleucis distinctata
+ErrorMsg=Date is outside known flight period of Aleucis distinctata
+Tvk=NHMSYS0021144272
+DataFieldName=
+StartDate=0321
+EndDate=0515
+LastChanged=20240808
+[EndMetadata]

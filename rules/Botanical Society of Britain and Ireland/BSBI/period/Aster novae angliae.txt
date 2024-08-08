@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Aster novae-angliae
+Description=Checks date is within known recording period of Aster novae-angliae
+ErrorMsg=Date is outside known recording period of Aster novae-angliae
+Tvk=NBNSYS0000004424
+StartDate=18230101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

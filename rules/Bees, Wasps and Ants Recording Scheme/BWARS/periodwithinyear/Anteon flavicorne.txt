@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Anteon flavicorne
+Description=Checks date is within known flight period of Anteon flavicorne
+ErrorMsg=Date is outside known flight period of Anteon flavicorne
+Tvk=NHMSYS0000875333
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

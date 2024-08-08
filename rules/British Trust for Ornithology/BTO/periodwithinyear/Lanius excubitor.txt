@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Lanius excubitor
+Description=Checks date is within known flight period of Lanius excubitor
+ErrorMsg=Date is outside known flight period of Lanius excubitor
+Tvk=NHMSYS0000530425
+DataFieldName=
+StartDate=0502
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

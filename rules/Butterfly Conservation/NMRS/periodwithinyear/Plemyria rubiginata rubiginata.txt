@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Plemyria rubiginata rubiginata
+Description=Checks date is within known flight period of Plemyria rubiginata rubiginata
+ErrorMsg=Date is outside known flight period of Plemyria rubiginata rubiginata
+Tvk=NHMSYS0021143983
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

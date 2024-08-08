@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Phytocoris (Phytocoris) longipennis
+Description=Checks date is within known recording period of Phytocoris (Phytocoris) longipennis
+ErrorMsg=Date is outside known recording period of Phytocoris (Phytocoris) longipennis
+Tvk=NHMSYS0020309654
+StartDate=18610101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

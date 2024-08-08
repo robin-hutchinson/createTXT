@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium cremnanthes 10km
+Description=Check coordinate against known distribution of Hieracium cremnanthes
+ErrorMsg=Coordinate is outside known range for Hieracium cremnanthes
+DataFieldName=Species
+DataRecordId=NHMSYS0000459394
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH60
+NH90
+NJ10
+NN00
+NN25
+NN31
+NN34
+NN42
+NN43
+NN44
+NN49
+NN53
+NN56
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Bromus pseudosecalinus
+Description=Checks date is within known recording period of Bromus pseudosecalinus
+ErrorMsg=Date is outside known recording period of Bromus pseudosecalinus
+Tvk=NHMSYS0000456682
+StartDate=18900101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

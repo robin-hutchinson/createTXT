@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Caloptilia falconipennella
+Description=Checks date is within known flight period of Caloptilia falconipennella
+ErrorMsg=Date is outside known flight period of Caloptilia falconipennella
+Tvk=NHMSYS0021142417
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

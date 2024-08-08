@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Aegilops speltoides subsp. ligustica 10km
+Description=Check coordinate against known distribution of Aegilops speltoides subsp. ligustica
+ErrorMsg=Coordinate is outside known range for Aegilops speltoides subsp. ligustica
+DataFieldName=Species
+DataRecordId=NBNSYS0200001673
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TA21
+
+

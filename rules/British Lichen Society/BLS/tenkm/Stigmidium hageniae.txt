@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Stigmidium hageniae 10km
+Description=Check coordinate against known distribution of Stigmidium hageniae
+ErrorMsg=Coordinate is outside known range for Stigmidium hageniae
+DataFieldName=Species
+DataRecordId=BMSSYS0000018065
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NF09
+SC16
+
+
+[10km_Ireland]
+V26
+
+

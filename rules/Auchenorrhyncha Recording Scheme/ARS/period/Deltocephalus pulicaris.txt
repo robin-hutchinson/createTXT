@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Deltocephalus pulicaris
+Description=Checks date is within known recording period of Deltocephalus pulicaris
+ErrorMsg=Date is outside known recording period of Deltocephalus pulicaris
+Tvk=NHMSYS0020705327
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

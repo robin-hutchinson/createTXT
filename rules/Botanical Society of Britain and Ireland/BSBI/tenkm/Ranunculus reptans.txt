@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ranunculus reptans 10km
+Description=Check coordinate against known distribution of Ranunculus reptans
+ErrorMsg=Coordinate is outside known range for Ranunculus reptans
+DataFieldName=Species
+DataRecordId=NBNSYS0000002719
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NK05
+NN02
+NO10
+NO20
+NO30
+NO42
+NT19
+NY23
+NY31
+NY41
+NY42
+SD29
+SD39
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Edwardsiana alnicola
+Description=Checks date is within known flight period of Edwardsiana alnicola
+ErrorMsg=Date is outside known flight period of Edwardsiana alnicola
+Tvk=NHMSYS0020442321
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

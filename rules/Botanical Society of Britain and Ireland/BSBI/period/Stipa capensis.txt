@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Stipa capensis
+Description=Checks date is within known recording period of Stipa capensis
+ErrorMsg=Date is outside known recording period of Stipa capensis
+Tvk=NBNSYS0000033443
+StartDate=19580101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Psallus (Phylidea) quercus
+Description=Checks date is within known flight period of Psallus (Phylidea) quercus
+ErrorMsg=Date is outside known flight period of Psallus (Phylidea) quercus
+Tvk=NHMSYS0020309730
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

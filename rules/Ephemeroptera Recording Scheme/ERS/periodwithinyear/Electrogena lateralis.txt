@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Electrogena lateralis
+Description=Checks date is within known flight period of Electrogena lateralis
+ErrorMsg=Date is outside known flight period of Electrogena lateralis
+Tvk=NBNSYS0100002944
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

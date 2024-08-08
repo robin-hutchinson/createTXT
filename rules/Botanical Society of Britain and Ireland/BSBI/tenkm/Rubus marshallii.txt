@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus marshallii 10km
+Description=Check coordinate against known distribution of Rubus marshallii
+ErrorMsg=Coordinate is outside known range for Rubus marshallii
+DataFieldName=Species
+DataRecordId=NHMSYS0000462775
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ05
+SO51
+SO61
+SO80
+SO81
+SO91
+SP40
+SU62
+SU63
+SU67
+SU71
+SU72
+SU76
+SU79
+SU82
+SU83
+SU84
+SU85
+SU86
+SU88
+SU91
+SU92
+SU93
+SU94
+SU95
+SY68
+TG10
+TL01
+TQ01
+TQ02
+TQ04
+TQ05
+TQ08
+TQ14
+TQ23
+TQ27
+TQ45
+TQ47
+TQ53
+TQ63
+TQ66
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ancylolomia tentaculella
+Description=Checks date is within known flight period of Ancylolomia tentaculella
+ErrorMsg=Date is outside known flight period of Ancylolomia tentaculella
+Tvk=NHMSYS0000501240
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

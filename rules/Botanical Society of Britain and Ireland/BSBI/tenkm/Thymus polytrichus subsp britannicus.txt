@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Thymus polytrichus subsp. britannicus 10km
+Description=Check coordinate against known distribution of Thymus polytrichus subsp. britannicus
+ErrorMsg=Coordinate is outside known range for Thymus polytrichus subsp. britannicus
+DataFieldName=Species
+DataRecordId=NHMSYS0100003112
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY33
+HY63
+NT34
+NX15
+TQ79
+
+

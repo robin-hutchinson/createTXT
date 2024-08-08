@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Gitanopsis bispinosa 10km
+Description=Check coordinate against known distribution of Gitanopsis bispinosa
+ErrorMsg=Coordinate is outside known range for Gitanopsis bispinosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000182247
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SX40
+
+

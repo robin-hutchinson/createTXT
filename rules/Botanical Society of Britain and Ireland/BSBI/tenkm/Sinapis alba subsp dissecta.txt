@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sinapis alba subsp. dissecta 10km
+Description=Check coordinate against known distribution of Sinapis alba subsp. dissecta
+ErrorMsg=Coordinate is outside known range for Sinapis alba subsp. dissecta
+DataFieldName=Species
+DataRecordId=NHMSYS0000463613
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ16
+NT27
+NT28
+SD83
+SO60
+SO81
+SS78
+ST57
+ST66
+ST67
+TL44
+TL47
+TL65
+TQ27
+
+

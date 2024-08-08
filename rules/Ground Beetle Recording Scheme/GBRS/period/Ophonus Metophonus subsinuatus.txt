@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Ophonus (Metophonus) subsinuatus
+Description=Checks date is within known recording period of Ophonus (Metophonus) subsinuatus
+ErrorMsg=Date is outside known recording period of Ophonus (Metophonus) subsinuatus
+Tvk=NHMSYS0001719334
+StartDate=20010101
+EndDate=18861213
+LastChanged=20240808
+[EndMetadata]

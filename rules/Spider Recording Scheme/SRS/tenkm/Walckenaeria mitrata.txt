@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Walckenaeria mitrata 10km
+Description=Check coordinate against known distribution of Walckenaeria mitrata
+ErrorMsg=Coordinate is outside known range for Walckenaeria mitrata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008970
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ95
+TR15
+
+

@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Reseda odorata 10km
+Description=Check coordinate against known distribution of Reseda odorata
+ErrorMsg=Coordinate is outside known range for Reseda odorata
+DataFieldName=Species
+DataRecordId=NBNSYS0000014367
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX40
+NZ53
+SC28
+SC37
+SC49
+SP50
+SU96
+SW61
+SW73
+SW83
+SW84
+SX05
+SY68
+TG20
+TL02
+TL77
+TL92
+TM02
+TQ07
+TQ08
+TQ26
+TQ27
+TQ38
+TQ48
+TQ89
+
+

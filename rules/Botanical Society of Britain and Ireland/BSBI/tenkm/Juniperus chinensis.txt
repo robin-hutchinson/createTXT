@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Juniperus chinensis 10km
+Description=Check coordinate against known distribution of Juniperus chinensis
+ErrorMsg=Coordinate is outside known range for Juniperus chinensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000033669
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN51
+SO29
+SW75
+TL83
+TL92
+TM02
+TM16
+
+

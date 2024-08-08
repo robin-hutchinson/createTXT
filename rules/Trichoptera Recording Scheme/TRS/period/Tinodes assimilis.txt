@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Tinodes assimilis
+Description=Checks date is within known recording period of Tinodes assimilis
+ErrorMsg=Date is outside known recording period of Tinodes assimilis
+Tvk=NBNSYS0000008389
+StartDate=18620101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

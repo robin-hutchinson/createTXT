@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rhododendron arboreum 10km
+Description=Check coordinate against known distribution of Rhododendron arboreum
+ErrorMsg=Coordinate is outside known range for Rhododendron arboreum
+DataFieldName=Species
+DataRecordId=NHMSYS0000462375
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW84
+SX37
+TL01
+
+

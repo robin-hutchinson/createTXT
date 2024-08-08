@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Epermenia insecurella
+Description=Checks date is within known flight period of Epermenia insecurella
+ErrorMsg=Date is outside known flight period of Epermenia insecurella
+Tvk=NHMSYS0000502393
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

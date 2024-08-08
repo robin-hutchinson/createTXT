@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Cetema cereris
+Description=Checks date is within known flight period of Cetema cereris
+ErrorMsg=Date is outside known flight period of Cetema cereris
+Tvk=NBNSYS0000029975
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

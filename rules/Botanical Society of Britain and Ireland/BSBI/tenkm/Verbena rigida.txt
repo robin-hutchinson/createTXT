@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbena rigida 10km
+Description=Check coordinate against known distribution of Verbena rigida
+ErrorMsg=Coordinate is outside known range for Verbena rigida
+DataFieldName=Species
+DataRecordId=NHMSYS0000464808
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+ST67
+SZ79
+TM14
+TQ05
+TQ06
+TQ17
+TQ18
+TQ27
+TQ57
+
+

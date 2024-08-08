@@ -1,0 +1,42 @@
+[Metadata]
+TestType=IdentificationDifficulty
+Organisation=Mammal Society
+LastChanged= 20240808
+[EndMetadata]
+
+[INI]
+1=Easily recognised, even by beginners. Accept records from most sources.
+3=Can be identified with some training or experience. May pose some difficulty in some conditions or by some methods. Less experienced recorders should provide additional information(e.g. for detector records recordings of calls; for visual /in hand measurements or photographs)
+4=Difficult to identify in most conditions. Additional information is required (for detector records detailed analysis of calls; for visual/in hand measurements or photographs)
+5=Needs confirmation by an expert (Detector records to be examined by expert; in hand may require additional information or specialist techiques such as DNA analysis to confirm)
+
+[DATA]
+NHMSYS0000080178=3
+NHMSYS0000528006=5
+NHMSYS0000528007=5
+NHMSYS0000528008=4
+NHMSYS0020774288=5
+NHMSYS0020774291=5
+NBNSYS0000040730=3
+NHMSYS0020636762=5
+NHMSYS0000528024=4
+NHMSYS0000528026=5
+NHMSYS0000528028=4
+NHMSYS0000528029=5
+NHMSYS0000080182=4
+NHMSYS0000080183=5
+NHMSYS0000080184=4
+NHMSYS0000080185=4
+NHMSYS0000080186=3
+NBNSYS0000136578=1
+NHMSYS0000377112=5
+NHMSYS0000080187=3
+NHMSYS0020001355=3
+NBNSYS0100004720=3
+NBNSYS0000136687=3
+NBNSYS0000005102=5
+NBNSYS0000005103=5
+NBNSYS0000137324=1
+NHMSYS0000080176=3
+NHMSYS0000080177=3
+NBNSYS0000005095=5

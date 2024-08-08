@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Chlamydatus (Eurymerocoris) evanescens
+Description=Checks date is within known recording period of Chlamydatus (Eurymerocoris) evanescens
+ErrorMsg=Date is outside known recording period of Chlamydatus (Eurymerocoris) evanescens
+Tvk=NHMSYS0020309079
+StartDate=18520101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

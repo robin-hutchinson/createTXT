@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ectoedemia heringi
+Description=Checks date is within known flight period of Ectoedemia heringi
+ErrorMsg=Date is outside known flight period of Ectoedemia heringi
+Tvk=NHMSYS0000502271
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

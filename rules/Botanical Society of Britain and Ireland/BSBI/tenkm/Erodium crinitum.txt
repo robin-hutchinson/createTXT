@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Erodium crinitum 10km
+Description=Check coordinate against known distribution of Erodium crinitum
+ErrorMsg=Coordinate is outside known range for Erodium crinitum
+DataFieldName=Species
+DataRecordId=NBNSYS0000033088
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT53
+NZ21
+SE11
+SE13
+SE22
+SE32
+SE44
+SP04
+SU73
+TL03
+TL14
+TL15
+TL23
+TQ57
+
+

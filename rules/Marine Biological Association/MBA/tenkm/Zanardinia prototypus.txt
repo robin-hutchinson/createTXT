@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Zanardinia prototypus 10km
+Description=Check coordinate against known distribution of Zanardinia prototypus
+ErrorMsg=Coordinate is outside known range for Zanardinia prototypus
+DataFieldName=Species
+DataRecordId=NBNSYS0000178657
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM72
+SM73
+SM80
+SM83
+SR99
+SS10
+SS11
+SS14
+SS44
+SS54
+SS64
+SS75
+SW87
+SW98
+SX04
+SX09
+SX19
+SX64
+SY39
+SY49
+SY67
+SY77
+SY87
+SY97
+SZ07
+SZ28
+SZ38
+
+
+[10km_Ireland]
+W02
+Y87
+Y95
+Y97
+Y98
+
+

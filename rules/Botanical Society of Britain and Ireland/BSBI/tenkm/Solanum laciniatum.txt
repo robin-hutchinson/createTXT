@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Solanum laciniatum 10km
+Description=Check coordinate against known distribution of Solanum laciniatum
+ErrorMsg=Coordinate is outside known range for Solanum laciniatum
+DataFieldName=Species
+DataRecordId=NBNSYS0000033796
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS02
+SC26
+SS84
+SV81
+SV91
+SW54
+SW75
+SW83
+SY07
+SZ68
+SZ69
+TL02
+TM33
+TQ27
+TV69
+
+
+NA
+
+

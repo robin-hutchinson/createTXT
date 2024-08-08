@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Metalimnus formosus 10km
+Description=Check coordinate against known distribution of Metalimnus formosus
+ErrorMsg=Coordinate is outside known range for Metalimnus formosus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442437
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TG30
+TL78
+
+

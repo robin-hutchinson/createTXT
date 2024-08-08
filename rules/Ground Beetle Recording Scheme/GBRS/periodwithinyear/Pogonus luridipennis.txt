@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Pogonus luridipennis
+Description=Checks date is within known flight period of Pogonus luridipennis
+ErrorMsg=Date is outside known flight period of Pogonus luridipennis
+Tvk=NBNSYS0000007276
+DataFieldName=
+StartDate=0301
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

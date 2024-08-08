@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Steatoda albomaculata 10km
+Description=Check coordinate against known distribution of Steatoda albomaculata
+ErrorMsg=Coordinate is outside known range for Steatoda albomaculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008876
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS87
+SU95
+SU96
+SY88
+TF94
+TL78
+TL88
+TM24
+TM34
+TM46
+
+

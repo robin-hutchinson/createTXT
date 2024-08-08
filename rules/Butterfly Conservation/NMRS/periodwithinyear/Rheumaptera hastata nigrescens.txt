@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Rheumaptera hastata nigrescens
+Description=Checks date is within known flight period of Rheumaptera hastata nigrescens
+ErrorMsg=Date is outside known flight period of Rheumaptera hastata nigrescens
+Tvk=NHMSYS0021144035
+DataFieldName=
+StartDate=0501
+EndDate=0721
+LastChanged=20240808
+[EndMetadata]

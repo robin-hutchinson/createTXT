@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Bradycellus sharpi
+Description=Checks date is within known recording period of Bradycellus sharpi
+ErrorMsg=Date is outside known recording period of Bradycellus sharpi
+Tvk=NBNSYS0000007424
+StartDate=19130101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

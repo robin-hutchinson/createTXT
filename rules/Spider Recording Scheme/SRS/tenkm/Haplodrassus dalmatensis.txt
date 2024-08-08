@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Haplodrassus dalmatensis 10km
+Description=Check coordinate against known distribution of Haplodrassus dalmatensis
+ErrorMsg=Coordinate is outside known range for Haplodrassus dalmatensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008646
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH46
+SU94
+SW62
+SX84
+SY89
+SY98
+TM01
+TM11
+TM23
+TM46
+TM47
+TQ91
+TR23
+TR35
+TR36
+
+

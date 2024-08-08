@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Pilinia rimosa 10km
+Description=Check coordinate against known distribution of Pilinia rimosa
+ErrorMsg=Coordinate is outside known range for Pilinia rimosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000185689
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ90
+NM94
+NO51
+NS15
+NT67
+NU05
+NX91
+SJ18
+SJ39
+SM70
+SM72
+SM80
+SM90
+SU60
+SZ08
+TF84
+TG50
+TR36
+TR37
+
+

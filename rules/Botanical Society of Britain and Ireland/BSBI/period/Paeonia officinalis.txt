@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Paeonia officinalis
+Description=Checks date is within known recording period of Paeonia officinalis
+ErrorMsg=Date is outside known recording period of Paeonia officinalis
+Tvk=NHMSYS0000461446
+StartDate=16500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

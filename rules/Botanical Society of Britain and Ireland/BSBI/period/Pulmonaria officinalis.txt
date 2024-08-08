@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Pulmonaria officinalis
+Description=Checks date is within known recording period of Pulmonaria officinalis
+ErrorMsg=Date is outside known recording period of Pulmonaria officinalis
+Tvk=NBNSYS0000004004
+StartDate=17930101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

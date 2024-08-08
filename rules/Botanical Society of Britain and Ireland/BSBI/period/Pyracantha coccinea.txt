@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Pyracantha coccinea
+Description=Checks date is within known recording period of Pyracantha coccinea
+ErrorMsg=Date is outside known recording period of Pyracantha coccinea
+Tvk=NHMSYS0000462184
+StartDate=19050101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

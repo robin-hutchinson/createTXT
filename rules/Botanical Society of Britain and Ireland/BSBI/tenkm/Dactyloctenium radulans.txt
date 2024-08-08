@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactyloctenium radulans 10km
+Description=Check coordinate against known distribution of Dactyloctenium radulans
+ErrorMsg=Coordinate is outside known range for Dactyloctenium radulans
+DataFieldName=Species
+DataRecordId=NHMSYS0000457870
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE13
+SP04
+SU73
+TL03
+TQ57
+
+

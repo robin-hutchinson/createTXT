@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Sphecodes hyalinatus
+Description=Checks date is within known flight period of Sphecodes hyalinatus
+ErrorMsg=Date is outside known flight period of Sphecodes hyalinatus
+Tvk=NHMSYS0000876683
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

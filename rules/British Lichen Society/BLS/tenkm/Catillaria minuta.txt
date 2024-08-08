@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Catillaria minuta 10km
+Description=Check coordinate against known distribution of Catillaria minuta
+ErrorMsg=Coordinate is outside known range for Catillaria minuta
+DataFieldName=Species
+DataRecordId=NBNSYS0000018319
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK16
+SN58
+SX78
+SX87
+
+

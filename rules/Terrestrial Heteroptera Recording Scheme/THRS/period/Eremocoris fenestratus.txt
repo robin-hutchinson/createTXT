@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Eremocoris fenestratus
+Description=Checks date is within known recording period of Eremocoris fenestratus
+ErrorMsg=Date is outside known recording period of Eremocoris fenestratus
+Tvk=NHMSYS0020442331
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

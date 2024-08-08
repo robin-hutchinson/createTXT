@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Mammal Society/MS Recording Period
+ShortName=Neovison vison
+Description=Checks date is within known recording period of Neovison vison
+ErrorMsg=Date is outside known recording period of Neovison vison
+Tvk=NHMSYS0020774297
+StartDate=19290101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

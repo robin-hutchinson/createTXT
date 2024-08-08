@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Tricimba humeralis 10km
+Description=Check coordinate against known distribution of Tricimba humeralis
+ErrorMsg=Coordinate is outside known range for Tricimba humeralis
+DataFieldName=Species
+DataRecordId=NBNSYS0100005892
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU66
+SU67
+SU68
+SU76
+SU77
+SU78
+SU86
+SU87
+SU88
+TQ64
+TQ65
+TQ66
+TQ74
+TQ75
+TQ76
+TQ84
+TQ85
+TQ86
+
+

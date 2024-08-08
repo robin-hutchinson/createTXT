@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Trifolium hirtum
+Description=Checks date is within known recording period of Trifolium hirtum
+ErrorMsg=Date is outside known recording period of Trifolium hirtum
+Tvk=NBNSYS0000014603
+StartDate=19060101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

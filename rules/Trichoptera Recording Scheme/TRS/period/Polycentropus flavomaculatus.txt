@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Polycentropus flavomaculatus
+Description=Checks date is within known recording period of Polycentropus flavomaculatus
+ErrorMsg=Date is outside known recording period of Polycentropus flavomaculatus
+Tvk=NBNSYS0000008409
+StartDate=18250101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

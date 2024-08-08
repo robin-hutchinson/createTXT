@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca rubra x Vulpia bromoides 10km
+Description=Check coordinate against known distribution of Festuca rubra x Vulpia bromoides
+ErrorMsg=Coordinate is outside known range for Festuca rubra x Vulpia bromoides
+DataFieldName=Species
+DataRecordId=NBNSYS0000034236
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ52
+SP58
+SS59
+ST57
+TA02
+TM34
+TM58
+TQ00
+
+
+NA
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Tinicephalus (Tinicephalus) hortulanus
+Description=Checks date is within known recording period of Tinicephalus (Tinicephalus) hortulanus
+ErrorMsg=Date is outside known recording period of Tinicephalus (Tinicephalus) hortulanus
+Tvk=NHMSYS0020309907
+StartDate=18430101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

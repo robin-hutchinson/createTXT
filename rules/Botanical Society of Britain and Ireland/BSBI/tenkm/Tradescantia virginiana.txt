@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tradescantia virginiana 10km
+Description=Check coordinate against known distribution of Tradescantia virginiana
+ErrorMsg=Coordinate is outside known range for Tradescantia virginiana
+DataFieldName=Species
+DataRecordId=NBNSYS0000014753
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC49
+SK11
+SK54
+SO77
+SO87
+SO94
+SO96
+SO98
+SP40
+SP50
+ST72
+SU00
+SU68
+SU76
+SU85
+SU86
+SU94
+SU96
+SY98
+TL11
+TL45
+TQ04
+TQ05
+TQ06
+TQ38
+
+
+NA
+
+

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus cotteswoldensis 10km
+Description=Check coordinate against known distribution of Rubus cotteswoldensis
+ErrorMsg=Coordinate is outside known range for Rubus cotteswoldensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462649
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO51
+SO81
+SO90
+SO91
+SP00
+SP01
+SP02
+SP03
+SP12
+SP13
+SP22
+SP23
+SP60
+
+

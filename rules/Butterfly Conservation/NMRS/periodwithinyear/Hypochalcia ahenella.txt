@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Hypochalcia ahenella
+Description=Checks date is within known flight period of Hypochalcia ahenella
+ErrorMsg=Date is outside known flight period of Hypochalcia ahenella
+Tvk=NHMSYS0021143647
+DataFieldName=
+StartDate=0501
+EndDate=0815
+LastChanged=20240808
+[EndMetadata]

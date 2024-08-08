@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Gryllus assimilis
+Description=Checks date is within known recording period of Gryllus assimilis
+ErrorMsg=Date is outside known recording period of Gryllus assimilis
+Tvk=NHMSYS0020978458
+StartDate=20040101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

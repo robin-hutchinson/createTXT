@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Achlya flavicornis galbanus
+Description=Checks date is within known flight period of Achlya flavicornis galbanus
+ErrorMsg=Date is outside known flight period of Achlya flavicornis galbanus
+Tvk=NHMSYS0021143802
+DataFieldName=
+StartDate=0215
+EndDate=0515
+LastChanged=20240808
+[EndMetadata]

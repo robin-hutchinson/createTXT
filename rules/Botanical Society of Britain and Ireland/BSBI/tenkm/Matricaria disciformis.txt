@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Matricaria disciformis 10km
+Description=Check coordinate against known distribution of Matricaria disciformis
+ErrorMsg=Coordinate is outside known range for Matricaria disciformis
+DataFieldName=Species
+DataRecordId=NHMSYS0000460609
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C72
+
+
+[10km_GB]
+SD09
+TA30
+
+

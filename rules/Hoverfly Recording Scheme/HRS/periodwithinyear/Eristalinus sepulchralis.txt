@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Eristalinus sepulchralis
+Description=Checks date is within known flight period of Eristalinus sepulchralis
+ErrorMsg=Date is outside known flight period of Eristalinus sepulchralis
+Tvk=NBNSYS0000007045
+DataFieldName=
+StartDate=0410
+EndDate=1102
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Margyricarpus pinnatus 10km
+Description=Check coordinate against known distribution of Margyricarpus pinnatus
+ErrorMsg=Coordinate is outside known range for Margyricarpus pinnatus
+DataFieldName=Species
+DataRecordId=NBNSYS0200002601
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN34
+
+

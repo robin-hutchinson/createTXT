@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Cymindis (Cymindis) macularis
+Description=Checks date is within known recording period of Cymindis (Cymindis) macularis
+ErrorMsg=Date is outside known recording period of Cymindis (Cymindis) macularis
+Tvk=NHMSYS0001717794
+StartDate=19820101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

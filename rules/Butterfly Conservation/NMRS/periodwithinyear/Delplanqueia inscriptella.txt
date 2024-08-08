@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Delplanqueia inscriptella
+Description=Checks date is within known flight period of Delplanqueia inscriptella
+ErrorMsg=Date is outside known flight period of Delplanqueia inscriptella
+Tvk=NHMSYS0021162645
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

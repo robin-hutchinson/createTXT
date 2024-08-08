@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Cochylis nana
+Description=Checks date is within known flight period of Cochylis nana
+ErrorMsg=Date is outside known flight period of Cochylis nana
+Tvk=NHMSYS0000501797
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

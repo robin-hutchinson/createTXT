@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Riccia canaliculata 10km
+Description=Check coordinate against known distribution of Riccia canaliculata
+ErrorMsg=Coordinate is outside known range for Riccia canaliculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000036053
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN70
+NS79
+
+

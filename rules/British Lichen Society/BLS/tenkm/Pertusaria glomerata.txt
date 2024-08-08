@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pertusaria glomerata 10km
+Description=Check coordinate against known distribution of Pertusaria glomerata
+ErrorMsg=Coordinate is outside known range for Pertusaria glomerata
+DataFieldName=Species
+DataRecordId=NBNSYS0000019394
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC44
+NC45
+NG97
+NN47
+NN64
+NO17
+
+

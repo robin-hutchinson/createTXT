@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Alnetoidea alneti
+Description=Checks date is within known recording period of Alnetoidea alneti
+ErrorMsg=Date is outside known recording period of Alnetoidea alneti
+Tvk=NHMSYS0020705191
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Symphytum asperum 10km
+Description=Check coordinate against known distribution of Symphytum asperum
+ErrorMsg=Coordinate is outside known range for Symphytum asperum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464109
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J18
+
+
+[10km_GB]
+NH54
+NH75
+NT52
+NT77
+NY40
+NZ08
+NZ18
+NZ28
+SJ16
+SJ70
+SK16
+SK54
+SN77
+ST32
+ST44
+ST66
+SU89
+TF09
+TF63
+TG02
+TG10
+TG20
+TG50
+TL40
+TL41
+TL45
+TL64
+TL74
+TM08
+TM09
+
+

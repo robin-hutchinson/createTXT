@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Pentaglottis sempervirens
+Description=Checks date is within known recording period of Pentaglottis sempervirens
+ErrorMsg=Date is outside known recording period of Pentaglottis sempervirens
+Tvk=NHMSYS0000461565
+StartDate=17240101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

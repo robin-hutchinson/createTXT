@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Iris spuria 10km
+Description=Check coordinate against known distribution of Iris spuria
+ErrorMsg=Coordinate is outside known range for Iris spuria
+DataFieldName=Species
+DataRecordId=NBNSYS0000002266
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH97
+ST36
+SU75
+SU85
+SU96
+SY68
+TF57
+TQ67
+
+

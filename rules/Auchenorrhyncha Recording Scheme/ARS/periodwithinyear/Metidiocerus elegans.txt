@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Metidiocerus elegans
+Description=Checks date is within known flight period of Metidiocerus elegans
+ErrorMsg=Date is outside known flight period of Metidiocerus elegans
+Tvk=NHMSYS0020705634
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

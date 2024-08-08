@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Plagiobothrys scouleri 10km
+Description=Check coordinate against known distribution of Plagiobothrys scouleri
+ErrorMsg=Coordinate is outside known range for Plagiobothrys scouleri
+DataFieldName=Species
+DataRecordId=NHMSYS0000461756
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HP60
+ND16
+NK15
+SJ91
+SP83
+SU13
+SU30
+SU97
+SZ39
+SZ59
+
+

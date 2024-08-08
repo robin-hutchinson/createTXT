@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium leyanum 10km
+Description=Check coordinate against known distribution of Hieracium leyanum
+ErrorMsg=Coordinate is outside known range for Hieracium leyanum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840993
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN90
+SN92
+SO01
+SO02
+SO11
+SO23
+ST59
+SY67
+SY77
+
+

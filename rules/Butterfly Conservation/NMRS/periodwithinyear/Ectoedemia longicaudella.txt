@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ectoedemia longicaudella
+Description=Checks date is within known flight period of Ectoedemia longicaudella
+ErrorMsg=Date is outside known flight period of Ectoedemia longicaudella
+Tvk=NHMSYS0021142145
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

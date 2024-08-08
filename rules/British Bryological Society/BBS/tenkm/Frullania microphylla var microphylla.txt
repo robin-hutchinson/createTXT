@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Frullania microphylla var. microphylla 10km
+Description=Check coordinate against known distribution of Frullania microphylla var. microphylla
+ErrorMsg=Coordinate is outside known range for Frullania microphylla var. microphylla
+DataFieldName=Species
+DataRecordId=NHMSYS0000309906
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM50
+SM62
+SM70
+SM71
+SM72
+SM73
+SM80
+SM84
+SM94
+SN15
+SR89
+SR99
+SS09
+SS10
+SS11
+SS14
+SS19
+SS38
+SS39
+SV80
+SV81
+SV90
+SV91
+SW32
+SW33
+SW44
+SW52
+SW54
+SW61
+SW65
+SW76
+SW81
+SW82
+SW87
+SW93
+SW98
+SX03
+SX09
+SX14
+
+

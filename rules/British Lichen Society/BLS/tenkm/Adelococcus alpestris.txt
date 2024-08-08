@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Adelococcus alpestris 10km
+Description=Check coordinate against known distribution of Adelococcus alpestris
+ErrorMsg=Coordinate is outside known range for Adelococcus alpestris
+DataFieldName=Species
+DataRecordId=NBNSYS0000020194
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD77
+SD78
+SD87
+
+

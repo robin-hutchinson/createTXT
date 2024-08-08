@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pandemis corylana
+Description=Checks date is within known recording period of Pandemis corylana
+ErrorMsg=Date is outside known recording period of Pandemis corylana
+Tvk=NHMSYS0000503576
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

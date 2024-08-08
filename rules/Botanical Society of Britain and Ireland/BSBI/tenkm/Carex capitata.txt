@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex capitata 10km
+Description=Check coordinate against known distribution of Carex capitata
+ErrorMsg=Coordinate is outside known range for Carex capitata
+DataFieldName=Species
+DataRecordId=NBNSYS0000002491
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM39
+
+

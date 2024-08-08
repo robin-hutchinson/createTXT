@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Polyblastia helvetica 10km
+Description=Check coordinate against known distribution of Polyblastia helvetica
+ErrorMsg=Coordinate is outside known range for Polyblastia helvetica
+DataFieldName=Species
+DataRecordId=NBNSYS0000020625
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ00
+NN17
+NN43
+NN47
+NN48
+NN53
+
+

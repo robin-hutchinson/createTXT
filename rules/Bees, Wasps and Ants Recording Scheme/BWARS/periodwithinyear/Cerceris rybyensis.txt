@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Cerceris rybyensis
+Description=Checks date is within known flight period of Cerceris rybyensis
+ErrorMsg=Date is outside known flight period of Cerceris rybyensis
+Tvk=NHMSYS0000875634
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

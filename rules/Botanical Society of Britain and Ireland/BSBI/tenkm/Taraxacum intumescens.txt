@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum intumescens 10km
+Description=Check coordinate against known distribution of Taraxacum intumescens
+ErrorMsg=Coordinate is outside known range for Taraxacum intumescens
+DataFieldName=Species
+DataRecordId=NHMSYS0000464239
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN41
+SN50
+SN73
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Sphaerophoria loewi
+Description=Checks date is within known flight period of Sphaerophoria loewi
+ErrorMsg=Date is outside known flight period of Sphaerophoria loewi
+Tvk=NBNSYS0000006955
+DataFieldName=
+StartDate=0606
+EndDate=0902
+LastChanged=20240808
+[EndMetadata]

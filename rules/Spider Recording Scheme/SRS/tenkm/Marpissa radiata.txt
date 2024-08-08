@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Marpissa radiata 10km
+Description=Check coordinate against known distribution of Marpissa radiata
+ErrorMsg=Coordinate is outside known range for Marpissa radiata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008765
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS69
+SS79
+TF62
+TF93
+TG31
+TG32
+TG42
+TL57
+TL66
+TL78
+TL79
+TL97
+TM07
+TM08
+TM09
+
+

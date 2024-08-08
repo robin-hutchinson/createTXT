@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Alchemilla minima 10km
+Description=Check coordinate against known distribution of Alchemilla minima
+ErrorMsg=Coordinate is outside known range for Alchemilla minima
+DataFieldName=Species
+DataRecordId=NBNSYS0000003376
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD67
+SD77
+SD78
+
+

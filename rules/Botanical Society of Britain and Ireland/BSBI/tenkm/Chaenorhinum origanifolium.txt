@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chaenorhinum origanifolium 10km
+Description=Check coordinate against known distribution of Chaenorhinum origanifolium
+ErrorMsg=Coordinate is outside known range for Chaenorhinum origanifolium
+DataFieldName=Species
+DataRecordId=NBNSYS0000004073
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD47
+SH78
+ST54
+SX96
+TQ15
+TQ38
+TQ65
+
+

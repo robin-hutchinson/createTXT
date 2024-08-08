@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Strophedra weirana
+Description=Checks date is within known flight period of Strophedra weirana
+ErrorMsg=Date is outside known flight period of Strophedra weirana
+Tvk=NHMSYS0000504406
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

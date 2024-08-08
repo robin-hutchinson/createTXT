@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactylorhiza incarnata subsp. gemmana 10km
+Description=Check coordinate against known distribution of Dactylorhiza incarnata subsp. gemmana
+ErrorMsg=Coordinate is outside known range for Dactylorhiza incarnata subsp. gemmana
+DataFieldName=Species
+DataRecordId=NHMSYS0000457913
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+O30
+R99
+S87
+
+
+[10km_GB]
+SK90
+SP40
+SU50
+SU61
+TQ07
+
+

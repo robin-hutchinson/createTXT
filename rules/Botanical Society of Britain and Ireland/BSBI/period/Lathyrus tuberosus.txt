@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lathyrus tuberosus
+Description=Checks date is within known recording period of Lathyrus tuberosus
+ErrorMsg=Date is outside known recording period of Lathyrus tuberosus
+Tvk=NBNSYS0000003302
+StartDate=18590101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

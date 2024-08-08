@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Oxalis megalorrhiza 10km
+Description=Check coordinate against known distribution of Oxalis megalorrhiza
+ErrorMsg=Coordinate is outside known range for Oxalis megalorrhiza
+DataFieldName=Species
+DataRecordId=NBNSYS0000003179
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV81
+SV91
+SW33
+SW83
+SY07
+
+
+NA
+
+

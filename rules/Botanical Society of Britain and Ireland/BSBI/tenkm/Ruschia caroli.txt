@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ruschia caroli 10km
+Description=Check coordinate against known distribution of Ruschia caroli
+ErrorMsg=Coordinate is outside known range for Ruschia caroli
+DataFieldName=Species
+DataRecordId=NHMSYS0000463026
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV81
+SV91
+
+

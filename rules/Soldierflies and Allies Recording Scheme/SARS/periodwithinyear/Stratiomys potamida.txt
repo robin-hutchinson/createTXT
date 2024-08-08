@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Stratiomys potamida
+Description=Checks date is within known flight period of Stratiomys potamida
+ErrorMsg=Date is outside known flight period of Stratiomys potamida
+Tvk=NBNSYS0000007842
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

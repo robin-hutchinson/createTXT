@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Ropalospora hibernica 10km
+Description=Check coordinate against known distribution of Ropalospora hibernica
+ErrorMsg=Coordinate is outside known range for Ropalospora hibernica
+DataFieldName=Species
+DataRecordId=NHMSYS0001496545
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM26
+NM76
+
+
+[10km_Ireland]
+Q30
+
+

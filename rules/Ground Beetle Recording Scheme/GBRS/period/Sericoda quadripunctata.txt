@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Sericoda quadripunctata
+Description=Checks date is within known recording period of Sericoda quadripunctata
+ErrorMsg=Date is outside known recording period of Sericoda quadripunctata
+Tvk=NHMSYS0001720084
+StartDate=
+EndDate=19801213
+LastChanged=20240808
+[EndMetadata]

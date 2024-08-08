@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbena bonariensis 10km
+Description=Check coordinate against known distribution of Verbena bonariensis
+ErrorMsg=Coordinate is outside known range for Verbena bonariensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000034355
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT53
+NX40
+SC37
+SC39
+SD62
+SK04
+SO52
+SP04
+SP40
+SP50
+SP82
+SS69
+SS94
+ST57
+ST63
+SU73
+SU77
+SU89
+SZ38
+TL03
+TQ05
+TQ27
+TQ28
+TQ37
+TQ39
+TQ46
+TQ70
+TQ73
+TQ88
+
+

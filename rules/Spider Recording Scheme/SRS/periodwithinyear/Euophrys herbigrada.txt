@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Euophrys herbigrada
+Description=Checks date is within known flight period of Euophrys herbigrada
+ErrorMsg=Date is outside known flight period of Euophrys herbigrada
+Tvk=NBNSYS0000008772
+DataFieldName=
+StartDate=0319
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

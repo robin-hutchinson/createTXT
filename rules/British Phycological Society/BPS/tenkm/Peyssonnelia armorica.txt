@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Peyssonnelia armorica 10km
+Description=Check coordinate against known distribution of Peyssonnelia armorica
+ErrorMsg=Coordinate is outside known range for Peyssonnelia armorica
+DataFieldName=Species
+DataRecordId=NHMSYS0000568063
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV80
+
+

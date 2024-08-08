@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Photedes fluxa
+Description=Checks date is within known recording period of Photedes fluxa
+ErrorMsg=Date is outside known recording period of Photedes fluxa
+Tvk=NHMSYS0021144643
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

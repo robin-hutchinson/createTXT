@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Caenis horaria
+Description=Checks date is within known flight period of Caenis horaria
+ErrorMsg=Date is outside known flight period of Caenis horaria
+Tvk=NHMSYS0000066966
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

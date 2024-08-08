@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Leucoptera malifoliella
+Description=Checks date is within known flight period of Leucoptera malifoliella
+ErrorMsg=Date is outside known flight period of Leucoptera malifoliella
+Tvk=NHMSYS0021142518
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

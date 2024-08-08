@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pronectria tenacis 10km
+Description=Check coordinate against known distribution of Pronectria tenacis
+ErrorMsg=Coordinate is outside known range for Pronectria tenacis
+DataFieldName=Species
+DataRecordId=NBNSYS0000018074
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN43
+SS43
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Chlorops ringens
+Description=Checks date is within known flight period of Chlorops ringens
+ErrorMsg=Date is outside known flight period of Chlorops ringens
+Tvk=NBNSYS0000029998
+DataFieldName=
+StartDate=0901
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

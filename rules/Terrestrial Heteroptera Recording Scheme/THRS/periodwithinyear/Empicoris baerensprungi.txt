@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Empicoris baerensprungi
+Description=Checks date is within known flight period of Empicoris baerensprungi
+ErrorMsg=Date is outside known flight period of Empicoris baerensprungi
+Tvk=NHMSYS0020309209
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

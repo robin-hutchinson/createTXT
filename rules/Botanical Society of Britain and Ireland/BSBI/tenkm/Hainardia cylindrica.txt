@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hainardia cylindrica 10km
+Description=Check coordinate against known distribution of Hainardia cylindrica
+ErrorMsg=Coordinate is outside known range for Hainardia cylindrica
+DataFieldName=Species
+DataRecordId=NBNSYS0000034037
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH85
+NT53
+SD52
+SD75
+SD90
+SK09
+SP50
+ST57
+ST61
+SU94
+TA30
+TG20
+TL03
+TL10
+TL30
+TQ05
+TQ07
+TQ08
+TQ24
+TQ27
+TQ32
+
+

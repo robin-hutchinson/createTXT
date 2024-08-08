@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Pachygaster leachii
+Description=Checks date is within known flight period of Pachygaster leachii
+ErrorMsg=Date is outside known flight period of Pachygaster leachii
+Tvk=NBNSYS0100020703
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Lipara lucens 10km
+Description=Check coordinate against known distribution of Lipara lucens
+ErrorMsg=Coordinate is outside known range for Lipara lucens
+DataFieldName=Species
+DataRecordId=NBNSYS0000029841
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE54
+SH61
+SK47
+SS58
+SS69
+SS78
+ST28
+ST48
+SU20
+SU33
+SU41
+SU50
+SU56
+SU94
+SY39
+SY49
+SY78
+SZ19
+TF70
+TF71
+TG24
+TG31
+TG32
+TG41
+TL28
+TL52
+TL56
+TL57
+TL66
+TL77
+TM45
+TM46
+TQ60
+TQ81
+
+

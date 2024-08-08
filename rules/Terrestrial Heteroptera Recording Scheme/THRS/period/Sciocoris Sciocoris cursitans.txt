@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Sciocoris (Sciocoris) cursitans
+Description=Checks date is within known recording period of Sciocoris (Sciocoris) cursitans
+ErrorMsg=Date is outside known recording period of Sciocoris (Sciocoris) cursitans
+Tvk=NHMSYS0020309806
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

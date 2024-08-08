@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Eupachygaster tarsalis 10km
+Description=Check coordinate against known distribution of Eupachygaster tarsalis
+ErrorMsg=Coordinate is outside known range for Eupachygaster tarsalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000007824
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO84
+SP03
+ST53
+ST84
+SU30
+TF20
+TL14
+TL26
+TL45
+TQ24
+TQ69
+
+

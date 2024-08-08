@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Caryocolum huebneri
+Description=Checks date is within known flight period of Caryocolum huebneri
+ErrorMsg=Date is outside known flight period of Caryocolum huebneri
+Tvk=NHMSYS0000501650
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

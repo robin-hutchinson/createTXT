@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Agrostis scabra 10km
+Description=Check coordinate against known distribution of Agrostis scabra
+ErrorMsg=Coordinate is outside known range for Agrostis scabra
+DataFieldName=Species
+DataRecordId=NBNSYS0000002642
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H57
+
+
+[10km_GB]
+NN37
+NS42
+NS43
+NS47
+NS56
+NS66
+NT27
+NT53
+SD52
+SD62
+SE13
+SE14
+SJ48
+SJ78
+SJ89
+SJ99
+SN57
+ST38
+SU73
+SU85
+TA02
+TL03
+TQ06
+TQ08
+TQ27
+TQ29
+TQ37
+TQ38
+TQ57
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Parornix atripalpella
+Description=Checks date is within known flight period of Parornix atripalpella
+ErrorMsg=Date is outside known flight period of Parornix atripalpella
+Tvk=NHMSYS0021166457
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

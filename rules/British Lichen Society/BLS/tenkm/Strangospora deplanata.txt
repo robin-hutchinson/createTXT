@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Strangospora deplanata 10km
+Description=Check coordinate against known distribution of Strangospora deplanata
+ErrorMsg=Coordinate is outside known range for Strangospora deplanata
+DataFieldName=Species
+DataRecordId=NBNSYS0000039794
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN86
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Colaconema bonnemaisoniae 10km
+Description=Check coordinate against known distribution of Colaconema bonnemaisoniae
+ErrorMsg=Coordinate is outside known range for Colaconema bonnemaisoniae
+DataFieldName=Species
+DataRecordId=NHMSYS0000377555
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT96
+NU06
+SS14
+SV91
+SW83
+SX44
+SY97
+
+

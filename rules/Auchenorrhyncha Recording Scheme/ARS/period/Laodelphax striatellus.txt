@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Laodelphax striatellus
+Description=Checks date is within known recording period of Laodelphax striatellus
+ErrorMsg=Date is outside known recording period of Laodelphax striatellus
+Tvk=NHMSYS0020442417
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

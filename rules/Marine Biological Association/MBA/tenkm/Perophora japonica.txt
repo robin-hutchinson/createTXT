@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Perophora japonica 10km
+Description=Check coordinate against known distribution of Perophora japonica
+ErrorMsg=Coordinate is outside known range for Perophora japonica
+DataFieldName=Species
+DataRecordId=NBNSYS0000185515
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SX45
+SY67
+SZ69
+
+

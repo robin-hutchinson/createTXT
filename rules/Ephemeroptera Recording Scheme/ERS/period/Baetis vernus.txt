@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ephemeroptera Recording Scheme/ERS Recording Period
+ShortName=Baetis vernus
+Description=Checks date is within known recording period of Baetis vernus
+ErrorMsg=Date is outside known recording period of Baetis vernus
+Tvk=NBNSYS0000010871
+StartDate=18340101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

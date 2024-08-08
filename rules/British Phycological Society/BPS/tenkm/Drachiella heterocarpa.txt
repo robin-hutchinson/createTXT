@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Drachiella heterocarpa 10km
+Description=Check coordinate against known distribution of Drachiella heterocarpa
+ErrorMsg=Coordinate is outside known range for Drachiella heterocarpa
+DataFieldName=Species
+DataRecordId=NHMSYS0000568121
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU47
+NB13
+NL57
+NR62
+NT67
+NU21
+NX43
+SC16
+SH11
+SH12
+SH13
+SH23
+SH31
+SH41
+SH52
+SM62
+SM70
+SM71
+SM72
+SM80
+SN14
+SN45
+SN57
+SS14
+SX03
+SX15
+SX44
+SX45
+SX84
+SX94
+SY87
+SZ68
+
+

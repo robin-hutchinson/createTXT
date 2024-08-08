@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix myrsinifolia x phylicifolia x myrsinites = S. x blyttiana 10km
+Description=Check coordinate against known distribution of Salix myrsinifolia x phylicifolia x myrsinites = S. x blyttiana
+ErrorMsg=Coordinate is outside known range for Salix myrsinifolia x phylicifolia x myrsinites = S. x blyttiana
+DataFieldName=Species
+DataRecordId=NHMSYS0100002828
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN54
+NO18
+NO27
+
+

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Buddleja alternifolia 10km
+Description=Check coordinate against known distribution of Buddleja alternifolia
+ErrorMsg=Coordinate is outside known range for Buddleja alternifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000014391
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC26
+SC49
+SE24
+SP83
+ST56
+ST57
+SU77
+TL04
+TL78
+TQ57
+
+

@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Nicotiana sylvestris 10km
+Description=Check coordinate against known distribution of Nicotiana sylvestris
+ErrorMsg=Coordinate is outside known range for Nicotiana sylvestris
+DataFieldName=Species
+DataRecordId=NBNSYS0000013941
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SZ58
+TA21
+
+
+NA
+
+

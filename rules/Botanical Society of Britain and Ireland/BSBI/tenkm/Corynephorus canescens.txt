@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Corynephorus canescens 10km
+Description=Check coordinate against known distribution of Corynephorus canescens
+ErrorMsg=Coordinate is outside known range for Corynephorus canescens
+DataFieldName=Species
+DataRecordId=NHMSYS0000457542
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J37
+
+
+[10km_GB]
+NJ26
+NJ27
+NJ36
+NM69
+NT67
+SD20
+SD21
+SD31
+SO77
+SO87
+SO88
+SS78
+TF55
+TF63
+TF64
+TF74
+TF84
+TF94
+TG04
+TG20
+TG41
+TG42
+TG50
+TG51
+TL78
+TL87
+TM46
+TM47
+TM57
+TM58
+TM59
+
+
+NA
+
+

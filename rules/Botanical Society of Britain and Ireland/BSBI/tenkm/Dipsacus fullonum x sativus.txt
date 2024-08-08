@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dipsacus fullonum x sativus 10km
+Description=Check coordinate against known distribution of Dipsacus fullonum x sativus
+ErrorMsg=Coordinate is outside known range for Dipsacus fullonum x sativus
+DataFieldName=Species
+DataRecordId=NBNSYS0100002863
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+O13
+
+
+[10km_GB]
+ST42
+TL02
+
+

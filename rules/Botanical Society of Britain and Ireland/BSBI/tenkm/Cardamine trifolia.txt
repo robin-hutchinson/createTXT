@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cardamine trifolia 10km
+Description=Check coordinate against known distribution of Cardamine trifolia
+ErrorMsg=Coordinate is outside known range for Cardamine trifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000002877
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN60
+NO18
+NT27
+NY01
+NY76
+NY97
+NZ08
+NZ19
+SD49
+SD68
+SH77
+SS64
+SX85
+
+

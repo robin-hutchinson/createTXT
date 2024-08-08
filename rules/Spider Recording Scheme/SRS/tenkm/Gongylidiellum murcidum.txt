@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Gongylidiellum murcidum 10km
+Description=Check coordinate against known distribution of Gongylidiellum murcidum
+ErrorMsg=Coordinate is outside known range for Gongylidiellum murcidum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009075
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX56
+SH47
+SH57
+SH77
+SJ72
+SO12
+ST25
+SY68
+TF90
+TL28
+TL56
+TL57
+TL98
+TL99
+TM07
+
+

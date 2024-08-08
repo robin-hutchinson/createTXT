@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum cymbifolium 10km
+Description=Check coordinate against known distribution of Taraxacum cymbifolium
+ErrorMsg=Coordinate is outside known range for Taraxacum cymbifolium
+DataFieldName=Species
+DataRecordId=NHMSYS0000464200
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN64
+
+

@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cicerbita bourgaei 10km
+Description=Check coordinate against known distribution of Cicerbita bourgaei
+ErrorMsg=Coordinate is outside known range for Cicerbita bourgaei
+DataFieldName=Species
+DataRecordId=NBNSYS0000004547
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH95
+NT53
+SE24
+SP40
+SP71
+ST78
+ST97
+ST99
+SU37
+SU77
+SU88
+TF93
+TL80
+TQ35
+
+

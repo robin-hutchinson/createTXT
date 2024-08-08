@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Limnephilus tauricus
+Description=Checks date is within known recording period of Limnephilus tauricus
+ErrorMsg=Date is outside known recording period of Limnephilus tauricus
+Tvk=NBNSYS0000008493
+StartDate=18920101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

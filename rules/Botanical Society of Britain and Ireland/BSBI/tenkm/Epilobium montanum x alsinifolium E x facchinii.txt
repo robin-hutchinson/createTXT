@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium montanum x alsinifolium = E. x facchinii 10km
+Description=Check coordinate against known distribution of Epilobium montanum x alsinifolium = E. x facchinii
+ErrorMsg=Coordinate is outside known range for Epilobium montanum x alsinifolium = E. x facchinii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754364
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO06
+NO37
+NY32
+
+

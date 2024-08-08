@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Equisetum hyemale x ramosissimum = E. x moorei 10km
+Description=Check coordinate against known distribution of Equisetum hyemale x ramosissimum = E. x moorei
+ErrorMsg=Coordinate is outside known range for Equisetum hyemale x ramosissimum = E. x moorei
+DataFieldName=Species
+DataRecordId=NBNSYS0000161650
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+T12
+T14
+T24
+T25
+T26
+T27
+T38
+
+
+[10km_GB]
+TQ04
+
+

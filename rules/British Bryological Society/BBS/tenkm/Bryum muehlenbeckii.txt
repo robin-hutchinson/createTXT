@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Bryum muehlenbeckii 10km
+Description=Check coordinate against known distribution of Bryum muehlenbeckii
+ErrorMsg=Coordinate is outside known range for Bryum muehlenbeckii
+DataFieldName=Species
+DataRecordId=NHMSYS0000309505
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH60
+NJ00
+NN89
+NN99
+NO09
+NO28
+
+

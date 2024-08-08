@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Erica lusitanica
+Description=Checks date is within known recording period of Erica lusitanica
+ErrorMsg=Date is outside known recording period of Erica lusitanica
+Tvk=NBNSYS0000003911
+StartDate=19050101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

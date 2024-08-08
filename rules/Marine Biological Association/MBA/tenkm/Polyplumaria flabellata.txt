@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Polyplumaria flabellata 10km
+Description=Check coordinate against known distribution of Polyplumaria flabellata
+ErrorMsg=Coordinate is outside known range for Polyplumaria flabellata
+DataFieldName=Species
+DataRecordId=NHMSYS0019996944
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D14
+D15
+D41
+
+
+[10km_GB]
+HX21
+NM45
+NM55
+NR30
+NW56
+NW66
+SH40
+SV91
+SW82
+
+

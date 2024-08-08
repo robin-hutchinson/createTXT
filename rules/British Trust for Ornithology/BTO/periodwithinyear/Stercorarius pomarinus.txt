@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Stercorarius pomarinus
+Description=Checks date is within known flight period of Stercorarius pomarinus
+ErrorMsg=Date is outside known flight period of Stercorarius pomarinus
+Tvk=NBNSYS0000000340
+DataFieldName=
+StartDate=0315
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

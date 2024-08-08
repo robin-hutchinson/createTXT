@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus bagnallianus 10km
+Description=Check coordinate against known distribution of Rubus bagnallianus
+ErrorMsg=Coordinate is outside known range for Rubus bagnallianus
+DataFieldName=Species
+DataRecordId=NHMSYS0000840827
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ82
+SJ91
+SJ92
+SK02
+SK12
+SK20
+SK24
+SK30
+SK31
+SK40
+SK42
+SK50
+SK51
+SK60
+SK61
+SK72
+SK82
+SO96
+SO97
+SP07
+SP16
+SP18
+SP19
+SP26
+SP27
+SP28
+SP29
+SP36
+SP37
+SP38
+SP39
+SP46
+SP47
+SP48
+SP49
+SP52
+SP56
+SP59
+SP64
+SP66
+SP69
+SP98
+
+

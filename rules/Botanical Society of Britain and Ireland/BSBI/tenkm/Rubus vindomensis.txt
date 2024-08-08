@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus vindomensis 10km
+Description=Check coordinate against known distribution of Rubus vindomensis
+ErrorMsg=Coordinate is outside known range for Rubus vindomensis
+DataFieldName=Species
+DataRecordId=NHMSYS0020110585
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP32
+SU43
+SU46
+SU54
+SU55
+SU63
+SU72
+SU73
+SU74
+SU75
+SU84
+SU85
+SZ38
+SZ79
+
+

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Peltigera ponojensis 10km
+Description=Check coordinate against known distribution of Peltigera ponojensis
+ErrorMsg=Coordinate is outside known range for Peltigera ponojensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000039705
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN53
+NN64
+SK27
+
+

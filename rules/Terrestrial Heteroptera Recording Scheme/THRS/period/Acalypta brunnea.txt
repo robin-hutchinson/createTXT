@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Acalypta brunnea
+Description=Checks date is within known recording period of Acalypta brunnea
+ErrorMsg=Date is outside known recording period of Acalypta brunnea
+Tvk=NHMSYS0020308879
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

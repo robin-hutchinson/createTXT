@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lychnis chalcedonica 10km
+Description=Check coordinate against known distribution of Lychnis chalcedonica
+ErrorMsg=Coordinate is outside known range for Lychnis chalcedonica
+DataFieldName=Species
+DataRecordId=NBNSYS0000034081
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS66
+NT64
+SE14
+SJ17
+SK12
+SK37
+SN45
+SO94
+SP40
+SP50
+ST27
+ST43
+ST59
+SU46
+SU68
+SU78
+SX15
+TF41
+TL05
+TL21
+TM05
+TQ08
+TQ25
+TQ36
+TQ43
+TQ45
+
+

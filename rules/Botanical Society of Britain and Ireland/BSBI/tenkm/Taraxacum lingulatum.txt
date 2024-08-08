@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum lingulatum 10km
+Description=Check coordinate against known distribution of Taraxacum lingulatum
+ErrorMsg=Coordinate is outside known range for Taraxacum lingulatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464251
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT13
+NT26
+NT44
+NT50
+NT51
+NT53
+NX68
+NX86
+NX95
+NY48
+NZ03
+NZ14
+SD41
+SK50
+SN43
+SN60
+SN64
+SO02
+SS49
+SS70
+ST00
+ST30
+SW33
+SW53
+SW61
+SW62
+SW63
+SW64
+SW71
+SW72
+SW75
+SW83
+SW84
+SX06
+SX28
+SX29
+SX35
+SX45
+TL42
+TL74
+
+

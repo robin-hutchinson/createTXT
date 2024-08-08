@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Nicotiana rustica 10km
+Description=Check coordinate against known distribution of Nicotiana rustica
+ErrorMsg=Coordinate is outside known range for Nicotiana rustica
+DataFieldName=Species
+DataRecordId=NBNSYS0000014454
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE93
+SO77
+SO85
+SP80
+SP92
+SS94
+SU42
+SU73
+SU77
+SW73
+SW74
+SX05
+TM34
+TQ17
+TQ18
+TQ27
+TQ46
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

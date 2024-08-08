@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Omophron limbatum
+Description=Checks date is within known recording period of Omophron limbatum
+ErrorMsg=Date is outside known recording period of Omophron limbatum
+Tvk=NHMSYS0001719291
+StartDate=19710101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

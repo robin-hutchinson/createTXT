@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Amphipoea fucosa fucosa
+Description=Checks date is within known flight period of Amphipoea fucosa fucosa
+ErrorMsg=Date is outside known flight period of Amphipoea fucosa fucosa
+Tvk=NHMSYS0021144617
+DataFieldName=
+StartDate=0621
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

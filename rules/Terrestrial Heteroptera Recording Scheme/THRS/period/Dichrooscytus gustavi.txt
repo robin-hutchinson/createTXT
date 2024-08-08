@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Dichrooscytus gustavi
+Description=Checks date is within known recording period of Dichrooscytus gustavi
+ErrorMsg=Date is outside known recording period of Dichrooscytus gustavi
+Tvk=NHMSYS0020309152
+StartDate=19810101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

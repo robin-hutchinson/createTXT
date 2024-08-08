@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Colutea arborescens x orientalis = C. x media 10km
+Description=Check coordinate against known distribution of Colutea arborescens x orientalis = C. x media
+ErrorMsg=Coordinate is outside known range for Colutea arborescens x orientalis = C. x media
+DataFieldName=Species
+DataRecordId=NHMSYS0001754814
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ51
+NZ52
+SK39
+SK54
+SK84
+SK85
+SO87
+SP04
+SP80
+SS84
+ST54
+TL21
+TL46
+TQ46
+
+

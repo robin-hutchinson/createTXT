@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Thera juniperata juniperata
+Description=Checks date is within known recording period of Thera juniperata juniperata
+ErrorMsg=Date is outside known recording period of Thera juniperata juniperata
+Tvk=NHMSYS0021143978
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

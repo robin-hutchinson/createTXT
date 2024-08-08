@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Bees, Wasps and Ants Recording Scheme/BWARS 10km distribution
+ShortName=Anteon exiguum 10km
+Description=Check coordinate against known distribution of Anteon exiguum
+ErrorMsg=Coordinate is outside known range for Anteon exiguum
+DataFieldName=Species
+DataRecordId=NBNSYS0100001577
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE52
+SE60
+SE61
+SE70
+SE71
+SE74
+SK68
+SK69
+TQ02
+TQ03
+TQ12
+TQ13
+TQ22
+TQ23
+TQ24
+TQ32
+TQ33
+TQ34
+TQ42
+TQ43
+TQ44
+TQ51
+TQ52
+TQ53
+TQ54
+TQ61
+TQ62
+TQ63
+TQ64
+TQ71
+TQ72
+TQ73
+TQ74
+TQ80
+TQ82
+TQ83
+TQ84
+TQ93
+TR14
+TV69
+
+

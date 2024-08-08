@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Cystoseira foeniculacea 10km
+Description=Check coordinate against known distribution of Cystoseira foeniculacea
+ErrorMsg=Coordinate is outside known range for Cystoseira foeniculacea
+DataFieldName=Species
+DataRecordId=NHMSYS0000377562
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV91
+SW72
+SW94
+SW97
+SX25
+SX44
+SX54
+SX73
+SX85
+SX96
+SY18
+SY28
+SY58
+SY68
+SY78
+SY87
+SY97
+
+

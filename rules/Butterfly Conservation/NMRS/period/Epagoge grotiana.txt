@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Epagoge grotiana
+Description=Checks date is within known recording period of Epagoge grotiana
+ErrorMsg=Date is outside known recording period of Epagoge grotiana
+Tvk=NHMSYS0000502388
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

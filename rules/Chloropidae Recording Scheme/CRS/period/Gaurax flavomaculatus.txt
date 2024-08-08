@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Gaurax flavomaculatus
+Description=Checks date is within known recording period of Gaurax flavomaculatus
+ErrorMsg=Date is outside known recording period of Gaurax flavomaculatus
+Tvk=NHMSYS0021007863
+StartDate=19800101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

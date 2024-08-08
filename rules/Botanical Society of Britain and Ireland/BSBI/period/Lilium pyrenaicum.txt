@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lilium pyrenaicum
+Description=Checks date is within known recording period of Lilium pyrenaicum
+ErrorMsg=Date is outside known recording period of Lilium pyrenaicum
+Tvk=NBNSYS0000002172
+StartDate=18530101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

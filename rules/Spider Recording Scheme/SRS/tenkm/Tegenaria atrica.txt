@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Tegenaria atrica 10km
+Description=Check coordinate against known distribution of Tegenaria atrica
+ErrorMsg=Coordinate is outside known range for Tegenaria atrica
+DataFieldName=Species
+DataRecordId=NBNSYS0000008838
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH64
+NJ90
+NO42
+NU22
+SD30
+SE55
+SH46
+SS54
+ST74
+ST78
+TF19
+TQ28
+TQ37
+
+

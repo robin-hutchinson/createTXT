@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plume Moth Recording Scheme/PMRS Flight Period
+ShortName=Stenoptilia scabiodactyla
+Description=Checks date is within known flight period of Stenoptilia scabiodactyla
+ErrorMsg=Date is outside known flight period of Stenoptilia scabiodactyla
+Tvk=NHMSYS0021002826
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

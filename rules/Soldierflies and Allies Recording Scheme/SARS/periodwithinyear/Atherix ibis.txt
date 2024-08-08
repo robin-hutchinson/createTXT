@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Atherix ibis
+Description=Checks date is within known flight period of Atherix ibis
+ErrorMsg=Date is outside known flight period of Atherix ibis
+Tvk=NBNSYS0000007858
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

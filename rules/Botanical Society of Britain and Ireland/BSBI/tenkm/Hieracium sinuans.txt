@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium sinuans 10km
+Description=Check coordinate against known distribution of Hieracium sinuans
+ErrorMsg=Coordinate is outside known range for Hieracium sinuans
+DataFieldName=Species
+DataRecordId=NHMSYS0000459632
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NF60
+NH06
+NN03
+NN17
+NN20
+NN22
+NN27
+NN31
+NN32
+NN33
+NN34
+NN42
+NN43
+NN44
+NN48
+NN49
+NN53
+NN54
+NN64
+NN67
+NN97
+NN98
+
+

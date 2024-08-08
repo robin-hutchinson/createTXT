@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Alcis repandata muraria
+Description=Checks date is within known flight period of Alcis repandata muraria
+ErrorMsg=Date is outside known flight period of Alcis repandata muraria
+Tvk=NHMSYS0021144242
+DataFieldName=
+StartDate=0521
+EndDate=0907
+LastChanged=20240808
+[EndMetadata]

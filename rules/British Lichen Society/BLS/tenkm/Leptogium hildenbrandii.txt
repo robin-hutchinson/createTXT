@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Leptogium hildenbrandii 10km
+Description=Check coordinate against known distribution of Leptogium hildenbrandii
+ErrorMsg=Coordinate is outside known range for Leptogium hildenbrandii
+DataFieldName=Species
+DataRecordId=NBNSYS0000162172
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG84
+
+

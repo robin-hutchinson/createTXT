@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pandemis corylana
+Description=Checks date is within known flight period of Pandemis corylana
+ErrorMsg=Date is outside known flight period of Pandemis corylana
+Tvk=NHMSYS0000503576
+DataFieldName=
+StartDate=0615
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

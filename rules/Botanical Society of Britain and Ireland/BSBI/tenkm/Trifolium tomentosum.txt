@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trifolium tomentosum 10km
+Description=Check coordinate against known distribution of Trifolium tomentosum
+ErrorMsg=Coordinate is outside known range for Trifolium tomentosum
+DataFieldName=Species
+DataRecordId=NBNSYS0000014547
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+NS76
+NT28
+NT43
+NT53
+NZ21
+SD62
+SE01
+SE13
+SE14
+SE32
+SE38
+SE55
+SO66
+SO83
+ST16
+ST27
+ST36
+SU73
+SW72
+SW94
+TL03
+TL22
+
+

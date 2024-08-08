@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Itonoa marginifera 10km
+Description=Check coordinate against known distribution of Itonoa marginifera
+ErrorMsg=Coordinate is outside known range for Itonoa marginifera
+DataFieldName=Species
+DataRecordId=NHMSYS0000568235
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH13
+SM83
+SS14
+SW53
+SW54
+SW61
+SW72
+
+

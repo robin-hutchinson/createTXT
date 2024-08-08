@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pelargonium x hortorum 10km
+Description=Check coordinate against known distribution of Pelargonium x hortorum
+ErrorMsg=Coordinate is outside known range for Pelargonium x hortorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000461556
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ50
+SE39
+SH57
+SO74
+ST34
+SV80
+SV91
+TL44
+
+
+[10km_Ireland]
+S50
+S61
+X18
+
+

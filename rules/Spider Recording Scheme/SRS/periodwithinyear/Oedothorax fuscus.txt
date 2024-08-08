@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Oedothorax fuscus
+Description=Checks date is within known flight period of Oedothorax fuscus
+ErrorMsg=Date is outside known flight period of Oedothorax fuscus
+Tvk=NBNSYS0000009029
+DataFieldName=
+StartDate=0221
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

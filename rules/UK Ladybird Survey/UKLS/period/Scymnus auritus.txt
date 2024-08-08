@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Scymnus auritus
+Description=Checks date is within known recording period of Scymnus auritus
+ErrorMsg=Date is outside known recording period of Scymnus auritus
+Tvk=NBNSYS0000008299
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cotoneaster ellipticus nom. inval.
+Description=Checks date is within known recording period of Cotoneaster ellipticus nom. inval.
+ErrorMsg=Date is outside known recording period of Cotoneaster ellipticus nom. inval.
+Tvk=NHMSYS0000465515
+StartDate=19590101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

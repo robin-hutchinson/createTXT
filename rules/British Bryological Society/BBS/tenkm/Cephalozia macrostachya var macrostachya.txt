@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Cephalozia macrostachya var. macrostachya 10km
+Description=Check coordinate against known distribution of Cephalozia macrostachya var. macrostachya
+ErrorMsg=Coordinate is outside known range for Cephalozia macrostachya var. macrostachya
+DataFieldName=Species
+DataRecordId=NHMSYS0000309593
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HW63
+HW83
+NA00
+NA64
+NA93
+NB33
+NB40
+NB52
+NF19
+NY05
+SU10
+SU20
+SU21
+SU30
+SU31
+SU40
+SU41
+SU50
+SZ09
+SZ19
+SZ29
+SZ39
+SZ49
+SZ59
+
+

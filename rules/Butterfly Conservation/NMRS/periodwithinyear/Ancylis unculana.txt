@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ancylis unculana
+Description=Checks date is within known flight period of Ancylis unculana
+ErrorMsg=Date is outside known flight period of Ancylis unculana
+Tvk=NHMSYS0000501107
+DataFieldName=
+StartDate=0421
+EndDate=0907
+LastChanged=20240808
+[EndMetadata]

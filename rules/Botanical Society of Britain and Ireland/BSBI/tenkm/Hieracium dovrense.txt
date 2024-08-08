@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium dovrense 10km
+Description=Check coordinate against known distribution of Hieracium dovrense
+ErrorMsg=Coordinate is outside known range for Hieracium dovrense
+DataFieldName=Species
+DataRecordId=NHMSYS0000459415
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU24
+NC25
+NC33
+NC35
+NC55
+NJ56
+NN96
+
+

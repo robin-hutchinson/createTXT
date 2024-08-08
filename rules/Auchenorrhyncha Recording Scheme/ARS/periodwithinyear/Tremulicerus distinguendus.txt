@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Tremulicerus distinguendus
+Description=Checks date is within known flight period of Tremulicerus distinguendus
+ErrorMsg=Date is outside known flight period of Tremulicerus distinguendus
+Tvk=NHMSYS0020705633
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

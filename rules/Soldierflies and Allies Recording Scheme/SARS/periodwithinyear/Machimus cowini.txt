@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Machimus cowini
+Description=Checks date is within known flight period of Machimus cowini
+ErrorMsg=Date is outside known flight period of Machimus cowini
+Tvk=NHMSYS0020734171
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

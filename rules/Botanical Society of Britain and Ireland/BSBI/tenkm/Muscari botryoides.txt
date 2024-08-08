@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Muscari botryoides 10km
+Description=Check coordinate against known distribution of Muscari botryoides
+ErrorMsg=Coordinate is outside known range for Muscari botryoides
+DataFieldName=Species
+DataRecordId=NHMSYS0000460801
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT17
+NT83
+NU11
+SJ72
+SJ91
+SK00
+SK20
+SO88
+SO93
+SP50
+SP80
+ST57
+SU13
+TL41
+TL55
+TM26
+TQ04
+
+

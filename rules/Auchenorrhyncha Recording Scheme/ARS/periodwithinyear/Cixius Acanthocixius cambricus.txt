@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Cixius (Acanthocixius) cambricus
+Description=Checks date is within known flight period of Cixius (Acanthocixius) cambricus
+ErrorMsg=Date is outside known flight period of Cixius (Acanthocixius) cambricus
+Tvk=NHMSYS0020705284
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Aralia chinensis 10km
+Description=Check coordinate against known distribution of Aralia chinensis
+ErrorMsg=Coordinate is outside known range for Aralia chinensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000033715
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX74
+SC37
+SC39
+SC48
+SC49
+SJ92
+SW63
+
+

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Amaranthus powellii 10km
+Description=Check coordinate against known distribution of Amaranthus powellii
+ErrorMsg=Coordinate is outside known range for Amaranthus powellii
+DataFieldName=Species
+DataRecordId=NHMSYS0000455839
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST69
+SU57
+TQ57
+
+

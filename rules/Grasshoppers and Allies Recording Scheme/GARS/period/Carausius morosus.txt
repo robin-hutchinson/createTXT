@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Carausius morosus
+Description=Checks date is within known recording period of Carausius morosus
+ErrorMsg=Date is outside known recording period of Carausius morosus
+Tvk=NHMSYS0001387282
+StartDate=19900101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

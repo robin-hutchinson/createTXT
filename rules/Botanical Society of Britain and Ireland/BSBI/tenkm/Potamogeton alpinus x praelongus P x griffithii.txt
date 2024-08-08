@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton alpinus x praelongus = P. x griffithii 10km
+Description=Check coordinate against known distribution of Potamogeton alpinus x praelongus = P. x griffithii
+ErrorMsg=Coordinate is outside known range for Potamogeton alpinus x praelongus = P. x griffithii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754671
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C24
+
+
+[10km_GB]
+NM66
+NM67
+NM90
+NX39
+SH66
+
+

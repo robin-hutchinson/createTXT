@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Orthops (Orthops) campestris
+Description=Checks date is within known recording period of Orthops (Orthops) campestris
+ErrorMsg=Date is outside known recording period of Orthops (Orthops) campestris
+Tvk=NHMSYS0020309579
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

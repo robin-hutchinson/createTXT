@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Geranium platypetalum
+Description=Checks date is within known recording period of Geranium platypetalum
+ErrorMsg=Date is outside known recording period of Geranium platypetalum
+Tvk=NHMSYS0000459038
+StartDate=19870101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

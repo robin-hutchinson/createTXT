@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Labia minor
+Description=Checks date is within known recording period of Labia minor
+ErrorMsg=Date is outside known recording period of Labia minor
+Tvk=NHMSYS0001387382
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

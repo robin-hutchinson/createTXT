@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Ceraclea annulicornis
+Description=Checks date is within known recording period of Ceraclea annulicornis
+ErrorMsg=Date is outside known recording period of Ceraclea annulicornis
+Tvk=NBNSYS0000008517
+StartDate=18360101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

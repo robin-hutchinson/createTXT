@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Oligia latruncula
+Description=Checks date is within known flight period of Oligia latruncula
+ErrorMsg=Date is outside known flight period of Oligia latruncula
+Tvk=NHMSYS0021144690
+DataFieldName=
+StartDate=0501
+EndDate=0815
+LastChanged=20240808
+[EndMetadata]

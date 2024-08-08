@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Spilomena enslini
+Description=Checks date is within known flight period of Spilomena enslini
+ErrorMsg=Date is outside known flight period of Spilomena enslini
+Tvk=NHMSYS0000876704
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

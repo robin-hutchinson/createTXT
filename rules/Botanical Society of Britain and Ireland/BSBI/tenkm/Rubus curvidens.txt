@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus curvidens 10km
+Description=Check coordinate against known distribution of Rubus curvidens
+ErrorMsg=Coordinate is outside known range for Rubus curvidens
+DataFieldName=Species
+DataRecordId=NHMSYS0000840784
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO34
+SO43
+SO44
+SO45
+SO52
+SO53
+SO62
+
+

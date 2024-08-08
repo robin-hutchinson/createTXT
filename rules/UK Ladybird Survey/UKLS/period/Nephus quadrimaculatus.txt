@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Nephus quadrimaculatus
+Description=Checks date is within known recording period of Nephus quadrimaculatus
+ErrorMsg=Date is outside known recording period of Nephus quadrimaculatus
+Tvk=NBNSYS0000008305
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

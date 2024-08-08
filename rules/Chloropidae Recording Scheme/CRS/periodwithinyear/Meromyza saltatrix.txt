@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Meromyza saltatrix
+Description=Checks date is within known flight period of Meromyza saltatrix
+ErrorMsg=Date is outside known flight period of Meromyza saltatrix
+Tvk=NBNSYS0000029958
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

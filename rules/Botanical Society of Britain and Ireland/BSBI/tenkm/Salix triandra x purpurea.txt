@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix triandra x purpurea 10km
+Description=Check coordinate against known distribution of Salix triandra x purpurea
+ErrorMsg=Coordinate is outside known range for Salix triandra x purpurea
+DataFieldName=Species
+DataRecordId=NHMSYS0100002836
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK66
+SK79
+SP81
+TQ57
+
+

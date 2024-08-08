@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Himacerus (Stalia) boops
+Description=Checks date is within known recording period of Himacerus (Stalia) boops
+ErrorMsg=Date is outside known recording period of Himacerus (Stalia) boops
+Tvk=NHMSYS0020309319
+StartDate=18700101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

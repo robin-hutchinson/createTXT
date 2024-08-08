@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Calandrinia ciliata 10km
+Description=Check coordinate against known distribution of Calandrinia ciliata
+ErrorMsg=Coordinate is outside known range for Calandrinia ciliata
+DataFieldName=Species
+DataRecordId=NHMSYS0000456286
+LastChanged=20240808
+[EndMetadata]
+
+NA
+
+

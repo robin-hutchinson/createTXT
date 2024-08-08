@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Dipoena inornata 10km
+Description=Check coordinate against known distribution of Dipoena inornata
+ErrorMsg=Coordinate is outside known range for Dipoena inornata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008868
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH78
+SM70
+SN20
+SN69
+SS48
+SU10
+SU84
+SU85
+SU91
+SU95
+SU96
+SU97
+SW71
+SX84
+SY67
+SY87
+SY89
+SY97
+SY99
+SZ07
+TM34
+TM44
+TM46
+TM57
+TQ16
+TQ43
+TQ67
+
+

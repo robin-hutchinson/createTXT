@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Monosynamma bohemanni
+Description=Checks date is within known recording period of Monosynamma bohemanni
+ErrorMsg=Date is outside known recording period of Monosynamma bohemanni
+Tvk=NHMSYS0020309480
+StartDate=18600101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

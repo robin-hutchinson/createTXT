@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Trachyzelotes fuscipes 10km
+Description=Check coordinate against known distribution of Trachyzelotes fuscipes
+ErrorMsg=Coordinate is outside known range for Trachyzelotes fuscipes
+DataFieldName=Species
+DataRecordId=NHMSYS0000354403
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SY97
+
+

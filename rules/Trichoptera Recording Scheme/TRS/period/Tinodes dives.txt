@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Tinodes dives
+Description=Checks date is within known recording period of Tinodes dives
+ErrorMsg=Date is outside known recording period of Tinodes dives
+Tvk=NBNSYS0000008390
+StartDate=18650101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

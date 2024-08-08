@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Cetorhinus maximus 10km
+Description=Check coordinate against known distribution of Cetorhinus maximus
+ErrorMsg=Coordinate is outside known range for Cetorhinus maximus
+DataFieldName=Species
+DataRecordId=NBNSYS0000040787
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+B61
+D18
+D40
+J66
+O29
+W64
+Y85
+Y95
+
+
+[10km_GB]
+HU36
+NB14
+NC16
+NG18
+NM19
+NR34
+NR97
+NS05
+NS23
+NW66
+NW72
+SB35
+SC16
+SC28
+SH51
+SH67
+SM70
+SM80
+SS14
+SS24
+SW54
+SW65
+SW71
+SW82
+SW87
+SW93
+SX13
+SX24
+SX33
+SX34
+SX45
+SX73
+
+

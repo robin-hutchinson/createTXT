@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Endococcus fusiger 10km
+Description=Check coordinate against known distribution of Endococcus fusiger
+ErrorMsg=Coordinate is outside known range for Endococcus fusiger
+DataFieldName=Species
+DataRecordId=NHMSYS0020990188
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN17
+NN18
+NO47
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Stigmus solskyi
+Description=Checks date is within known flight period of Stigmus solskyi
+ErrorMsg=Date is outside known flight period of Stigmus solskyi
+Tvk=NHMSYS0000876717
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

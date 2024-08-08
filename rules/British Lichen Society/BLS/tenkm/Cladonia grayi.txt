@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia grayi 10km
+Description=Check coordinate against known distribution of Cladonia grayi
+ErrorMsg=Coordinate is outside known range for Cladonia grayi
+DataFieldName=Species
+DataRecordId=NBNSYS0000018378
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC46
+NJ36
+NM46
+NM57
+NM66
+NM67
+NM76
+NZ09
+SH12
+SM71
+SU10
+SU11
+SU20
+SU21
+SU30
+SU31
+SU40
+SU47
+SU73
+SU83
+SU96
+SZ29
+SZ39
+SZ49
+TG42
+TR01
+
+

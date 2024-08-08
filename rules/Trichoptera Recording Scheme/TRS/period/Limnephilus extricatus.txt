@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Limnephilus extricatus
+Description=Checks date is within known recording period of Limnephilus extricatus
+ErrorMsg=Date is outside known recording period of Limnephilus extricatus
+Tvk=NBNSYS0000008475
+StartDate=18610101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

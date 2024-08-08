@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa obtusifolia x rubiginosa = R. x timbalii 10km
+Description=Check coordinate against known distribution of Rosa obtusifolia x rubiginosa = R. x timbalii
+ErrorMsg=Coordinate is outside known range for Rosa obtusifolia x rubiginosa = R. x timbalii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754820
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ44
+SO90
+
+

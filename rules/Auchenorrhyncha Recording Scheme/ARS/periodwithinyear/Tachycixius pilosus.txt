@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Tachycixius pilosus
+Description=Checks date is within known flight period of Tachycixius pilosus
+ErrorMsg=Date is outside known flight period of Tachycixius pilosus
+Tvk=NHMSYS0020705926
+DataFieldName=
+StartDate=0401
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

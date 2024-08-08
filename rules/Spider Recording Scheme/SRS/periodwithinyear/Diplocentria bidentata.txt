@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Diplocentria bidentata
+Description=Checks date is within known flight period of Diplocentria bidentata
+ErrorMsg=Date is outside known flight period of Diplocentria bidentata
+Tvk=NBNSYS0000009101
+DataFieldName=
+StartDate=0415
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

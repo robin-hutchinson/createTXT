@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Cyclophora punctaria
+Description=Checks date is within known flight period of Cyclophora punctaria
+ErrorMsg=Date is outside known flight period of Cyclophora punctaria
+Tvk=NBNSYS0000005753
+DataFieldName=
+StartDate=0415
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

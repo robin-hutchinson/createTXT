@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Hypsosinga sanguinea 10km
+Description=Check coordinate against known distribution of Hypsosinga sanguinea
+ErrorMsg=Coordinate is outside known range for Hypsosinga sanguinea
+DataFieldName=Species
+DataRecordId=NBNSYS0000008958
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK00
+SO87
+SP06
+SU20
+SU66
+SU73
+SU75
+SU85
+SU91
+SU94
+SU95
+SU96
+SU98
+SX87
+TL03
+TQ04
+TQ08
+TQ14
+TQ15
+TQ16
+TQ42
+TQ43
+TQ56
+TQ66
+TQ75
+TQ76
+TR05
+TR15
+TR16
+TR35
+
+

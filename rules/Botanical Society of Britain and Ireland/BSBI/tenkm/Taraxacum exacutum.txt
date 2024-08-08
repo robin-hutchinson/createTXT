@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum exacutum 10km
+Description=Check coordinate against known distribution of Taraxacum exacutum
+ErrorMsg=Coordinate is outside known range for Taraxacum exacutum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840680
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H87
+
+
+[10km_GB]
+NS37
+NS45
+NT17
+NT37
+NX59
+NX86
+NX87
+NX96
+SH57
+
+

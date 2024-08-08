@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Erigeron annuus
+Description=Checks date is within known recording period of Erigeron annuus
+ErrorMsg=Date is outside known recording period of Erigeron annuus
+Tvk=NBNSYS0000034400
+StartDate=19020101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

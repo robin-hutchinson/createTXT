@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Polydesmus inconstans
+Description=Checks date is within known recording period of Polydesmus inconstans
+ErrorMsg=Date is outside known recording period of Polydesmus inconstans
+Tvk=NBNSYS0000011370
+StartDate=19060101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

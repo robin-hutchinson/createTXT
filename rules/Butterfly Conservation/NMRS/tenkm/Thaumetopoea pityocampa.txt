@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Thaumetopoea pityocampa 10km
+Description=Check coordinate against known distribution of Thaumetopoea pityocampa
+ErrorMsg=Coordinate is outside known range for Thaumetopoea pityocampa
+DataFieldName=Species
+DataRecordId=NHMSYS0021144336
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TM33
+TM34
+TM35
+TM44
+TM45
+
+

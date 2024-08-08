@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pseudargyrotoza conwagana
+Description=Checks date is within known flight period of Pseudargyrotoza conwagana
+ErrorMsg=Date is outside known flight period of Pseudargyrotoza conwagana
+Tvk=NHMSYS0000503935
+DataFieldName=
+StartDate=0421
+EndDate=1207
+LastChanged=20240808
+[EndMetadata]

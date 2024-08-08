@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Ecdyonurus venosus
+Description=Checks date is within known flight period of Ecdyonurus venosus
+ErrorMsg=Date is outside known flight period of Ecdyonurus venosus
+Tvk=NBNSYS0000010881
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Selania leplastriana
+Description=Checks date is within known flight period of Selania leplastriana
+ErrorMsg=Date is outside known flight period of Selania leplastriana
+Tvk=NHMSYS0000504183
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

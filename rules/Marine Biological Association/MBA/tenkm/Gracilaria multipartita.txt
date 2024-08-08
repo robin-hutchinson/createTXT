@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Gracilaria multipartita 10km
+Description=Check coordinate against known distribution of Gracilaria multipartita
+ErrorMsg=Coordinate is outside known range for Gracilaria multipartita
+DataFieldName=Species
+DataRecordId=NBNSYS0000188788
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW72
+SX45
+SX54
+SX73
+SY67
+SZ08
+
+

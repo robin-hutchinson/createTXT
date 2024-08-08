@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Nabis (Nabicula) flavomarginatus
+Description=Checks date is within known recording period of Nabis (Nabicula) flavomarginatus
+ErrorMsg=Date is outside known recording period of Nabis (Nabicula) flavomarginatus
+Tvk=NHMSYS0020309501
+StartDate=18470101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

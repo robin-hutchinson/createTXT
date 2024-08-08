@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Drusus annulatus
+Description=Checks date is within known flight period of Drusus annulatus
+ErrorMsg=Date is outside known flight period of Drusus annulatus
+Tvk=NBNSYS0000008442
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

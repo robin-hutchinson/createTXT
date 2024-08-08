@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cirsium vulgare x palustre = C. x subspinuligerum 10km
+Description=Check coordinate against known distribution of Cirsium vulgare x palustre = C. x subspinuligerum
+ErrorMsg=Coordinate is outside known range for Cirsium vulgare x palustre = C. x subspinuligerum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754578
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM90
+SH61
+SU30
+TQ23
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Festuca brevipila
+Description=Checks date is within known recording period of Festuca brevipila
+ErrorMsg=Date is outside known recording period of Festuca brevipila
+Tvk=NHMSYS0000458760
+StartDate=18300101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Acrobolbus wilsonii 10km
+Description=Check coordinate against known distribution of Acrobolbus wilsonii
+ErrorMsg=Coordinate is outside known range for Acrobolbus wilsonii
+DataFieldName=Species
+DataRecordId=NHMSYS0000309290
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NA10
+NG20
+NG50
+NG60
+NG61
+NG62
+NG71
+NG72
+NG74
+NG82
+NG83
+NG84
+NM05
+NM21
+NM23
+NM24
+NM40
+NM51
+NM60
+NM61
+NM69
+
+

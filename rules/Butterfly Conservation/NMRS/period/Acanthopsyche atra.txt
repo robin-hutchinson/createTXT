@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Acanthopsyche atra
+Description=Checks date is within known recording period of Acanthopsyche atra
+ErrorMsg=Date is outside known recording period of Acanthopsyche atra
+Tvk=NHMSYS0000500906
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

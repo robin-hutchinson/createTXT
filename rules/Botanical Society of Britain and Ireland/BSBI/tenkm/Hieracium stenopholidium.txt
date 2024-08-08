@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium stenopholidium 10km
+Description=Check coordinate against known distribution of Hieracium stenopholidium
+ErrorMsg=Coordinate is outside known range for Hieracium stenopholidium
+DataFieldName=Species
+DataRecordId=NHMSYS0000459644
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG53
+NN88
+NN89
+NY10
+NY11
+NY20
+NY21
+NY22
+NY31
+NY32
+NY40
+NY41
+NY60
+NY80
+NY82
+NY83
+SD29
+SD69
+SD77
+SH64
+SK19
+SN72
+SN90
+SN92
+SX77
+
+

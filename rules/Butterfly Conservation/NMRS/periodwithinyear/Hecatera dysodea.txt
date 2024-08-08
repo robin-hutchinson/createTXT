@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Hecatera dysodea
+Description=Checks date is within known flight period of Hecatera dysodea
+ErrorMsg=Date is outside known flight period of Hecatera dysodea
+Tvk=NHMSYS0021144844
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

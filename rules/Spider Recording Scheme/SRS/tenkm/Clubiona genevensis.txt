@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Clubiona genevensis 10km
+Description=Check coordinate against known distribution of Clubiona genevensis
+ErrorMsg=Coordinate is outside known range for Clubiona genevensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008691
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM72
+SW61
+
+

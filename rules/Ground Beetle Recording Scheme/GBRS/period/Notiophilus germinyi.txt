@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Notiophilus germinyi
+Description=Checks date is within known recording period of Notiophilus germinyi
+ErrorMsg=Date is outside known recording period of Notiophilus germinyi
+Tvk=NBNSYS0000007161
+StartDate=19080101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

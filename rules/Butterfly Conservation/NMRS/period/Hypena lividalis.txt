@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Hypena lividalis
+Description=Checks date is within known recording period of Hypena lividalis
+ErrorMsg=Date is outside known recording period of Hypena lividalis
+Tvk=NHMSYS0021157662
+StartDate=20151109
+EndDate=
+LastChanged=20240808
+[EndMetadata]

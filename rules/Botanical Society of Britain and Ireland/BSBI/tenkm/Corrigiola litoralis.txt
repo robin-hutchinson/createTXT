@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Corrigiola litoralis 10km
+Description=Check coordinate against known distribution of Corrigiola litoralis
+ErrorMsg=Coordinate is outside known range for Corrigiola litoralis
+DataFieldName=Species
+DataRecordId=NBNSYS0000004581
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT08
+NY88
+SD20
+SD30
+SD34
+SD35
+SD45
+SD46
+SE32
+SE42
+SE48
+SE50
+SE52
+SE83
+SE84
+SE93
+SJ49
+SK44
+SK59
+ST16
+ST76
+ST80
+SW62
+SX84
+SY67
+TA02
+TL45
+TQ29
+TR35
+
+

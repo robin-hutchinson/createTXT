@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Forficula auricularia
+Description=Checks date is within known recording period of Forficula auricularia
+ErrorMsg=Date is outside known recording period of Forficula auricularia
+Tvk=NHMSYS0001387317
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

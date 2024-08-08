@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum pallidipes 10km
+Description=Check coordinate against known distribution of Taraxacum pallidipes
+ErrorMsg=Coordinate is outside known range for Taraxacum pallidipes
+DataFieldName=Species
+DataRecordId=NHMSYS0000464275
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO02
+SO95
+TQ43
+
+

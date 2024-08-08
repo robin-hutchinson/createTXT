@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ononis repens subsp. maritima 10km
+Description=Check coordinate against known distribution of Ononis repens subsp. maritima
+ErrorMsg=Coordinate is outside known range for Ononis repens subsp. maritima
+DataFieldName=Species
+DataRecordId=NHMSYS0000461192
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX40
+SX84
+SZ69
+TM57
+
+

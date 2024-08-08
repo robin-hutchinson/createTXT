@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Armadillidium pictum
+Description=Checks date is within known recording period of Armadillidium pictum
+ErrorMsg=Date is outside known recording period of Armadillidium pictum
+Tvk=NBNSYS0000008570
+StartDate=19170101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

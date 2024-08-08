@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Silene vulgaris x uniflora 10km
+Description=Check coordinate against known distribution of Silene vulgaris x uniflora
+ErrorMsg=Coordinate is outside known range for Silene vulgaris x uniflora
+DataFieldName=Species
+DataRecordId=NHMSYS0100002981
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU69
+NN95
+SH39
+SH50
+SN40
+SN58
+SN68
+SN69
+SN77
+SN78
+SN79
+SS49
+SS79
+ST45
+ST55
+SW54
+SW64
+SW87
+SX84
+SX97
+SZ38
+TF60
+
+
+[10km_CI]
+WA60
+
+

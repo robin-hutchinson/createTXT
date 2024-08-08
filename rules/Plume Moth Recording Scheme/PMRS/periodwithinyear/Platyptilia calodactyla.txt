@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plume Moth Recording Scheme/PMRS Flight Period
+ShortName=Platyptilia calodactyla
+Description=Checks date is within known flight period of Platyptilia calodactyla
+ErrorMsg=Date is outside known flight period of Platyptilia calodactyla
+Tvk=NHMSYS0000503851
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

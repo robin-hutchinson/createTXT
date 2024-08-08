@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ecballium elaterium 10km
+Description=Check coordinate against known distribution of Ecballium elaterium
+ErrorMsg=Coordinate is outside known range for Ecballium elaterium
+DataFieldName=Species
+DataRecordId=NHMSYS0000458250
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD34
+SP50
+ST67
+SU59
+TL03
+TL06
+TL12
+TL31
+TR37
+
+
+NA
+
+

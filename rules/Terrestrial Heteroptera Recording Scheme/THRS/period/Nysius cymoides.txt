@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Nysius cymoides
+Description=Checks date is within known recording period of Nysius cymoides
+ErrorMsg=Date is outside known recording period of Nysius cymoides
+Tvk=NHMSYS0020309534
+StartDate=20030101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

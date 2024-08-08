@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Heringia latitarsis
+Description=Checks date is within known flight period of Heringia latitarsis
+ErrorMsg=Date is outside known flight period of Heringia latitarsis
+Tvk=NBNSYS0100003449
+DataFieldName=
+StartDate=0501
+EndDate=1019
+LastChanged=20240808
+[EndMetadata]

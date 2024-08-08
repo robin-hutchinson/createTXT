@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sisymbrium volgense 10km
+Description=Check coordinate against known distribution of Sisymbrium volgense
+ErrorMsg=Coordinate is outside known range for Sisymbrium volgense
+DataFieldName=Species
+DataRecordId=NHMSYS0000463631
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NU11
+SJ39
+SO81
+ST16
+ST57
+ST67
+TG20
+TM04
+TQ17
+TQ26
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Juniperus communis subsp. hemisphaerica 10km
+Description=Check coordinate against known distribution of Juniperus communis subsp. hemisphaerica
+ErrorMsg=Coordinate is outside known range for Juniperus communis subsp. hemisphaerica
+DataFieldName=Species
+DataRecordId=NHMSYS0000460003
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM72
+SW61
+
+

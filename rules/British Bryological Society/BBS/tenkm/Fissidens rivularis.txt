@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Fissidens rivularis 10km
+Description=Check coordinate against known distribution of Fissidens rivularis
+ErrorMsg=Coordinate is outside known range for Fissidens rivularis
+DataFieldName=Species
+DataRecordId=NHMSYS0000309877
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN61
+SN81
+SN90
+SN92
+SO00
+SO01
+SO02
+SO04
+SO10
+SO11
+SO20
+SO21
+SO22
+SO23
+SO51
+SO61
+SS88
+SS97
+ST07
+ST08
+ST09
+ST18
+ST29
+
+

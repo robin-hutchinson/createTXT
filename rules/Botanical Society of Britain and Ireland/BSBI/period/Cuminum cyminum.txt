@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cuminum cyminum
+Description=Checks date is within known recording period of Cuminum cyminum
+ErrorMsg=Date is outside known recording period of Cuminum cyminum
+Tvk=NBNSYS0000014748
+StartDate=18320101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

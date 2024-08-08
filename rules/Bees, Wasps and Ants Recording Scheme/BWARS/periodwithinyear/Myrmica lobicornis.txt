@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Myrmica lobicornis
+Description=Checks date is within known flight period of Myrmica lobicornis
+ErrorMsg=Date is outside known flight period of Myrmica lobicornis
+Tvk=NHMSYS0000876365
+DataFieldName=
+StartDate=0201
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

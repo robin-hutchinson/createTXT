@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Aphrodes makarovi
+Description=Checks date is within known flight period of Aphrodes makarovi
+ErrorMsg=Date is outside known flight period of Aphrodes makarovi
+Tvk=NHMSYS0020705218
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

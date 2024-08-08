@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Zora armillata 10km
+Description=Check coordinate against known distribution of Zora armillata
+ErrorMsg=Coordinate is outside known range for Zora armillata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008711
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SY98
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus laxatifrons 10km
+Description=Check coordinate against known distribution of Rubus laxatifrons
+ErrorMsg=Coordinate is outside known range for Rubus laxatifrons
+DataFieldName=Species
+DataRecordId=NHMSYS0000462755
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO43
+
+

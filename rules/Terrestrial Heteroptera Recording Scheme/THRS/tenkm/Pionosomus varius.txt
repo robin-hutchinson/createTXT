@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Pionosomus varius 10km
+Description=Check coordinate against known distribution of Pionosomus varius
+ErrorMsg=Coordinate is outside known range for Pionosomus varius
+DataFieldName=Species
+DataRecordId=NHMSYS0020309677
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE10
+SM80
+SR89
+SR99
+SS49
+
+

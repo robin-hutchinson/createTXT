@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Prunus domestica subsp. italica 10km
+Description=Check coordinate against known distribution of Prunus domestica subsp. italica
+ErrorMsg=Coordinate is outside known range for Prunus domestica subsp. italica
+DataFieldName=Species
+DataRecordId=NBNSYS0000014169
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C91
+
+
+[10km_GB]
+NO10
+SH88
+SJ47
+SJ91
+SK04
+SK14
+SK24
+SK43
+SK50
+SK80
+SP29
+SP38
+SP82
+SP83
+SP84
+SS42
+SS84
+SU31
+TF74
+TL32
+TL34
+TL43
+TL44
+TL45
+TL96
+TM13
+TM15
+TM24
+TQ06
+TQ14
+TQ44
+
+

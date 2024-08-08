@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Walckenaeria clavicornis
+Description=Checks date is within known flight period of Walckenaeria clavicornis
+ErrorMsg=Date is outside known flight period of Walckenaeria clavicornis
+Tvk=NBNSYS0000008987
+DataFieldName=
+StartDate=0322
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

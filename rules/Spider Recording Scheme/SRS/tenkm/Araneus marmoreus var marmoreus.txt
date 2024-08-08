@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Araneus marmoreus var. marmoreus 10km
+Description=Check coordinate against known distribution of Araneus marmoreus var. marmoreus
+ErrorMsg=Coordinate is outside known range for Araneus marmoreus var. marmoreus
+DataFieldName=Species
+DataRecordId=NHMSYS0000841042
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO49
+SE43
+SE51
+SE60
+SE63
+SE66
+SE71
+SE74
+TF02
+TG02
+TL66
+
+

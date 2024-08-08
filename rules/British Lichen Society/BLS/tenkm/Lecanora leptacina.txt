@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecanora leptacina 10km
+Description=Check coordinate against known distribution of Lecanora leptacina
+ErrorMsg=Coordinate is outside known range for Lecanora leptacina
+DataFieldName=Species
+DataRecordId=NBNSYS0000018603
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC54
+NG91
+NH28
+NH80
+NH90
+NJ00
+NJ10
+NN15
+NN17
+NN47
+NN48
+NN64
+NN99
+NO09
+NO17
+NO19
+NO28
+
+

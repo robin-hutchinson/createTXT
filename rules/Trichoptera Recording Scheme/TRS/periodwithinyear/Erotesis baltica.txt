@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Erotesis baltica
+Description=Checks date is within known flight period of Erotesis baltica
+ErrorMsg=Date is outside known flight period of Erotesis baltica
+Tvk=NBNSYS0000008530
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

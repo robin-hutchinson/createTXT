@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ypsolopha dentella
+Description=Checks date is within known flight period of Ypsolopha dentella
+ErrorMsg=Date is outside known flight period of Ypsolopha dentella
+Tvk=NHMSYS0000504698
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

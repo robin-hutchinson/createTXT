@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Anser fabalis sensu lato
+Description=Checks date is within known flight period of Anser fabalis sensu lato
+ErrorMsg=Date is outside known flight period of Anser fabalis sensu lato
+Tvk=NBNSYS0000000213
+DataFieldName=
+StartDate=0421
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

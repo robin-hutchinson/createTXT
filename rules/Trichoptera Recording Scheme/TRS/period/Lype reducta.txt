@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Lype reducta
+Description=Checks date is within known recording period of Lype reducta
+ErrorMsg=Date is outside known recording period of Lype reducta
+Tvk=NBNSYS0000008386
+StartDate=18370101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

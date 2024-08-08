@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Chlamydatus (Euattus) pulicarius
+Description=Checks date is within known flight period of Chlamydatus (Euattus) pulicarius
+ErrorMsg=Date is outside known flight period of Chlamydatus (Euattus) pulicarius
+Tvk=NHMSYS0020309076
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Aglaothamnion tripinnatum 10km
+Description=Check coordinate against known distribution of Aglaothamnion tripinnatum
+ErrorMsg=Coordinate is outside known range for Aglaothamnion tripinnatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000567764
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN00
+
+

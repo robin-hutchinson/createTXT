@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Leptogium juressianum 10km
+Description=Check coordinate against known distribution of Leptogium juressianum
+ErrorMsg=Coordinate is outside known range for Leptogium juressianum
+DataFieldName=Species
+DataRecordId=NHMSYS0001487428
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+L89
+V86
+V87
+V88
+V95
+V98
+W07
+
+

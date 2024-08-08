@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Tetramoera langmaidi
+Description=Checks date is within known recording period of Tetramoera langmaidi
+ErrorMsg=Date is outside known recording period of Tetramoera langmaidi
+Tvk=NHMSYS0021120360
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

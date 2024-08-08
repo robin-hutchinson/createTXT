@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Eugomontia sacculata 10km
+Description=Check coordinate against known distribution of Eugomontia sacculata
+ErrorMsg=Coordinate is outside known range for Eugomontia sacculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000181918
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+NB14
+NB53
+NC37
+NG62
+NM69
+NO88
+NR79
+NS14
+NS15
+NS24
+NS25
+NS26
+NS29
+NS31
+NS37
+NT47
+NT58
+NT68
+SC16
+SC27
+SC28
+SH36
+SJ28
+SJ39
+TA30
+TQ87
+TR06
+TR26
+TR27
+TR37
+
+

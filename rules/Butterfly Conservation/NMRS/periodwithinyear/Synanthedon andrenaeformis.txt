@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Synanthedon andrenaeformis
+Description=Checks date is within known flight period of Synanthedon andrenaeformis
+ErrorMsg=Date is outside known flight period of Synanthedon andrenaeformis
+Tvk=NBNSYS0000005693
+DataFieldName=
+StartDate=0607
+EndDate=0721
+LastChanged=20240808
+[EndMetadata]

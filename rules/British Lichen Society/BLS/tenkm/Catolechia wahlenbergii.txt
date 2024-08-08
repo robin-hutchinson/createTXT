@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Catolechia wahlenbergii 10km
+Description=Check coordinate against known distribution of Catolechia wahlenbergii
+ErrorMsg=Coordinate is outside known range for Catolechia wahlenbergii
+DataFieldName=Species
+DataRecordId=NHMSYS0020990040
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG41
+NG42
+NG90
+NH02
+NM88
+NN16
+NN17
+NN25
+NN47
+NO09
+
+

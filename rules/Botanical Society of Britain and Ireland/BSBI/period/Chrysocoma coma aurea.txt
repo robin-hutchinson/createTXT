@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Chrysocoma coma-aurea
+Description=Checks date is within known recording period of Chrysocoma coma-aurea
+ErrorMsg=Date is outside known recording period of Chrysocoma coma-aurea
+Tvk=NBNSYS0000034016
+StartDate=19140101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

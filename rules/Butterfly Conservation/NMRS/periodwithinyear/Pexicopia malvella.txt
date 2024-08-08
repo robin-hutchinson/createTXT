@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pexicopia malvella
+Description=Checks date is within known flight period of Pexicopia malvella
+ErrorMsg=Date is outside known flight period of Pexicopia malvella
+Tvk=NHMSYS0021142651
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

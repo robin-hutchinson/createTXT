@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Anabolia nervosa
+Description=Checks date is within known flight period of Anabolia nervosa
+ErrorMsg=Date is outside known flight period of Anabolia nervosa
+Tvk=NBNSYS0000008462
+DataFieldName=
+StartDate=0601
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cirsium acaule x palustre = C. x kirschlegeri 10km
+Description=Check coordinate against known distribution of Cirsium acaule x palustre = C. x kirschlegeri
+ErrorMsg=Coordinate is outside known range for Cirsium acaule x palustre = C. x kirschlegeri
+DataFieldName=Species
+DataRecordId=NHMSYS0001754798
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP78
+ST54
+ST57
+ST91
+SU78
+SY59
+SY98
+TR35
+
+

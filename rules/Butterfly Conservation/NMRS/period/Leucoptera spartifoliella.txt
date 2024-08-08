@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Leucoptera spartifoliella
+Description=Checks date is within known recording period of Leucoptera spartifoliella
+ErrorMsg=Date is outside known recording period of Leucoptera spartifoliella
+Tvk=NHMSYS0021142516
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

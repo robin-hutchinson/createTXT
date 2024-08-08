@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Senecio grandiflorus 10km
+Description=Check coordinate against known distribution of Senecio grandiflorus
+ErrorMsg=Coordinate is outside known range for Senecio grandiflorus
+DataFieldName=Species
+DataRecordId=NHMSYS0000463430
+LastChanged=20240808
+[EndMetadata]
+
+NA
+
+

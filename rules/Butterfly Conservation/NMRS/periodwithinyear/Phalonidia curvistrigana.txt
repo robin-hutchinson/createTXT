@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phalonidia curvistrigana
+Description=Checks date is within known flight period of Phalonidia curvistrigana
+ErrorMsg=Date is outside known flight period of Phalonidia curvistrigana
+Tvk=NHMSYS0000503705
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

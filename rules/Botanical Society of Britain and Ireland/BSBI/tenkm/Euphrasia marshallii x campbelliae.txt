@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia marshallii x campbelliae 10km
+Description=Check coordinate against known distribution of Euphrasia marshallii x campbelliae
+ErrorMsg=Coordinate is outside known range for Euphrasia marshallii x campbelliae
+DataFieldName=Species
+DataRecordId=NBNSYS0100003120
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NA92
+
+

@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Tremella tuckerae 10km
+Description=Check coordinate against known distribution of Tremella tuckerae
+ErrorMsg=Coordinate is outside known range for Tremella tuckerae
+DataFieldName=Species
+DataRecordId=NHMSYS0020327889
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH95
+
+
+[10km_Ireland]
+V26
+
+

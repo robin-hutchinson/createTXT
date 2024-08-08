@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Bucculatrix demaryella
+Description=Checks date is within known recording period of Bucculatrix demaryella
+ErrorMsg=Date is outside known recording period of Bucculatrix demaryella
+Tvk=NHMSYS0000501570
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,47 @@
+[Metadata]
+TestType=IdentificationDifficulty
+Organisation=National Amphibian and Reptile Recording Scheme
+LastChanged= 20240808
+[EndMetadata]
+
+[INI]
+1=Easy to identify, unlikely to be confused with other species.
+2=Possibility for confusion with similar species, refer to identification guide.
+3=Can be mis-identified and/or local non-native. Refer to identification guide and known distribution.
+4=Hard to separate species, may need close examination and expert confirmation.
+5=Identity requires expert confirmation from (at least) photograph or other evidence.
+
+[DATA]
+NHMSYS0000080161=2
+NBNSYS0000005072=2
+NHMSYS0000080162=2
+NHMSYS0000080163=2
+NHMSYS0000080159=2
+NHMSYS0000080224=3
+NHMSYS0000332360=2
+NHMSYS0000080230=3
+NHMSYS0000080225=3
+NHMSYS0020194825=2
+NHMSYS0000080165=2
+NHMSYS0020740241=3
+NBNSYS0000005070=2
+NHMSYS0020322402=1
+NHMSYS0020194828=3
+NHMSYS0020194827=3
+NHMSYS0020194859=5
+NHMSYS0000080231=2
+NHMSYS0000080232=3
+NHMSYS0020194861=4
+NHMSYS0020194823=4
+NHMSYS0020194860=4
+NHMSYS0000080229=2
+NHMSYS0000375719=5
+NBNSYS0000005060=1
+NHMSYS0000080153=1
+NHMSYS0000080227=3
+NHMSYS0000080155=3
+NHMSYS0000080156=2
+NHMSYS0000376071=2
+NBNSYS0000005075=2
+NHMSYS0000080166=5
+NHMSYS0001706186=2

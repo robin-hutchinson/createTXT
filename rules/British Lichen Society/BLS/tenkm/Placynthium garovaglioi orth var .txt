@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Placynthium garovaglioi orth. var. 10km
+Description=Check coordinate against known distribution of Placynthium garovaglioi orth. var.
+ErrorMsg=Coordinate is outside known range for Placynthium garovaglioi orth. var.
+DataFieldName=Species
+DataRecordId=NHMSYS0020039373
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D22
+D30
+
+
+[10km_GB]
+NM83
+NY70
+NY80
+NZ80
+SD37
+SD97
+SE06
+SH88
+SK15
+SK17
+SK18
+SR99
+SS48
+ST45
+ST55
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster insculptus 10km
+Description=Check coordinate against known distribution of Cotoneaster insculptus
+ErrorMsg=Coordinate is outside known range for Cotoneaster insculptus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014170
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH32
+
+

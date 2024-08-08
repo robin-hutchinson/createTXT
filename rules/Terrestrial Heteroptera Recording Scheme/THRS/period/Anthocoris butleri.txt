@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Anthocoris butleri
+Description=Checks date is within known recording period of Anthocoris butleri
+ErrorMsg=Date is outside known recording period of Anthocoris butleri
+Tvk=NHMSYS0020308932
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

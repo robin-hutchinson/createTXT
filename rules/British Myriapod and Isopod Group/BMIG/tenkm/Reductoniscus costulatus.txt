@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Reductoniscus costulatus 10km
+Description=Check coordinate against known distribution of Reductoniscus costulatus
+ErrorMsg=Coordinate is outside known range for Reductoniscus costulatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020302570
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ17
+
+

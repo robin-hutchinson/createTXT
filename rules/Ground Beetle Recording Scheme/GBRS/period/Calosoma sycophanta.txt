@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Calosoma sycophanta
+Description=Checks date is within known recording period of Calosoma sycophanta
+ErrorMsg=Date is outside known recording period of Calosoma sycophanta
+Tvk=NBNSYS0000007144
+StartDate=
+EndDate=19971213
+LastChanged=20240808
+[EndMetadata]

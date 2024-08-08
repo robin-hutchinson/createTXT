@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Amphipoea oculea
+Description=Checks date is within known recording period of Amphipoea oculea
+ErrorMsg=Date is outside known recording period of Amphipoea oculea
+Tvk=NBNSYS0000006465
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

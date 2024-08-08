@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Xanthodelphax flaveolus
+Description=Checks date is within known recording period of Xanthodelphax flaveolus
+ErrorMsg=Date is outside known recording period of Xanthodelphax flaveolus
+Tvk=NHMSYS0020442475
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

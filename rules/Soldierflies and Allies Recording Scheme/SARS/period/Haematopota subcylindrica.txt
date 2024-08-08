@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Soldierflies and Allies Recording Scheme/SARS Recording Period
+ShortName=Haematopota subcylindrica
+Description=Checks date is within known recording period of Haematopota subcylindrica
+ErrorMsg=Date is outside known recording period of Haematopota subcylindrica
+Tvk=NBNSYS0000042531
+StartDate=19870706
+EndDate=
+LastChanged=20240808
+[EndMetadata]

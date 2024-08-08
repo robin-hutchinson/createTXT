@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Elophila nymphaeata
+Description=Checks date is within known recording period of Elophila nymphaeata
+ErrorMsg=Date is outside known recording period of Elophila nymphaeata
+Tvk=NHMSYS0000502346
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

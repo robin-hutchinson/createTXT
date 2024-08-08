@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Cyrnus trimaculatus
+Description=Checks date is within known flight period of Cyrnus trimaculatus
+ErrorMsg=Date is outside known flight period of Cyrnus trimaculatus
+Tvk=NBNSYS0000008401
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

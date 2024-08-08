@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Oscinimorpha minutissima
+Description=Checks date is within known flight period of Oscinimorpha minutissima
+ErrorMsg=Date is outside known flight period of Oscinimorpha minutissima
+Tvk=NBNSYS0100004357
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Asperococcus scaber 10km
+Description=Check coordinate against known distribution of Asperococcus scaber
+ErrorMsg=Coordinate is outside known range for Asperococcus scaber
+DataFieldName=Species
+DataRecordId=NBNSYS0000173988
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV91
+
+

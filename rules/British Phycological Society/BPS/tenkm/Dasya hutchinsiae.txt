@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Dasya hutchinsiae 10km
+Description=Check coordinate against known distribution of Dasya hutchinsiae
+ErrorMsg=Coordinate is outside known range for Dasya hutchinsiae
+DataFieldName=Species
+DataRecordId=NBNSYS0000174858
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG19
+NL69
+NM15
+SC26
+SC48
+SH12
+SH32
+SH33
+SH52
+SM80
+SM90
+SS14
+SS48
+SV80
+SV81
+SV90
+SV91
+SW43
+SW61
+SW62
+SW71
+SW72
+SW82
+SW97
+SX09
+SX19
+SX73
+
+

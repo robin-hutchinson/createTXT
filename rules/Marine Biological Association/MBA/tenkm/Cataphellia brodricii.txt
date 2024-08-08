@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Cataphellia brodricii 10km
+Description=Check coordinate against known distribution of Cataphellia brodricii
+ErrorMsg=Coordinate is outside known range for Cataphellia brodricii
+DataFieldName=Species
+DataRecordId=NBNSYS0000174379
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+S90
+T00
+T10
+T11
+W63
+X99
+
+
+[10km_GB]
+SL85
+SL86
+SL96
+SM06
+SV80
+SV90
+SV91
+SW83
+SX15
+SX97
+SY87
+SZ07
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Phoma lecanorae 10km
+Description=Check coordinate against known distribution of Phoma lecanorae
+ErrorMsg=Coordinate is outside known range for Phoma lecanorae
+DataFieldName=Species
+DataRecordId=BMSSYS0000013977
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG61
+SS83
+
+

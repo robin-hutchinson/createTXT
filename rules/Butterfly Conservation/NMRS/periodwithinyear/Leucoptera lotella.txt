@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Leucoptera lotella
+Description=Checks date is within known flight period of Leucoptera lotella
+ErrorMsg=Date is outside known flight period of Leucoptera lotella
+Tvk=NHMSYS0021142514
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

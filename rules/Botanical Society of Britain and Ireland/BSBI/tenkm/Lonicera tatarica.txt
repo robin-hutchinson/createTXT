@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lonicera tatarica 10km
+Description=Check coordinate against known distribution of Lonicera tatarica
+ErrorMsg=Coordinate is outside known range for Lonicera tatarica
+DataFieldName=Species
+DataRecordId=NHMSYS0100001958
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX76
+NZ41
+SE13
+SH57
+SJ98
+SN12
+SP08
+SS58
+SU10
+SZ39
+SZ69
+TL18
+TM59
+TQ05
+TQ12
+TQ15
+
+

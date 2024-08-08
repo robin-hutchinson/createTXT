@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Chlorops varsoviensis 10km
+Description=Check coordinate against known distribution of Chlorops varsoviensis
+ErrorMsg=Coordinate is outside known range for Chlorops varsoviensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000030006
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH65
+NN63
+NO08
+NO19
+NS47
+SO80
+
+

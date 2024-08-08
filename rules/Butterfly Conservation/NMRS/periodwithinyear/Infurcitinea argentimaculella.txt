@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Infurcitinea argentimaculella
+Description=Checks date is within known flight period of Infurcitinea argentimaculella
+ErrorMsg=Date is outside known flight period of Infurcitinea argentimaculella
+Tvk=NHMSYS0000502950
+DataFieldName=
+StartDate=0701
+EndDate=0807
+LastChanged=20240808
+[EndMetadata]

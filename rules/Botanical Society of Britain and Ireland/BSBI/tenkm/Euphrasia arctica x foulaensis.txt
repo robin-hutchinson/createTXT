@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia arctica x foulaensis 10km
+Description=Check coordinate against known distribution of Euphrasia arctica x foulaensis
+ErrorMsg=Coordinate is outside known range for Euphrasia arctica x foulaensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000014248
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC55
+
+

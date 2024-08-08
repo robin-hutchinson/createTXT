@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Gobius cobitis 10km
+Description=Check coordinate against known distribution of Gobius cobitis
+ErrorMsg=Coordinate is outside known range for Gobius cobitis
+DataFieldName=Species
+DataRecordId=NHMSYS0020752138
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS48
+SS68
+SV80
+SV81
+SV90
+SV91
+SW42
+SW54
+SW62
+SW72
+SW76
+SW83
+SX04
+SX15
+SX25
+SX54
+
+

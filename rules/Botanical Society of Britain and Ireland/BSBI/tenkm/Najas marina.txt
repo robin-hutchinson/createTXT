@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Najas marina 10km
+Description=Check coordinate against known distribution of Najas marina
+ErrorMsg=Coordinate is outside known range for Najas marina
+DataFieldName=Species
+DataRecordId=NBNSYS0000002153
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TG31
+TG32
+TG41
+TG42
+
+

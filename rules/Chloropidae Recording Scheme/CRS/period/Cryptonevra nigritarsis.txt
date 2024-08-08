@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Cryptonevra nigritarsis
+Description=Checks date is within known recording period of Cryptonevra nigritarsis
+ErrorMsg=Date is outside known recording period of Cryptonevra nigritarsis
+Tvk=NBNSYS0000029965
+StartDate=19330101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

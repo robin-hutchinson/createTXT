@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/BC Flight Period
+ShortName=Pontia daplidice
+Description=Checks date is within known flight period of Pontia daplidice
+ErrorMsg=Date is outside known flight period of Pontia daplidice
+Tvk=NHMSYS0000503906
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum aurosulum 10km
+Description=Check coordinate against known distribution of Taraxacum aurosulum
+ErrorMsg=Coordinate is outside known range for Taraxacum aurosulum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464177
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ14
+NZ21
+NZ23
+ST11
+
+

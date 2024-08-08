@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Gandaritis pyraliata
+Description=Checks date is within known flight period of Gandaritis pyraliata
+ErrorMsg=Date is outside known flight period of Gandaritis pyraliata
+Tvk=NHMSYS0021143990
+DataFieldName=
+StartDate=0601
+EndDate=0907
+LastChanged=20240808
+[EndMetadata]

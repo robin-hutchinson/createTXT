@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Galeorhinus galeus 10km
+Description=Check coordinate against known distribution of Galeorhinus galeus
+ErrorMsg=Coordinate is outside known range for Galeorhinus galeus
+DataFieldName=Species
+DataRecordId=NBNSYS0000188590
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG62
+SD03
+SD15
+SH23
+SH46
+SM80
+SM81
+SM90
+SN25
+SN30
+SW65
+SZ08
+TM30
+
+
+[10km_Ireland]
+Y95
+Y96
+
+

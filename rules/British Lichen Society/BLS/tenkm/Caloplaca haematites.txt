@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Caloplaca haematites 10km
+Description=Check coordinate against known distribution of Caloplaca haematites
+ErrorMsg=Coordinate is outside known range for Caloplaca haematites
+DataFieldName=Species
+DataRecordId=NBNSYS0000020538
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU30
+SU34
+
+

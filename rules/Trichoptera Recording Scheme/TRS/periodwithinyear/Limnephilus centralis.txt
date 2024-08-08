@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Limnephilus centralis
+Description=Checks date is within known flight period of Limnephilus centralis
+ErrorMsg=Date is outside known flight period of Limnephilus centralis
+Tvk=NBNSYS0000008471
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

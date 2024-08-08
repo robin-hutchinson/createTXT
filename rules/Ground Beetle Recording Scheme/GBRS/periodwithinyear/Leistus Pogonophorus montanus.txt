@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Leistus (Pogonophorus) montanus
+Description=Checks date is within known flight period of Leistus (Pogonophorus) montanus
+ErrorMsg=Date is outside known flight period of Leistus (Pogonophorus) montanus
+Tvk=NHMSYS0001718800
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

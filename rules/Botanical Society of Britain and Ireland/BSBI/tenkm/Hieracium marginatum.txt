@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium marginatum 10km
+Description=Check coordinate against known distribution of Hieracium marginatum
+ErrorMsg=Coordinate is outside known range for Hieracium marginatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459495
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC00
+NC21
+NC22
+NC32
+NC33
+NC35
+NC52
+NC53
+NC54
+NG86
+NH06
+NH08
+NH17
+NH26
+NH27
+NH28
+NH37
+NH46
+NN48
+NN49
+
+

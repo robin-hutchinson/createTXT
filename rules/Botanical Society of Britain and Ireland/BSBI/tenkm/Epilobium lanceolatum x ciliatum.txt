@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium lanceolatum x ciliatum 10km
+Description=Check coordinate against known distribution of Epilobium lanceolatum x ciliatum
+ErrorMsg=Coordinate is outside known range for Epilobium lanceolatum x ciliatum
+DataFieldName=Species
+DataRecordId=NBNSYS0100003038
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO88
+SS20
+SS91
+SS92
+SS94
+ST11
+SU82
+SU88
+SU93
+SW84
+SX08
+SX16
+SX26
+SX89
+SX98
+SY19
+
+
+NA
+
+

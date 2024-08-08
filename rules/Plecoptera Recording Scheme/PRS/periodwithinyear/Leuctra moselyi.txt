@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plecoptera Recording Scheme/PRS Flight Period
+ShortName=Leuctra moselyi
+Description=Checks date is within known flight period of Leuctra moselyi
+ErrorMsg=Date is outside known flight period of Leuctra moselyi
+Tvk=NBNSYS0000022432
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

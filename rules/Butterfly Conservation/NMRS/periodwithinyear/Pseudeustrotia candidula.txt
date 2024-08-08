@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pseudeustrotia candidula
+Description=Checks date is within known flight period of Pseudeustrotia candidula
+ErrorMsg=Date is outside known flight period of Pseudeustrotia candidula
+Tvk=NHMSYS0020758202
+DataFieldName=
+StartDate=0607
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

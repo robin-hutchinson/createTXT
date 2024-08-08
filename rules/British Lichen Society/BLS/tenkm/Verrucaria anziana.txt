@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Verrucaria anziana 10km
+Description=Check coordinate against known distribution of Verrucaria anziana
+ErrorMsg=Coordinate is outside known range for Verrucaria anziana
+DataFieldName=Species
+DataRecordId=NHMSYS0020536327
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH22
+
+

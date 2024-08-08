@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Bryological Society/BBS Flight Period
+ShortName=Bryum creberrimum
+Description=Checks date is within known flight period of Bryum creberrimum
+ErrorMsg=Date is outside known flight period of Bryum creberrimum
+Tvk=NHMSYS0000309486
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

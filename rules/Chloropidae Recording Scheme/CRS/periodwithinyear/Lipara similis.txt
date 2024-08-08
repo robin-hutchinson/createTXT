@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Lipara similis
+Description=Checks date is within known flight period of Lipara similis
+ErrorMsg=Date is outside known flight period of Lipara similis
+Tvk=NBNSYS0000029843
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Chaceon affinis 10km
+Description=Check coordinate against known distribution of Chaceon affinis
+ErrorMsg=Coordinate is outside known range for Chaceon affinis
+DataFieldName=Species
+DataRecordId=NHMSYS0020962461
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HQ07
+HQ56
+
+

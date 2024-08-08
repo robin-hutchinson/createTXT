@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia rei 10km
+Description=Check coordinate against known distribution of Cladonia rei
+ErrorMsg=Coordinate is outside known range for Cladonia rei
+DataFieldName=Species
+DataRecordId=NBNSYS0000018403
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE23
+SP54
+SU11
+SU20
+SU21
+SU30
+SU73
+SU91
+SZ08
+SZ38
+TL24
+TM24
+TM35
+TM47
+TQ17
+TQ27
+TQ28
+
+

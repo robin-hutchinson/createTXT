@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Alucita hexadactyla
+Description=Checks date is within known recording period of Alucita hexadactyla
+ErrorMsg=Date is outside known recording period of Alucita hexadactyla
+Tvk=NHMSYS0000501204
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Artemisia abrotanum 10km
+Description=Check coordinate against known distribution of Artemisia abrotanum
+ErrorMsg=Coordinate is outside known range for Artemisia abrotanum
+DataFieldName=Species
+DataRecordId=NBNSYS0000014764
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+F82
+N23
+
+
+[10km_GB]
+HU24
+HU44
+NR47
+NS38
+NS56
+SD46
+SH37
+SH54
+SJ58
+SN31
+SN40
+ST00
+ST57
+ST64
+SU39
+SW84
+SW85
+SW98
+SX19
+SX76
+TQ18
+TQ28
+TQ39
+TQ57
+TQ87
+
+

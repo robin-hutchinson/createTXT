@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Herniaria hirsuta
+Description=Checks date is within known recording period of Herniaria hirsuta
+ErrorMsg=Date is outside known recording period of Herniaria hirsuta
+Tvk=NBNSYS0000004584
+StartDate=17890101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

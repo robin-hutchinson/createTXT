@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hypericum olympicum 10km
+Description=Check coordinate against known distribution of Hypericum olympicum
+ErrorMsg=Coordinate is outside known range for Hypericum olympicum
+DataFieldName=Species
+DataRecordId=NBNSYS0200002365
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK63
+SN68
+SP50
+SU36
+SU86
+TR26
+
+

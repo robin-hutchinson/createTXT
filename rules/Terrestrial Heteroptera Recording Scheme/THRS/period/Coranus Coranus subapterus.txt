@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Coranus (Coranus) subapterus
+Description=Checks date is within known recording period of Coranus (Coranus) subapterus
+ErrorMsg=Date is outside known recording period of Coranus (Coranus) subapterus
+Tvk=NHMSYS0020309101
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

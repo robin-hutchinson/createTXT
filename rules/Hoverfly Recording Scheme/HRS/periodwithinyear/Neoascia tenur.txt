@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Neoascia tenur
+Description=Checks date is within known flight period of Neoascia tenur
+ErrorMsg=Date is outside known flight period of Neoascia tenur
+Tvk=NBNSYS0000007031
+DataFieldName=
+StartDate=0112
+EndDate=1127
+LastChanged=20240808
+[EndMetadata]

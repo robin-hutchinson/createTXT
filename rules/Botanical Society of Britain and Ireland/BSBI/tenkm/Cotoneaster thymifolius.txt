@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster thymifolius 10km
+Description=Check coordinate against known distribution of Cotoneaster thymifolius
+ErrorMsg=Coordinate is outside known range for Cotoneaster thymifolius
+DataFieldName=Species
+DataRecordId=NHMSYS0100001127
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+M42
+
+
+[10km_GB]
+ST59
+SU20
+SX95
+TL31
+TL45
+TL46
+
+

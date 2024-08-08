@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton trichoides x crispus = P. x bennettii 10km
+Description=Check coordinate against known distribution of Potamogeton trichoides x crispus = P. x bennettii
+ErrorMsg=Coordinate is outside known range for Potamogeton trichoides x crispus = P. x bennettii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754452
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS47
+NS56
+NS57
+NS67
+NS77
+NS98
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia mediterranea 10km
+Description=Check coordinate against known distribution of Cladonia mediterranea
+ErrorMsg=Coordinate is outside known range for Cladonia mediterranea
+DataFieldName=Species
+DataRecordId=NBNSYS0000018385
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU11
+SW61
+
+

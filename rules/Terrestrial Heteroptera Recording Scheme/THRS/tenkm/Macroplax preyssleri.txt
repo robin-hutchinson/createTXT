@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Macroplax preyssleri 10km
+Description=Check coordinate against known distribution of Macroplax preyssleri
+ErrorMsg=Coordinate is outside known range for Macroplax preyssleri
+DataFieldName=Species
+DataRecordId=NHMSYS0020309406
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO80
+ST25
+ST45
+ST89
+
+

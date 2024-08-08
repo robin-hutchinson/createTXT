@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Dichelia histrionana
+Description=Checks date is within known flight period of Dichelia histrionana
+ErrorMsg=Date is outside known flight period of Dichelia histrionana
+Tvk=NHMSYS0021143029
+DataFieldName=
+StartDate=0521
+EndDate=0821
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Dictyota spiralis 10km
+Description=Check coordinate against known distribution of Dictyota spiralis
+ErrorMsg=Coordinate is outside known range for Dictyota spiralis
+DataFieldName=Species
+DataRecordId=NBNSYS0000181299
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW72
+SW81
+SW82
+
+

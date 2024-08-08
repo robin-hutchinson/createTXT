@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus infestior 10km
+Description=Check coordinate against known distribution of Rubus infestior
+ErrorMsg=Coordinate is outside known range for Rubus infestior
+DataFieldName=Species
+DataRecordId=NHMSYS0000840862
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY62
+SJ89
+SK24
+SU83
+SU84
+SU85
+SU93
+SU94
+SU95
+SU96
+SX45
+SY09
+TQ04
+TQ05
+TQ06
+TQ16
+TQ25
+TQ27
+TQ46
+TQ56
+TQ57
+
+

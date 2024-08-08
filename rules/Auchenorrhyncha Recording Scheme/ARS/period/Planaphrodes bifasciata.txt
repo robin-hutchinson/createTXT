@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Planaphrodes bifasciata
+Description=Checks date is within known recording period of Planaphrodes bifasciata
+ErrorMsg=Date is outside known recording period of Planaphrodes bifasciata
+Tvk=NHMSYS0020705215
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

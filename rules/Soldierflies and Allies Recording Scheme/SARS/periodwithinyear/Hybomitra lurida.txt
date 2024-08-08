@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Hybomitra lurida
+Description=Checks date is within known flight period of Hybomitra lurida
+ErrorMsg=Date is outside known flight period of Hybomitra lurida
+Tvk=NBNSYS0000007883
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Glyphipterix schoenicolella
+Description=Checks date is within known recording period of Glyphipterix schoenicolella
+ErrorMsg=Date is outside known recording period of Glyphipterix schoenicolella
+Tvk=NHMSYS0000502738
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

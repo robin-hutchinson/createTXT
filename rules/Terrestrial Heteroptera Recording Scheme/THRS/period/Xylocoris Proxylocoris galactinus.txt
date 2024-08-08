@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Xylocoris (Proxylocoris) galactinus
+Description=Checks date is within known recording period of Xylocoris (Proxylocoris) galactinus
+ErrorMsg=Date is outside known recording period of Xylocoris (Proxylocoris) galactinus
+Tvk=NHMSYS0020309946
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

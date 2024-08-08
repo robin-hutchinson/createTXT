@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Yushania anceps 10km
+Description=Check coordinate against known distribution of Yushania anceps
+ErrorMsg=Coordinate is outside known range for Yushania anceps
+DataFieldName=Species
+DataRecordId=NHMSYS0000465214
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT73
+NY30
+SD76
+SD77
+SO75
+SO85
+SP50
+ST12
+ST31
+ST41
+ST63
+SU95
+SW43
+SW63
+SW73
+SW83
+SX15
+SX74
+SX84
+SY09
+SY18
+SZ08
+TM13
+TM24
+TQ04
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

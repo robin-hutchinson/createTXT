@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salvia pratensis x nemorosa = S. x sylvestris 10km
+Description=Check coordinate against known distribution of Salvia pratensis x nemorosa = S. x sylvestris
+ErrorMsg=Coordinate is outside known range for Salvia pratensis x nemorosa = S. x sylvestris
+DataFieldName=Species
+DataRecordId=NHMSYS0001754565
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TF84
+TL03
+TL31
+
+
+NA
+
+

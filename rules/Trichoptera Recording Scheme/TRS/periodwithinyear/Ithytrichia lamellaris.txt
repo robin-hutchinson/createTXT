@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Ithytrichia lamellaris
+Description=Checks date is within known flight period of Ithytrichia lamellaris
+ErrorMsg=Date is outside known flight period of Ithytrichia lamellaris
+Tvk=NBNSYS0000008376
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

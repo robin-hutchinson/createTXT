@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Anabolia nervosa
+Description=Checks date is within known recording period of Anabolia nervosa
+ErrorMsg=Date is outside known recording period of Anabolia nervosa
+Tvk=NBNSYS0000008462
+StartDate=18320101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

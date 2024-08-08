@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Zeiraphera ratzeburgiana
+Description=Checks date is within known flight period of Zeiraphera ratzeburgiana
+ErrorMsg=Date is outside known flight period of Zeiraphera ratzeburgiana
+Tvk=NHMSYS0021143281
+DataFieldName=
+StartDate=0621
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ajuga genevensis 10km
+Description=Check coordinate against known distribution of Ajuga genevensis
+ErrorMsg=Coordinate is outside known range for Ajuga genevensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000004270
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NA92
+NB00
+NB01
+NB03
+NB10
+NB11
+NB12
+NB13
+NB14
+NB20
+NB24
+NB31
+NB42
+NB43
+NB45
+NB54
+NC83
+NF09
+NF70
+NF72
+NF73
+NF81
+NF83
+NF84
+NF85
+NF95
+NF96
+NG08
+NG09
+NG29
+NH79
+NL69
+SJ11
+SU58
+SW53
+SX56
+
+

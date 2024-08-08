@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Chloropsina pulicaria 10km
+Description=Check coordinate against known distribution of Chloropsina pulicaria
+ErrorMsg=Coordinate is outside known range for Chloropsina pulicaria
+DataFieldName=Species
+DataRecordId=NBNSYS0100002376
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST27
+ST28
+SU77
+TL16
+TL57
+
+

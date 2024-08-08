@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Oxyethira tristella
+Description=Checks date is within known flight period of Oxyethira tristella
+ErrorMsg=Date is outside known flight period of Oxyethira tristella
+Tvk=NBNSYS0000008373
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

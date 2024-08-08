@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Origanum majorana 10km
+Description=Check coordinate against known distribution of Origanum majorana
+ErrorMsg=Coordinate is outside known range for Origanum majorana
+DataFieldName=Species
+DataRecordId=NBNSYS0000033782
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H31
+
+
+[10km_GB]
+SC37
+SE13
+ST38
+TQ17
+
+

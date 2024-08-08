@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Bacidia subincompta sensu auct. 10km
+Description=Check coordinate against known distribution of Bacidia subincompta sensu auct.
+ErrorMsg=Coordinate is outside known range for Bacidia subincompta sensu auct.
+DataFieldName=Species
+DataRecordId=NBNSYS0000018244
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH26
+NH80
+NJ02
+NJ03
+NJ20
+NN55
+NN69
+NN84
+NN86
+NN97
+NO14
+NO25
+NZ02
+
+

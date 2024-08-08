@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Endococcus exerrans 10km
+Description=Check coordinate against known distribution of Endococcus exerrans
+ErrorMsg=Coordinate is outside known range for Endococcus exerrans
+DataFieldName=Species
+DataRecordId=NBNSYS0000016068
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM66
+NO12
+NO14
+NO22
+NU04
+
+

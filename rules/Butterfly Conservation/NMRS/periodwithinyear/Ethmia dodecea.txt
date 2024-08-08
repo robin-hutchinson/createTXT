@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ethmia dodecea
+Description=Checks date is within known flight period of Ethmia dodecea
+ErrorMsg=Date is outside known flight period of Ethmia dodecea
+Tvk=NBNSYS0000026222
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Carsia sororiata sororiata
+Description=Checks date is within known flight period of Carsia sororiata sororiata
+ErrorMsg=Date is outside known flight period of Carsia sororiata sororiata
+Tvk=NHMSYS0021144135
+DataFieldName=
+StartDate=0601
+EndDate=0921
+LastChanged=20240808
+[EndMetadata]

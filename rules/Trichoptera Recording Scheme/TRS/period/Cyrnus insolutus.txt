@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Cyrnus insolutus
+Description=Checks date is within known recording period of Cyrnus insolutus
+ErrorMsg=Date is outside known recording period of Cyrnus insolutus
+Tvk=NBNSYS0000008400
+StartDate=19410101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Berberis aggregata 10km
+Description=Check coordinate against known distribution of Berberis aggregata
+ErrorMsg=Coordinate is outside known range for Berberis aggregata
+DataFieldName=Species
+DataRecordId=NHMSYS0000456430
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ16
+NO04
+NR68
+NR89
+NT39
+SE24
+SH78
+SJ39
+SK53
+SN55
+SO72
+SO80
+SO82
+SO89
+SO91
+SO98
+ST57
+SU72
+SW64
+TL46
+
+

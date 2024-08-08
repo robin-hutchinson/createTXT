@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum luteum 10km
+Description=Check coordinate against known distribution of Taraxacum luteum
+ErrorMsg=Coordinate is outside known range for Taraxacum luteum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464254
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H78
+
+

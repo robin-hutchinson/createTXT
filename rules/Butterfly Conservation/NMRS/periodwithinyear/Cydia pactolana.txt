@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Cydia pactolana
+Description=Checks date is within known flight period of Cydia pactolana
+ErrorMsg=Date is outside known flight period of Cydia pactolana
+Tvk=NHMSYS0000502068
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

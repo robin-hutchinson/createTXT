@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potentilla rupestris 10km
+Description=Check coordinate against known distribution of Potentilla rupestris
+ErrorMsg=Coordinate is outside known range for Potentilla rupestris
+DataFieldName=Species
+DataRecordId=NBNSYS0000003340
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC70
+NH69
+NN95
+SJ21
+SO14
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Orthotylus (Pachylops) adenocarpi
+Description=Checks date is within known flight period of Orthotylus (Pachylops) adenocarpi
+ErrorMsg=Date is outside known flight period of Orthotylus (Pachylops) adenocarpi
+Tvk=NHMSYS0020309600
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

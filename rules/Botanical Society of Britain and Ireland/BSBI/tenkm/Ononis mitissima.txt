@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ononis mitissima 10km
+Description=Check coordinate against known distribution of Ononis mitissima
+ErrorMsg=Coordinate is outside known range for Ononis mitissima
+DataFieldName=Species
+DataRecordId=NBNSYS0000033346
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT27
+SE23
+SP49
+ST17
+TA30
+TL31
+TL42
+TQ27
+TQ54
+TQ56
+
+

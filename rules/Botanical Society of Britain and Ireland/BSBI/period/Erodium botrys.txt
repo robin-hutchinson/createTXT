@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Erodium botrys
+Description=Checks date is within known recording period of Erodium botrys
+ErrorMsg=Date is outside known recording period of Erodium botrys
+Tvk=NBNSYS0000004854
+StartDate=19090101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

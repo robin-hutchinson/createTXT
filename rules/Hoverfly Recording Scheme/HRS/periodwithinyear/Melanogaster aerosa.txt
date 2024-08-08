@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Melanogaster aerosa
+Description=Checks date is within known flight period of Melanogaster aerosa
+ErrorMsg=Date is outside known flight period of Melanogaster aerosa
+Tvk=NBNSYS0100003968
+DataFieldName=
+StartDate=0520
+EndDate=0923
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex rupestris 10km
+Description=Check coordinate against known distribution of Carex rupestris
+ErrorMsg=Coordinate is outside known range for Carex rupestris
+DataFieldName=Species
+DataRecordId=NHMSYS0000456892
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC10
+NC11
+NC21
+NC22
+NC31
+NC36
+NC45
+NC46
+NC66
+NC76
+NG62
+NG84
+NN05
+NN43
+NN53
+NN54
+NN63
+NN64
+NN65
+NN66
+NN67
+NN75
+NN89
+NN96
+NN97
+NN99
+NO07
+NO17
+NO18
+NO19
+NO27
+
+

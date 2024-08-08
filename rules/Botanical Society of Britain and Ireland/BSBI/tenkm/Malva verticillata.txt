@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Malva verticillata 10km
+Description=Check coordinate against known distribution of Malva verticillata
+ErrorMsg=Coordinate is outside known range for Malva verticillata
+DataFieldName=Species
+DataRecordId=NBNSYS0000003136
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS77
+SC39
+SD81
+SE22
+SJ99
+ST46
+ST51
+ST54
+ST57
+ST76
+ST97
+SU01
+SU16
+SU19
+SU37
+SU75
+SU94
+SX45
+TA08
+TA21
+TF26
+TL02
+TL03
+TQ10
+TQ16
+TQ17
+TQ27
+TQ38
+TR14
+
+

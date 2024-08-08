@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Parasyrphus lineola
+Description=Checks date is within known flight period of Parasyrphus lineola
+ErrorMsg=Date is outside known flight period of Parasyrphus lineola
+Tvk=NBNSYS0100004457
+DataFieldName=
+StartDate=0410
+EndDate=1002
+LastChanged=20240808
+[EndMetadata]

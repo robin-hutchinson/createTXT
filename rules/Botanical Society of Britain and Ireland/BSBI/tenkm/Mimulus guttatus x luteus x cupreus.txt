@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Mimulus guttatus x luteus x cupreus 10km
+Description=Check coordinate against known distribution of Mimulus guttatus x luteus x cupreus
+ErrorMsg=Coordinate is outside known range for Mimulus guttatus x luteus x cupreus
+DataFieldName=Species
+DataRecordId=NHMSYS0100002053
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NB00
+NH53
+NJ23
+NL79
+NS86
+NS97
+NT13
+NT22
+NT24
+NT31
+NT32
+NY30
+NY59
+NZ03
+NZ06
+SC17
+SC47
+SO10
+SO17
+SO20
+SP11
+ST29
+ST48
+
+

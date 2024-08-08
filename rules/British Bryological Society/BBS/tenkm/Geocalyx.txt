@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Geocalyx 10km
+Description=Check coordinate against known distribution of Geocalyx
+ErrorMsg=Coordinate is outside known range for Geocalyx
+DataFieldName=Species
+DataRecordId=NHMSYS0000309640
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NA00
+NA10
+
+

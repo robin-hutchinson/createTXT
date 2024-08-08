@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cotoneaster cashmiriensis
+Description=Checks date is within known recording period of Cotoneaster cashmiriensis
+ErrorMsg=Date is outside known recording period of Cotoneaster cashmiriensis
+Tvk=NHMSYS0000457568
+StartDate=19910101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

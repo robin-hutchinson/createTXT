@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Oxyethira sagittifera
+Description=Checks date is within known flight period of Oxyethira sagittifera
+ErrorMsg=Date is outside known flight period of Oxyethira sagittifera
+Tvk=NBNSYS0000008371
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

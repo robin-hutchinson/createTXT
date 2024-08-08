@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Poa flexuosa x alpina = P. x jemtlandica 10km
+Description=Check coordinate against known distribution of Poa flexuosa x alpina = P. x jemtlandica
+ErrorMsg=Coordinate is outside known range for Poa flexuosa x alpina = P. x jemtlandica
+DataFieldName=Species
+DataRecordId=NHMSYS0001754359
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH90
+NN17
+NO28
+
+

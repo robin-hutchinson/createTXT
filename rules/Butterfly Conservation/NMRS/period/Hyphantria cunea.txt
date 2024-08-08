@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Hyphantria cunea
+Description=Checks date is within known recording period of Hyphantria cunea
+ErrorMsg=Date is outside known recording period of Hyphantria cunea
+Tvk=NHMSYS0021157674
+StartDate=20140513
+EndDate=
+LastChanged=20240808
+[EndMetadata]

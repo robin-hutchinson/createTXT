@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Trapeliopsis viridescens 10km
+Description=Check coordinate against known distribution of Trapeliopsis viridescens
+ErrorMsg=Coordinate is outside known range for Trapeliopsis viridescens
+DataFieldName=Species
+DataRecordId=NBNSYS0000019117
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM76
+NY09
+
+

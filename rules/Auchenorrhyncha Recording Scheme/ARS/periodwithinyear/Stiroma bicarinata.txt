@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Stiroma bicarinata
+Description=Checks date is within known flight period of Stiroma bicarinata
+ErrorMsg=Date is outside known flight period of Stiroma bicarinata
+Tvk=NHMSYS0020442467
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

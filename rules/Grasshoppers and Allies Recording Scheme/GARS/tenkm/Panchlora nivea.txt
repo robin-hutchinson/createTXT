@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Grasshoppers and Allies Recording Scheme/GARS 10km distribution
+ShortName=Panchlora nivea 10km
+Description=Check coordinate against known distribution of Panchlora nivea
+ErrorMsg=Coordinate is outside known range for Panchlora nivea
+DataFieldName=Species
+DataRecordId=NBNSYS0100004408
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS45
+SJ79
+SW83
+TL10
+
+

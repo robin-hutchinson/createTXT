@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Nemapogon clematella
+Description=Checks date is within known flight period of Nemapogon clematella
+ErrorMsg=Date is outside known flight period of Nemapogon clematella
+Tvk=NHMSYS0000503333
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

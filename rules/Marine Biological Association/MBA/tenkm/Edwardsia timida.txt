@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Edwardsia timida 10km
+Description=Check coordinate against known distribution of Edwardsia timida
+ErrorMsg=Coordinate is outside known range for Edwardsia timida
+DataFieldName=Species
+DataRecordId=NBNSYS0000175088
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D15
+J55
+
+
+[10km_GB]
+NM82
+NR30
+NR58
+NW60
+SC16
+SH56
+
+

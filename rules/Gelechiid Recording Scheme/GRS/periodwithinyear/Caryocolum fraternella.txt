@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Caryocolum fraternella
+Description=Checks date is within known flight period of Caryocolum fraternella
+ErrorMsg=Date is outside known flight period of Caryocolum fraternella
+Tvk=NHMSYS0000501649
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Depressaria olerella
+Description=Checks date is within known flight period of Depressaria olerella
+ErrorMsg=Date is outside known flight period of Depressaria olerella
+Tvk=NHMSYS0000502125
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

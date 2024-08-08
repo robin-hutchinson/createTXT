@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Melaspilea lentiginosula 10km
+Description=Check coordinate against known distribution of Melaspilea lentiginosula
+ErrorMsg=Coordinate is outside known range for Melaspilea lentiginosula
+DataFieldName=Species
+DataRecordId=NBNSYS0000018804
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG70
+NG71
+NG80
+NG81
+NG84
+NG85
+NG86
+NG90
+NG91
+NG93
+NG94
+NG95
+NG96
+NH03
+NH04
+NH05
+NH06
+NH12
+NH13
+NH14
+NH15
+NH16
+NH22
+NH23
+NH24
+NH32
+NH33
+NH34
+NM79
+NM89
+NM99
+
+

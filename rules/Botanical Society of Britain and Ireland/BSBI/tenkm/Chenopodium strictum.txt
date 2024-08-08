@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chenopodium strictum 10km
+Description=Check coordinate against known distribution of Chenopodium strictum
+ErrorMsg=Coordinate is outside known range for Chenopodium strictum
+DataFieldName=Species
+DataRecordId=NBNSYS0000033615
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+NS76
+SD18
+SE22
+SJ46
+SK22
+SN58
+SO60
+SO94
+ST38
+TL03
+TL21
+TL30
+TL31
+TL34
+TQ09
+TQ48
+TQ57
+
+
+[10km_Ireland]
+R25
+
+

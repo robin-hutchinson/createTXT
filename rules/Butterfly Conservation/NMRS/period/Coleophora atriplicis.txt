@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Coleophora atriplicis
+Description=Checks date is within known recording period of Coleophora atriplicis
+ErrorMsg=Date is outside known recording period of Coleophora atriplicis
+Tvk=NHMSYS0021142223
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

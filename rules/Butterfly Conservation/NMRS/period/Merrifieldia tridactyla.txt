@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Merrifieldia tridactyla
+Description=Checks date is within known recording period of Merrifieldia tridactyla
+ErrorMsg=Date is outside known recording period of Merrifieldia tridactyla
+Tvk=NBNSYS0100004011
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

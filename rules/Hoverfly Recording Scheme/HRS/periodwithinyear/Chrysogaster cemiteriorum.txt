@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Chrysogaster cemiteriorum
+Description=Checks date is within known flight period of Chrysogaster cemiteriorum
+ErrorMsg=Date is outside known flight period of Chrysogaster cemiteriorum
+Tvk=NBNSYS0000144380
+DataFieldName=
+StartDate=0218
+EndDate=0916
+LastChanged=20240808
+[EndMetadata]

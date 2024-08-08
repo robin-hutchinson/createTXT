@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Ischnoscia borreonella
+Description=Checks date is within known recording period of Ischnoscia borreonella
+ErrorMsg=Date is outside known recording period of Ischnoscia borreonella
+Tvk=NHMSYS0000502957
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

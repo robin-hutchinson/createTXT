@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Merrifieldia baliodactylus
+Description=Checks date is within known recording period of Merrifieldia baliodactylus
+ErrorMsg=Date is outside known recording period of Merrifieldia baliodactylus
+Tvk=NBNSYS0100004009
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

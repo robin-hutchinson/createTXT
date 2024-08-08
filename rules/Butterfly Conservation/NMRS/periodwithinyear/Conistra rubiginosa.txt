@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Conistra rubiginosa
+Description=Checks date is within known flight period of Conistra rubiginosa
+ErrorMsg=Date is outside known flight period of Conistra rubiginosa
+Tvk=NHMSYS0021144718
+DataFieldName=
+StartDate=0415
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

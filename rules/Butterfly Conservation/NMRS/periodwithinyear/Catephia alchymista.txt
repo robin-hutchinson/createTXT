@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Catephia alchymista
+Description=Checks date is within known flight period of Catephia alchymista
+ErrorMsg=Date is outside known flight period of Catephia alchymista
+Tvk=NHMSYS0021144456
+DataFieldName=
+StartDate=0515
+EndDate=0907
+LastChanged=20240808
+[EndMetadata]

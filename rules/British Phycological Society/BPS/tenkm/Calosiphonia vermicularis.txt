@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Calosiphonia vermicularis 10km
+Description=Check coordinate against known distribution of Calosiphonia vermicularis
+ErrorMsg=Coordinate is outside known range for Calosiphonia vermicularis
+DataFieldName=Species
+DataRecordId=NHMSYS0000567832
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC16
+SM62
+SM70
+SM80
+SM83
+SS14
+SW72
+SX09
+SX19
+SX73
+SX94
+
+

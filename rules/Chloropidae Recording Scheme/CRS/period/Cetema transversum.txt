@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Cetema transversum
+Description=Checks date is within known recording period of Cetema transversum
+ErrorMsg=Date is outside known recording period of Cetema transversum
+Tvk=NBNSYS0100002279
+StartDate=19660101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

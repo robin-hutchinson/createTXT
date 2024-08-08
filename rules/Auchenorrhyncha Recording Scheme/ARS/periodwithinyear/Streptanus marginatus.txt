@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Streptanus marginatus
+Description=Checks date is within known flight period of Streptanus marginatus
+ErrorMsg=Date is outside known flight period of Streptanus marginatus
+Tvk=NHMSYS0020705913
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

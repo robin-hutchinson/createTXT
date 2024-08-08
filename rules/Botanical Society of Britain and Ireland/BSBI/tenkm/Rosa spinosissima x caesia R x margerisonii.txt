@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa spinosissima x caesia = R. x margerisonii 10km
+Description=Check coordinate against known distribution of Rosa spinosissima x caesia = R. x margerisonii
+ErrorMsg=Coordinate is outside known range for Rosa spinosissima x caesia = R. x margerisonii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754417
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D31
+
+
+[10km_GB]
+NT47
+NY82
+NZ13
+NZ33
+NZ42
+NZ44
+SJ28
+SJ59
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Epinotia granitana
+Description=Checks date is within known flight period of Epinotia granitana
+ErrorMsg=Date is outside known flight period of Epinotia granitana
+Tvk=NHMSYS0021143264
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

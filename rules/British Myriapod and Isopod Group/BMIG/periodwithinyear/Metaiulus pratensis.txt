@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Myriapod and Isopod Group/BMIG Flight Period
+ShortName=Metaiulus pratensis
+Description=Checks date is within known flight period of Metaiulus pratensis
+ErrorMsg=Date is outside known flight period of Metaiulus pratensis
+Tvk=NBNSYS0000039488
+DataFieldName=
+StartDate=0301
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

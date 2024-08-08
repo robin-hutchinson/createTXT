@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Picea pungens 10km
+Description=Check coordinate against known distribution of Picea pungens
+ErrorMsg=Coordinate is outside known range for Picea pungens
+DataFieldName=Species
+DataRecordId=NBNSYS0000042151
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD88
+SN34
+SN77
+TA10
+TF04
+TL92
+
+

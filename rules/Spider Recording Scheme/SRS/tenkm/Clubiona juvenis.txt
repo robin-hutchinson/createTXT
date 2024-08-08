@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Clubiona juvenis 10km
+Description=Check coordinate against known distribution of Clubiona juvenis
+ErrorMsg=Coordinate is outside known range for Clubiona juvenis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008690
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TF70
+TG30
+TG31
+TG32
+TG42
+TL66
+TL89
+TL91
+TM23
+TQ68
+TQ77
+TQ78
+TQ87
+
+

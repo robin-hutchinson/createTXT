@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Ceraclea annulicornis
+Description=Checks date is within known flight period of Ceraclea annulicornis
+ErrorMsg=Date is outside known flight period of Ceraclea annulicornis
+Tvk=NBNSYS0000008517
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

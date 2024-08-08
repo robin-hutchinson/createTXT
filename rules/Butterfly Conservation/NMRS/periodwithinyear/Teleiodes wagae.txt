@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Teleiodes wagae
+Description=Checks date is within known flight period of Teleiodes wagae
+ErrorMsg=Date is outside known flight period of Teleiodes wagae
+Tvk=NHMSYS0000504466
+DataFieldName=
+StartDate=0501
+EndDate=0707
+LastChanged=20240808
+[EndMetadata]

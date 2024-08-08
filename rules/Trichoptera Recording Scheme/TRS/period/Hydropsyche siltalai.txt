@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Hydropsyche siltalai
+Description=Checks date is within known recording period of Hydropsyche siltalai
+ErrorMsg=Date is outside known recording period of Hydropsyche siltalai
+Tvk=NBNSYS0000008421
+StartDate=18610101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

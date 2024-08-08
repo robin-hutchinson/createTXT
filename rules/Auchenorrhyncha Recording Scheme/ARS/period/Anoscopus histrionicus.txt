@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Anoscopus histrionicus
+Description=Checks date is within known recording period of Anoscopus histrionicus
+ErrorMsg=Date is outside known recording period of Anoscopus histrionicus
+Tvk=NHMSYS0020705217
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

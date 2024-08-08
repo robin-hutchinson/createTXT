@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Peridroma saucia
+Description=Checks date is within known flight period of Peridroma saucia
+ErrorMsg=Date is outside known flight period of Peridroma saucia
+Tvk=NHMSYS0021144878
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

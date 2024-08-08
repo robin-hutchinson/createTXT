@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Coranus (Coranus) woodroffei
+Description=Checks date is within known recording period of Coranus (Coranus) woodroffei
+ErrorMsg=Date is outside known recording period of Coranus (Coranus) woodroffei
+Tvk=NHMSYS0020309102
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

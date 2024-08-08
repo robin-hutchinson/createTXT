@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Ballus chalybeius
+Description=Checks date is within known flight period of Ballus chalybeius
+ErrorMsg=Date is outside known flight period of Ballus chalybeius
+Tvk=NBNSYS0000008768
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

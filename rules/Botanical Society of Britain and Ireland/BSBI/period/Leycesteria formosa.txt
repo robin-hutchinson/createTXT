@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Leycesteria formosa
+Description=Checks date is within known recording period of Leycesteria formosa
+ErrorMsg=Date is outside known recording period of Leycesteria formosa
+Tvk=NHMSYS0000460318
+StartDate=19050101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

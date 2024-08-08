@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Haplogonatopus oratorius
+Description=Checks date is within known flight period of Haplogonatopus oratorius
+ErrorMsg=Date is outside known flight period of Haplogonatopus oratorius
+Tvk=NHMSYS0000876036
+DataFieldName=
+StartDate=0601
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

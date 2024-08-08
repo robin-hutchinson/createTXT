@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Rhopalopterum atricorne
+Description=Checks date is within known flight period of Rhopalopterum atricorne
+ErrorMsg=Date is outside known flight period of Rhopalopterum atricorne
+Tvk=NBNSYS0100005137
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

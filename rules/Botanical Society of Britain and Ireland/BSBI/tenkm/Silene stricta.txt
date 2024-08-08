@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Silene stricta 10km
+Description=Check coordinate against known distribution of Silene stricta
+ErrorMsg=Coordinate is outside known range for Silene stricta
+DataFieldName=Species
+DataRecordId=NBNSYS0200003171
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS77
+
+

@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Mammal Society/MS 10km distribution
+ShortName=Glis glis 10km
+Description=Check coordinate against known distribution of Glis glis
+ErrorMsg=Coordinate is outside known range for Glis glis
+DataFieldName=Species
+DataRecordId=NHMSYS0000080215
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU10
+SU21
+SU31
+SU32
+SU33
+SU34
+SU42
+SU43
+SU44
+SU45
+SU54
+SU55
+SU65
+SU66
+SU75
+SU76
+SU85
+SU86
+SU95
+SU96
+SU97
+SU98
+SU99
+TL20
+TL21
+TL30
+TL31
+TL40
+TQ06
+TQ07
+TQ08
+TQ09
+TQ16
+TQ17
+TQ18
+TQ19
+TQ27
+TQ28
+TQ29
+TQ38
+TQ39
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Scotopteryx bipunctaria bipunctaria
+Description=Checks date is within known recording period of Scotopteryx bipunctaria bipunctaria
+ErrorMsg=Date is outside known recording period of Scotopteryx bipunctaria bipunctaria
+Tvk=NHMSYS0021143907
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

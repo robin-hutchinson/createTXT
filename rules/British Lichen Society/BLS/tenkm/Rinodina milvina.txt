@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rinodina milvina 10km
+Description=Check coordinate against known distribution of Rinodina milvina
+ErrorMsg=Coordinate is outside known range for Rinodina milvina
+DataFieldName=Species
+DataRecordId=NHMSYS0001496498
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NL58
+NR39
+SN65
+SN76
+
+

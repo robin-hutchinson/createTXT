@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Chorthippus vagans
+Description=Checks date is within known recording period of Chorthippus vagans
+ErrorMsg=Date is outside known recording period of Chorthippus vagans
+Tvk=NHMSYS0001387288
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

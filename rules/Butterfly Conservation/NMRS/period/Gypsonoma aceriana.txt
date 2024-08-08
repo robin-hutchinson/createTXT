@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Gypsonoma aceriana
+Description=Checks date is within known recording period of Gypsonoma aceriana
+ErrorMsg=Date is outside known recording period of Gypsonoma aceriana
+Tvk=NHMSYS0021143300
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

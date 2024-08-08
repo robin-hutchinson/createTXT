@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Funaria muhlenbergii 10km
+Description=Check coordinate against known distribution of Funaria muhlenbergii
+ErrorMsg=Coordinate is outside known range for Funaria muhlenbergii
+DataFieldName=Species
+DataRecordId=NHMSYS0000309913
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY70
+SD09
+SD17
+SD18
+SD26
+SD27
+SD37
+SD38
+SD45
+SD46
+SD47
+SD48
+SD49
+SD56
+SD57
+SD58
+SD59
+SD67
+SD76
+SD77
+SD86
+SD96
+SD97
+SD98
+SK04
+SK05
+SK06
+SK07
+SK14
+SK15
+SK16
+SK17
+SK18
+SK25
+SK26
+SK27
+
+

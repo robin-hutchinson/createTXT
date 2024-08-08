@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rodgersia aesculifolia 10km
+Description=Check coordinate against known distribution of Rodgersia aesculifolia
+ErrorMsg=Coordinate is outside known range for Rodgersia aesculifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0200003016
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD48
+
+

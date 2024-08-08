@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Chrysodeixis acuta
+Description=Checks date is within known flight period of Chrysodeixis acuta
+ErrorMsg=Date is outside known flight period of Chrysodeixis acuta
+Tvk=NHMSYS0021144469
+DataFieldName=
+StartDate=0921
+EndDate=1215
+LastChanged=20240808
+[EndMetadata]

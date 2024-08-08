@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Monochroa lucidella
+Description=Checks date is within known flight period of Monochroa lucidella
+ErrorMsg=Date is outside known flight period of Monochroa lucidella
+Tvk=NHMSYS0000503275
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

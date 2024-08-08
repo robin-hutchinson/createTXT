@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pempelia genistella
+Description=Checks date is within known flight period of Pempelia genistella
+ErrorMsg=Date is outside known flight period of Pempelia genistella
+Tvk=NBNSYS0000026976
+DataFieldName=
+StartDate=0615
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

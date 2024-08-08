@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Polysporina cyclocarpa 10km
+Description=Check coordinate against known distribution of Polysporina cyclocarpa
+ErrorMsg=Coordinate is outside known range for Polysporina cyclocarpa
+DataFieldName=Species
+DataRecordId=NHMSYS0001494549
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG73
+NG74
+NG75
+NG83
+NG84
+NG85
+NG93
+NG94
+NG95
+NH90
+NJ00
+NJ10
+NJ20
+NN75
+NN76
+NN77
+NN85
+NN86
+NN87
+NN95
+NN96
+NN97
+NN98
+NN99
+NO06
+NO07
+NO08
+NO09
+NO16
+NO17
+NO18
+NO19
+NO26
+NO27
+NO28
+NO29
+
+

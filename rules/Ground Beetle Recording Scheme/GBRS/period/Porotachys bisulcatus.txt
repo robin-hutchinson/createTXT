@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Porotachys bisulcatus
+Description=Checks date is within known recording period of Porotachys bisulcatus
+ErrorMsg=Date is outside known recording period of Porotachys bisulcatus
+Tvk=NHMSYS0001719676
+StartDate=
+EndDate=18631213
+LastChanged=20240808
+[EndMetadata]

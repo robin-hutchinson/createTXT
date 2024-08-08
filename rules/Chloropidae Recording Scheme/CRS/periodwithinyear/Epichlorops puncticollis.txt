@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Epichlorops puncticollis
+Description=Checks date is within known flight period of Epichlorops puncticollis
+ErrorMsg=Date is outside known flight period of Epichlorops puncticollis
+Tvk=NBNSYS0000029982
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

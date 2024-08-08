@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Pleioblastus simonii
+Description=Checks date is within known recording period of Pleioblastus simonii
+ErrorMsg=Date is outside known recording period of Pleioblastus simonii
+Tvk=NHMSYS0000461791
+StartDate=19650101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

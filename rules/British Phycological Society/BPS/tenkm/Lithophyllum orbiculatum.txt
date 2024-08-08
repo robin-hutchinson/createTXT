@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Lithophyllum orbiculatum 10km
+Description=Check coordinate against known distribution of Lithophyllum orbiculatum
+ErrorMsg=Coordinate is outside known range for Lithophyllum orbiculatum
+DataFieldName=Species
+DataRecordId=NBNSYS0000176188
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU31
+HU33
+HU37
+HY63
+HY64
+NC25
+NC76
+NG20
+NG23
+NG24
+NG33
+NM23
+NM24
+NM31
+NM52
+NO61
+NS00
+NS15
+NT68
+NT87
+NT95
+NU05
+NX24
+NY03
+NZ38
+NZ91
+SC26
+SC27
+SD08
+SM80
+SW54
+SW63
+SW83
+SX64
+SX83
+SX84
+SY88
+SY89
+SY98
+SZ69
+TR33
+
+

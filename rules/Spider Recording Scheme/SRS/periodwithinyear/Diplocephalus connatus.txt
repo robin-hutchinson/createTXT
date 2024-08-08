@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Diplocephalus connatus
+Description=Checks date is within known flight period of Diplocephalus connatus
+ErrorMsg=Date is outside known flight period of Diplocephalus connatus
+Tvk=NBNSYS0000009089
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

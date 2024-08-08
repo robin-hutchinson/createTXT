@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Periplaneta australasiae
+Description=Checks date is within known recording period of Periplaneta australasiae
+ErrorMsg=Date is outside known recording period of Periplaneta australasiae
+Tvk=NBNSYS0000006853
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

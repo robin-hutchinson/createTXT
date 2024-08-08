@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Arthonia gelidae 10km
+Description=Check coordinate against known distribution of Arthonia gelidae
+ErrorMsg=Coordinate is outside known range for Arthonia gelidae
+DataFieldName=Species
+DataRecordId=NHMSYS0001474947
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH31
+
+

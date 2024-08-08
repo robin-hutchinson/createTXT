@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Pseudotelphusa scalella
+Description=Checks date is within known flight period of Pseudotelphusa scalella
+ErrorMsg=Date is outside known flight period of Pseudotelphusa scalella
+Tvk=NHMSYS0000503954
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

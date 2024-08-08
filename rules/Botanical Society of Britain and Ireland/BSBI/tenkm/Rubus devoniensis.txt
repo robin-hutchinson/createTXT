@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus devoniensis 10km
+Description=Check coordinate against known distribution of Rubus devoniensis
+ErrorMsg=Coordinate is outside known range for Rubus devoniensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462666
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS82
+SX65
+SX66
+
+

@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Primula elatior x veris = P. x media 10km
+Description=Check coordinate against known distribution of Primula elatior x veris = P. x media
+ErrorMsg=Coordinate is outside known range for Primula elatior x veris = P. x media
+DataFieldName=Species
+DataRecordId=NHMSYS0001754783
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TL25
+TL35
+TL42
+TL51
+TL53
+TL54
+TL62
+TL65
+TL73
+TL75
+TL86
+TL94
+TL95
+TL96
+TM04
+TM05
+TM06
+TM18
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Achillea ligustica
+Description=Checks date is within known recording period of Achillea ligustica
+ErrorMsg=Date is outside known recording period of Achillea ligustica
+Tvk=NBNSYS0000014099
+StartDate=19000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

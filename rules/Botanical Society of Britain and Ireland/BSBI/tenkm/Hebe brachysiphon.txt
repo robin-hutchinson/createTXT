@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hebe brachysiphon 10km
+Description=Check coordinate against known distribution of Hebe brachysiphon
+ErrorMsg=Coordinate is outside known range for Hebe brachysiphon
+DataFieldName=Species
+DataRecordId=NBNSYS0000014845
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG53
+SC28
+SC37
+SC48
+ST22
+ST23
+SV81
+SV91
+SX47
+SY49
+SY88
+TF41
+TQ27
+TQ58
+
+
+[10km_Ireland]
+V65
+W99
+
+

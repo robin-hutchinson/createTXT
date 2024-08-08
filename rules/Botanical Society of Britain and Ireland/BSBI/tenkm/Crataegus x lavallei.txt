@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crataegus x lavallei 10km
+Description=Check coordinate against known distribution of Crataegus x lavallei
+ErrorMsg=Coordinate is outside known range for Crataegus x lavallei
+DataFieldName=Species
+DataRecordId=NHMSYS0000457679
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ51
+TL92
+
+

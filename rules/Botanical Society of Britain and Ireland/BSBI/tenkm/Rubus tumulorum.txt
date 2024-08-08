@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus tumulorum 10km
+Description=Check coordinate against known distribution of Rubus tumulorum
+ErrorMsg=Coordinate is outside known range for Rubus tumulorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840975
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+S47
+
+
+[10km_GB]
+SS31
+SS32
+SS40
+SS80
+ST14
+ST23
+SX05
+SX06
+SX15
+SX16
+SX17
+SX25
+SX26
+SX35
+SX36
+SX37
+SX44
+SX45
+SX47
+SX48
+SX49
+SX55
+SX56
+SX57
+SX58
+SX59
+SX67
+SX68
+SX69
+SX77
+
+

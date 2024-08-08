@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Centaurea hyalolepis 10km
+Description=Check coordinate against known distribution of Centaurea hyalolepis
+ErrorMsg=Coordinate is outside known range for Centaurea hyalolepis
+DataFieldName=Species
+DataRecordId=NBNSYS0200003474
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TA21
+
+

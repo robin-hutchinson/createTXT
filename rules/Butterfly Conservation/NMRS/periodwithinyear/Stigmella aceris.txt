@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella aceris
+Description=Checks date is within known flight period of Stigmella aceris
+ErrorMsg=Date is outside known flight period of Stigmella aceris
+Tvk=NHMSYS0000504326
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

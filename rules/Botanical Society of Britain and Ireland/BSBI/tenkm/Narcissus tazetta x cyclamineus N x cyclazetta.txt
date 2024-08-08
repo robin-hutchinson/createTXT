@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Narcissus tazetta x cyclamineus = N. x cyclazetta 10km
+Description=Check coordinate against known distribution of Narcissus tazetta x cyclamineus = N. x cyclazetta
+ErrorMsg=Coordinate is outside known range for Narcissus tazetta x cyclamineus = N. x cyclazetta
+DataFieldName=Species
+DataRecordId=NHMSYS0001754467
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC26
+SC28
+SN14
+SN45
+SN66
+
+

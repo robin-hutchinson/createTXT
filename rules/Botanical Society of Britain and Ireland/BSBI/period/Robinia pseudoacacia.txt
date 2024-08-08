@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Robinia pseudoacacia
+Description=Checks date is within known recording period of Robinia pseudoacacia
+ErrorMsg=Date is outside known recording period of Robinia pseudoacacia
+Tvk=NBNSYS0000003265
+StartDate=18880101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

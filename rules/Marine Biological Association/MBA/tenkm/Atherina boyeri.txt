@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Atherina boyeri 10km
+Description=Check coordinate against known distribution of Atherina boyeri
+ErrorMsg=Coordinate is outside known range for Atherina boyeri
+DataFieldName=Species
+DataRecordId=NBNSYS0000179534
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SR90
+ST38
+ST39
+
+

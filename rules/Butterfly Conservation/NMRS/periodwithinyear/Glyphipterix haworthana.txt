@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Glyphipterix haworthana
+Description=Checks date is within known flight period of Glyphipterix haworthana
+ErrorMsg=Date is outside known flight period of Glyphipterix haworthana
+Tvk=NHMSYS0000502736
+DataFieldName=
+StartDate=0501
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pertusaria pustulata 10km
+Description=Check coordinate against known distribution of Pertusaria pustulata
+ErrorMsg=Coordinate is outside known range for Pertusaria pustulata
+DataFieldName=Species
+DataRecordId=NBNSYS0000019412
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST73
+SU01
+SU10
+SU20
+SU21
+SU31
+SU83
+SU90
+SU92
+SZ39
+TQ02
+TQ64
+
+

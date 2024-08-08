@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phyllonorycter scopariella
+Description=Checks date is within known flight period of Phyllonorycter scopariella
+ErrorMsg=Date is outside known flight period of Phyllonorycter scopariella
+Tvk=NHMSYS0000503809
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

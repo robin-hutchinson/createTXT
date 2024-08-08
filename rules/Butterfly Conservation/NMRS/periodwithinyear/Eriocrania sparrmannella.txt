@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eriocrania sparrmannella
+Description=Checks date is within known flight period of Eriocrania sparrmannella
+ErrorMsg=Date is outside known flight period of Eriocrania sparrmannella
+Tvk=NHMSYS0000502488
+DataFieldName=
+StartDate=0401
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Dichrorampha sylvicolana
+Description=Checks date is within known flight period of Dichrorampha sylvicolana
+ErrorMsg=Date is outside known flight period of Dichrorampha sylvicolana
+Tvk=NHMSYS0000502172
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

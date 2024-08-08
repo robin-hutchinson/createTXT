@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Morus alba 10km
+Description=Check coordinate against known distribution of Morus alba
+ErrorMsg=Coordinate is outside known range for Morus alba
+DataFieldName=Species
+DataRecordId=NBNSYS0000042137
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J16
+J48
+
+
+[10km_GB]
+TL84
+TM14
+
+

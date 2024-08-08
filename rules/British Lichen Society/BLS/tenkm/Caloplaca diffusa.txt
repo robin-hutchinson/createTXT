@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Caloplaca diffusa 10km
+Description=Check coordinate against known distribution of Caloplaca diffusa
+ErrorMsg=Coordinate is outside known range for Caloplaca diffusa
+DataFieldName=Species
+DataRecordId=NHMSYS0020989891
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO02
+SO11
+SO12
+SO14
+
+

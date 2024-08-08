@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Acarospora admissa 10km
+Description=Check coordinate against known distribution of Acarospora admissa
+ErrorMsg=Coordinate is outside known range for Acarospora admissa
+DataFieldName=Species
+DataRecordId=NHMSYS0001472768
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN54
+NY91
+TM47
+
+

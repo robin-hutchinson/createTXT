@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Saxifraga x arendsii 10km
+Description=Check coordinate against known distribution of Saxifraga x arendsii
+ErrorMsg=Coordinate is outside known range for Saxifraga x arendsii
+DataFieldName=Species
+DataRecordId=NBNSYS0200003079
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H16
+
+
+[10km_GB]
+NS65
+NS66
+NS81
+NS83
+NS85
+NS86
+SC26
+SD27
+SN21
+SN40
+SN43
+SN53
+SN76
+SN78
+SO75
+SO87
+SO96
+SO98
+SP06
+SU99
+
+

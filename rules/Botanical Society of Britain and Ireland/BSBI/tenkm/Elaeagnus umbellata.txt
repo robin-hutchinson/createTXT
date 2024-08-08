@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Elaeagnus umbellata 10km
+Description=Check coordinate against known distribution of Elaeagnus umbellata
+ErrorMsg=Coordinate is outside known range for Elaeagnus umbellata
+DataFieldName=Species
+DataRecordId=NBNSYS0000033903
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+SE23
+SE99
+SN10
+SP83
+SU94
+SU96
+SZ08
+SZ09
+SZ38
+SZ58
+SZ69
+TL31
+TQ28
+TQ56
+TQ57
+
+
+NA
+
+

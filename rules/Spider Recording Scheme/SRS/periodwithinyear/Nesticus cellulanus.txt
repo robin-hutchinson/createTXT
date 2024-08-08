@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Nesticus cellulanus
+Description=Checks date is within known flight period of Nesticus cellulanus
+ErrorMsg=Date is outside known flight period of Nesticus cellulanus
+Tvk=NBNSYS0000008915
+DataFieldName=
+StartDate=0318
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

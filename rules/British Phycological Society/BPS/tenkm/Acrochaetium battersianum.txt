@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Acrochaetium battersianum 10km
+Description=Check coordinate against known distribution of Acrochaetium battersianum
+ErrorMsg=Coordinate is outside known range for Acrochaetium battersianum
+DataFieldName=Species
+DataRecordId=NHMSYS0000377514
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC14
+NS15
+SM70
+SM80
+SM81
+
+

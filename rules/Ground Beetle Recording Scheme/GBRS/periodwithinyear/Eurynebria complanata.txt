@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Eurynebria complanata
+Description=Checks date is within known flight period of Eurynebria complanata
+ErrorMsg=Date is outside known flight period of Eurynebria complanata
+Tvk=NHMSYS0001718164
+DataFieldName=
+StartDate=0501
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

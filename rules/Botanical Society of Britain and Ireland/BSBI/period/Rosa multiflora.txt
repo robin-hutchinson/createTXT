@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Rosa multiflora
+Description=Checks date is within known recording period of Rosa multiflora
+ErrorMsg=Date is outside known recording period of Rosa multiflora
+Tvk=NHMSYS0000462470
+StartDate=19300101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

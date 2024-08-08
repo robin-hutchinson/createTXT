@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trachycarpus fortunei 10km
+Description=Check coordinate against known distribution of Trachycarpus fortunei
+ErrorMsg=Coordinate is outside known range for Trachycarpus fortunei
+DataFieldName=Species
+DataRecordId=NHMSYS0000464504
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN68
+SS54
+ST57
+SU86
+SW72
+SW73
+SW83
+TQ75
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Argyroploce arbutella
+Description=Checks date is within known flight period of Argyroploce arbutella
+ErrorMsg=Date is outside known flight period of Argyroploce arbutella
+Tvk=NHMSYS0021143188
+DataFieldName=
+StartDate=0501
+EndDate=0707
+LastChanged=20240808
+[EndMetadata]

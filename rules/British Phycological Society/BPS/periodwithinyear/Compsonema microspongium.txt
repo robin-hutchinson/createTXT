@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Phycological Society/BPS Flight Period
+ShortName=Compsonema microspongium
+Description=Checks date is within known flight period of Compsonema microspongium
+ErrorMsg=Date is outside known flight period of Compsonema microspongium
+Tvk=NHMSYS0000567910
+DataFieldName=
+StartDate=0601
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

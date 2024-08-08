@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Helichrysum petiolare 10km
+Description=Check coordinate against known distribution of Helichrysum petiolare
+ErrorMsg=Coordinate is outside known range for Helichrysum petiolare
+DataFieldName=Species
+DataRecordId=NBNSYS0500000311
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST22
+SV81
+SV91
+
+

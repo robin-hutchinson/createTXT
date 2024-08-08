@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dryopteris remota 10km
+Description=Check coordinate against known distribution of Dryopteris remota
+ErrorMsg=Coordinate is outside known range for Dryopteris remota
+DataFieldName=Species
+DataRecordId=NHMSYS0000458203
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+M61
+
+
+[10km_GB]
+NN31
+
+

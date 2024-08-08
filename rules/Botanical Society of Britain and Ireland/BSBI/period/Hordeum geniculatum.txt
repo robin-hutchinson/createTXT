@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Hordeum geniculatum
+Description=Checks date is within known recording period of Hordeum geniculatum
+ErrorMsg=Date is outside known recording period of Hordeum geniculatum
+Tvk=NBNSYS0000002602
+StartDate=18380101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

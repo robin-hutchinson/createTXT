@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Buellia insignis 10km
+Description=Check coordinate against known distribution of Buellia insignis
+ErrorMsg=Coordinate is outside known range for Buellia insignis
+DataFieldName=Species
+DataRecordId=NHMSYS0000361445
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN16
+NN64
+
+

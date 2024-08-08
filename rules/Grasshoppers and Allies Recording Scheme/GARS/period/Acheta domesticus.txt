@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Acheta domesticus
+Description=Checks date is within known recording period of Acheta domesticus
+ErrorMsg=Date is outside known recording period of Acheta domesticus
+Tvk=NBNSYS0000006827
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

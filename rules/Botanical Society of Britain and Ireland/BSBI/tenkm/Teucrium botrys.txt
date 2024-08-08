@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Teucrium botrys 10km
+Description=Check coordinate against known distribution of Teucrium botrys
+ErrorMsg=Coordinate is outside known range for Teucrium botrys
+DataFieldName=Species
+DataRecordId=NBNSYS0000004266
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO90
+SU17
+SU34
+SU44
+SU54
+TQ04
+TQ15
+TQ25
+TQ36
+TQ66
+TR04
+TR05
+
+

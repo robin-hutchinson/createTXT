@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Osmundea osmunda 10km
+Description=Check coordinate against known distribution of Osmundea osmunda
+ErrorMsg=Coordinate is outside known range for Osmundea osmunda
+DataFieldName=Species
+DataRecordId=NHMSYS0000568046
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ90
+SH33
+
+

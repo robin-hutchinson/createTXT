@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Apotomis turbidana
+Description=Checks date is within known flight period of Apotomis turbidana
+ErrorMsg=Date is outside known flight period of Apotomis turbidana
+Tvk=NHMSYS0021143157
+DataFieldName=
+StartDate=0515
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

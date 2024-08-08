@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Bees, Wasps and Ants Recording Scheme/BWARS 10km distribution
+ShortName=Lasius emarginatus 10km
+Description=Check coordinate against known distribution of Lasius emarginatus
+ErrorMsg=Coordinate is outside known range for Lasius emarginatus
+DataFieldName=Species
+DataRecordId=NHMSYS0000876222
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TL50
+TQ07
+TQ17
+TQ18
+TQ27
+TQ28
+TQ29
+TQ37
+TQ38
+TQ39
+TQ47
+TQ48
+TQ58
+TQ69
+TQ75
+TQ87
+
+

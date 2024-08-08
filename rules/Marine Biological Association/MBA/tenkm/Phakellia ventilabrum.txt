@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Phakellia ventilabrum 10km
+Description=Check coordinate against known distribution of Phakellia ventilabrum
+ErrorMsg=Coordinate is outside known range for Phakellia ventilabrum
+DataFieldName=Species
+DataRecordId=NBNSYS0000177103
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D14
+Y85
+
+
+[10km_GB]
+HX10
+HX11
+HX12
+HX22
+HX23
+HX27
+NF25
+NF35
+NF42
+NF44
+NF45
+NF96
+NG19
+NG71
+NG80
+NL36
+NL45
+NM42
+NM54
+NM55
+NM56
+NM58
+NM65
+NM73
+NM74
+NN00
+NR30
+SM70
+
+

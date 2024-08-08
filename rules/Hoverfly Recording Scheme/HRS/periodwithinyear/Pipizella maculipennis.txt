@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Pipizella maculipennis
+Description=Checks date is within known flight period of Pipizella maculipennis
+ErrorMsg=Date is outside known flight period of Pipizella maculipennis
+Tvk=NBNSYS0000007086
+DataFieldName=
+StartDate=0526
+EndDate=0812
+LastChanged=20240808
+[EndMetadata]

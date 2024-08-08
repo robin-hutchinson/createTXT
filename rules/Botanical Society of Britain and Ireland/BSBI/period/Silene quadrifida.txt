@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Silene quadrifida
+Description=Checks date is within known recording period of Silene quadrifida
+ErrorMsg=Date is outside known recording period of Silene quadrifida
+Tvk=NHMSYS0100002974
+StartDate=19740101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Alisma gramineum 10km
+Description=Check coordinate against known distribution of Alisma gramineum
+ErrorMsg=Coordinate is outside known range for Alisma gramineum
+DataFieldName=Species
+DataRecordId=NBNSYS0000002103
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NU20
+SO86
+TF11
+TF22
+TL48
+TL57
+TL98
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Dysstroma citrata citrata
+Description=Checks date is within known recording period of Dysstroma citrata citrata
+ErrorMsg=Date is outside known recording period of Dysstroma citrata citrata
+Tvk=NHMSYS0021143996
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

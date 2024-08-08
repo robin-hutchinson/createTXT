@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Acosmetia caliginosa
+Description=Checks date is within known flight period of Acosmetia caliginosa
+ErrorMsg=Date is outside known flight period of Acosmetia caliginosa
+Tvk=NHMSYS0021144548
+DataFieldName=
+StartDate=0515
+EndDate=0715
+LastChanged=20240808
+[EndMetadata]

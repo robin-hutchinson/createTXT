@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Nectaroscordum siculum subsp. bulgaricum 10km
+Description=Check coordinate against known distribution of Nectaroscordum siculum subsp. bulgaricum
+ErrorMsg=Coordinate is outside known range for Nectaroscordum siculum subsp. bulgaricum
+DataFieldName=Species
+DataRecordId=NBNSYS0000034167
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY34
+ST17
+
+

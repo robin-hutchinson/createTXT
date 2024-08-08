@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Sterna hirundo
+Description=Checks date is within known flight period of Sterna hirundo
+ErrorMsg=Date is outside known flight period of Sterna hirundo
+Tvk=NBNSYS0000000138
+DataFieldName=
+StartDate=0401
+EndDate=1115
+LastChanged=20240808
+[EndMetadata]

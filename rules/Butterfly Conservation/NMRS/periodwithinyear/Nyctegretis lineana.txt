@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Nyctegretis lineana
+Description=Checks date is within known flight period of Nyctegretis lineana
+ErrorMsg=Date is outside known flight period of Nyctegretis lineana
+Tvk=NHMSYS0000503417
+DataFieldName=
+StartDate=0621
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Calypogeia integristipula 10km
+Description=Check coordinate against known distribution of Calypogeia integristipula
+ErrorMsg=Coordinate is outside known range for Calypogeia integristipula
+DataFieldName=Species
+DataRecordId=NBNSYS0000035784
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY25
+NY35
+NY36
+NY45
+SD55
+SD56
+SD63
+SD64
+SD66
+SD67
+SD75
+SD84
+TQ02
+TQ12
+TQ13
+TQ22
+TQ23
+TQ32
+TQ33
+TQ34
+TQ42
+TQ43
+TQ44
+TQ51
+TQ52
+TQ53
+TQ54
+TQ61
+TQ62
+TQ63
+TQ64
+TQ71
+TQ72
+TQ73
+TQ82
+TQ83
+TQ93
+
+

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trifolium bocconei 10km
+Description=Check coordinate against known distribution of Trifolium bocconei
+ErrorMsg=Coordinate is outside known range for Trifolium bocconei
+DataFieldName=Species
+DataRecordId=NBNSYS0000003241
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW61
+SW62
+SW71
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

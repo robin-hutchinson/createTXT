@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Geum quellyon 10km
+Description=Check coordinate against known distribution of Geum quellyon
+ErrorMsg=Coordinate is outside known range for Geum quellyon
+DataFieldName=Species
+DataRecordId=NBNSYS0100003260
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC26
+
+

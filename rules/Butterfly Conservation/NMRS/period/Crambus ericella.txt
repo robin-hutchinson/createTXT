@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Crambus ericella
+Description=Checks date is within known recording period of Crambus ericella
+ErrorMsg=Date is outside known recording period of Crambus ericella
+Tvk=NHMSYS0021143757
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

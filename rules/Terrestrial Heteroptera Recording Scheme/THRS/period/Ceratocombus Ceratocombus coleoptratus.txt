@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Ceratocombus (Ceratocombus) coleoptratus
+Description=Checks date is within known recording period of Ceratocombus (Ceratocombus) coleoptratus
+ErrorMsg=Date is outside known recording period of Ceratocombus (Ceratocombus) coleoptratus
+Tvk=NHMSYS0020309058
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

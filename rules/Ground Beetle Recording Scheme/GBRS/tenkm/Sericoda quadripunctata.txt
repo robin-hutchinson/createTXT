@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ground Beetle Recording Scheme/GBRS 10km distribution
+ShortName=Sericoda quadripunctata 10km
+Description=Check coordinate against known distribution of Sericoda quadripunctata
+ErrorMsg=Coordinate is outside known range for Sericoda quadripunctata
+DataFieldName=Species
+DataRecordId=NHMSYS0001720084
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU86
+SU87
+SU88
+SU96
+SU97
+SU98
+TQ06
+TQ07
+TQ08
+
+

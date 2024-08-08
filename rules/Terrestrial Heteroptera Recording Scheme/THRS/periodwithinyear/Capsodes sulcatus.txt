@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Capsodes sulcatus
+Description=Checks date is within known flight period of Capsodes sulcatus
+ErrorMsg=Date is outside known flight period of Capsodes sulcatus
+Tvk=NHMSYS0020309040
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

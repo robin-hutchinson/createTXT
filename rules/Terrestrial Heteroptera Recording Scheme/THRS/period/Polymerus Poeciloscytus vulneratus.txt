@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Polymerus (Poeciloscytus) vulneratus
+Description=Checks date is within known recording period of Polymerus (Poeciloscytus) vulneratus
+ErrorMsg=Date is outside known recording period of Polymerus (Poeciloscytus) vulneratus
+Tvk=NHMSYS0020309707
+StartDate=18060101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

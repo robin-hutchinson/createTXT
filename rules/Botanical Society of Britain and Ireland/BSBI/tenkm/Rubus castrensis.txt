@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus castrensis 10km
+Description=Check coordinate against known distribution of Rubus castrensis
+ErrorMsg=Coordinate is outside known range for Rubus castrensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000840839
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ44
+SJ45
+SJ54
+SJ55
+
+

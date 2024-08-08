@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Eurhadina kirschbaumi 10km
+Description=Check coordinate against known distribution of Eurhadina kirschbaumi
+ErrorMsg=Coordinate is outside known range for Eurhadina kirschbaumi
+DataFieldName=Species
+DataRecordId=NHMSYS0020442333
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE74
+SP40
+SP50
+SS98
+ST08
+ST09
+ST17
+ST18
+SU30
+TQ75
+
+

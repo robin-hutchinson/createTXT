@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Macrosteles alpinus
+Description=Checks date is within known recording period of Macrosteles alpinus
+ErrorMsg=Date is outside known recording period of Macrosteles alpinus
+Tvk=NHMSYS0020442426
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

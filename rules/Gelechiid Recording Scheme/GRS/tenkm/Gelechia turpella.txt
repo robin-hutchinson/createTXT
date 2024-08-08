@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Gelechia turpella 10km
+Description=Check coordinate against known distribution of Gelechia turpella
+ErrorMsg=Coordinate is outside known range for Gelechia turpella
+DataFieldName=Species
+DataRecordId=NHMSYS0000502714
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP95
+ST33
+ST43
+ST66
+SU46
+SU53
+SU96
+TF07
+TF17
+TF58
+TL11
+TL30
+TL57
+TM13
+TQ26
+TQ27
+TQ37
+TQ46
+TQ47
+TQ57
+TQ59
+TR25
+
+

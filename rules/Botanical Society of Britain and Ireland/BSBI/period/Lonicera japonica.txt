@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lonicera japonica
+Description=Checks date is within known recording period of Lonicera japonica
+ErrorMsg=Date is outside known recording period of Lonicera japonica
+Tvk=NHMSYS0000460450
+StartDate=19370101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Platycranus (Genistocapsus) bicolor
+Description=Checks date is within known flight period of Platycranus (Genistocapsus) bicolor
+ErrorMsg=Date is outside known flight period of Platycranus (Genistocapsus) bicolor
+Tvk=NHMSYS0020309688
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Argyresthia semifusca
+Description=Checks date is within known flight period of Argyresthia semifusca
+ErrorMsg=Date is outside known flight period of Argyresthia semifusca
+Tvk=NHMSYS0000501387
+DataFieldName=
+StartDate=0621
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Bucculatrix cristatella
+Description=Checks date is within known flight period of Bucculatrix cristatella
+ErrorMsg=Date is outside known flight period of Bucculatrix cristatella
+Tvk=NHMSYS0021142403
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

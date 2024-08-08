@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex acutiformis x vesicaria = C. x ducellieri 10km
+Description=Check coordinate against known distribution of Carex acutiformis x vesicaria = C. x ducellieri
+ErrorMsg=Coordinate is outside known range for Carex acutiformis x vesicaria = C. x ducellieri
+DataFieldName=Species
+DataRecordId=NBNSYS0000161465
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU10
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Arthonia intexta 10km
+Description=Check coordinate against known distribution of Arthonia intexta
+ErrorMsg=Coordinate is outside known range for Arthonia intexta
+DataFieldName=Species
+DataRecordId=NBNSYS0000015504
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM46
+
+

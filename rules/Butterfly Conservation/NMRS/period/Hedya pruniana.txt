@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Hedya pruniana
+Description=Checks date is within known recording period of Hedya pruniana
+ErrorMsg=Date is outside known recording period of Hedya pruniana
+Tvk=NHMSYS0021143168
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

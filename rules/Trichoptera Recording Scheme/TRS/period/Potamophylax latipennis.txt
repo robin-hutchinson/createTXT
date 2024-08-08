@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Potamophylax latipennis
+Description=Checks date is within known recording period of Potamophylax latipennis
+ErrorMsg=Date is outside known recording period of Potamophylax latipennis
+Tvk=NBNSYS0000008457
+StartDate=18250101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

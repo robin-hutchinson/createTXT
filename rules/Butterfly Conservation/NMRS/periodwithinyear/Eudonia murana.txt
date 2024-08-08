@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eudonia murana
+Description=Checks date is within known flight period of Eudonia murana
+ErrorMsg=Date is outside known flight period of Eudonia murana
+Tvk=NHMSYS0000502557
+DataFieldName=
+StartDate=0515
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

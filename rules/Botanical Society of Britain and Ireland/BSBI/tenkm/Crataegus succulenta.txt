@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crataegus succulenta 10km
+Description=Check coordinate against known distribution of Crataegus succulenta
+ErrorMsg=Coordinate is outside known range for Crataegus succulenta
+DataFieldName=Species
+DataRecordId=NHMSYS0000457677
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP18
+SS53
+SS62
+ST31
+TQ24
+
+
+NA
+
+

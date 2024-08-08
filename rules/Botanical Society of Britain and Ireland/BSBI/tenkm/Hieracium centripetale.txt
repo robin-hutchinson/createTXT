@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium centripetale 10km
+Description=Check coordinate against known distribution of Hieracium centripetale
+ErrorMsg=Coordinate is outside known range for Hieracium centripetale
+DataFieldName=Species
+DataRecordId=NHMSYS0000459376
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC00
+NC22
+NC33
+NC35
+NG74
+NH11
+NH14
+NH20
+NH27
+NH28
+NH53
+NH90
+NM85
+NM88
+NN02
+NN15
+NN22
+NN27
+NN31
+NN48
+NN53
+NN59
+NN67
+NN68
+NN95
+NO09
+NR73
+NR74
+NR77
+NR93
+NR94
+NS03
+NS04
+NS90
+NT00
+NT01
+NT10
+NT11
+NT12
+NT22
+NX48
+NX58
+
+

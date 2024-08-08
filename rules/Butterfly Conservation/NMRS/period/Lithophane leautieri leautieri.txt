@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Lithophane leautieri leautieri
+Description=Checks date is within known recording period of Lithophane leautieri leautieri
+ErrorMsg=Date is outside known recording period of Lithophane leautieri leautieri
+Tvk=NHMSYS0021144734
+StartDate=19510101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

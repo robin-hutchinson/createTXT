@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum stictophyllum 10km
+Description=Check coordinate against known distribution of Taraxacum stictophyllum
+ErrorMsg=Coordinate is outside known range for Taraxacum stictophyllum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840830
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY21
+HY31
+NF86
+NF87
+NF89
+NG47
+NM48
+NS80
+NT13
+NT63
+NX37
+NX55
+NX64
+NX69
+
+
+[10km_Ireland]
+J43
+
+

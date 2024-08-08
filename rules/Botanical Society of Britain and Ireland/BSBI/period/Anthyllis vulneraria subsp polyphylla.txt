@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Anthyllis vulneraria subsp. polyphylla
+Description=Checks date is within known recording period of Anthyllis vulneraria subsp. polyphylla
+ErrorMsg=Date is outside known recording period of Anthyllis vulneraria subsp. polyphylla
+Tvk=NBNSYS0000014070
+StartDate=19560101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

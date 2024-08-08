@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Thisanotia chrysonuchella
+Description=Checks date is within known flight period of Thisanotia chrysonuchella
+ErrorMsg=Date is outside known flight period of Thisanotia chrysonuchella
+Tvk=NHMSYS0000504504
+DataFieldName=
+StartDate=0501
+EndDate=0715
+LastChanged=20240808
+[EndMetadata]

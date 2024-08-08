@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Allygus modestus
+Description=Checks date is within known flight period of Allygus modestus
+ErrorMsg=Date is outside known flight period of Allygus modestus
+Tvk=NHMSYS0020705190
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

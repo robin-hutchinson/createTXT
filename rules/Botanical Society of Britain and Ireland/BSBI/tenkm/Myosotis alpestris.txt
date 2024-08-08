@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Myosotis alpestris 10km
+Description=Check coordinate against known distribution of Myosotis alpestris
+ErrorMsg=Coordinate is outside known range for Myosotis alpestris
+DataFieldName=Species
+DataRecordId=NHMSYS0000460810
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN53
+NN64
+NN65
+NO17
+NY72
+NY73
+NY82
+
+

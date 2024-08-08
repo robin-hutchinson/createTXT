@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Issus coleoptratus
+Description=Checks date is within known flight period of Issus coleoptratus
+ErrorMsg=Date is outside known flight period of Issus coleoptratus
+Tvk=NHMSYS0020705653
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

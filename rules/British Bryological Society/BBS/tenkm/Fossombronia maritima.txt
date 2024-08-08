@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Fossombronia maritima 10km
+Description=Check coordinate against known distribution of Fossombronia maritima
+ErrorMsg=Coordinate is outside known range for Fossombronia maritima
+DataFieldName=Species
+DataRecordId=NHMSYS0000309894
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV81
+SV90
+SV91
+SW44
+SW52
+SW65
+SW82
+
+

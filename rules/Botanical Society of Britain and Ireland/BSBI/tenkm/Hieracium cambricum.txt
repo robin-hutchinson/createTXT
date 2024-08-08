@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium cambricum 10km
+Description=Check coordinate against known distribution of Hieracium cambricum
+ErrorMsg=Coordinate is outside known range for Hieracium cambricum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459368
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH78
+SJ24
+SS99
+
+

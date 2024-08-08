@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Rhizedra lutosa
+Description=Checks date is within known recording period of Rhizedra lutosa
+ErrorMsg=Date is outside known recording period of Rhizedra lutosa
+Tvk=NHMSYS0021144629
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

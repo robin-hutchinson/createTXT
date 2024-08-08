@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Motacilla flava
+Description=Checks date is within known flight period of Motacilla flava
+ErrorMsg=Date is outside known flight period of Motacilla flava
+Tvk=NHMSYS0000530496
+DataFieldName=
+StartDate=0320
+EndDate=1115
+LastChanged=20240808
+[EndMetadata]

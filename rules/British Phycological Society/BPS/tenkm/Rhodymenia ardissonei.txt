@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Rhodymenia ardissonei 10km
+Description=Check coordinate against known distribution of Rhodymenia ardissonei
+ErrorMsg=Coordinate is outside known range for Rhodymenia ardissonei
+DataFieldName=Species
+DataRecordId=NHMSYS0000568294
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY74
+NA91
+NC13
+NG29
+NM35
+NR79
+SH12
+SH27
+SH28
+SH32
+SH36
+SH41
+SR99
+SW61
+SW81
+SZ28
+
+

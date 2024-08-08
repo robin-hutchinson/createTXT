@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sorghum bicolor 10km
+Description=Check coordinate against known distribution of Sorghum bicolor
+ErrorMsg=Coordinate is outside known range for Sorghum bicolor
+DataFieldName=Species
+DataRecordId=NBNSYS0000034177
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS38
+SC26
+SC39
+SE91
+SK26
+SK33
+SM90
+SP25
+ST38
+ST47
+ST57
+ST59
+ST85
+SU41
+SU77
+SX99
+SY08
+TG20
+TL02
+TL12
+TL31
+TQ07
+TQ08
+TQ18
+TQ20
+TQ30
+TQ48
+TQ57
+TQ67
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

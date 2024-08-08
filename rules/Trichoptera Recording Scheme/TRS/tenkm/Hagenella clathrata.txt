@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Hagenella clathrata 10km
+Description=Check coordinate against known distribution of Hagenella clathrata
+ErrorMsg=Coordinate is outside known range for Hagenella clathrata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008428
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH70
+NH81
+SD38
+SJ43
+SK02
+SU94
+SU95
+SU96
+
+

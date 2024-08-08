@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Macropsis cerea
+Description=Checks date is within known flight period of Macropsis cerea
+ErrorMsg=Date is outside known flight period of Macropsis cerea
+Tvk=NHMSYS0020705706
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Sphacelaria racemosa 10km
+Description=Check coordinate against known distribution of Sphacelaria racemosa
+ErrorMsg=Coordinate is outside known range for Sphacelaria racemosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000187171
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO51
+NS15
+NT27
+SS48
+SS58
+SS68
+SZ07
+SZ08
+
+

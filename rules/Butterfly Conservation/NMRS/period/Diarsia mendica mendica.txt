@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Diarsia mendica mendica
+Description=Checks date is within known recording period of Diarsia mendica mendica
+ErrorMsg=Date is outside known recording period of Diarsia mendica mendica
+Tvk=NHMSYS0021144908
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

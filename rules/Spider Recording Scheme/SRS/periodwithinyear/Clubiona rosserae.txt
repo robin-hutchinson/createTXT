@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Clubiona rosserae
+Description=Checks date is within known flight period of Clubiona rosserae
+ErrorMsg=Date is outside known flight period of Clubiona rosserae
+Tvk=NBNSYS0000008678
+DataFieldName=
+StartDate=0322
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Opegrapha trochodes 10km
+Description=Check coordinate against known distribution of Opegrapha trochodes
+ErrorMsg=Coordinate is outside known range for Opegrapha trochodes
+DataFieldName=Species
+DataRecordId=NHMSYS0020535776
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SX77
+
+

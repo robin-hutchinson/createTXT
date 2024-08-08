@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Paraleucobryum longifolium 10km
+Description=Check coordinate against known distribution of Paraleucobryum longifolium
+ErrorMsg=Coordinate is outside known range for Paraleucobryum longifolium
+DataFieldName=Species
+DataRecordId=NBNSYS0000036263
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ00
+NJ10
+NN99
+NO09
+NO28
+
+

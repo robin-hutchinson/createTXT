@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Ecnomus tenellus
+Description=Checks date is within known recording period of Ecnomus tenellus
+ErrorMsg=Date is outside known recording period of Ecnomus tenellus
+Tvk=NBNSYS0000008397
+StartDate=18600101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

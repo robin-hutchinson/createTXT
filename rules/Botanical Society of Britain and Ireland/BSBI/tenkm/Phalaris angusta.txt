@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Phalaris angusta 10km
+Description=Check coordinate against known distribution of Phalaris angusta
+ErrorMsg=Coordinate is outside known range for Phalaris angusta
+DataFieldName=Species
+DataRecordId=NBNSYS0200002845
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC27
+SO94
+SX05
+TL03
+TL31
+
+

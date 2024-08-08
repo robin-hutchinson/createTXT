@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Sesia bembeciformis
+Description=Checks date is within known recording period of Sesia bembeciformis
+ErrorMsg=Date is outside known recording period of Sesia bembeciformis
+Tvk=NHMSYS0021143404
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

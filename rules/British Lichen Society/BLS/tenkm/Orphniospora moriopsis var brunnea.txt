@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Orphniospora moriopsis var. brunnea 10km
+Description=Check coordinate against known distribution of Orphniospora moriopsis var. brunnea
+ErrorMsg=Coordinate is outside known range for Orphniospora moriopsis var. brunnea
+DataFieldName=Species
+DataRecordId=NHMSYS0001491533
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO09
+
+

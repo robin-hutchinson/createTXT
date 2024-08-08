@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Tachysphex nitidus
+Description=Checks date is within known flight period of Tachysphex nitidus
+ErrorMsg=Date is outside known flight period of Tachysphex nitidus
+Tvk=NHMSYS0000876732
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

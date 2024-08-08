@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Photedes fluxa
+Description=Checks date is within known flight period of Photedes fluxa
+ErrorMsg=Date is outside known flight period of Photedes fluxa
+Tvk=NHMSYS0021144643
+DataFieldName=
+StartDate=0615
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

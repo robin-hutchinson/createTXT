@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus ramosus 10km
+Description=Check coordinate against known distribution of Rubus ramosus
+ErrorMsg=Coordinate is outside known range for Rubus ramosus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462867
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT18
+SS40
+SS73
+SS92
+ST36
+SW62
+SW63
+SW64
+SW72
+SW73
+SW74
+SW75
+SW84
+SX05
+SX16
+SX25
+SX27
+SX35
+SX36
+SX45
+SX46
+SX54
+SX55
+SX56
+SX64
+SX65
+SX66
+SX77
+SX87
+SX88
+SX98
+SY08
+SY09
+
+

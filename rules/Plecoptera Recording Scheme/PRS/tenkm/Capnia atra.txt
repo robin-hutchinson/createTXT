@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Plecoptera Recording Scheme/PRS 10km distribution
+ShortName=Capnia atra 10km
+Description=Check coordinate against known distribution of Capnia atra
+ErrorMsg=Coordinate is outside known range for Capnia atra
+DataFieldName=Species
+DataRecordId=NBNSYS0000022434
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN46
+NN47
+NN48
+NN56
+NN57
+NN58
+NN66
+NN67
+NN68
+NT11
+NT12
+NT13
+NT21
+NT22
+NT23
+NT31
+NT32
+NT33
+NY00
+NY01
+NY10
+NY11
+NY20
+NY21
+NY30
+NY31
+SD08
+SD09
+SD18
+SD19
+SD28
+SD29
+SD39
+
+

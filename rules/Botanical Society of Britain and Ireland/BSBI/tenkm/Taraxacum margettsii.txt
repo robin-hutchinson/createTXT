@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum margettsii 10km
+Description=Check coordinate against known distribution of Taraxacum margettsii
+ErrorMsg=Coordinate is outside known range for Taraxacum margettsii
+DataFieldName=Species
+DataRecordId=NHMSYS0000464259
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW61
+SW71
+
+

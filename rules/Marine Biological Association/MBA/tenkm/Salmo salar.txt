@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Salmo salar 10km
+Description=Check coordinate against known distribution of Salmo salar
+ErrorMsg=Coordinate is outside known range for Salmo salar
+DataFieldName=Species
+DataRecordId=NBNSYS0000188606
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C84
+Y95
+
+
+[10km_GB]
+HU47
+NG08
+NR00
+NZ91
+SH57
+SM80
+SM90
+SM91
+SN25
+SN30
+ST38
+ST69
+
+

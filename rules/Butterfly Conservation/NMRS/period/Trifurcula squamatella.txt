@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Trifurcula squamatella
+Description=Checks date is within known recording period of Trifurcula squamatella
+ErrorMsg=Date is outside known recording period of Trifurcula squamatella
+Tvk=NBNSYS0100005901
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

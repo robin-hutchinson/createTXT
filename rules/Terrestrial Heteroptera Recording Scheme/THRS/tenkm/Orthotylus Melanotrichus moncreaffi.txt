@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Orthotylus (Melanotrichus) moncreaffi 10km
+Description=Check coordinate against known distribution of Orthotylus (Melanotrichus) moncreaffi
+ErrorMsg=Coordinate is outside known range for Orthotylus (Melanotrichus) moncreaffi
+DataFieldName=Species
+DataRecordId=NHMSYS0020309588
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN31
+SU30
+SX97
+SY98
+SZ08
+SZ38
+SZ39
+SZ49
+SZ59
+SZ68
+TF34
+TF43
+TF44
+TF49
+TF52
+TF74
+TF84
+TG04
+TL90
+TL91
+TM00
+TM01
+TM22
+TM33
+TM34
+TM57
+TQ01
+TQ77
+TQ87
+TQ91
+TQ96
+TQ99
+TR01
+TR06
+TR36
+
+

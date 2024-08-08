@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Scrobipalpa pauperella
+Description=Checks date is within known flight period of Scrobipalpa pauperella
+ErrorMsg=Date is outside known flight period of Scrobipalpa pauperella
+Tvk=NBNSYS0000005366
+DataFieldName=
+StartDate=0601
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Rhyacophila fasciata
+Description=Checks date is within known recording period of Rhyacophila fasciata
+ErrorMsg=Date is outside known recording period of Rhyacophila fasciata
+Tvk=NBNSYS0000155925
+StartDate=18620101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agonopterix putridella
+Description=Checks date is within known flight period of Agonopterix putridella
+ErrorMsg=Date is outside known flight period of Agonopterix putridella
+Tvk=NHMSYS0021142591
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

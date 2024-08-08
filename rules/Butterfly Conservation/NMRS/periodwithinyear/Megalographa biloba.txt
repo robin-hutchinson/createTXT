@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Megalographa biloba
+Description=Checks date is within known flight period of Megalographa biloba
+ErrorMsg=Date is outside known flight period of Megalographa biloba
+Tvk=NBNSYS0100003895
+DataFieldName=
+StartDate=0715
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Caenis macrura
+Description=Checks date is within known flight period of Caenis macrura
+ErrorMsg=Date is outside known flight period of Caenis macrura
+Tvk=NBNSYS0000010903
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

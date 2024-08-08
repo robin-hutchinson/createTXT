@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Myriapod and Isopod Group/BMIG Flight Period
+ShortName=Brachychaeteuma bradeae
+Description=Checks date is within known flight period of Brachychaeteuma bradeae
+ErrorMsg=Date is outside known flight period of Brachychaeteuma bradeae
+Tvk=NBNSYS0000011358
+DataFieldName=
+StartDate=0901
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

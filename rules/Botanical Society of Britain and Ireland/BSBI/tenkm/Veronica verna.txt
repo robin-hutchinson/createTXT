@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Veronica verna 10km
+Description=Check coordinate against known distribution of Veronica verna
+ErrorMsg=Coordinate is outside known range for Veronica verna
+DataFieldName=Species
+DataRecordId=NBNSYS0000004116
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK22
+TL77
+TL78
+TL87
+TL88
+TL98
+
+

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Lasiacantha capucina 10km
+Description=Check coordinate against known distribution of Lasiacantha capucina
+ErrorMsg=Coordinate is outside known range for Lasiacantha capucina
+DataFieldName=Species
+DataRecordId=NHMSYS0020309348
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW61
+SW62
+SW64
+SW93
+
+

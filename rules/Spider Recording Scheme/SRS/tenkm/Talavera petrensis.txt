@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Talavera petrensis 10km
+Description=Check coordinate against known distribution of Talavera petrensis
+ErrorMsg=Coordinate is outside known range for Talavera petrensis
+DataFieldName=Species
+DataRecordId=NBNSYS0100005698
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM39
+NX13
+NZ70
+SU94
+SU95
+SU96
+SX58
+SY58
+SY59
+SY88
+SY89
+TR16
+
+

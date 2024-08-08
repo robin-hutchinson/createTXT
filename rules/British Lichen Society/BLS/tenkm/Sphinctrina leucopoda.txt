@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Sphinctrina leucopoda 10km
+Description=Check coordinate against known distribution of Sphinctrina leucopoda
+ErrorMsg=Coordinate is outside known range for Sphinctrina leucopoda
+DataFieldName=Species
+DataRecordId=NBNSYS0000015583
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU92
+
+

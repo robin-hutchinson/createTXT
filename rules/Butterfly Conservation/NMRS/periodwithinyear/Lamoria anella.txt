@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lamoria anella
+Description=Checks date is within known flight period of Lamoria anella
+ErrorMsg=Date is outside known flight period of Lamoria anella
+Tvk=NHMSYS0021297284
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

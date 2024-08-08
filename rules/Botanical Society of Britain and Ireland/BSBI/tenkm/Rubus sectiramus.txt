@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus sectiramus 10km
+Description=Check coordinate against known distribution of Rubus sectiramus
+ErrorMsg=Coordinate is outside known range for Rubus sectiramus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462909
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM70
+ST70
+ST71
+ST76
+ST80
+SU61
+SU65
+SU70
+SY78
+SZ58
+SZ68
+TM04
+TQ09
+TQ19
+TQ27
+TQ28
+TQ34
+TQ36
+TQ42
+TQ50
+TQ55
+TQ64
+TQ65
+TQ66
+TQ75
+TR03
+
+

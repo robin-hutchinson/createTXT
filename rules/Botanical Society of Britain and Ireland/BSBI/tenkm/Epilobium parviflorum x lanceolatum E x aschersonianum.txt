@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium parviflorum x lanceolatum = E. x aschersonianum 10km
+Description=Check coordinate against known distribution of Epilobium parviflorum x lanceolatum = E. x aschersonianum
+ErrorMsg=Coordinate is outside known range for Epilobium parviflorum x lanceolatum = E. x aschersonianum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754532
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SX45
+
+

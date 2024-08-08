@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Eleusine indica subsp. africana
+Description=Checks date is within known recording period of Eleusine indica subsp. africana
+ErrorMsg=Date is outside known recording period of Eleusine indica subsp. africana
+Tvk=NHMSYS0000458317
+StartDate=19170101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

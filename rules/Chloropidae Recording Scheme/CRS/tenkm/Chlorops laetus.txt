@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Chlorops laetus 10km
+Description=Check coordinate against known distribution of Chlorops laetus
+ErrorMsg=Coordinate is outside known range for Chlorops laetus
+DataFieldName=Species
+DataRecordId=NBNSYS0100002365
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS49
+ST57
+TL66
+TQ56
+
+

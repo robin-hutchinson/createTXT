@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Biston betularia
+Description=Checks date is within known flight period of Biston betularia
+ErrorMsg=Date is outside known flight period of Biston betularia
+Tvk=NBNSYS0000006022
+DataFieldName=
+StartDate=0415
+EndDate=0907
+LastChanged=20240808
+[EndMetadata]

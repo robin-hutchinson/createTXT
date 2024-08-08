@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lathyrus heterophyllus 10km
+Description=Check coordinate against known distribution of Lathyrus heterophyllus
+ErrorMsg=Coordinate is outside known range for Lathyrus heterophyllus
+DataFieldName=Species
+DataRecordId=NBNSYS0000003304
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST28
+SU86
+TF84
+TQ58
+
+

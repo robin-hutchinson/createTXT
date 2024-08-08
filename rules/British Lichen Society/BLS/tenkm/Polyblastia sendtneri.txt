@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Polyblastia sendtneri 10km
+Description=Check coordinate against known distribution of Polyblastia sendtneri
+ErrorMsg=Coordinate is outside known range for Polyblastia sendtneri
+DataFieldName=Species
+DataRecordId=NBNSYS0000020630
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN47
+NN64
+
+

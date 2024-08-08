@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pertusaria flavocorallina 10km
+Description=Check coordinate against known distribution of Pertusaria flavocorallina
+ErrorMsg=Coordinate is outside known range for Pertusaria flavocorallina
+DataFieldName=Species
+DataRecordId=NBNSYS0000039706
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG46
+NO17
+
+

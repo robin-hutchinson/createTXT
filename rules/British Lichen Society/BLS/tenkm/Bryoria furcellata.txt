@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Bryoria furcellata 10km
+Description=Check coordinate against known distribution of Bryoria furcellata
+ErrorMsg=Coordinate is outside known range for Bryoria furcellata
+DataFieldName=Species
+DataRecordId=NBNSYS0000018258
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH12
+NH22
+NH31
+NH33
+NJ01
+
+

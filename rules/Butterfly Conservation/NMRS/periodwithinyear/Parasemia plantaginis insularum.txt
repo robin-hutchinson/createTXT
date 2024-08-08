@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Parasemia plantaginis insularum
+Description=Checks date is within known flight period of Parasemia plantaginis insularum
+ErrorMsg=Date is outside known flight period of Parasemia plantaginis insularum
+Tvk=NHMSYS0021144396
+DataFieldName=
+StartDate=0501
+EndDate=0815
+LastChanged=20240808
+[EndMetadata]

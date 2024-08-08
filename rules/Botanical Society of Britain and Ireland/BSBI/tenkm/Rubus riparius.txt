@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus riparius 10km
+Description=Check coordinate against known distribution of Rubus riparius
+ErrorMsg=Coordinate is outside known range for Rubus riparius
+DataFieldName=Species
+DataRecordId=NHMSYS0000462870
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH13
+SH22
+SH23
+SH32
+SH33
+SH34
+SH43
+SH44
+SH45
+SH46
+SH48
+SH52
+SH53
+SH54
+SH55
+SH56
+SH57
+SH62
+SH63
+SH64
+SH66
+SH67
+SH70
+SH71
+SH72
+SH85
+SN69
+SN79
+SU50
+SY08
+SY39
+SY88
+SZ38
+SZ49
+SZ58
+SZ79
+
+

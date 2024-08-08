@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Bryum arcticum 10km
+Description=Check coordinate against known distribution of Bryum arcticum
+ErrorMsg=Coordinate is outside known range for Bryum arcticum
+DataFieldName=Species
+DataRecordId=NHMSYS0000309476
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN97
+
+

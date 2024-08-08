@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Mikrosyphar porphyrae 10km
+Description=Check coordinate against known distribution of Mikrosyphar porphyrae
+ErrorMsg=Coordinate is outside known range for Mikrosyphar porphyrae
+DataFieldName=Species
+DataRecordId=NBNSYS0000184256
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+HU44
+NO51
+NO88
+NT68
+SM70
+SS14
+SV91
+TG50
+TR23
+TR37
+TR47
+
+

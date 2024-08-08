@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dianthus caryophyllus 10km
+Description=Check coordinate against known distribution of Dianthus caryophyllus
+ErrorMsg=Coordinate is outside known range for Dianthus caryophyllus
+DataFieldName=Species
+DataRecordId=NBNSYS0000003010
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J38
+
+
+[10km_GB]
+NJ06
+NJ16
+NS66
+NT18
+NT28
+NU11
+NU14
+SC26
+SJ17
+SJ51
+SK27
+SN40
+SO02
+SO24
+SO74
+SP40
+SS79
+SS88
+ST61
+SU30
+SU77
+SX96
+SY49
+TF41
+TL66
+TM16
+TQ38
+TQ57
+TQ76
+TQ77
+TR23
+TR35
+
+
+NA
+
+

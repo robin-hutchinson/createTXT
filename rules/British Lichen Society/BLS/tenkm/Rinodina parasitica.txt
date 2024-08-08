@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rinodina parasitica 10km
+Description=Check coordinate against known distribution of Rinodina parasitica
+ErrorMsg=Coordinate is outside known range for Rinodina parasitica
+DataFieldName=Species
+DataRecordId=NBNSYS0000039783
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO17
+
+

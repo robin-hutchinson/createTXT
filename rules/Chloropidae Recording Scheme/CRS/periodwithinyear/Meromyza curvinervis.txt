@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Meromyza curvinervis
+Description=Checks date is within known flight period of Meromyza curvinervis
+ErrorMsg=Date is outside known flight period of Meromyza curvinervis
+Tvk=NBNSYS0000029946
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Haplodrassus signifer
+Description=Checks date is within known flight period of Haplodrassus signifer
+ErrorMsg=Date is outside known flight period of Haplodrassus signifer
+Tvk=NBNSYS0000008645
+DataFieldName=
+StartDate=0323
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

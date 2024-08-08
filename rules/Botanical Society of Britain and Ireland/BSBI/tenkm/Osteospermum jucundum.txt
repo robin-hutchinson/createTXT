@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Osteospermum jucundum 10km
+Description=Check coordinate against known distribution of Osteospermum jucundum
+ErrorMsg=Coordinate is outside known range for Osteospermum jucundum
+DataFieldName=Species
+DataRecordId=NHMSYS0000461410
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST43
+ST54
+SU28
+SU36
+SU38
+SU49
+SU68
+SU76
+SU77
+SU78
+SU86
+SU87
+SU88
+SU96
+SU97
+
+

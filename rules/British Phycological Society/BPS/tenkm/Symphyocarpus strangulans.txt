@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Symphyocarpus strangulans 10km
+Description=Check coordinate against known distribution of Symphyocarpus strangulans
+ErrorMsg=Coordinate is outside known range for Symphyocarpus strangulans
+DataFieldName=Species
+DataRecordId=NBNSYS0000187503
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO51
+
+

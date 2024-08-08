@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Coleophora lassella
+Description=Checks date is within known recording period of Coleophora lassella
+ErrorMsg=Date is outside known recording period of Coleophora lassella
+Tvk=NHMSYS0000501886
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

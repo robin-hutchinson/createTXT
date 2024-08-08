@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Aethes bilbaensis
+Description=Checks date is within known flight period of Aethes bilbaensis
+ErrorMsg=Date is outside known flight period of Aethes bilbaensis
+Tvk=NHMSYS0021143138
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

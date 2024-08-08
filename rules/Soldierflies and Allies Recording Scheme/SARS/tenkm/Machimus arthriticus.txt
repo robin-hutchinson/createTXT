@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Machimus arthriticus 10km
+Description=Check coordinate against known distribution of Machimus arthriticus
+ErrorMsg=Coordinate is outside known range for Machimus arthriticus
+DataFieldName=Species
+DataRecordId=NBNSYS0100003860
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TL87
+TL88
+
+

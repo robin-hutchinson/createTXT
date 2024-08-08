@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Porphyrostromium ciliare 10km
+Description=Check coordinate against known distribution of Porphyrostromium ciliare
+ErrorMsg=Coordinate is outside known range for Porphyrostromium ciliare
+DataFieldName=Species
+DataRecordId=NHMSYS0000568244
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+NB13
+NB14
+NB54
+NK14
+NO51
+NT37
+NT69
+SS14
+SV91
+SZ07
+TR36
+
+

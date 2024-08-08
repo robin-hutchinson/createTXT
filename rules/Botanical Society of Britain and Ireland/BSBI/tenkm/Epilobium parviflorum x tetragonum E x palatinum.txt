@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium parviflorum x tetragonum = E. x palatinum 10km
+Description=Check coordinate against known distribution of Epilobium parviflorum x tetragonum = E. x palatinum
+ErrorMsg=Coordinate is outside known range for Epilobium parviflorum x tetragonum = E. x palatinum
+DataFieldName=Species
+DataRecordId=NBNSYS0000161634
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK68
+SN35
+SO51
+SO75
+SO83
+SP41
+ST02
+ST33
+SU88
+SU98
+SY99
+TL15
+TL34
+TL45
+TL46
+TQ32
+TQ63
+TQ76
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ludwigia palustris x repens = L. x kentiana 10km
+Description=Check coordinate against known distribution of Ludwigia palustris x repens = L. x kentiana
+ErrorMsg=Coordinate is outside known range for Ludwigia palustris x repens = L. x kentiana
+DataFieldName=Species
+DataRecordId=NHMSYS0001754607
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD80
+SJ89
+SU41
+TQ27
+TQ49
+TQ54
+TV59
+
+

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Enneapogon desvauxii 10km
+Description=Check coordinate against known distribution of Enneapogon desvauxii
+ErrorMsg=Coordinate is outside known range for Enneapogon desvauxii
+DataFieldName=Species
+DataRecordId=NBNSYS0200002088
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE93
+SK67
+SN24
+
+

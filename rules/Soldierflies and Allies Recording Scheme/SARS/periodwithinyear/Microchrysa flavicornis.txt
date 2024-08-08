@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Microchrysa flavicornis
+Description=Checks date is within known flight period of Microchrysa flavicornis
+ErrorMsg=Date is outside known flight period of Microchrysa flavicornis
+Tvk=NBNSYS0000007827
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

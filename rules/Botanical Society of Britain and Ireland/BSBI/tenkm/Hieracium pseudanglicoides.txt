@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium pseudanglicoides 10km
+Description=Check coordinate against known distribution of Hieracium pseudanglicoides
+ErrorMsg=Coordinate is outside known range for Hieracium pseudanglicoides
+DataFieldName=Species
+DataRecordId=NHMSYS0000459567
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC21
+NC35
+NC45
+NG91
+NH27
+NH29
+NH60
+NH90
+NJ10
+NN02
+NN15
+NN23
+NN27
+NN33
+NN34
+NN78
+NN88
+NO16
+NO17
+NO27
+NO28
+
+

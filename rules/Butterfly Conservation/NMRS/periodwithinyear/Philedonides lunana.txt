@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Philedonides lunana
+Description=Checks date is within known flight period of Philedonides lunana
+ErrorMsg=Date is outside known flight period of Philedonides lunana
+Tvk=NHMSYS0000503719
+DataFieldName=
+StartDate=0301
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

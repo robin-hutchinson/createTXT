@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Myagrum perfoliatum 10km
+Description=Check coordinate against known distribution of Myagrum perfoliatum
+ErrorMsg=Coordinate is outside known range for Myagrum perfoliatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000460807
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+NS84
+NT17
+NT26
+NT27
+NT29
+NY15
+SD27
+SD31
+SD32
+SD33
+SE22
+SJ39
+SJ60
+SK22
+SN42
+SO54
+ST17
+ST57
+ST67
+SU49
+TA02
+TA20
+TA21
+TA30
+TG13
+TL19
+TL31
+TL45
+TL86
+TM59
+TQ28
+TQ38
+
+

@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Ascophyllum nodosum ecad mackaii 10km
+Description=Check coordinate against known distribution of Ascophyllum nodosum ecad mackaii
+ErrorMsg=Coordinate is outside known range for Ascophyllum nodosum ecad mackaii
+DataFieldName=Species
+DataRecordId=NHMSYS0001596565
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU25
+NB12
+NB22
+NB23
+NB32
+NC13
+NC24
+NC25
+NG20
+NG24
+NG29
+NG33
+NG44
+NG45
+NG71
+NG72
+NG73
+NG82
+NG83
+NG85
+NG91
+NG92
+NM45
+NM52
+NM55
+NM56
+NM65
+NM66
+NM67
+NM68
+NM69
+NM71
+NM75
+NM76
+NM78
+NM86
+NN05
+NN06
+NR58
+NR78
+NT69
+SH49
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Edwardsiana tersa
+Description=Checks date is within known recording period of Edwardsiana tersa
+ErrorMsg=Date is outside known recording period of Edwardsiana tersa
+Tvk=NHMSYS0020442325
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

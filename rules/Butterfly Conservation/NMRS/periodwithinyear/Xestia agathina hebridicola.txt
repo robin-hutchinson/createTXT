@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Xestia agathina hebridicola
+Description=Checks date is within known flight period of Xestia agathina hebridicola
+ErrorMsg=Date is outside known flight period of Xestia agathina hebridicola
+Tvk=NHMSYS0021144938
+DataFieldName=
+StartDate=0721
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

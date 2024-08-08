@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pinguicula vulgaris x grandiflora = P. x scullyi 10km
+Description=Check coordinate against known distribution of Pinguicula vulgaris x grandiflora = P. x scullyi
+ErrorMsg=Coordinate is outside known range for Pinguicula vulgaris x grandiflora = P. x scullyi
+DataFieldName=Species
+DataRecordId=NHMSYS0001754507
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+Q40
+Q41
+
+

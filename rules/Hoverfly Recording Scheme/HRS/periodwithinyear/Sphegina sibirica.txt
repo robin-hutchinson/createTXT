@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Sphegina sibirica
+Description=Checks date is within known flight period of Sphegina sibirica
+ErrorMsg=Date is outside known flight period of Sphegina sibirica
+Tvk=NBNSYS0000033089
+DataFieldName=
+StartDate=0511
+EndDate=0821
+LastChanged=20240808
+[EndMetadata]

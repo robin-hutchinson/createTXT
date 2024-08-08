@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Rhadicoleptus alpestris
+Description=Checks date is within known recording period of Rhadicoleptus alpestris
+ErrorMsg=Date is outside known recording period of Rhadicoleptus alpestris
+Tvk=NBNSYS0000008497
+StartDate=18670101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

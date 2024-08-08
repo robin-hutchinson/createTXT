@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Acer pseudoplatanus
+Description=Checks date is within known recording period of Acer pseudoplatanus
+ErrorMsg=Date is outside known recording period of Acer pseudoplatanus
+Tvk=NBNSYS0000003191
+StartDate=16320101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

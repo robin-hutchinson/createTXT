@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Dragonfly Recording Scheme/DRS Flight Period
+ShortName=Gomphus vulgatissimus
+Description=Checks date is within known flight period of Gomphus vulgatissimus
+ErrorMsg=Date is outside known flight period of Gomphus vulgatissimus
+Tvk=NBNSYS0000005620
+DataFieldName=
+StartDate=0503
+EndDate=0623
+LastChanged=20240808
+[EndMetadata]

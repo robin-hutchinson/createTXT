@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Lasiocampa trifolii trifolii
+Description=Checks date is within known recording period of Lasiocampa trifolii trifolii
+ErrorMsg=Date is outside known recording period of Lasiocampa trifolii trifolii
+Tvk=NHMSYS0021143815
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

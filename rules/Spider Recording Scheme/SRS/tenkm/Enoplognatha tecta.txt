@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Enoplognatha tecta 10km
+Description=Check coordinate against known distribution of Enoplognatha tecta
+ErrorMsg=Coordinate is outside known range for Enoplognatha tecta
+DataFieldName=Species
+DataRecordId=NBNSYS0000008906
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TM49
+
+

@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium exotericum 10km
+Description=Check coordinate against known distribution of Hieracium exotericum
+ErrorMsg=Coordinate is outside known range for Hieracium exotericum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459430
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H23
+O22
+
+
+[10km_GB]
+NJ64
+NN06
+NS84
+NT53
+NZ21
+NZ23
+NZ33
+SD20
+SD60
+SK07
+SK15
+SK17
+SK25
+SK27
+SN67
+SO21
+SO45
+SO47
+SO74
+SP40
+SP50
+SP95
+SP96
+ST29
+SU27
+SU28
+SU42
+SU56
+SU58
+SU60
+SU68
+TM48
+TM59
+TQ23
+
+

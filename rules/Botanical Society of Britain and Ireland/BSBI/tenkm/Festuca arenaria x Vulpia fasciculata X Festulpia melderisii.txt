@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca arenaria x Vulpia fasciculata = X Festulpia melderisii 10km
+Description=Check coordinate against known distribution of Festuca arenaria x Vulpia fasciculata = X Festulpia melderisii
+ErrorMsg=Coordinate is outside known range for Festuca arenaria x Vulpia fasciculata = X Festulpia melderisii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754805
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS78
+TQ00
+TR35
+
+

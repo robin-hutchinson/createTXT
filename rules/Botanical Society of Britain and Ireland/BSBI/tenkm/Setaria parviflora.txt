@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Setaria parviflora 10km
+Description=Check coordinate against known distribution of Setaria parviflora
+ErrorMsg=Coordinate is outside known range for Setaria parviflora
+DataFieldName=Species
+DataRecordId=NHMSYS0100002955
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT53
+SN80
+SP27
+ST17
+ST36
+ST38
+ST57
+ST67
+SU73
+SU77
+SU94
+SU96
+SX45
+TA12
+TL02
+TL03
+TL12
+TL31
+TL45
+TQ57
+TQ67
+
+

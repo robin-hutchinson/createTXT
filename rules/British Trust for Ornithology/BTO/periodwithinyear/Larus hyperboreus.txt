@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Larus hyperboreus
+Description=Checks date is within known flight period of Larus hyperboreus
+ErrorMsg=Date is outside known flight period of Larus hyperboreus
+Tvk=NBNSYS0000000356
+DataFieldName=
+StartDate=0501
+EndDate=0824
+LastChanged=20240808
+[EndMetadata]

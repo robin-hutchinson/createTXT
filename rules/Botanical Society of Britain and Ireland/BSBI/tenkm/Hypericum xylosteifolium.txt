@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hypericum xylosteifolium 10km
+Description=Check coordinate against known distribution of Hypericum xylosteifolium
+ErrorMsg=Coordinate is outside known range for Hypericum xylosteifolium
+DataFieldName=Species
+DataRecordId=NHMSYS0000459864
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT27
+SD47
+SE36
+SU70
+TQ47
+
+

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Trichoptera Recording Scheme/TRS 10km distribution
+ShortName=Tinodes pallidulus 10km
+Description=Check coordinate against known distribution of Tinodes pallidulus
+ErrorMsg=Coordinate is outside known range for Tinodes pallidulus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008393
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK51
+SO41
+SO77
+TR03
+
+

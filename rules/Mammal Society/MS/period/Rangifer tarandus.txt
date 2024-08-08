@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Mammal Society/MS Recording Period
+ShortName=Rangifer tarandus
+Description=Checks date is within known recording period of Rangifer tarandus
+ErrorMsg=Date is outside known recording period of Rangifer tarandus
+Tvk=NBNSYS0000005183
+StartDate=19520101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

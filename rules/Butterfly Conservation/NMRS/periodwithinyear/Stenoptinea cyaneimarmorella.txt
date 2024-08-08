@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stenoptinea cyaneimarmorella
+Description=Checks date is within known flight period of Stenoptinea cyaneimarmorella
+ErrorMsg=Date is outside known flight period of Stenoptinea cyaneimarmorella
+Tvk=NHMSYS0000504319
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

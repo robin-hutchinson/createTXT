@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Solanum villosum subsp. miniatum
+Description=Checks date is within known recording period of Solanum villosum subsp. miniatum
+ErrorMsg=Date is outside known recording period of Solanum villosum subsp. miniatum
+Tvk=NBNSYS0000014898
+StartDate=18810101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

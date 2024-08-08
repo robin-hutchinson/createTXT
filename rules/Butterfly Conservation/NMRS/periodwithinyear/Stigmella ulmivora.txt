@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella ulmivora
+Description=Checks date is within known flight period of Stigmella ulmivora
+ErrorMsg=Date is outside known flight period of Stigmella ulmivora
+Tvk=NHMSYS0000504396
+DataFieldName=
+StartDate=0501
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

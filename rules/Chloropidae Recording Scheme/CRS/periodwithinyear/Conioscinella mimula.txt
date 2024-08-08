@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Conioscinella mimula
+Description=Checks date is within known flight period of Conioscinella mimula
+ErrorMsg=Date is outside known flight period of Conioscinella mimula
+Tvk=NBNSYS0000029880
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Plagiothecium cavifolium 10km
+Description=Check coordinate against known distribution of Plagiothecium cavifolium
+ErrorMsg=Coordinate is outside known range for Plagiothecium cavifolium
+DataFieldName=Species
+DataRecordId=NHMSYS0000310322
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH07
+NH28
+NN43
+NN54
+
+

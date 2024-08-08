@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Epiblema turbidana
+Description=Checks date is within known recording period of Epiblema turbidana
+ErrorMsg=Date is outside known recording period of Epiblema turbidana
+Tvk=NHMSYS0000502418
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

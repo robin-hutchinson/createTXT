@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Perigona nigriceps
+Description=Checks date is within known recording period of Perigona nigriceps
+ErrorMsg=Date is outside known recording period of Perigona nigriceps
+Tvk=NBNSYS0000007342
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

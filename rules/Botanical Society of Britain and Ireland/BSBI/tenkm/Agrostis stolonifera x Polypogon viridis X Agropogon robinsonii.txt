@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Agrostis stolonifera x Polypogon viridis = X Agropogon robinsonii 10km
+Description=Check coordinate against known distribution of Agrostis stolonifera x Polypogon viridis = X Agropogon robinsonii
+ErrorMsg=Coordinate is outside known range for Agrostis stolonifera x Polypogon viridis = X Agropogon robinsonii
+DataFieldName=Species
+DataRecordId=NBNSYS0000161397
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+
+
+NA
+
+

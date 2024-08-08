@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Tritomegas sexmaculatus
+Description=Checks date is within known recording period of Tritomegas sexmaculatus
+ErrorMsg=Date is outside known recording period of Tritomegas sexmaculatus
+Tvk=NHMSYS0020916997
+StartDate=20110101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

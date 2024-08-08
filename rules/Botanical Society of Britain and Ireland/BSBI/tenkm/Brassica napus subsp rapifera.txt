@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Brassica napus subsp. rapifera 10km
+Description=Check coordinate against known distribution of Brassica napus subsp. rapifera
+ErrorMsg=Coordinate is outside known range for Brassica napus subsp. rapifera
+DataFieldName=Species
+DataRecordId=NHMSYS0000456604
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU31
+HU32
+HU37
+HU42
+HU44
+NO11
+NT82
+NX30
+NX40
+NZ33
+NZ43
+SC27
+SJ41
+SK87
+SK96
+SO13
+SP15
+ST51
+ST63
+TA21
+TL04
+TL28
+
+
+[10km_Ireland]
+V98
+
+

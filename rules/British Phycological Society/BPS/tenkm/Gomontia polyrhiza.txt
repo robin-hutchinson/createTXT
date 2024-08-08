@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Gomontia polyrhiza 10km
+Description=Check coordinate against known distribution of Gomontia polyrhiza
+ErrorMsg=Coordinate is outside known range for Gomontia polyrhiza
+DataFieldName=Species
+DataRecordId=NHMSYS0000567955
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO51
+NR39
+NR97
+NS14
+NS15
+NT49
+NZ90
+SH56
+SJ18
+SS38
+SS48
+SV91
+TA30
+TR37
+
+

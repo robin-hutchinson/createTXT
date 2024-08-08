@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Agapanthus praecox
+Description=Checks date is within known recording period of Agapanthus praecox
+ErrorMsg=Date is outside known recording period of Agapanthus praecox
+Tvk=NBNSYS0000014650
+StartDate=19390101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

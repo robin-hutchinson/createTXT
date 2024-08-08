@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Sphaerophoria interrupta
+Description=Checks date is within known flight period of Sphaerophoria interrupta
+ErrorMsg=Date is outside known flight period of Sphaerophoria interrupta
+Tvk=NBNSYS0000157028
+DataFieldName=
+StartDate=0218
+EndDate=1009
+LastChanged=20240808
+[EndMetadata]

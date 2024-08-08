@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Chrysotoxum vernale
+Description=Checks date is within known flight period of Chrysotoxum vernale
+ErrorMsg=Date is outside known flight period of Chrysotoxum vernale
+Tvk=NBNSYS0000006899
+DataFieldName=
+StartDate=0505
+EndDate=0814
+LastChanged=20240808
+[EndMetadata]

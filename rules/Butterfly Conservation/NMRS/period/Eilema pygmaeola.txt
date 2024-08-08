@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Eilema pygmaeola
+Description=Checks date is within known recording period of Eilema pygmaeola
+ErrorMsg=Date is outside known recording period of Eilema pygmaeola
+Tvk=NBNSYS0000006132
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

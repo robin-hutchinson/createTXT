@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hoheria populnea 10km
+Description=Check coordinate against known distribution of Hoheria populnea
+ErrorMsg=Coordinate is outside known range for Hoheria populnea
+DataFieldName=Species
+DataRecordId=NHMSYS0000459723
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX40
+SC37
+SC48
+SW43
+
+

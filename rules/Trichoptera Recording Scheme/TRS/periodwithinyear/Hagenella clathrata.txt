@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hagenella clathrata
+Description=Checks date is within known flight period of Hagenella clathrata
+ErrorMsg=Date is outside known flight period of Hagenella clathrata
+Tvk=NBNSYS0000008428
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

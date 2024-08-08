@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Campanula medium
+Description=Checks date is within known recording period of Campanula medium
+ErrorMsg=Date is outside known recording period of Campanula medium
+Tvk=NBNSYS0000004292
+StartDate=18700101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

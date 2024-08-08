@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Scutellaria altissima 10km
+Description=Check coordinate against known distribution of Scutellaria altissima
+ErrorMsg=Coordinate is outside known range for Scutellaria altissima
+DataFieldName=Species
+DataRecordId=NBNSYS0000004263
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT52
+SE84
+ST61
+ST74
+SU56
+SU94
+SX35
+TM08
+TQ14
+
+

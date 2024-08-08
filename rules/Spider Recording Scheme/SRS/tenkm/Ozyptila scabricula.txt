@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Ozyptila scabricula 10km
+Description=Check coordinate against known distribution of Ozyptila scabricula
+ErrorMsg=Coordinate is outside known range for Ozyptila scabricula
+DataFieldName=Species
+DataRecordId=NBNSYS0000008733
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH78
+SK90
+SN69
+SU96
+TL77
+TL78
+TM34
+TQ96
+
+

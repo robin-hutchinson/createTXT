@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Eudonia delunella
+Description=Checks date is within known recording period of Eudonia delunella
+ErrorMsg=Date is outside known recording period of Eudonia delunella
+Tvk=NHMSYS0000502553
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

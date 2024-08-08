@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tephroseris integrifolia subsp. maritima 10km
+Description=Check coordinate against known distribution of Tephroseris integrifolia subsp. maritima
+ErrorMsg=Coordinate is outside known range for Tephroseris integrifolia subsp. maritima
+DataFieldName=Species
+DataRecordId=NHMSYS0000464373
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH27
+SH28
+
+

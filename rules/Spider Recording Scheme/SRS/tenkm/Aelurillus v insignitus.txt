@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Aelurillus v-insignitus 10km
+Description=Check coordinate against known distribution of Aelurillus v-insignitus
+ErrorMsg=Coordinate is outside known range for Aelurillus v-insignitus
+DataFieldName=Species
+DataRecordId=NBNSYS0100001425
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT27
+NT28
+SM62
+ST25
+SU10
+SU73
+SU75
+SU83
+SU85
+SU86
+SU93
+SU94
+SU95
+SU96
+SW32
+SW61
+SX73
+SY78
+SY98
+SZ08
+SZ19
+TL78
+TQ04
+TQ16
+TR01
+
+

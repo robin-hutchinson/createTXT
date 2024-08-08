@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Sclerococcum simplex 10km
+Description=Check coordinate against known distribution of Sclerococcum simplex
+ErrorMsg=Coordinate is outside known range for Sclerococcum simplex
+DataFieldName=Species
+DataRecordId=BMSSYS0000016727
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG80
+NH05
+
+

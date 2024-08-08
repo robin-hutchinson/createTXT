@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Iris latifolia 10km
+Description=Check coordinate against known distribution of Iris latifolia
+ErrorMsg=Coordinate is outside known range for Iris latifolia
+DataFieldName=Species
+DataRecordId=NHMSYS0000459901
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HP60
+HU34
+HU35
+HU36
+HU37
+HU44
+HU45
+HU57
+HU58
+HU59
+HU69
+SN44
+ST64
+SV91
+SW63
+TG00
+TQ36
+TQ56
+
+

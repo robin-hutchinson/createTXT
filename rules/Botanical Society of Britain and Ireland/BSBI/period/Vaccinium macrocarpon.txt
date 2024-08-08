@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Vaccinium macrocarpon
+Description=Checks date is within known recording period of Vaccinium macrocarpon
+ErrorMsg=Date is outside known recording period of Vaccinium macrocarpon
+Tvk=NBNSYS0000003920
+StartDate=18590101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

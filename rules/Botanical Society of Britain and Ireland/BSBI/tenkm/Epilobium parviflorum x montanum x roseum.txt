@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium parviflorum x montanum x roseum 10km
+Description=Check coordinate against known distribution of Epilobium parviflorum x montanum x roseum
+ErrorMsg=Coordinate is outside known range for Epilobium parviflorum x montanum x roseum
+DataFieldName=Species
+DataRecordId=NHMSYS0100001406
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU95
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Microcladia glandulosa 10km
+Description=Check coordinate against known distribution of Microcladia glandulosa
+ErrorMsg=Coordinate is outside known range for Microcladia glandulosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000176461
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NF96
+SS14
+SW72
+SW82
+SX95
+SX96
+SY08
+
+

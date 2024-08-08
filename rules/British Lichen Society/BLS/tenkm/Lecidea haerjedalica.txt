@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecidea haerjedalica 10km
+Description=Check coordinate against known distribution of Lecidea haerjedalica
+ErrorMsg=Coordinate is outside known range for Lecidea haerjedalica
+DataFieldName=Species
+DataRecordId=BMSSYS0000009850
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO04
+
+

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Acrochaetium sparsum 10km
+Description=Check coordinate against known distribution of Acrochaetium sparsum
+ErrorMsg=Coordinate is outside known range for Acrochaetium sparsum
+DataFieldName=Species
+DataRecordId=NHMSYS0000567748
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO51
+NS15
+NT49
+SH37
+SS58
+SS68
+SS69
+TL90
+TM01
+TR37
+
+

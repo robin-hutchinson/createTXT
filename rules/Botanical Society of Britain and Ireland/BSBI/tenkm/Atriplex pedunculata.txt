@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Atriplex pedunculata 10km
+Description=Check coordinate against known distribution of Atriplex pedunculata
+ErrorMsg=Coordinate is outside known range for Atriplex pedunculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000003120
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ45
+SS79
+SY67
+TF32
+TF33
+TF34
+TF41
+TF42
+TF56
+TF62
+TF74
+TG50
+TM45
+TM47
+TM57
+TQ67
+TQ98
+TR16
+TR36
+
+

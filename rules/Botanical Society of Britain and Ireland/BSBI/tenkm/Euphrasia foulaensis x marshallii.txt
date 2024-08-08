@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia foulaensis x marshallii 10km
+Description=Check coordinate against known distribution of Euphrasia foulaensis x marshallii
+ErrorMsg=Coordinate is outside known range for Euphrasia foulaensis x marshallii
+DataFieldName=Species
+DataRecordId=NBNSYS0000014047
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HP51
+HT93
+HT94
+HU15
+HU25
+HY20
+HZ27
+NA91
+NA92
+NC76
+NC96
+
+

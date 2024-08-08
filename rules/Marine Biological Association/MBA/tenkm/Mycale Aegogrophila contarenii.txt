@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Mycale (Aegogrophila) contarenii 10km
+Description=Check coordinate against known distribution of Mycale (Aegogrophila) contarenii
+ErrorMsg=Coordinate is outside known range for Mycale (Aegogrophila) contarenii
+DataFieldName=Species
+DataRecordId=NHMSYS0000341755
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D40
+J55
+J56
+Y95
+Y97
+
+
+[10km_GB]
+HU25
+HU36
+NM65
+NR67
+NR75
+NR78
+NW55
+NW60
+NW61
+SM73
+SM80
+SY67
+SY78
+
+

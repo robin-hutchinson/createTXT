@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Ribautiana ulmi
+Description=Checks date is within known flight period of Ribautiana ulmi
+ErrorMsg=Date is outside known flight period of Ribautiana ulmi
+Tvk=NHMSYS0020705882
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

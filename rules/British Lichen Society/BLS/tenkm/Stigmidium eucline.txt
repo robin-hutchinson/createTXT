@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Stigmidium eucline 10km
+Description=Check coordinate against known distribution of Stigmidium eucline
+ErrorMsg=Coordinate is outside known range for Stigmidium eucline
+DataFieldName=Species
+DataRecordId=NHMSYS0020991113
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NA00
+NF09
+NF19
+NH36
+
+

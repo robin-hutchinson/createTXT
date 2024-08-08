@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Erysimum repandum 10km
+Description=Check coordinate against known distribution of Erysimum repandum
+ErrorMsg=Coordinate is outside known range for Erysimum repandum
+DataFieldName=Species
+DataRecordId=NHMSYS0000458604
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS83
+NS93
+NT07
+NT27
+SE90
+SJ38
+SJ49
+SO60
+SO81
+SO83
+SO87
+SP36
+SP40
+SP50
+SP59
+SS90
+ST57
+ST67
+SU68
+SU73
+SX05
+SX99
+TL31
+TL55
+TL93
+TM24
+TM59
+TQ08
+TQ20
+TQ28
+TQ30
+TQ36
+
+
+[10km_Ireland]
+O13
+W67
+
+
+NA
+
+

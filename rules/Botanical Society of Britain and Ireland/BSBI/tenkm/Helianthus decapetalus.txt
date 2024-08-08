@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Helianthus decapetalus 10km
+Description=Check coordinate against known distribution of Helianthus decapetalus
+ErrorMsg=Coordinate is outside known range for Helianthus decapetalus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014444
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ND06
+SP40
+SP50
+SU56
+SU59
+SU77
+SU88
+TA12
+TL62
+TL63
+TL73
+TL90
+TL91
+TL93
+TM02
+TM03
+TM23
+TQ58
+TQ78
+TQ88
+TQ89
+
+

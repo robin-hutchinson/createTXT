@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Geum macrophyllum 10km
+Description=Check coordinate against known distribution of Geum macrophyllum
+ErrorMsg=Coordinate is outside known range for Geum macrophyllum
+DataFieldName=Species
+DataRecordId=NBNSYS0000003362
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH44
+NH53
+NH54
+NH55
+NH63
+NH65
+NJ24
+NJ35
+NN91
+NO35
+NS18
+NS28
+NS31
+NS79
+NW96
+SD39
+SE03
+SE13
+SN57
+SN65
+SN66
+SN67
+SN68
+SN78
+SO28
+
+

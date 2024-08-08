@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex ericetorum 10km
+Description=Check coordinate against known distribution of Carex ericetorum
+ErrorMsg=Coordinate is outside known range for Carex ericetorum
+DataFieldName=Species
+DataRecordId=NBNSYS0000002445
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY51
+NY60
+NY61
+NY82
+NY83
+NZ33
+SD47
+SD48
+SD49
+SE34
+SE36
+SE41
+SE44
+SE50
+SE51
+SE91
+SK57
+SK58
+SK94
+TF00
+TF70
+TF80
+TL45
+TL55
+TL66
+TL76
+TL77
+TL78
+TL79
+TL88
+TL89
+TL98
+TM08
+
+

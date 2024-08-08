@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plume Moth Recording Scheme/PMRS Flight Period
+ShortName=Capperia britanniodactyla
+Description=Checks date is within known flight period of Capperia britanniodactyla
+ErrorMsg=Date is outside known flight period of Capperia britanniodactyla
+Tvk=NHMSYS0000501632
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

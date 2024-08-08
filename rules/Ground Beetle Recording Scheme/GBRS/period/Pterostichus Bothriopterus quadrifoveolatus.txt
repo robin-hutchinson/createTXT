@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Pterostichus (Bothriopterus) quadrifoveolatus
+Description=Checks date is within known recording period of Pterostichus (Bothriopterus) quadrifoveolatus
+ErrorMsg=Date is outside known recording period of Pterostichus (Bothriopterus) quadrifoveolatus
+Tvk=NHMSYS0001719778
+StartDate=19160101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

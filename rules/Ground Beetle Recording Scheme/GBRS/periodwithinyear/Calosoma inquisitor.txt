@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Calosoma inquisitor
+Description=Checks date is within known flight period of Calosoma inquisitor
+ErrorMsg=Date is outside known flight period of Calosoma inquisitor
+Tvk=NBNSYS0000007143
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

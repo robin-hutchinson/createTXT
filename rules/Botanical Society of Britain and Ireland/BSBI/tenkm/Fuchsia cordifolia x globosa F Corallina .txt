@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fuchsia cordifolia x globosa = F. 'Corallina' 10km
+Description=Check coordinate against known distribution of Fuchsia cordifolia x globosa = F. 'Corallina'
+ErrorMsg=Coordinate is outside known range for Fuchsia cordifolia x globosa = F. 'Corallina'
+DataFieldName=Species
+DataRecordId=NBNSYS0000161685
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX74
+NY31
+
+

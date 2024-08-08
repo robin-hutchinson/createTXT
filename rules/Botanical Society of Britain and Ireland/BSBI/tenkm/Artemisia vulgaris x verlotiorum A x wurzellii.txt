@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Artemisia vulgaris x verlotiorum = A. x wurzellii 10km
+Description=Check coordinate against known distribution of Artemisia vulgaris x verlotiorum = A. x wurzellii
+ErrorMsg=Coordinate is outside known range for Artemisia vulgaris x verlotiorum = A. x wurzellii
+DataFieldName=Species
+DataRecordId=NHMSYS0100000580
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ37
+TQ38
+TQ39
+TQ56
+TQ57
+TQ67
+
+

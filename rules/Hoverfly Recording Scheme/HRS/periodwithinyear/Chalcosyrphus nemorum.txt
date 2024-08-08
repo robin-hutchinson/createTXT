@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Chalcosyrphus nemorum
+Description=Checks date is within known flight period of Chalcosyrphus nemorum
+ErrorMsg=Date is outside known flight period of Chalcosyrphus nemorum
+Tvk=NBNSYS0000007103
+DataFieldName=
+StartDate=0223
+EndDate=1115
+LastChanged=20240808
+[EndMetadata]

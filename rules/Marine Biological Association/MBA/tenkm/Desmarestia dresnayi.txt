@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Desmarestia dresnayi 10km
+Description=Check coordinate against known distribution of Desmarestia dresnayi
+ErrorMsg=Coordinate is outside known range for Desmarestia dresnayi
+DataFieldName=Species
+DataRecordId=NHMSYS0000567948
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D15
+D41
+
+
+[10km_GB]
+HY74
+NG15
+NM35
+NM70
+NM79
+NR30
+NR67
+NR79
+NW66
+SV80
+SV91
+
+

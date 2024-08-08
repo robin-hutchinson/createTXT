@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Aristotelia subdecurtella 10km
+Description=Check coordinate against known distribution of Aristotelia subdecurtella
+ErrorMsg=Coordinate is outside known range for Aristotelia subdecurtella
+DataFieldName=Species
+DataRecordId=NHMSYS0000501401
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TG31
+TL57
+
+

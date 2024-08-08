@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus decussatus 10km
+Description=Check coordinate against known distribution of Rubus decussatus
+ErrorMsg=Coordinate is outside known range for Rubus decussatus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462662
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO90
+SO91
+ST87
+SU30
+SU31
+SU34
+SU40
+SU44
+SU46
+SU50
+SU52
+SU55
+SU63
+SU70
+SU72
+SU73
+SU74
+SU83
+SU98
+SZ19
+SZ39
+TQ04
+TQ21
+TQ23
+TQ25
+TQ27
+TQ33
+TQ42
+TQ43
+TQ45
+TQ46
+TQ50
+TQ52
+TQ53
+TQ54
+TQ55
+TQ57
+TQ63
+TQ66
+TQ72
+TR15
+
+

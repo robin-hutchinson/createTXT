@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Luscinia svecica
+Description=Checks date is within known flight period of Luscinia svecica
+ErrorMsg=Date is outside known flight period of Luscinia svecica
+Tvk=NHMSYS0000530465
+DataFieldName=
+StartDate=0320
+EndDate=1101
+LastChanged=20240808
+[EndMetadata]

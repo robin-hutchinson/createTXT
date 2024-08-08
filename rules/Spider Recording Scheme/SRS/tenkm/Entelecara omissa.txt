@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Entelecara omissa 10km
+Description=Check coordinate against known distribution of Entelecara omissa
+ErrorMsg=Coordinate is outside known range for Entelecara omissa
+DataFieldName=Species
+DataRecordId=NBNSYS0000008997
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ72
+TF70
+TF74
+TF90
+TF91
+TF93
+TG00
+TG23
+TG30
+TG31
+TG32
+TG42
+TL57
+TL66
+TL68
+TL77
+TL79
+TL97
+TL98
+TM07
+TM08
+TM17
+TM19
+TM37
+TM47
+TM49
+TM59
+TR35
+
+

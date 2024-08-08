@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella crataegella
+Description=Checks date is within known flight period of Stigmella crataegella
+ErrorMsg=Date is outside known flight period of Stigmella crataegella
+Tvk=NHMSYS0000504346
+DataFieldName=
+StartDate=0501
+EndDate=0607
+LastChanged=20240808
+[EndMetadata]

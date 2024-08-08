@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Tayloria 10km
+Description=Check coordinate against known distribution of Tayloria
+ErrorMsg=Coordinate is outside known range for Tayloria
+DataFieldName=Species
+DataRecordId=NHMSYS0000310729
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN85
+
+

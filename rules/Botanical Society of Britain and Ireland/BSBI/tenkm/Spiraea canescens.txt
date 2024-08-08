@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Spiraea canescens 10km
+Description=Check coordinate against known distribution of Spiraea canescens
+ErrorMsg=Coordinate is outside known range for Spiraea canescens
+DataFieldName=Species
+DataRecordId=NHMSYS0000463909
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM93
+SN44
+SN55
+ST36
+SU00
+SU10
+SU70
+SU83
+SU99
+SX69
+TL02
+TL14
+TQ42
+TQ43
+TQ56
+
+

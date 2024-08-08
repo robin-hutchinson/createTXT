@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Sapyga quinquepunctata
+Description=Checks date is within known flight period of Sapyga quinquepunctata
+ErrorMsg=Date is outside known flight period of Sapyga quinquepunctata
+Tvk=NHMSYS0000876664
+DataFieldName=
+StartDate=0301
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

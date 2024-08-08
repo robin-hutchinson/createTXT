@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Nezara viridula
+Description=Checks date is within known recording period of Nezara viridula
+ErrorMsg=Date is outside known recording period of Nezara viridula
+Tvk=NHMSYS0020309518
+StartDate=20030101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

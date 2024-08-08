@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rhizocarpon expallescens 10km
+Description=Check coordinate against known distribution of Rhizocarpon expallescens
+ErrorMsg=Coordinate is outside known range for Rhizocarpon expallescens
+DataFieldName=Species
+DataRecordId=NHMSYS0001496262
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC44
+NG90
+NN17
+NN33
+NN47
+NO17
+NO27
+SH75
+SN68
+SN76
+SN77
+SN78
+SN87
+SN89
+
+

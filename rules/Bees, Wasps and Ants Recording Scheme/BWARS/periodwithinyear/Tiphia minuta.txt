@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Tiphia minuta
+Description=Checks date is within known flight period of Tiphia minuta
+ErrorMsg=Date is outside known flight period of Tiphia minuta
+Tvk=NHMSYS0000876758
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

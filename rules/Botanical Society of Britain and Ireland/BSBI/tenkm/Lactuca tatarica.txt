@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lactuca tatarica 10km
+Description=Check coordinate against known distribution of Lactuca tatarica
+ErrorMsg=Coordinate is outside known range for Lactuca tatarica
+DataFieldName=Species
+DataRecordId=NHMSYS0000460061
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+M32
+
+
+[10km_GB]
+SC16
+SC39
+SD20
+SE24
+SH78
+SJ35
+SS94
+ST57
+ST75
+TL93
+TQ52
+
+

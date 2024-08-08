@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cotoneaster splendens
+Description=Checks date is within known recording period of Cotoneaster splendens
+ErrorMsg=Date is outside known recording period of Cotoneaster splendens
+Tvk=NHMSYS0000457630
+StartDate=19810101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Apamea sordens
+Description=Checks date is within known flight period of Apamea sordens
+ErrorMsg=Date is outside known flight period of Apamea sordens
+Tvk=NBNSYS0000027060
+DataFieldName=
+StartDate=0421
+EndDate=0815
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Photedes morrisii bondii
+Description=Checks date is within known flight period of Photedes morrisii bondii
+ErrorMsg=Date is outside known flight period of Photedes morrisii bondii
+Tvk=NHMSYS0021144650
+DataFieldName=
+StartDate=0621
+EndDate=0715
+LastChanged=20240808
+[EndMetadata]

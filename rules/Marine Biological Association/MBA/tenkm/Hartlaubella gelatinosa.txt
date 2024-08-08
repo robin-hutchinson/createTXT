@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Hartlaubella gelatinosa 10km
+Description=Check coordinate against known distribution of Hartlaubella gelatinosa
+ErrorMsg=Coordinate is outside known range for Hartlaubella gelatinosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000175703
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C63
+C73
+J55
+Y85
+
+
+[10km_GB]
+NM89
+NV79
+NV99
+NW60
+SH67
+SM71
+SX44
+SX45
+SX46
+SX54
+SZ08
+
+

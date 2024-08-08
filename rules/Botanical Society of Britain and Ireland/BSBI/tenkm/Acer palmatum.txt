@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Acer palmatum 10km
+Description=Check coordinate against known distribution of Acer palmatum
+ErrorMsg=Coordinate is outside known range for Acer palmatum
+DataFieldName=Species
+DataRecordId=NBNSYS0000042053
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS75
+NT07
+NT17
+SJ50
+SN22
+SN40
+SN42
+SN51
+SO98
+SP21
+SP50
+ST03
+ST31
+ST40
+SU97
+SW64
+SW84
+TL92
+
+

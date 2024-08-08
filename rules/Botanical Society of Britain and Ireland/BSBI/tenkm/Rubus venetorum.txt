@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus venetorum 10km
+Description=Check coordinate against known distribution of Rubus venetorum
+ErrorMsg=Coordinate is outside known range for Rubus venetorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000842241
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM48
+SS59
+SS69
+SS71
+SS72
+SV81
+SV91
+SW33
+SX35
+SY78
+SZ58
+
+

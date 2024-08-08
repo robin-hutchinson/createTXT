@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Rhopalopterum anthracinum
+Description=Checks date is within known flight period of Rhopalopterum anthracinum
+ErrorMsg=Date is outside known flight period of Rhopalopterum anthracinum
+Tvk=NBNSYS0100005136
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

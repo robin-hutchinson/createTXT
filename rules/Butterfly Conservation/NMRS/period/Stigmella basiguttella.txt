@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Stigmella basiguttella
+Description=Checks date is within known recording period of Stigmella basiguttella
+ErrorMsg=Date is outside known recording period of Stigmella basiguttella
+Tvk=NHMSYS0000504338
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

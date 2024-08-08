@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Capsodes flavomarginatus
+Description=Checks date is within known flight period of Capsodes flavomarginatus
+ErrorMsg=Date is outside known flight period of Capsodes flavomarginatus
+Tvk=NHMSYS0020309038
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

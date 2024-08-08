@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sporobolus africanus 10km
+Description=Check coordinate against known distribution of Sporobolus africanus
+ErrorMsg=Coordinate is outside known range for Sporobolus africanus
+DataFieldName=Species
+DataRecordId=NHMSYS0000463937
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE02
+SP04
+SU73
+TL03
+
+

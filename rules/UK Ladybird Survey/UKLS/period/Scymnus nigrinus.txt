@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Scymnus nigrinus
+Description=Checks date is within known recording period of Scymnus nigrinus
+ErrorMsg=Date is outside known recording period of Scymnus nigrinus
+Tvk=NBNSYS0000008297
+StartDate=19080101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

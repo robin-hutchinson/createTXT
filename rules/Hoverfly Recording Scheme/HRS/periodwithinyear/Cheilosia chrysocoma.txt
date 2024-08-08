@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Cheilosia chrysocoma
+Description=Checks date is within known flight period of Cheilosia chrysocoma
+ErrorMsg=Date is outside known flight period of Cheilosia chrysocoma
+Tvk=NBNSYS0000006978
+DataFieldName=
+StartDate=0316
+EndDate=0622
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ground Beetle Recording Scheme/GBRS 10km distribution
+ShortName=Lebia (Lamprias) cyanocephala 10km
+Description=Check coordinate against known distribution of Lebia (Lamprias) cyanocephala
+ErrorMsg=Coordinate is outside known range for Lebia (Lamprias) cyanocephala
+DataFieldName=Species
+DataRecordId=NHMSYS0001718726
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU83
+SU84
+SU85
+SU93
+SU94
+SU95
+TQ03
+TQ04
+TQ05
+
+

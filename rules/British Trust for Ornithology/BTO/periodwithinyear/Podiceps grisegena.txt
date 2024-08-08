@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Podiceps grisegena
+Description=Checks date is within known flight period of Podiceps grisegena
+ErrorMsg=Date is outside known flight period of Podiceps grisegena
+Tvk=NBNSYS0000000223
+DataFieldName=
+StartDate=0531
+EndDate=0914
+LastChanged=20240808
+[EndMetadata]

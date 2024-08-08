@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Celypha lacunana
+Description=Checks date is within known flight period of Celypha lacunana
+ErrorMsg=Date is outside known flight period of Celypha lacunana
+Tvk=NBNSYS0100002225
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

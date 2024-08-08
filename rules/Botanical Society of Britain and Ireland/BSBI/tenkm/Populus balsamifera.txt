@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Populus balsamifera 10km
+Description=Check coordinate against known distribution of Populus balsamifera
+ErrorMsg=Coordinate is outside known range for Populus balsamifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000033571
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN53
+NO31
+NO33
+NO61
+NS96
+NT26
+NT27
+NZ13
+NZ21
+SC26
+SC37
+SD40
+SH57
+SJ18
+SJ22
+SJ71
+SJ81
+SK56
+SN54
+SN68
+SO90
+SO93
+SP60
+SP70
+SP92
+SS60
+ST17
+ST80
+SU32
+SV91
+SW74
+TL04
+TL86
+TM04
+TQ13
+TQ15
+TQ17
+TQ27
+TQ45
+
+

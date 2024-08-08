@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Phyllodoce caerulea 10km
+Description=Check coordinate against known distribution of Phyllodoce caerulea
+ErrorMsg=Coordinate is outside known range for Phyllodoce caerulea
+DataFieldName=Species
+DataRecordId=NBNSYS0000003893
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN47
+NN57
+NN67
+
+

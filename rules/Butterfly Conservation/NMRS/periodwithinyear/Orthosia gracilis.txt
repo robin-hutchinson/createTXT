@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Orthosia gracilis
+Description=Checks date is within known flight period of Orthosia gracilis
+ErrorMsg=Date is outside known flight period of Orthosia gracilis
+Tvk=NHMSYS0021144793
+DataFieldName=
+StartDate=0307
+EndDate=0607
+LastChanged=20240808
+[EndMetadata]

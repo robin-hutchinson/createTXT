@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Sideridis reticulata hibernica
+Description=Checks date is within known flight period of Sideridis reticulata hibernica
+ErrorMsg=Date is outside known flight period of Sideridis reticulata hibernica
+Tvk=NHMSYS0021144837
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

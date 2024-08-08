@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Rochinia carpenteri 10km
+Description=Check coordinate against known distribution of Rochinia carpenteri
+ErrorMsg=Coordinate is outside known range for Rochinia carpenteri
+DataFieldName=Species
+DataRecordId=NBNSYS0000186671
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HR22
+HR42
+HV41
+HV49
+HV78
+HW08
+HW28
+
+

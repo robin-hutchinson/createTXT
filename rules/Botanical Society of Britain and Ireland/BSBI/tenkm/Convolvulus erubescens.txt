@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Convolvulus erubescens 10km
+Description=Check coordinate against known distribution of Convolvulus erubescens
+ErrorMsg=Coordinate is outside known range for Convolvulus erubescens
+DataFieldName=Species
+DataRecordId=NBNSYS0200003612
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TL03
+
+

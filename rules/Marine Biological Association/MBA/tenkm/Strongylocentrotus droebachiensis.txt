@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Strongylocentrotus droebachiensis 10km
+Description=Check coordinate against known distribution of Strongylocentrotus droebachiensis
+ErrorMsg=Coordinate is outside known range for Strongylocentrotus droebachiensis
+DataFieldName=Species
+DataRecordId=NHMSYS0001908744
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+F57
+
+
+[10km_GB]
+HP50
+HP60
+HS91
+HU22
+HU24
+HU36
+HU43
+HU44
+HU45
+HU55
+HU56
+HU58
+HU59
+HU68
+HX15
+HY81
+JL70
+JR18
+JR29
+JR40
+JR90
+JV99
+NC48
+NE18
+NP12
+NP19
+NP30
+NP75
+OM11
+OQ34
+OW05
+SX45
+
+

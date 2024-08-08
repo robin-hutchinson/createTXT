@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Triodia sylvina
+Description=Checks date is within known flight period of Triodia sylvina
+ErrorMsg=Date is outside known flight period of Triodia sylvina
+Tvk=NHMSYS0021142341
+DataFieldName=
+StartDate=0621
+EndDate=0921
+LastChanged=20240808
+[EndMetadata]

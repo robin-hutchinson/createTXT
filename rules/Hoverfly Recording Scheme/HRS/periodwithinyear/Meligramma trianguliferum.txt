@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Meligramma trianguliferum
+Description=Checks date is within known flight period of Meligramma trianguliferum
+ErrorMsg=Date is outside known flight period of Meligramma trianguliferum
+Tvk=NBNSYS0100003977
+DataFieldName=
+StartDate=0415
+EndDate=1102
+LastChanged=20240808
+[EndMetadata]

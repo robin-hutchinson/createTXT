@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Phacelia viscida 10km
+Description=Check coordinate against known distribution of Phacelia viscida
+ErrorMsg=Coordinate is outside known range for Phacelia viscida
+DataFieldName=Species
+DataRecordId=NHMSYS0000461653
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP40
+
+

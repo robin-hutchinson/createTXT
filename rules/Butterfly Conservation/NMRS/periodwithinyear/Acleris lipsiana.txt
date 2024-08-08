@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Acleris lipsiana
+Description=Checks date is within known flight period of Acleris lipsiana
+ErrorMsg=Date is outside known flight period of Acleris lipsiana
+Tvk=NHMSYS0021143106
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

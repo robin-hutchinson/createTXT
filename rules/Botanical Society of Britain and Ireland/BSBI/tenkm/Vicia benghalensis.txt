@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Vicia benghalensis 10km
+Description=Check coordinate against known distribution of Vicia benghalensis
+ErrorMsg=Coordinate is outside known range for Vicia benghalensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000014517
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU44
+NZ36
+SE12
+SE13
+SJ46
+SK22
+SK54
+SO81
+SO94
+SP59
+ST16
+ST18
+ST67
+TL14
+TL31
+TL41
+TQ07
+TQ08
+TQ28
+TQ30
+TQ38
+TQ48
+
+

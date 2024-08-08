@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Cochylidia rupicola
+Description=Checks date is within known recording period of Cochylidia rupicola
+ErrorMsg=Date is outside known recording period of Cochylidia rupicola
+Tvk=NHMSYS0000501341
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Calamoncosis minima
+Description=Checks date is within known flight period of Calamoncosis minima
+ErrorMsg=Date is outside known flight period of Calamoncosis minima
+Tvk=NBNSYS0000029848
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

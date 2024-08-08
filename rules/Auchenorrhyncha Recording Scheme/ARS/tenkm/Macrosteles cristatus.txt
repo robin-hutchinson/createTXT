@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Macrosteles cristatus 10km
+Description=Check coordinate against known distribution of Macrosteles cristatus
+ErrorMsg=Coordinate is outside known range for Macrosteles cristatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442427
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE50
+SE60
+SK48
+SK49
+SK58
+SK59
+SP31
+SU96
+TL02
+TL31
+TQ54
+TQ73
+TQ75
+
+

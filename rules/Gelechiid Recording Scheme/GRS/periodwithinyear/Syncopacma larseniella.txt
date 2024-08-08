@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Syncopacma larseniella
+Description=Checks date is within known flight period of Syncopacma larseniella
+ErrorMsg=Date is outside known flight period of Syncopacma larseniella
+Tvk=NHMSYS0000504430
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

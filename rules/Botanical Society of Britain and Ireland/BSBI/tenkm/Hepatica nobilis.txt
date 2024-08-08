@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hepatica nobilis 10km
+Description=Check coordinate against known distribution of Hepatica nobilis
+ErrorMsg=Coordinate is outside known range for Hepatica nobilis
+DataFieldName=Species
+DataRecordId=NHMSYS0000459301
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT16
+SO80
+SP93
+SU46
+TA05
+TF34
+TL05
+
+

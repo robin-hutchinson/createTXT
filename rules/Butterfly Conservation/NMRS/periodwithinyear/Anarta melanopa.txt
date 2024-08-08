@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Anarta melanopa
+Description=Checks date is within known flight period of Anarta melanopa
+ErrorMsg=Date is outside known flight period of Anarta melanopa
+Tvk=NBNSYS0000006235
+DataFieldName=
+StartDate=0501
+EndDate=0707
+LastChanged=20240808
+[EndMetadata]

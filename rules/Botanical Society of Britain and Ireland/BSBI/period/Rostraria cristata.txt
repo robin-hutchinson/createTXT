@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Rostraria cristata
+Description=Checks date is within known recording period of Rostraria cristata
+ErrorMsg=Date is outside known recording period of Rostraria cristata
+Tvk=NBNSYS0000005425
+StartDate=19020101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

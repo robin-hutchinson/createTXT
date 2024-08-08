@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hypericum linariifolium 10km
+Description=Check coordinate against known distribution of Hypericum linariifolium
+ErrorMsg=Coordinate is outside known range for Hypericum linariifolium
+DataFieldName=Species
+DataRecordId=NBNSYS0000002965
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH27
+SH33
+SH54
+SH61
+SX07
+SX46
+SX47
+SX77
+SX78
+SX79
+SX84
+SX85
+SX88
+SX94
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

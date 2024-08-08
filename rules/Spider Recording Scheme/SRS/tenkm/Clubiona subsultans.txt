@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Clubiona subsultans 10km
+Description=Check coordinate against known distribution of Clubiona subsultans
+ErrorMsg=Coordinate is outside known range for Clubiona subsultans
+DataFieldName=Species
+DataRecordId=NBNSYS0000008676
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH22
+NH39
+NH48
+NH90
+NH91
+NJ01
+NN55
+
+

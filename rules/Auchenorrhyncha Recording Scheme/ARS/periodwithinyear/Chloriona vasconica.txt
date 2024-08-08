@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Chloriona vasconica
+Description=Checks date is within known flight period of Chloriona vasconica
+ErrorMsg=Date is outside known flight period of Chloriona vasconica
+Tvk=NHMSYS0020442302
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

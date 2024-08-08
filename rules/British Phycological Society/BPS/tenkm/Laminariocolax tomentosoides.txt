@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Laminariocolax tomentosoides 10km
+Description=Check coordinate against known distribution of Laminariocolax tomentosoides
+ErrorMsg=Coordinate is outside known range for Laminariocolax tomentosoides
+DataFieldName=Species
+DataRecordId=NBNSYS0000175997
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+NC76
+NJ36
+NJ46
+NO51
+NR39
+NS15
+NT17
+NT37
+NT49
+NT58
+NT69
+NU05
+SC16
+SC26
+SH27
+SH37
+SH57
+SM70
+SS14
+SU60
+SV91
+SW53
+SY78
+SY87
+SY97
+
+

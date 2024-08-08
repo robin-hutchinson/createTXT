@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Cleora cinctaria bowesi
+Description=Checks date is within known recording period of Cleora cinctaria bowesi
+ErrorMsg=Date is outside known recording period of Cleora cinctaria bowesi
+Tvk=NHMSYS0021144239
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plecoptera Recording Scheme/PRS Flight Period
+ShortName=Diura bicaudata
+Description=Checks date is within known flight period of Diura bicaudata
+ErrorMsg=Date is outside known flight period of Diura bicaudata
+Tvk=NHMSYS0020316254
+DataFieldName=
+StartDate=0401
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

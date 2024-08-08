@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Zodarion vicinum 10km
+Description=Check coordinate against known distribution of Zodarion vicinum
+ErrorMsg=Coordinate is outside known range for Zodarion vicinum
+DataFieldName=Species
+DataRecordId=NBNSYS0100006052
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TR23
+TR33
+
+

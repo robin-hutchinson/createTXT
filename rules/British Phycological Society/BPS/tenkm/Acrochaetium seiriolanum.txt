@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Acrochaetium seiriolanum 10km
+Description=Check coordinate against known distribution of Acrochaetium seiriolanum
+ErrorMsg=Coordinate is outside known range for Acrochaetium seiriolanum
+DataFieldName=Species
+DataRecordId=NHMSYS0000377530
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM52
+
+

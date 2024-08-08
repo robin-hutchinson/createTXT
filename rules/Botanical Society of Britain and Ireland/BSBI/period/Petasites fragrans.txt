@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Petasites fragrans
+Description=Checks date is within known recording period of Petasites fragrans
+ErrorMsg=Date is outside known recording period of Petasites fragrans
+Tvk=NHMSYS0000461630
+StartDate=18350101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

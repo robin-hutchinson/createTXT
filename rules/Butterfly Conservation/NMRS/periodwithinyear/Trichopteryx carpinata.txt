@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Trichopteryx carpinata
+Description=Checks date is within known flight period of Trichopteryx carpinata
+ErrorMsg=Date is outside known flight period of Trichopteryx carpinata
+Tvk=NBNSYS0000005972
+DataFieldName=
+StartDate=0301
+EndDate=0607
+LastChanged=20240808
+[EndMetadata]

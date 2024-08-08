@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agrotis trux
+Description=Checks date is within known flight period of Agrotis trux
+ErrorMsg=Date is outside known flight period of Agrotis trux
+Tvk=NHMSYS0000516938
+DataFieldName=
+StartDate=0601
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

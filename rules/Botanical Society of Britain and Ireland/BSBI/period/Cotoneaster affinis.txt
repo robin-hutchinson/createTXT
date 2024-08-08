@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Cotoneaster affinis
+Description=Checks date is within known recording period of Cotoneaster affinis
+ErrorMsg=Date is outside known recording period of Cotoneaster affinis
+Tvk=NHMSYS0000457552
+StartDate=19710101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

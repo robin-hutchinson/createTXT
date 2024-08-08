@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hordeum murinum subsp. leporinum 10km
+Description=Check coordinate against known distribution of Hordeum murinum subsp. leporinum
+ErrorMsg=Coordinate is outside known range for Hordeum murinum subsp. leporinum
+DataFieldName=Species
+DataRecordId=NHMSYS0100001776
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS66
+NX98
+SD62
+SE02
+SE11
+SE13
+SE22
+SE37
+SE48
+SE57
+SO94
+SP03
+SU73
+SX99
+TL03
+TL13
+TL14
+TL23
+TL24
+TQ08
+TQ38
+TQ67
+TQ75
+
+
+NA
+
+

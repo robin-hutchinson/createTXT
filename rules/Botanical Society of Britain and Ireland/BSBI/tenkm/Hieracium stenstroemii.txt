@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium stenstroemii 10km
+Description=Check coordinate against known distribution of Hieracium stenstroemii
+ErrorMsg=Coordinate is outside known range for Hieracium stenstroemii
+DataFieldName=Species
+DataRecordId=NHMSYS0000459648
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN63
+SN90
+SO00
+SO01
+SO02
+SO04
+SO11
+SO12
+SO13
+SO14
+SO21
+SO23
+SO32
+SO50
+SO51
+SO80
+SO81
+SO91
+SP13
+ST18
+ST49
+ST57
+ST59
+
+

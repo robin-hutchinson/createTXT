@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Japewia tornoënsis orth. var. 10km
+Description=Check coordinate against known distribution of Japewia tornoënsis orth. var.
+ErrorMsg=Coordinate is outside known range for Japewia tornoënsis orth. var.
+DataFieldName=Species
+DataRecordId=NHMSYS0001485582
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN64
+
+

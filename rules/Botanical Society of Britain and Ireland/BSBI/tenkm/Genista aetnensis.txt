@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Genista aetnensis 10km
+Description=Check coordinate against known distribution of Genista aetnensis
+ErrorMsg=Coordinate is outside known range for Genista aetnensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000013930
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP37
+SU96
+SZ49
+TQ17
+TQ26
+TQ67
+
+

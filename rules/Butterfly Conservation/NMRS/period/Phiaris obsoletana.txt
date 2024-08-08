@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Phiaris obsoletana
+Description=Checks date is within known recording period of Phiaris obsoletana
+ErrorMsg=Date is outside known recording period of Phiaris obsoletana
+Tvk=NHMSYS0021143177
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

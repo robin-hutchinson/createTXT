@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Avena sativa
+Description=Checks date is within known recording period of Avena sativa
+ErrorMsg=Date is outside known recording period of Avena sativa
+Tvk=NBNSYS0000002615
+StartDate=18750101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

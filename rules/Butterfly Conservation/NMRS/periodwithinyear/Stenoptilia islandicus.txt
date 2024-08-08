@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stenoptilia islandicus
+Description=Checks date is within known flight period of Stenoptilia islandicus
+ErrorMsg=Date is outside known flight period of Stenoptilia islandicus
+Tvk=NBNSYS0100005592
+DataFieldName=
+StartDate=0621
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

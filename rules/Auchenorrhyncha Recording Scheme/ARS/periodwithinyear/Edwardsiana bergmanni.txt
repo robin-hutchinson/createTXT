@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Edwardsiana bergmanni
+Description=Checks date is within known flight period of Edwardsiana bergmanni
+ErrorMsg=Date is outside known flight period of Edwardsiana bergmanni
+Tvk=NHMSYS0020705352
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

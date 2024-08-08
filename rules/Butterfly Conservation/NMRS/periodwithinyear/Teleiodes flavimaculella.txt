@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Teleiodes flavimaculella
+Description=Checks date is within known flight period of Teleiodes flavimaculella
+ErrorMsg=Date is outside known flight period of Teleiodes flavimaculella
+Tvk=NHMSYS0000504462
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

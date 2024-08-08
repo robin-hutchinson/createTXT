@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Ulothrix speciosa 10km
+Description=Check coordinate against known distribution of Ulothrix speciosa
+ErrorMsg=Coordinate is outside known range for Ulothrix speciosa
+DataFieldName=Species
+DataRecordId=NHMSYS0000568380
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+HU44
+HU47
+NJ56
+NO51
+NS15
+NT17
+NX18
+NX91
+NX92
+NY03
+NZ33
+NZ45
+NZ46
+SD17
+SD18
+SD28
+SH37
+SU31
+SY09
+SY97
+
+

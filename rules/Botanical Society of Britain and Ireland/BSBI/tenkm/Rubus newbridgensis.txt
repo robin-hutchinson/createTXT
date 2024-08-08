@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus newbridgensis 10km
+Description=Check coordinate against known distribution of Rubus newbridgensis
+ErrorMsg=Coordinate is outside known range for Rubus newbridgensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462806
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK24
+SO81
+SO91
+SP13
+SP23
+SP29
+SU52
+TL17
+TL22
+TL40
+TL92
+TQ23
+TQ33
+TQ35
+TQ36
+TQ42
+TQ43
+TQ45
+TQ46
+TQ49
+
+

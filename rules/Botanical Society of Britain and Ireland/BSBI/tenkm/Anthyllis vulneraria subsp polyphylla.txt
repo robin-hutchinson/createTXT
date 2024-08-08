@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Anthyllis vulneraria subsp. polyphylla 10km
+Description=Check coordinate against known distribution of Anthyllis vulneraria subsp. polyphylla
+ErrorMsg=Coordinate is outside known range for Anthyllis vulneraria subsp. polyphylla
+DataFieldName=Species
+DataRecordId=NBNSYS0000014070
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC14
+NH53
+NH84
+NH85
+NH95
+NJ04
+NN79
+NN95
+NO42
+NS68
+NS98
+NY37
+SH45
+SJ08
+SJ18
+SJ21
+SJ88
+SP93
+ST76
+SU87
+SY89
+TL21
+TL22
+TL56
+
+

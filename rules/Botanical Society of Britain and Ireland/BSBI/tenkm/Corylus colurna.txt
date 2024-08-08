@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Corylus colurna 10km
+Description=Check coordinate against known distribution of Corylus colurna
+ErrorMsg=Coordinate is outside known range for Corylus colurna
+DataFieldName=Species
+DataRecordId=NBNSYS0000042084
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+SK54
+TM02
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Dragonfly Recording Scheme/DRS Flight Period
+ShortName=Erythromma najas
+Description=Checks date is within known flight period of Erythromma najas
+ErrorMsg=Date is outside known flight period of Erythromma najas
+Tvk=NBNSYS0000005610
+DataFieldName=
+StartDate=0430
+EndDate=0822
+LastChanged=20240808
+[EndMetadata]

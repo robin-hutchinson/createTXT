@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Meromyza triangulina
+Description=Checks date is within known recording period of Meromyza triangulina
+ErrorMsg=Date is outside known recording period of Meromyza triangulina
+Tvk=NBNSYS0000029960
+StartDate=19600101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chamaemelum mixtum 10km
+Description=Check coordinate against known distribution of Chamaemelum mixtum
+ErrorMsg=Coordinate is outside known range for Chamaemelum mixtum
+DataFieldName=Species
+DataRecordId=NBNSYS0200003513
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT27
+NZ36
+TA30
+
+
+[10km_Ireland]
+O23
+
+

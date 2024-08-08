@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Dichrorampha aeratana
+Description=Checks date is within known flight period of Dichrorampha aeratana
+ErrorMsg=Date is outside known flight period of Dichrorampha aeratana
+Tvk=NHMSYS0000502159
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Anoscopus duffieldi
+Description=Checks date is within known flight period of Anoscopus duffieldi
+ErrorMsg=Date is outside known flight period of Anoscopus duffieldi
+Tvk=NHMSYS0020322282
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

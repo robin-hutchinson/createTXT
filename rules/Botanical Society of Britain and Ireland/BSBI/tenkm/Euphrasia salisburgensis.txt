@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia salisburgensis 10km
+Description=Check coordinate against known distribution of Euphrasia salisburgensis
+ErrorMsg=Coordinate is outside known range for Euphrasia salisburgensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000014729
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+G74
+H04
+H05
+H13
+H14
+H15
+H24
+L54
+L63
+L64
+L74
+L80
+L90
+M00
+M10
+M14
+M15
+M20
+M22
+M23
+M24
+M30
+M31
+M32
+M34
+M40
+M41
+M43
+M50
+M60
+R24
+R25
+R29
+R34
+R35
+R38
+R39
+R46
+
+

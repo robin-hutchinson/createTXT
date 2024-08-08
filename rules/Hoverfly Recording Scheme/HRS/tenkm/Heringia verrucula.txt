@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Heringia verrucula 10km
+Description=Check coordinate against known distribution of Heringia verrucula
+ErrorMsg=Coordinate is outside known range for Heringia verrucula
+DataFieldName=Species
+DataRecordId=NBNSYS0100003451
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC50
+NJ01
+NN55
+NO12
+NO42
+NT26
+SD20
+SD92
+SE65
+SE89
+SO53
+SU20
+SU22
+SU51
+TF02
+TL66
+TL77
+TL79
+TQ23
+
+

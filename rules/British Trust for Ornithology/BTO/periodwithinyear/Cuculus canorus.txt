@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Cuculus canorus
+Description=Checks date is within known flight period of Cuculus canorus
+ErrorMsg=Date is outside known flight period of Cuculus canorus
+Tvk=NHMSYS0000530324
+DataFieldName=
+StartDate=0410
+EndDate=1020
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca rubra x Vulpia myuros 10km
+Description=Check coordinate against known distribution of Festuca rubra x Vulpia myuros
+ErrorMsg=Coordinate is outside known range for Festuca rubra x Vulpia myuros
+DataFieldName=Species
+DataRecordId=NBNSYS0000014326
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC13
+SE13
+SH61
+SJ22
+SN40
+SO41
+ST38
+ST57
+TF63
+TQ38
+
+

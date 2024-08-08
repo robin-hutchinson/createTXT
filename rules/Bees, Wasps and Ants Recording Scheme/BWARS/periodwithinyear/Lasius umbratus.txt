@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Lasius umbratus
+Description=Checks date is within known flight period of Lasius umbratus
+ErrorMsg=Date is outside known flight period of Lasius umbratus
+Tvk=NHMSYS0000876228
+DataFieldName=
+StartDate=0301
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

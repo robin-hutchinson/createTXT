@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Placynthium lismorense 10km
+Description=Check coordinate against known distribution of Placynthium lismorense
+ErrorMsg=Coordinate is outside known range for Placynthium lismorense
+DataFieldName=Species
+DataRecordId=NHMSYS0020990950
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG51
+NG62
+NM52
+NM83
+NM84
+NM86
+SD37
+
+

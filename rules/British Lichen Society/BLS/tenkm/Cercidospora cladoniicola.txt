@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cercidospora cladoniicola 10km
+Description=Check coordinate against known distribution of Cercidospora cladoniicola
+ErrorMsg=Coordinate is outside known range for Cercidospora cladoniicola
+DataFieldName=Species
+DataRecordId=BMSSYS0000003480
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY51
+ND38
+NJ06
+NS54
+NS69
+SX67
+
+
+[10km_Ireland]
+T12
+
+

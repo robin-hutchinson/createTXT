@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Phytocoris (Phytocoris) populi
+Description=Checks date is within known recording period of Phytocoris (Phytocoris) populi
+ErrorMsg=Date is outside known recording period of Phytocoris (Phytocoris) populi
+Tvk=NHMSYS0020309656
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

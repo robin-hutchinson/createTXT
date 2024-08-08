@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Synanthedon formicaeformis
+Description=Checks date is within known flight period of Synanthedon formicaeformis
+ErrorMsg=Date is outside known flight period of Synanthedon formicaeformis
+Tvk=NHMSYS0021143407
+DataFieldName=
+StartDate=0515
+EndDate=0821
+LastChanged=20240808
+[EndMetadata]

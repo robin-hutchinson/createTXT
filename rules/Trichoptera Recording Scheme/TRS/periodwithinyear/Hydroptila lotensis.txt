@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Hydroptila lotensis
+Description=Checks date is within known flight period of Hydroptila lotensis
+ErrorMsg=Date is outside known flight period of Hydroptila lotensis
+Tvk=NBNSYS0000008355
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

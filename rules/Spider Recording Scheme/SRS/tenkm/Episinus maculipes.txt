@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Episinus maculipes 10km
+Description=Check coordinate against known distribution of Episinus maculipes
+ErrorMsg=Coordinate is outside known range for Episinus maculipes
+DataFieldName=Species
+DataRecordId=NBNSYS0000008864
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO50
+ST59
+SU20
+SU21
+SX16
+SX25
+SX45
+SX84
+SY09
+SY18
+SY39
+SY77
+SZ07
+SZ57
+SZ59
+TR01
+
+

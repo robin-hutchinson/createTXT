@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Rhopalopyx adumbrata
+Description=Checks date is within known recording period of Rhopalopyx adumbrata
+ErrorMsg=Date is outside known recording period of Rhopalopyx adumbrata
+Tvk=NHMSYS0020705789
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

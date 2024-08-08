@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus odoratus 10km
+Description=Check coordinate against known distribution of Rubus odoratus
+ErrorMsg=Coordinate is outside known range for Rubus odoratus
+DataFieldName=Species
+DataRecordId=NBNSYS0000003320
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT13
+NT18
+NT29
+SD52
+SJ27
+SU83
+SU86
+TL31
+TQ15
+TQ27
+TQ28
+TQ29
+TQ38
+TQ42
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eriocrania sangii
+Description=Checks date is within known flight period of Eriocrania sangii
+ErrorMsg=Date is outside known flight period of Eriocrania sangii
+Tvk=NHMSYS0000502486
+DataFieldName=
+StartDate=0301
+EndDate=0430
+LastChanged=20240808
+[EndMetadata]

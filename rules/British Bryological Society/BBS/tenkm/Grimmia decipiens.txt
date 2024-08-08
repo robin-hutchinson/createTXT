@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Grimmia decipiens 10km
+Description=Check coordinate against known distribution of Grimmia decipiens
+ErrorMsg=Coordinate is outside known range for Grimmia decipiens
+DataFieldName=Species
+DataRecordId=NHMSYS0000309964
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC50
+NF80
+NH19
+NH59
+NH68
+NH69
+NH79
+NS23
+NW95
+NX25
+NX44
+NX45
+NX54
+NX55
+NX65
+NX74
+
+

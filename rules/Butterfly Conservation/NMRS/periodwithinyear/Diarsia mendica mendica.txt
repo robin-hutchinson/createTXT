@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Diarsia mendica mendica
+Description=Checks date is within known flight period of Diarsia mendica mendica
+ErrorMsg=Date is outside known flight period of Diarsia mendica mendica
+Tvk=NHMSYS0021144908
+DataFieldName=
+StartDate=0507
+EndDate=0921
+LastChanged=20240808
+[EndMetadata]

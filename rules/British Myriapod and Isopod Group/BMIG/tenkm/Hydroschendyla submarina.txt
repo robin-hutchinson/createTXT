@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Hydroschendyla submarina 10km
+Description=Check coordinate against known distribution of Hydroschendyla submarina
+ErrorMsg=Coordinate is outside known range for Hydroschendyla submarina
+DataFieldName=Species
+DataRecordId=NBNSYS0000011424
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM72
+SV80
+SV81
+SV90
+SV91
+SW61
+SW72
+SW83
+SX25
+SX54
+
+

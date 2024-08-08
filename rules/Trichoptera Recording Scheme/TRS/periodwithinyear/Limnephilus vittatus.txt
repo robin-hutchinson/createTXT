@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Limnephilus vittatus
+Description=Checks date is within known flight period of Limnephilus vittatus
+ErrorMsg=Date is outside known flight period of Limnephilus vittatus
+Tvk=NHMSYS0020704808
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

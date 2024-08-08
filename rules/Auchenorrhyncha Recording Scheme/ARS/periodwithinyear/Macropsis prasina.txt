@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Macropsis prasina
+Description=Checks date is within known flight period of Macropsis prasina
+ErrorMsg=Date is outside known flight period of Macropsis prasina
+Tvk=NHMSYS0020705713
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

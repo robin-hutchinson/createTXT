@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Hammerschmidtia ferruginea
+Description=Checks date is within known flight period of Hammerschmidtia ferruginea
+ErrorMsg=Date is outside known flight period of Hammerschmidtia ferruginea
+Tvk=NBNSYS0000007021
+DataFieldName=
+StartDate=0507
+EndDate=1024
+LastChanged=20240808
+[EndMetadata]

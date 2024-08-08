@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Ionaspis obtecta 10km
+Description=Check coordinate against known distribution of Ionaspis obtecta
+ErrorMsg=Coordinate is outside known range for Ionaspis obtecta
+DataFieldName=Species
+DataRecordId=NHMSYS0001485521
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO19
+
+

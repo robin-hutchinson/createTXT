@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Eragrostis cilianensis 10km
+Description=Check coordinate against known distribution of Eragrostis cilianensis
+ErrorMsg=Coordinate is outside known range for Eragrostis cilianensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000458500
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS66
+NS77
+SE11
+SE13
+SE22
+SE63
+SE72
+SP04
+SP08
+ST17
+ST47
+ST67
+SU73
+SU94
+SU95
+SX87
+SX89
+TA02
+TL03
+TL05
+TL12
+TL44
+TL60
+TM02
+TM59
+TQ20
+TQ28
+TQ30
+TQ38
+TQ48
+TQ57
+TQ65
+
+

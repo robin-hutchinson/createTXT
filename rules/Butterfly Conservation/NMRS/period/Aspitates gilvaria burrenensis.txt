@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Aspitates gilvaria burrenensis
+Description=Checks date is within known recording period of Aspitates gilvaria burrenensis
+ErrorMsg=Date is outside known recording period of Aspitates gilvaria burrenensis
+Tvk=NHMSYS0021144302
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

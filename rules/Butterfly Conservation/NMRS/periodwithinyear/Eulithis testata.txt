@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eulithis testata
+Description=Checks date is within known flight period of Eulithis testata
+ErrorMsg=Date is outside known flight period of Eulithis testata
+Tvk=NBNSYS0000005835
+DataFieldName=
+StartDate=0621
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

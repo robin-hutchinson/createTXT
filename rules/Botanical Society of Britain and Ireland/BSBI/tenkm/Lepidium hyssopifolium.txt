@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lepidium hyssopifolium 10km
+Description=Check coordinate against known distribution of Lepidium hyssopifolium
+ErrorMsg=Coordinate is outside known range for Lepidium hyssopifolium
+DataFieldName=Species
+DataRecordId=NBNSYS0000014104
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT53
+SD90
+SE13
+SE38
+SK22
+SP04
+SU73
+SU74
+TL03
+TL45
+
+

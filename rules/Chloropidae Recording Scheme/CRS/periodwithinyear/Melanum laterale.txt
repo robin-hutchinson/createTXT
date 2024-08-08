@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Melanum laterale
+Description=Checks date is within known flight period of Melanum laterale
+ErrorMsg=Date is outside known flight period of Melanum laterale
+Tvk=NBNSYS0000029973
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

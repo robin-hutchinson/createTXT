@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Teratocoris antennatus
+Description=Checks date is within known flight period of Teratocoris antennatus
+ErrorMsg=Date is outside known flight period of Teratocoris antennatus
+Tvk=NHMSYS0020309886
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

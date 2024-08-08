@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Clematis montana 10km
+Description=Check coordinate against known distribution of Clematis montana
+ErrorMsg=Coordinate is outside known range for Clematis montana
+DataFieldName=Species
+DataRecordId=NBNSYS0000002706
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM49
+NS38
+NS66
+SC26
+SC37
+SC49
+SE96
+SJ85
+SO74
+SP08
+SP83
+SS79
+ST12
+SU38
+SU76
+SU93
+SX35
+SX84
+SY08
+TG11
+TQ20
+TQ36
+
+

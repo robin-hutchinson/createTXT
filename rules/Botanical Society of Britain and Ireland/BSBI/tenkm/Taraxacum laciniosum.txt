@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum laciniosum 10km
+Description=Check coordinate against known distribution of Taraxacum laciniosum
+ErrorMsg=Coordinate is outside known range for Taraxacum laciniosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840755
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ31
+
+

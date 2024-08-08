@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Heliodines roesella
+Description=Checks date is within known flight period of Heliodines roesella
+ErrorMsg=Date is outside known flight period of Heliodines roesella
+Tvk=NHMSYS0000502823
+DataFieldName=
+StartDate=0601
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

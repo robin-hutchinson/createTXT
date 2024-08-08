@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Amphipyra pyramidea
+Description=Checks date is within known flight period of Amphipyra pyramidea
+ErrorMsg=Date is outside known flight period of Amphipyra pyramidea
+Tvk=NBNSYS0000006392
+DataFieldName=
+StartDate=0701
+EndDate=1021
+LastChanged=20240808
+[EndMetadata]

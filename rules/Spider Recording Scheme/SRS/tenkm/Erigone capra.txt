@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Erigone capra 10km
+Description=Check coordinate against known distribution of Erigone capra
+ErrorMsg=Coordinate is outside known range for Erigone capra
+DataFieldName=Species
+DataRecordId=NBNSYS0000009108
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU39
+HY22
+NC21
+NC24
+ND38
+NF66
+NH06
+NH80
+NH90
+NM52
+NN48
+NN75
+NO27
+NT23
+SC26
+SD86
+
+

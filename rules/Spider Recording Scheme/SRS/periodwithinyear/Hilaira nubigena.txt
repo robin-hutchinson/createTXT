@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Hilaira nubigena
+Description=Checks date is within known flight period of Hilaira nubigena
+ErrorMsg=Date is outside known flight period of Hilaira nubigena
+Tvk=NBNSYS0000009123
+DataFieldName=
+StartDate=0318
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

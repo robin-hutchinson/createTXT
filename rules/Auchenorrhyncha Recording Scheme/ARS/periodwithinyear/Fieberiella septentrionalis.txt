@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Fieberiella septentrionalis
+Description=Checks date is within known flight period of Fieberiella septentrionalis
+ErrorMsg=Date is outside known flight period of Fieberiella septentrionalis
+Tvk=NHMSYS0020973331
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

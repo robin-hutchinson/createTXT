@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Alebra wahlbergi
+Description=Checks date is within known flight period of Alebra wahlbergi
+ErrorMsg=Date is outside known flight period of Alebra wahlbergi
+Tvk=NHMSYS0020705186
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

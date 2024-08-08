@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Phytocoris (Phytocoris) tiliae
+Description=Checks date is within known flight period of Phytocoris (Phytocoris) tiliae
+ErrorMsg=Date is outside known flight period of Phytocoris (Phytocoris) tiliae
+Tvk=NHMSYS0020309658
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

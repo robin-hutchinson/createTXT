@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Thamnotettix (Thamnotettix) confinis
+Description=Checks date is within known recording period of Thamnotettix (Thamnotettix) confinis
+ErrorMsg=Date is outside known recording period of Thamnotettix (Thamnotettix) confinis
+Tvk=NHMSYS0020705932
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

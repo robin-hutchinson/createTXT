@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Brachycentrus subnubilus
+Description=Checks date is within known flight period of Brachycentrus subnubilus
+ErrorMsg=Date is outside known flight period of Brachycentrus subnubilus
+Tvk=NBNSYS0000008433
+DataFieldName=
+StartDate=0301
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

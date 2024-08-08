@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lepidium bonariense
+Description=Checks date is within known recording period of Lepidium bonariense
+ErrorMsg=Date is outside known recording period of Lepidium bonariense
+Tvk=NBNSYS0000013917
+StartDate=19110101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Petrospongium berkeleyi 10km
+Description=Check coordinate against known distribution of Petrospongium berkeleyi
+ErrorMsg=Coordinate is outside known range for Petrospongium berkeleyi
+DataFieldName=Species
+DataRecordId=NHMSYS0000568061
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY22
+NF60
+NM43
+NX13
+SH12
+SM70
+SM72
+SM80
+SM81
+SS14
+SV80
+SV81
+SV91
+SW52
+SW61
+SW71
+SW72
+SW82
+SW97
+SX44
+SY67
+SY87
+SY88
+SZ07
+
+

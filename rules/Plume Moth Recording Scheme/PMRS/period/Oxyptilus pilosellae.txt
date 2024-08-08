@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Oxyptilus pilosellae
+Description=Checks date is within known recording period of Oxyptilus pilosellae
+ErrorMsg=Date is outside known recording period of Oxyptilus pilosellae
+Tvk=NHMSYS0000503534
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

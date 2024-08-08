@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Cicadula aurantipes
+Description=Checks date is within known recording period of Cicadula aurantipes
+ErrorMsg=Date is outside known recording period of Cicadula aurantipes
+Tvk=NHMSYS0020705273
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

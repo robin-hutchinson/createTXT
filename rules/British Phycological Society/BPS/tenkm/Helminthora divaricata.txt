@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Helminthora divaricata 10km
+Description=Check coordinate against known distribution of Helminthora divaricata
+ErrorMsg=Coordinate is outside known range for Helminthora divaricata
+DataFieldName=Species
+DataRecordId=NHMSYS0000568204
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+HY31
+NC80
+NM46
+NR38
+NU05
+SH27
+SH36
+SN58
+SS14
+SS48
+SV91
+SW61
+SW71
+SX45
+SX96
+SY08
+SY97
+
+

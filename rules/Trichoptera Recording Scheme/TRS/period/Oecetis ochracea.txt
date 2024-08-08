@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Oecetis ochracea
+Description=Checks date is within known recording period of Oecetis ochracea
+ErrorMsg=Date is outside known recording period of Oecetis ochracea
+Tvk=NBNSYS0000008538
+StartDate=18220101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Rhopalus (Aeschyntelus) maculatus
+Description=Checks date is within known recording period of Rhopalus (Aeschyntelus) maculatus
+ErrorMsg=Date is outside known recording period of Rhopalus (Aeschyntelus) maculatus
+Tvk=NHMSYS0020309773
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

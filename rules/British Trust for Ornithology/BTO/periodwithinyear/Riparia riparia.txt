@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Riparia riparia
+Description=Checks date is within known flight period of Riparia riparia
+ErrorMsg=Date is outside known flight period of Riparia riparia
+Tvk=NHMSYS0000530586
+DataFieldName=
+StartDate=0301
+EndDate=1025
+LastChanged=20240808
+[EndMetadata]

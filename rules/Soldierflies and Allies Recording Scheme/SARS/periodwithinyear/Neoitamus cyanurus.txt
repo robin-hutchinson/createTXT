@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Neoitamus cyanurus
+Description=Checks date is within known flight period of Neoitamus cyanurus
+ErrorMsg=Date is outside known flight period of Neoitamus cyanurus
+Tvk=NBNSYS0000007904
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

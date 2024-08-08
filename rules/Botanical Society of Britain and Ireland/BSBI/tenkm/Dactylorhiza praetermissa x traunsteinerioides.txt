@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dactylorhiza praetermissa x traunsteinerioides 10km
+Description=Check coordinate against known distribution of Dactylorhiza praetermissa x traunsteinerioides
+ErrorMsg=Coordinate is outside known range for Dactylorhiza praetermissa x traunsteinerioides
+DataFieldName=Species
+DataRecordId=NHMSYS0020112223
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH86
+SJ86
+SJ89
+SP98
+SU43
+SU44
+SU65
+SU75
+SU85
+SZ19
+TG12
+TL66
+TL97
+TM19
+TM59
+TQ04
+
+

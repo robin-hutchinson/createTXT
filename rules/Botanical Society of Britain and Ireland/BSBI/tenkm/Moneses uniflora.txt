@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Moneses uniflora 10km
+Description=Check coordinate against known distribution of Moneses uniflora
+ErrorMsg=Coordinate is outside known range for Moneses uniflora
+DataFieldName=Species
+DataRecordId=NHMSYS0000460757
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC80
+NH22
+NH23
+NH33
+NH45
+NH79
+NH80
+NH89
+NH90
+NH91
+NH95
+NH96
+NJ01
+NJ02
+NJ03
+NJ05
+NJ06
+NJ15
+NJ16
+NJ26
+NJ50
+NJ83
+NO01
+NO02
+NO12
+NR88
+
+

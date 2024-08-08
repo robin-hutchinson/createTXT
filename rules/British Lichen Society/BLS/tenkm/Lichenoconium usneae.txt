@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lichenoconium usneae 10km
+Description=Check coordinate against known distribution of Lichenoconium usneae
+ErrorMsg=Coordinate is outside known range for Lichenoconium usneae
+DataFieldName=Species
+DataRecordId=BMSSYS0000010664
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H15
+M69
+
+
+[10km_GB]
+NC70
+NG29
+NG71
+NG72
+NH31
+NH94
+NJ06
+NM94
+NN11
+NN79
+NN86
+NT15
+SH12
+SH22
+SS43
+ST03
+SX84
+TQ88
+
+

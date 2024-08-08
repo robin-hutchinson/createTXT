@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Coturnix coturnix
+Description=Checks date is within known flight period of Coturnix coturnix
+ErrorMsg=Date is outside known flight period of Coturnix coturnix
+Tvk=NHMSYS0000530319
+DataFieldName=
+StartDate=0420
+EndDate=0905
+LastChanged=20240808
+[EndMetadata]

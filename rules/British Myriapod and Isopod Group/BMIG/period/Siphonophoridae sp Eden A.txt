@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Siphonophoridae sp. Eden A
+Description=Checks date is within known recording period of Siphonophoridae sp. Eden A
+ErrorMsg=Date is outside known recording period of Siphonophoridae sp. Eden A
+Tvk=NHMSYS0020977763
+StartDate=20100418
+EndDate=
+LastChanged=20240808
+[EndMetadata]

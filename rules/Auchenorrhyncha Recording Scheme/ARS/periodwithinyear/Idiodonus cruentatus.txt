@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Idiodonus cruentatus
+Description=Checks date is within known flight period of Idiodonus cruentatus
+ErrorMsg=Date is outside known flight period of Idiodonus cruentatus
+Tvk=NHMSYS0020705649
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

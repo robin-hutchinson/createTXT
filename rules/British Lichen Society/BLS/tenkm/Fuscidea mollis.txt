@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Fuscidea mollis 10km
+Description=Check coordinate against known distribution of Fuscidea mollis
+ErrorMsg=Coordinate is outside known range for Fuscidea mollis
+DataFieldName=Species
+DataRecordId=NHMSYS0001482513
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HP60
+NY32
+SH65
+SH66
+SK18
+SK28
+SK29
+
+

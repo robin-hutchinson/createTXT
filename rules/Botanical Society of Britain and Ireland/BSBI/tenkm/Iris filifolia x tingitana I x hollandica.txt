@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Iris filifolia x tingitana = I. x hollandica 10km
+Description=Check coordinate against known distribution of Iris filifolia x tingitana = I. x hollandica
+ErrorMsg=Coordinate is outside known range for Iris filifolia x tingitana = I. x hollandica
+DataFieldName=Species
+DataRecordId=NHMSYS0001754759
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY26
+SD32
+SD91
+SV91
+TM13
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

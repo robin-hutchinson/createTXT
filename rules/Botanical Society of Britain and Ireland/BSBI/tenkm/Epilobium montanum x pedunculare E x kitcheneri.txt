@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium montanum x pedunculare = E. x kitcheneri 10km
+Description=Check coordinate against known distribution of Epilobium montanum x pedunculare = E. x kitcheneri
+ErrorMsg=Coordinate is outside known range for Epilobium montanum x pedunculare = E. x kitcheneri
+DataFieldName=Species
+DataRecordId=NHMSYS0001754587
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN50
+SX16
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Cryptonevra consimilis
+Description=Checks date is within known flight period of Cryptonevra consimilis
+ErrorMsg=Date is outside known flight period of Cryptonevra consimilis
+Tvk=NBNSYS0000029963
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

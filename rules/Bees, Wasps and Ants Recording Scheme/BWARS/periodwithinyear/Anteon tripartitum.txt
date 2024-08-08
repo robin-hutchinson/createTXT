@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Anteon tripartitum
+Description=Checks date is within known flight period of Anteon tripartitum
+ErrorMsg=Date is outside known flight period of Anteon tripartitum
+Tvk=NHMSYS0000875378
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

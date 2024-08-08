@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Pistius truncatus 10km
+Description=Check coordinate against known distribution of Pistius truncatus
+ErrorMsg=Coordinate is outside known range for Pistius truncatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008719
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TR16
+
+

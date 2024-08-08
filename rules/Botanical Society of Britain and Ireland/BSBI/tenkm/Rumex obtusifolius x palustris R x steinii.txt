@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex obtusifolius x palustris = R. x steinii 10km
+Description=Check coordinate against known distribution of Rumex obtusifolius x palustris = R. x steinii
+ErrorMsg=Coordinate is outside known range for Rumex obtusifolius x palustris = R. x steinii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754669
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK64
+SP86
+ST42
+ST43
+ST44
+TL30
+TL61
+TL62
+TL63
+TM11
+TQ07
+TQ17
+TQ18
+TQ26
+TQ27
+TQ28
+TQ47
+TQ58
+
+

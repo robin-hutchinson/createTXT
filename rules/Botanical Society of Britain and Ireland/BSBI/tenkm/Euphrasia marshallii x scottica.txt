@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia marshallii x scottica 10km
+Description=Check coordinate against known distribution of Euphrasia marshallii x scottica
+ErrorMsg=Coordinate is outside known range for Euphrasia marshallii x scottica
+DataFieldName=Species
+DataRecordId=NBNSYS0100003121
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC55
+NC86
+
+

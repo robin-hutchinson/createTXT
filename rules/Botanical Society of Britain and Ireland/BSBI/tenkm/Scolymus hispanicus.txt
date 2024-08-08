@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Scolymus hispanicus 10km
+Description=Check coordinate against known distribution of Scolymus hispanicus
+ErrorMsg=Coordinate is outside known range for Scolymus hispanicus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014859
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT27
+SE75
+SK22
+SN58
+SO60
+SP61
+ST27
+ST38
+TA20
+TA21
+TA30
+TL04
+TL12
+TQ08
+
+

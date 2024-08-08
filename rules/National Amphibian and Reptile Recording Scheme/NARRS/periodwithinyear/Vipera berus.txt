@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=National Amphibian and Reptile Recording Scheme/NARRS Flight Period
+ShortName=Vipera berus
+Description=Checks date is within known flight period of Vipera berus
+ErrorMsg=Date is outside known flight period of Vipera berus
+Tvk=NBNSYS0000005075
+DataFieldName=
+StartDate=0101
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

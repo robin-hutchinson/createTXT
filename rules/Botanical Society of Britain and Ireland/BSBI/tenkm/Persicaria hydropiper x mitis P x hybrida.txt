@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Persicaria hydropiper x mitis = P. x hybrida 10km
+Description=Check coordinate against known distribution of Persicaria hydropiper x mitis = P. x hybrida
+ErrorMsg=Coordinate is outside known range for Persicaria hydropiper x mitis = P. x hybrida
+DataFieldName=Species
+DataRecordId=NHMSYS0001754554
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO51
+
+

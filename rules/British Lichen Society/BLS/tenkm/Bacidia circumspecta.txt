@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Bacidia circumspecta 10km
+Description=Check coordinate against known distribution of Bacidia circumspecta
+ErrorMsg=Coordinate is outside known range for Bacidia circumspecta
+DataFieldName=Species
+DataRecordId=NBNSYS0000018220
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG62
+NH22
+NH26
+NJ01
+NJ12
+NJ40
+NM75
+NN18
+NN55
+NN63
+NN65
+NN74
+NN84
+NN96
+NO14
+NO15
+NZ00
+NZ10
+NZ11
+SE09
+SN85
+SN95
+SN96
+SN97
+SO04
+SO06
+SO38
+SS82
+SS84
+SU20
+SU21
+SU30
+SU92
+TQ04
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lathyrus niger 10km
+Description=Check coordinate against known distribution of Lathyrus niger
+ErrorMsg=Coordinate is outside known range for Lathyrus niger
+DataFieldName=Species
+DataRecordId=NHMSYS0000460185
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM67
+NN96
+NO25
+NT26
+SD09
+SP32
+TQ53
+
+

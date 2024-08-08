@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Gnaphosa leporina
+Description=Checks date is within known flight period of Gnaphosa leporina
+ErrorMsg=Date is outside known flight period of Gnaphosa leporina
+Tvk=NBNSYS0000008667
+DataFieldName=
+StartDate=0417
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

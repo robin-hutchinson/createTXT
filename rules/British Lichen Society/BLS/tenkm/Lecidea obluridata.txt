@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecidea obluridata 10km
+Description=Check coordinate against known distribution of Lecidea obluridata
+ErrorMsg=Coordinate is outside known range for Lecidea obluridata
+DataFieldName=Species
+DataRecordId=NHMSYS0001486814
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM84
+SD86
+SD96
+SH54
+ST66
+
+

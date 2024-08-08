@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sedum praealtum 10km
+Description=Check coordinate against known distribution of Sedum praealtum
+ErrorMsg=Coordinate is outside known range for Sedum praealtum
+DataFieldName=Species
+DataRecordId=NHMSYS0000463394
+LastChanged=20240808
+[EndMetadata]
+
+NA
+
+

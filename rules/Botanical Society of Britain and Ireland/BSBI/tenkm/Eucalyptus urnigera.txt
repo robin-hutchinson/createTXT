@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Eucalyptus urnigera 10km
+Description=Check coordinate against known distribution of Eucalyptus urnigera
+ErrorMsg=Coordinate is outside known range for Eucalyptus urnigera
+DataFieldName=Species
+DataRecordId=NHMSYS0000458621
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC48
+SC49
+
+

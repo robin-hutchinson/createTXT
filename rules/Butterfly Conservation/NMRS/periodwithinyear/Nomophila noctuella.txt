@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Nomophila noctuella
+Description=Checks date is within known flight period of Nomophila noctuella
+ErrorMsg=Date is outside known flight period of Nomophila noctuella
+Tvk=NHMSYS0021143737
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

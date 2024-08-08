@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pedilanthus tithymaloides 10km
+Description=Check coordinate against known distribution of Pedilanthus tithymaloides
+ErrorMsg=Coordinate is outside known range for Pedilanthus tithymaloides
+DataFieldName=Species
+DataRecordId=NBNSYS0200002810
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ36
+
+

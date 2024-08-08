@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Cnephalocotes obscurus
+Description=Checks date is within known flight period of Cnephalocotes obscurus
+ErrorMsg=Date is outside known flight period of Cnephalocotes obscurus
+Tvk=NBNSYS0000009047
+DataFieldName=
+StartDate=0214
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

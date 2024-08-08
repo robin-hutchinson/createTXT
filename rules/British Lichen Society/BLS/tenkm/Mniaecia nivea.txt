@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Mniaecia nivea 10km
+Description=Check coordinate against known distribution of Mniaecia nivea
+ErrorMsg=Coordinate is outside known range for Mniaecia nivea
+DataFieldName=Species
+DataRecordId=NHMSYS0020990618
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+G02
+
+
+[10km_GB]
+NN64
+SU82
+SU92
+SX05
+TQ71
+
+

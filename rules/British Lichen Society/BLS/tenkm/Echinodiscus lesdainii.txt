@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Echinodiscus lesdainii 10km
+Description=Check coordinate against known distribution of Echinodiscus lesdainii
+ErrorMsg=Coordinate is outside known range for Echinodiscus lesdainii
+DataFieldName=Species
+DataRecordId=NHMSYS0001481259
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM47
+NT08
+NT42
+NT53
+SC16
+SH24
+
+

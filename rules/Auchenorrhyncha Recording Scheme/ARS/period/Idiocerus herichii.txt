@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Idiocerus herichii
+Description=Checks date is within known recording period of Idiocerus herichii
+ErrorMsg=Date is outside known recording period of Idiocerus herichii
+Tvk=NHMSYS0020705636
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

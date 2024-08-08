@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Cosmotettix caudatus 10km
+Description=Check coordinate against known distribution of Cosmotettix caudatus
+ErrorMsg=Coordinate is outside known range for Cosmotettix caudatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442313
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD30
+ST40
+ST41
+SU77
+SU99
+TF00
+TF10
+TL45
+
+

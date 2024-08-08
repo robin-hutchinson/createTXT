@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Adela cuprella
+Description=Checks date is within known flight period of Adela cuprella
+ErrorMsg=Date is outside known flight period of Adela cuprella
+Tvk=NHMSYS0021142163
+DataFieldName=
+StartDate=0321
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

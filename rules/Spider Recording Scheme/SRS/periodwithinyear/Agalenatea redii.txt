@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Agalenatea redii
+Description=Checks date is within known flight period of Agalenatea redii
+ErrorMsg=Date is outside known flight period of Agalenatea redii
+Tvk=NBNSYS0100001382
+DataFieldName=
+StartDate=0318
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

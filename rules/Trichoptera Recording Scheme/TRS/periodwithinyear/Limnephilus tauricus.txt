@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Limnephilus tauricus
+Description=Checks date is within known flight period of Limnephilus tauricus
+ErrorMsg=Date is outside known flight period of Limnephilus tauricus
+Tvk=NBNSYS0000008493
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

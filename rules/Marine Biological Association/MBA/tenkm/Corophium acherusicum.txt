@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Corophium acherusicum 10km
+Description=Check coordinate against known distribution of Corophium acherusicum
+ErrorMsg=Coordinate is outside known range for Corophium acherusicum
+DataFieldName=Species
+DataRecordId=NBNSYS0000174698
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU34
+HU37
+HU47
+HY20
+HY30
+HY31
+HY40
+HY41
+HY42
+NB21
+NM77
+NW61
+NW63
+NW71
+SM90
+SM91
+SN00
+SR90
+SU40
+SU41
+SX15
+SY67
+SY98
+SZ08
+SZ09
+TM11
+TM23
+TQ87
+
+
+[10km_Ireland]
+J48
+J55
+J56
+
+

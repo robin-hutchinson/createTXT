@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ptilophora plumigera
+Description=Checks date is within known flight period of Ptilophora plumigera
+ErrorMsg=Date is outside known flight period of Ptilophora plumigera
+Tvk=NHMSYS0021144358
+DataFieldName=
+StartDate=1101
+EndDate=1207
+LastChanged=20240808
+[EndMetadata]

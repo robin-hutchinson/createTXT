@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Usnea glabrata 10km
+Description=Check coordinate against known distribution of Usnea glabrata
+ErrorMsg=Coordinate is outside known range for Usnea glabrata
+DataFieldName=Species
+DataRecordId=NBNSYS0000019143
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+L74
+
+
+[10km_GB]
+NG80
+NG84
+NG87
+NG95
+NH85
+NO15
+NO25
+SH65
+SH67
+SR99
+SX67
+TR02
+
+

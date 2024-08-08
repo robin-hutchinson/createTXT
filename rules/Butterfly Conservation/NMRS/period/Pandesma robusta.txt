@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pandesma robusta
+Description=Checks date is within known recording period of Pandesma robusta
+ErrorMsg=Date is outside known recording period of Pandesma robusta
+Tvk=NHMSYS0020531225
+StartDate=20010901
+EndDate=
+LastChanged=20240808
+[EndMetadata]

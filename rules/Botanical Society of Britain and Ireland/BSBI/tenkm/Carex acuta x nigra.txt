@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex acuta x nigra 10km
+Description=Check coordinate against known distribution of Carex acuta x nigra
+ErrorMsg=Coordinate is outside known range for Carex acuta x nigra
+DataFieldName=Species
+DataRecordId=NHMSYS0000345114
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT42
+NY30
+SD61
+SH27
+SH37
+SH56
+SH83
+SJ31
+SJ41
+SJ43
+SJ47
+SO12
+SO85
+SP51
+SS59
+SS69
+ST74
+SU12
+SU16
+SZ09
+SZ19
+TQ29
+
+

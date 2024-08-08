@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tilia tomentosa 10km
+Description=Check coordinate against known distribution of Tilia tomentosa
+ErrorMsg=Coordinate is outside known range for Tilia tomentosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000034026
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ39
+SJ41
+SN68
+SP37
+SP50
+ST90
+TL56
+TL58
+TL92
+TM02
+
+
+NA
+
+

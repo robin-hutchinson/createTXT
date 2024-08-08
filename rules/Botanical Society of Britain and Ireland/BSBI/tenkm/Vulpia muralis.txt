@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Vulpia muralis 10km
+Description=Check coordinate against known distribution of Vulpia muralis
+ErrorMsg=Coordinate is outside known range for Vulpia muralis
+DataFieldName=Species
+DataRecordId=NBNSYS0000013987
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ54
+SV80
+
+

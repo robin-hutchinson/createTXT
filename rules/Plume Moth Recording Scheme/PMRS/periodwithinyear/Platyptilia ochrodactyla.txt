@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plume Moth Recording Scheme/PMRS Flight Period
+ShortName=Platyptilia ochrodactyla
+Description=Checks date is within known flight period of Platyptilia ochrodactyla
+ErrorMsg=Date is outside known flight period of Platyptilia ochrodactyla
+Tvk=NHMSYS0000503854
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

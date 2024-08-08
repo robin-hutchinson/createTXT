@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Amaranthus bouchonii 10km
+Description=Check coordinate against known distribution of Amaranthus bouchonii
+ErrorMsg=Coordinate is outside known range for Amaranthus bouchonii
+DataFieldName=Species
+DataRecordId=NBNSYS0000033273
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST57
+ST76
+SU41
+SU59
+SU70
+SU95
+TF11
+TF60
+TF61
+TF62
+TF70
+TF71
+TF72
+TF80
+TF81
+TF91
+TL10
+TL21
+TL45
+TL51
+TL56
+TL57
+TL66
+TL67
+TL68
+TL69
+TL77
+TL78
+TL79
+TL89
+TL98
+TL99
+TM09
+TM13
+TQ05
+TQ37
+TQ38
+TQ48
+TQ88
+
+

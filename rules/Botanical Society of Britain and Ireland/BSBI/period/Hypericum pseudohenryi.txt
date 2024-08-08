@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Hypericum pseudohenryi
+Description=Checks date is within known recording period of Hypericum pseudohenryi
+ErrorMsg=Date is outside known recording period of Hypericum pseudohenryi
+Tvk=NHMSYS0000459856
+StartDate=19790101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

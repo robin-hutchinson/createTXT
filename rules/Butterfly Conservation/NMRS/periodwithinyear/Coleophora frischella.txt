@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora frischella
+Description=Checks date is within known flight period of Coleophora frischella
+ErrorMsg=Date is outside known flight period of Coleophora frischella
+Tvk=NHMSYS0000501861
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

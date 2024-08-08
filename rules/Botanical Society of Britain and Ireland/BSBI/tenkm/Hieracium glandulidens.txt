@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium glandulidens 10km
+Description=Check coordinate against known distribution of Hieracium glandulidens
+ErrorMsg=Coordinate is outside known range for Hieracium glandulidens
+DataFieldName=Species
+DataRecordId=NHMSYS0000459442
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC00
+NC22
+NC24
+NC25
+NC26
+NC30
+NC33
+NC34
+NC35
+NC36
+NC43
+NC44
+NC45
+NH17
+NH23
+NH27
+NH28
+NH51
+NH69
+NJ83
+NN10
+NN15
+NN20
+NN22
+NN25
+NN33
+NN34
+NN38
+NN59
+NO17
+NR64
+NR74
+NR77
+NR78
+NR86
+NR87
+SO92
+
+

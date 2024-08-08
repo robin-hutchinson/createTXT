@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Caloplaca calcitrapa 10km
+Description=Check coordinate against known distribution of Caloplaca calcitrapa
+ErrorMsg=Coordinate is outside known range for Caloplaca calcitrapa
+DataFieldName=Species
+DataRecordId=NHMSYS0020989884
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU98
+
+

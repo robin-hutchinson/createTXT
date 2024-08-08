@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Tischeria ekebladella
+Description=Checks date is within known flight period of Tischeria ekebladella
+ErrorMsg=Date is outside known flight period of Tischeria ekebladella
+Tvk=NHMSYS0000504549
+DataFieldName=
+StartDate=0415
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

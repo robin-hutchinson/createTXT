@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lathyrus cicera 10km
+Description=Check coordinate against known distribution of Lathyrus cicera
+ErrorMsg=Coordinate is outside known range for Lathyrus cicera
+DataFieldName=Species
+DataRecordId=NBNSYS0200002446
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW74
+SW94
+TA21
+TL31
+
+

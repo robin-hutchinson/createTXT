@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Strongylocoris luridus
+Description=Checks date is within known recording period of Strongylocoris luridus
+ErrorMsg=Date is outside known recording period of Strongylocoris luridus
+Tvk=NHMSYS0020309865
+StartDate=18070101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Muscari armeniacum
+Description=Checks date is within known recording period of Muscari armeniacum
+ErrorMsg=Date is outside known recording period of Muscari armeniacum
+Tvk=NBNSYS0000004651
+StartDate=18920101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

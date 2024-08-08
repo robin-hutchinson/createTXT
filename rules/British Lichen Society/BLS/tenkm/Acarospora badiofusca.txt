@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Acarospora badiofusca 10km
+Description=Check coordinate against known distribution of Acarospora badiofusca
+ErrorMsg=Coordinate is outside known range for Acarospora badiofusca
+DataFieldName=Species
+DataRecordId=NBNSYS0000018150
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN32
+NN33
+NN34
+NN42
+NN43
+NN44
+NN52
+NN53
+NN54
+NN55
+NN62
+NN63
+NN64
+NN65
+NN72
+NN73
+NN74
+NN75
+NO06
+NO07
+NO08
+NO16
+NO17
+NO18
+NO26
+NO27
+NO28
+SH54
+SH55
+SH56
+SH64
+SH65
+SH66
+SH74
+SH75
+SH76
+
+

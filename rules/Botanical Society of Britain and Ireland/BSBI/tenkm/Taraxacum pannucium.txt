@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum pannucium 10km
+Description=Check coordinate against known distribution of Taraxacum pannucium
+ErrorMsg=Coordinate is outside known range for Taraxacum pannucium
+DataFieldName=Species
+DataRecordId=NHMSYS0000840733
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX58
+NY58
+SW53
+SW75
+TL77
+
+

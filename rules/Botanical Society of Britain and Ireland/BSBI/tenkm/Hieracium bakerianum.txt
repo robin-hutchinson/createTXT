@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium bakerianum 10km
+Description=Check coordinate against known distribution of Hieracium bakerianum
+ErrorMsg=Coordinate is outside known range for Hieracium bakerianum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840921
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H18
+
+
+[10km_GB]
+NY82
+NY92
+
+

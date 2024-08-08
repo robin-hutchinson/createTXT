@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Asperugo procumbens
+Description=Checks date is within known recording period of Asperugo procumbens
+ErrorMsg=Date is outside known recording period of Asperugo procumbens
+Tvk=NBNSYS0000003983
+StartDate=16600101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Mentha aquatica x suaveolens = M. x suavis 10km
+Description=Check coordinate against known distribution of Mentha aquatica x suaveolens = M. x suavis
+ErrorMsg=Coordinate is outside known range for Mentha aquatica x suaveolens = M. x suavis
+DataFieldName=Species
+DataRecordId=NBNSYS0000161747
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS57
+SV91
+SW43
+SW53
+SW71
+SW73
+SW86
+SX95
+
+
+NA
+
+

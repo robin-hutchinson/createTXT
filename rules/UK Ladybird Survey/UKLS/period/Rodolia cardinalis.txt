@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=UK Ladybird Survey/UKLS Recording Period
+ShortName=Rodolia cardinalis
+Description=Checks date is within known recording period of Rodolia cardinalis
+ErrorMsg=Date is outside known recording period of Rodolia cardinalis
+Tvk=NHMSYS0020153342
+StartDate=20030101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Metrioptera brachyptera
+Description=Checks date is within known recording period of Metrioptera brachyptera
+ErrorMsg=Date is outside known recording period of Metrioptera brachyptera
+Tvk=NBNSYS0000006821
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

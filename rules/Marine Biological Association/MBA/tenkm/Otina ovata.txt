@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Otina ovata 10km
+Description=Check coordinate against known distribution of Otina ovata
+ErrorMsg=Coordinate is outside known range for Otina ovata
+DataFieldName=Species
+DataRecordId=NHMSYS0020528241
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NR26
+SM70
+SM80
+SM81
+SM82
+SN14
+SR99
+SS19
+SV80
+SW72
+SW75
+
+
+[10km_Ireland]
+Y85
+Y95
+Y97
+
+

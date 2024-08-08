@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cirsium tuberosum x acaule = C. x medium 10km
+Description=Check coordinate against known distribution of Cirsium tuberosum x acaule = C. x medium
+ErrorMsg=Coordinate is outside known range for Cirsium tuberosum x acaule = C. x medium
+DataFieldName=Species
+DataRecordId=NHMSYS0001754341
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS87
+SS96
+SS97
+ST83
+ST84
+ST93
+ST94
+ST95
+ST96
+SU01
+SU03
+SU04
+SU05
+SU06
+SU16
+SU17
+SU25
+
+

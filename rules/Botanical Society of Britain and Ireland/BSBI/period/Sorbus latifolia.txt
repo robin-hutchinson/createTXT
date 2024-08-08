@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Sorbus latifolia
+Description=Checks date is within known recording period of Sorbus latifolia
+ErrorMsg=Date is outside known recording period of Sorbus latifolia
+Tvk=NBNSYS0000156911
+StartDate=18660101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Solanum nigrum x physalifolium = S. x procurrens 10km
+Description=Check coordinate against known distribution of Solanum nigrum x physalifolium = S. x procurrens
+ErrorMsg=Coordinate is outside known range for Solanum nigrum x physalifolium = S. x procurrens
+DataFieldName=Species
+DataRecordId=NBNSYS0000162082
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU70
+TL03
+TL25
+TL46
+TL76
+TL77
+TQ40
+TQ67
+
+
+NA
+
+

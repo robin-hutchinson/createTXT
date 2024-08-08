@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium hirsutum x palustre = E. x waterfallii 10km
+Description=Check coordinate against known distribution of Epilobium hirsutum x palustre = E. x waterfallii
+ErrorMsg=Coordinate is outside known range for Epilobium hirsutum x palustre = E. x waterfallii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754717
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD85
+SJ47
+SX98
+TR01
+
+

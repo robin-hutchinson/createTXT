@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Capsosiphon fulvescens 10km
+Description=Check coordinate against known distribution of Capsosiphon fulvescens
+ErrorMsg=Coordinate is outside known range for Capsosiphon fulvescens
+DataFieldName=Species
+DataRecordId=NHMSYS0000567834
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+HU44
+HY41
+NG72
+NG82
+NH64
+NH85
+NJ90
+NM67
+NM94
+NO43
+NR27
+NR79
+NS15
+NS33
+NT28
+NT95
+NX06
+NX14
+NZ16
+NZ26
+SY78
+SY97
+SZ19
+TM00
+
+

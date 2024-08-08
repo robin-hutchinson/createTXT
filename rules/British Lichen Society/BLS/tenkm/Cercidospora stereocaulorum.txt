@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cercidospora stereocaulorum 10km
+Description=Check coordinate against known distribution of Cercidospora stereocaulorum
+ErrorMsg=Coordinate is outside known range for Cercidospora stereocaulorum
+DataFieldName=Species
+DataRecordId=NBNSYS0000015958
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN47
+
+
+[10km_Ireland]
+T27
+
+

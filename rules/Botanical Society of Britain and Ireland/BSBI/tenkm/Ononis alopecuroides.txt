@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ononis alopecuroides 10km
+Description=Check coordinate against known distribution of Ononis alopecuroides
+ErrorMsg=Coordinate is outside known range for Ononis alopecuroides
+DataFieldName=Species
+DataRecordId=NHMSYS0100002175
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ26
+SN68
+SO61
+SP50
+TL31
+TM59
+TQ18
+TQ48
+
+

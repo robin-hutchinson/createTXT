@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Atylotus rusticus 10km
+Description=Check coordinate against known distribution of Atylotus rusticus
+ErrorMsg=Coordinate is outside known range for Atylotus rusticus
+DataFieldName=Species
+DataRecordId=NBNSYS0000007878
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP51
+SP61
+ST34
+SU60
+TQ40
+TQ50
+TQ60
+TQ81
+TQ97
+TV59
+
+

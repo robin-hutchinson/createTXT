@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Cryptonevra consimilis
+Description=Checks date is within known recording period of Cryptonevra consimilis
+ErrorMsg=Date is outside known recording period of Cryptonevra consimilis
+Tvk=NBNSYS0000029963
+StartDate=19320101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

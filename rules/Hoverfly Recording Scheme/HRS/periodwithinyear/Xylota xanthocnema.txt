@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Xylota xanthocnema
+Description=Checks date is within known flight period of Xylota xanthocnema
+ErrorMsg=Date is outside known flight period of Xylota xanthocnema
+Tvk=NBNSYS0000007118
+DataFieldName=
+StartDate=0518
+EndDate=0925
+LastChanged=20240808
+[EndMetadata]

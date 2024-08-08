@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Symphytum bulbosum 10km
+Description=Check coordinate against known distribution of Symphytum bulbosum
+ErrorMsg=Coordinate is outside known range for Symphytum bulbosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464112
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE55
+SE95
+SN57
+SN58
+SS42
+SS52
+SS53
+ST50
+ST53
+SY58
+SY59
+SY67
+SY68
+TF71
+TQ04
+
+

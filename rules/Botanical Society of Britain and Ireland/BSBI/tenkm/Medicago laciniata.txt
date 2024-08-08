@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Medicago laciniata 10km
+Description=Check coordinate against known distribution of Medicago laciniata
+ErrorMsg=Coordinate is outside known range for Medicago laciniata
+DataFieldName=Species
+DataRecordId=NHMSYS0000460635
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT27
+NT43
+NT53
+SD80
+SD90
+SE10
+SE11
+SE13
+SE22
+SE32
+SE37
+SE38
+SE48
+SJ89
+SK02
+SK22
+SK38
+SO66
+SO93
+SP04
+SP05
+SP39
+SU73
+SX87
+TL03
+TL13
+TL14
+TL22
+TL23
+TQ04
+TQ18
+TQ57
+TQ67
+
+

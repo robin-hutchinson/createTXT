@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Acroclita subsequana
+Description=Checks date is within known flight period of Acroclita subsequana
+ErrorMsg=Date is outside known flight period of Acroclita subsequana
+Tvk=NHMSYS0000500966
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

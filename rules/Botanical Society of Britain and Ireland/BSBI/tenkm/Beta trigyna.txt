@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Beta trigyna 10km
+Description=Check coordinate against known distribution of Beta trigyna
+ErrorMsg=Coordinate is outside known range for Beta trigyna
+DataFieldName=Species
+DataRecordId=NBNSYS0000034200
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO06
+NT27
+NZ43
+NZ53
+SP50
+ST67
+SU46
+SU57
+TL45
+TQ07
+TQ14
+TQ15
+TQ17
+TQ48
+TQ57
+TQ59
+
+
+[10km_Ireland]
+O23
+
+

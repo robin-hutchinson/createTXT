@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Dactylospora microspora 10km
+Description=Check coordinate against known distribution of Dactylospora microspora
+ErrorMsg=Coordinate is outside known range for Dactylospora microspora
+DataFieldName=Species
+DataRecordId=NHMSYS0001480210
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH94
+NN72
+SH61
+SN77
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Archinemapogon yildizae
+Description=Checks date is within known flight period of Archinemapogon yildizae
+ErrorMsg=Date is outside known flight period of Archinemapogon yildizae
+Tvk=NHMSYS0000501282
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

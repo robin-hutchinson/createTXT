@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Dichomeris acuminatus
+Description=Checks date is within known recording period of Dichomeris acuminatus
+ErrorMsg=Date is outside known recording period of Dichomeris acuminatus
+Tvk=NHMSYS0021168887
+StartDate=20160901
+EndDate=
+LastChanged=20240808
+[EndMetadata]

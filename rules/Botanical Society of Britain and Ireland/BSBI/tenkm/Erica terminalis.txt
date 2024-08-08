@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Erica terminalis 10km
+Description=Check coordinate against known distribution of Erica terminalis
+ErrorMsg=Coordinate is outside known range for Erica terminalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000003910
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C63
+C73
+
+
+[10km_GB]
+NN06
+SP40
+SY99
+
+

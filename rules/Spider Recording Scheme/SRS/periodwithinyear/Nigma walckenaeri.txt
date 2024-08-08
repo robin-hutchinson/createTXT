@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Nigma walckenaeri
+Description=Checks date is within known flight period of Nigma walckenaeri
+ErrorMsg=Date is outside known flight period of Nigma walckenaeri
+Tvk=NBNSYS0000008620
+DataFieldName=
+StartDate=0718
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

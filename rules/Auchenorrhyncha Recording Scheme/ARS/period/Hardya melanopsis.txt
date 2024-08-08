@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Hardya melanopsis
+Description=Checks date is within known recording period of Hardya melanopsis
+ErrorMsg=Date is outside known recording period of Hardya melanopsis
+Tvk=NHMSYS0020705617
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

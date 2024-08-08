@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Anakelisia perspicillata
+Description=Checks date is within known flight period of Anakelisia perspicillata
+ErrorMsg=Date is outside known flight period of Anakelisia perspicillata
+Tvk=NHMSYS0020705194
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

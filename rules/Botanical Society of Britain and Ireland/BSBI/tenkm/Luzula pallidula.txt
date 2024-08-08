@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Luzula pallidula 10km
+Description=Check coordinate against known distribution of Luzula pallidula
+ErrorMsg=Coordinate is outside known range for Luzula pallidula
+DataFieldName=Species
+DataRecordId=NBNSYS0000002248
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H98
+
+
+[10km_GB]
+TL18
+TL28
+TQ06
+
+

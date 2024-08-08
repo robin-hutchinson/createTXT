@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Melilotus albus
+Description=Checks date is within known recording period of Melilotus albus
+ErrorMsg=Date is outside known recording period of Melilotus albus
+Tvk=NHMSYS0000460662
+StartDate=18220101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

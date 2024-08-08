@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pilosella peleteriana subsp. peleteriana 10km
+Description=Check coordinate against known distribution of Pilosella peleteriana subsp. peleteriana
+ErrorMsg=Coordinate is outside known range for Pilosella peleteriana subsp. peleteriana
+DataFieldName=Species
+DataRecordId=NHMSYS0000461677
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SY67
+SY78
+SY87
+SY88
+SZ38
+TR23
+
+
+NA
+
+

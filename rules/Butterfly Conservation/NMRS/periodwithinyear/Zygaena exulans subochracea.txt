@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Zygaena exulans subochracea
+Description=Checks date is within known flight period of Zygaena exulans subochracea
+ErrorMsg=Date is outside known flight period of Zygaena exulans subochracea
+Tvk=NHMSYS0021143431
+DataFieldName=
+StartDate=0621
+EndDate=0715
+LastChanged=20240808
+[EndMetadata]

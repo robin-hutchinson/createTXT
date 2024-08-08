@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Draba aizoides 10km
+Description=Check coordinate against known distribution of Draba aizoides
+ErrorMsg=Coordinate is outside known range for Draba aizoides
+DataFieldName=Species
+DataRecordId=NBNSYS0000002863
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS48
+SS58
+SY39
+
+

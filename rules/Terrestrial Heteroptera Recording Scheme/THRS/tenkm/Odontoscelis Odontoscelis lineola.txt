@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Odontoscelis (Odontoscelis) lineola 10km
+Description=Check coordinate against known distribution of Odontoscelis (Odontoscelis) lineola
+ErrorMsg=Coordinate is outside known range for Odontoscelis (Odontoscelis) lineola
+DataFieldName=Species
+DataRecordId=NHMSYS0020309546
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS43
+SU73
+SU83
+SU84
+SW54
+SW75
+SW87
+SW97
+TL28
+TL49
+TL77
+TL78
+TL88
+TM24
+TM35
+TM46
+TQ01
+TQ06
+TR01
+TR35
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Berberis julianae
+Description=Checks date is within known recording period of Berberis julianae
+ErrorMsg=Date is outside known recording period of Berberis julianae
+Tvk=NHMSYS0000456435
+StartDate=19840101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

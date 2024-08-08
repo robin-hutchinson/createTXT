@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Jynx torquilla
+Description=Checks date is within known flight period of Jynx torquilla
+ErrorMsg=Date is outside known flight period of Jynx torquilla
+Tvk=NHMSYS0000530418
+DataFieldName=
+StartDate=0410
+EndDate=1025
+LastChanged=20240808
+[EndMetadata]

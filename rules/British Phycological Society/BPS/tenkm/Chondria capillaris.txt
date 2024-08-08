@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Chondria capillaris 10km
+Description=Check coordinate against known distribution of Chondria capillaris
+ErrorMsg=Coordinate is outside known range for Chondria capillaris
+DataFieldName=Species
+DataRecordId=NHMSYS0000377549
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NF86
+NR67
+SH57
+SS14
+SX96
+SY58
+SY67
+SY68
+SY87
+SY97
+SZ07
+SZ08
+SZ68
+TL90
+TM01
+TM11
+TM20
+
+

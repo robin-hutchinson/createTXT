@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Grasshoppers and Allies Recording Scheme/GARS Flight Period
+ShortName=Phaneroptera nana
+Description=Checks date is within known flight period of Phaneroptera nana
+ErrorMsg=Date is outside known flight period of Phaneroptera nana
+Tvk=NHMSYS0020978368
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Zygina (Hypericiella) hyperici
+Description=Checks date is within known recording period of Zygina (Hypericiella) hyperici
+ErrorMsg=Date is outside known recording period of Zygina (Hypericiella) hyperici
+Tvk=NHMSYS0020705973
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

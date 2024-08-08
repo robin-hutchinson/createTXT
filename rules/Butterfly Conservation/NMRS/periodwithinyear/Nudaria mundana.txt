@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Nudaria mundana
+Description=Checks date is within known flight period of Nudaria mundana
+ErrorMsg=Date is outside known flight period of Nudaria mundana
+Tvk=NBNSYS0000006124
+DataFieldName=
+StartDate=0601
+EndDate=0821
+LastChanged=20240808
+[EndMetadata]

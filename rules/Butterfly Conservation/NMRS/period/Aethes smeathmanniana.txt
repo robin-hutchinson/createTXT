@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Aethes smeathmanniana
+Description=Checks date is within known recording period of Aethes smeathmanniana
+ErrorMsg=Date is outside known recording period of Aethes smeathmanniana
+Tvk=NHMSYS0000501017
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

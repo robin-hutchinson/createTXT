@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Didea intermedia
+Description=Checks date is within known flight period of Didea intermedia
+ErrorMsg=Date is outside known flight period of Didea intermedia
+Tvk=NBNSYS0000006909
+DataFieldName=
+StartDate=0428
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

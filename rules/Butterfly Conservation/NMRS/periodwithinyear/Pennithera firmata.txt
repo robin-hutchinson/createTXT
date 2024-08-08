@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pennithera firmata
+Description=Checks date is within known flight period of Pennithera firmata
+ErrorMsg=Date is outside known flight period of Pennithera firmata
+Tvk=NHMSYS0021143969
+DataFieldName=
+StartDate=0421
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

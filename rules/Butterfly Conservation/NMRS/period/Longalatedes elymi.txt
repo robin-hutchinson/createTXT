@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Longalatedes elymi
+Description=Checks date is within known recording period of Longalatedes elymi
+ErrorMsg=Date is outside known recording period of Longalatedes elymi
+Tvk=NHMSYS0021144634
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

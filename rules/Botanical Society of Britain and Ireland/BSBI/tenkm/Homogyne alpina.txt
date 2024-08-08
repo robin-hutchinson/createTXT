@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Homogyne alpina 10km
+Description=Check coordinate against known distribution of Homogyne alpina
+ErrorMsg=Coordinate is outside known range for Homogyne alpina
+DataFieldName=Species
+DataRecordId=NBNSYS0000004391
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NF83
+NO27
+
+

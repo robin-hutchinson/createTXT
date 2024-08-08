@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fumaria bastardii x muralis 10km
+Description=Check coordinate against known distribution of Fumaria bastardii x muralis
+ErrorMsg=Coordinate is outside known range for Fumaria bastardii x muralis
+DataFieldName=Species
+DataRecordId=NBNSYS0000014911
+LastChanged=20240808
+[EndMetadata]
+
+NA
+
+

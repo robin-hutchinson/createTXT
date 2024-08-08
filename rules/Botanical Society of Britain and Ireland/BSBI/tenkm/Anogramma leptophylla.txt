@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Anogramma leptophylla 10km
+Description=Check coordinate against known distribution of Anogramma leptophylla
+ErrorMsg=Coordinate is outside known range for Anogramma leptophylla
+DataFieldName=Species
+DataRecordId=NBNSYS0000002033
+LastChanged=20240808
+[EndMetadata]
+
+NA
+
+

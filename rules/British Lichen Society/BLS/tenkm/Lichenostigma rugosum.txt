@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lichenostigma rugosum 10km
+Description=Check coordinate against known distribution of Lichenostigma rugosum
+ErrorMsg=Coordinate is outside known range for Lichenostigma rugosum
+DataFieldName=Species
+DataRecordId=NHMSYS0020990576
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM84
+SX54
+SX78
+
+

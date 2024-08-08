@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lycia zonaria britannica
+Description=Checks date is within known flight period of Lycia zonaria britannica
+ErrorMsg=Date is outside known flight period of Lycia zonaria britannica
+Tvk=NHMSYS0021144218
+DataFieldName=
+StartDate=0301
+EndDate=0615
+LastChanged=20240808
+[EndMetadata]

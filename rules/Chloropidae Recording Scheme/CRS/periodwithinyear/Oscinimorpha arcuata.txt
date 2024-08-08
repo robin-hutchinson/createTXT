@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Oscinimorpha arcuata
+Description=Checks date is within known flight period of Oscinimorpha arcuata
+ErrorMsg=Date is outside known flight period of Oscinimorpha arcuata
+Tvk=NBNSYS0100004356
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Ribautodelphax pungens
+Description=Checks date is within known flight period of Ribautodelphax pungens
+ErrorMsg=Date is outside known flight period of Ribautodelphax pungens
+Tvk=NHMSYS0020442461
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

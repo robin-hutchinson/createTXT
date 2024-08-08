@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora siccifolia
+Description=Checks date is within known flight period of Coleophora siccifolia
+ErrorMsg=Date is outside known flight period of Coleophora siccifolia
+Tvk=NHMSYS0000501921
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

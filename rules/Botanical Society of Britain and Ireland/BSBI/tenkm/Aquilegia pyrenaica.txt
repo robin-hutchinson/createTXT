@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Aquilegia pyrenaica 10km
+Description=Check coordinate against known distribution of Aquilegia pyrenaica
+ErrorMsg=Coordinate is outside known range for Aquilegia pyrenaica
+DataFieldName=Species
+DataRecordId=NBNSYS0000002743
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO17
+SE50
+
+

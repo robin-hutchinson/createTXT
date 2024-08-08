@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Zygaena loti
+Description=Checks date is within known flight period of Zygaena loti
+ErrorMsg=Date is outside known flight period of Zygaena loti
+Tvk=NHMSYS0000520668
+DataFieldName=
+StartDate=0601
+EndDate=0715
+LastChanged=20240808
+[EndMetadata]

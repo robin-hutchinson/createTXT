@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crocus pulchellus 10km
+Description=Check coordinate against known distribution of Crocus pulchellus
+ErrorMsg=Coordinate is outside known range for Crocus pulchellus
+DataFieldName=Species
+DataRecordId=NHMSYS0000457726
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TL94
+TQ05
+
+

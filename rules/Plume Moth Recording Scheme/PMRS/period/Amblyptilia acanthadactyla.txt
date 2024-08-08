@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Amblyptilia acanthadactyla
+Description=Checks date is within known recording period of Amblyptilia acanthadactyla
+ErrorMsg=Date is outside known recording period of Amblyptilia acanthadactyla
+Tvk=NHMSYS0000501210
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Ernodes articularis
+Description=Checks date is within known recording period of Ernodes articularis
+ErrorMsg=Date is outside known recording period of Ernodes articularis
+Tvk=NBNSYS0000008504
+StartDate=19000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

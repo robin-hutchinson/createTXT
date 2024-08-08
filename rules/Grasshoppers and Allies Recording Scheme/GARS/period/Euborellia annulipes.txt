@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Euborellia annulipes
+Description=Checks date is within known recording period of Euborellia annulipes
+ErrorMsg=Date is outside known recording period of Euborellia annulipes
+Tvk=NHMSYS0001387304
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

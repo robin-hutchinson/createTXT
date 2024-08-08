@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Sagatus punctifrons
+Description=Checks date is within known recording period of Sagatus punctifrons
+ErrorMsg=Date is outside known recording period of Sagatus punctifrons
+Tvk=NHMSYS0020705885
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

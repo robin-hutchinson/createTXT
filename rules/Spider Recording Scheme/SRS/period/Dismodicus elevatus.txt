@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spider Recording Scheme/SRS Recording Period
+ShortName=Dismodicus elevatus
+Description=Checks date is within known recording period of Dismodicus elevatus
+ErrorMsg=Date is outside known recording period of Dismodicus elevatus
+Tvk=NBNSYS0000009006
+StartDate=19000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

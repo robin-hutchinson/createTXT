@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Trifolium stellatum
+Description=Checks date is within known recording period of Trifolium stellatum
+ErrorMsg=Date is outside known recording period of Trifolium stellatum
+Tvk=NBNSYS0000003235
+StartDate=18040101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Diurnea fagella
+Description=Checks date is within known flight period of Diurnea fagella
+ErrorMsg=Date is outside known flight period of Diurnea fagella
+Tvk=NHMSYS0021142564
+DataFieldName=
+StartDate=0301
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

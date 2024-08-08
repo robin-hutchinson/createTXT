@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Cheilosia ahenea
+Description=Checks date is within known flight period of Cheilosia ahenea
+ErrorMsg=Date is outside known flight period of Cheilosia ahenea
+Tvk=NBNSYS0000144219
+DataFieldName=
+StartDate=0627
+EndDate=0701
+LastChanged=20240808
+[EndMetadata]

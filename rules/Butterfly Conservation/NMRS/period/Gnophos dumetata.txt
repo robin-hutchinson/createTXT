@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Gnophos dumetata
+Description=Checks date is within known recording period of Gnophos dumetata
+ErrorMsg=Date is outside known recording period of Gnophos dumetata
+Tvk=NHMSYS0021167195
+StartDate=19910801
+EndDate=
+LastChanged=20240808
+[EndMetadata]

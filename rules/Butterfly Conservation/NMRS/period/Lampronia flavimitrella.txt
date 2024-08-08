@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Lampronia flavimitrella
+Description=Checks date is within known recording period of Lampronia flavimitrella
+ErrorMsg=Date is outside known recording period of Lampronia flavimitrella
+Tvk=NHMSYS0021142176
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

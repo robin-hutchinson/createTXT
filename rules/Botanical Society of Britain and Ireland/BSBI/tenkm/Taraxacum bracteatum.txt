@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum bracteatum 10km
+Description=Check coordinate against known distribution of Taraxacum bracteatum
+ErrorMsg=Coordinate is outside known range for Taraxacum bracteatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000841000
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C93
+H15
+J27
+J36
+
+
+[10km_GB]
+NJ62
+NT17
+NT24
+NT33
+NX74
+NX87
+NY65
+NZ21
+NZ52
+SN42
+SN43
+SN50
+SN51
+SN53
+SN61
+SN74
+SN83
+SO02
+ST00
+ST21
+ST30
+ST39
+SW71
+SW84
+TQ43
+
+

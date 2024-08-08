@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Acleris rufana
+Description=Checks date is within known recording period of Acleris rufana
+ErrorMsg=Date is outside known recording period of Acleris rufana
+Tvk=NHMSYS0021143107
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Syncopacma suecicella 10km
+Description=Check coordinate against known distribution of Syncopacma suecicella
+ErrorMsg=Coordinate is outside known range for Syncopacma suecicella
+DataFieldName=Species
+DataRecordId=NHMSYS0000504433
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW61
+
+

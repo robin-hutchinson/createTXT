@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca lemanii 10km
+Description=Check coordinate against known distribution of Festuca lemanii
+ErrorMsg=Coordinate is outside known range for Festuca lemanii
+DataFieldName=Species
+DataRecordId=NHMSYS0000458777
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX69
+SK17
+SK86
+SN67
+SN80
+SO51
+TL44
+TQ43
+TQ48
+
+
+[10km_CI]
+WA50
+
+

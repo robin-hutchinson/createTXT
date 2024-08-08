@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Elachista dispunctella
+Description=Checks date is within known recording period of Elachista dispunctella
+ErrorMsg=Date is outside known recording period of Elachista dispunctella
+Tvk=NHMSYS0021142262
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

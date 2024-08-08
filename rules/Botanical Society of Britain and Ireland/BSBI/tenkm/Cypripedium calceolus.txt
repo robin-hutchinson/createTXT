@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cypripedium calceolus 10km
+Description=Check coordinate against known distribution of Cypripedium calceolus
+ErrorMsg=Coordinate is outside known range for Cypripedium calceolus
+DataFieldName=Species
+DataRecordId=NBNSYS0000002284
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY14
+NY31
+NZ43
+NZ44
+NZ50
+NZ60
+SD39
+SD47
+SD48
+SD49
+SD67
+SD77
+SD78
+SD87
+SD96
+SD97
+SD99
+SE09
+SE57
+SE58
+SE68
+SE69
+SK12
+SK25
+
+

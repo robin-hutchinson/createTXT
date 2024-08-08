@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sorbaria tomentosa 10km
+Description=Check coordinate against known distribution of Sorbaria tomentosa
+ErrorMsg=Coordinate is outside known range for Sorbaria tomentosa
+DataFieldName=Species
+DataRecordId=NHMSYS0000463792
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS75
+SK64
+SP07
+SP50
+SU38
+SU49
+SU77
+SU86
+SU87
+SU88
+SY59
+SY78
+TL28
+TL45
+TQ17
+TQ57
+TQ65
+TQ67
+TQ76
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cytisus nigricans 10km
+Description=Check coordinate against known distribution of Cytisus nigricans
+ErrorMsg=Coordinate is outside known range for Cytisus nigricans
+DataFieldName=Species
+DataRecordId=NBNSYS0000034411
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ17
+TQ75
+
+

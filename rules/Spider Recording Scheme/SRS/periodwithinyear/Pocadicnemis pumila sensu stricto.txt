@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Pocadicnemis pumila sensu stricto
+Description=Checks date is within known flight period of Pocadicnemis pumila sensu stricto
+ErrorMsg=Date is outside known flight period of Pocadicnemis pumila sensu stricto
+Tvk=NBNSYS0200000045
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

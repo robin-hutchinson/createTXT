@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium pensum 10km
+Description=Check coordinate against known distribution of Hieracium pensum
+ErrorMsg=Coordinate is outside known range for Hieracium pensum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459540
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG97
+NH17
+NH27
+NH28
+
+

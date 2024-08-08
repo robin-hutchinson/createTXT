@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phiaris metallicana
+Description=Checks date is within known flight period of Phiaris metallicana
+ErrorMsg=Date is outside known flight period of Phiaris metallicana
+Tvk=NHMSYS0021143179
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

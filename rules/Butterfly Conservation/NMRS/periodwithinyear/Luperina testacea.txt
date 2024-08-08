@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Luperina testacea
+Description=Checks date is within known flight period of Luperina testacea
+ErrorMsg=Date is outside known flight period of Luperina testacea
+Tvk=NHMSYS0021144621
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Dichrooscytus gustavi
+Description=Checks date is within known flight period of Dichrooscytus gustavi
+ErrorMsg=Date is outside known flight period of Dichrooscytus gustavi
+Tvk=NHMSYS0020309152
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

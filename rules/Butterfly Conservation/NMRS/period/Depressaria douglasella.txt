@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Depressaria douglasella
+Description=Checks date is within known recording period of Depressaria douglasella
+ErrorMsg=Date is outside known recording period of Depressaria douglasella
+Tvk=NHMSYS0000502122
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

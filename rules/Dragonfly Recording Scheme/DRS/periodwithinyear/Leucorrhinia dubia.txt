@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Dragonfly Recording Scheme/DRS Flight Period
+ShortName=Leucorrhinia dubia
+Description=Checks date is within known flight period of Leucorrhinia dubia
+ErrorMsg=Date is outside known flight period of Leucorrhinia dubia
+Tvk=NHMSYS0020546892
+DataFieldName=
+StartDate=0501
+EndDate=0718
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Mycobilimbia carneoalbida 10km
+Description=Check coordinate against known distribution of Mycobilimbia carneoalbida
+ErrorMsg=Coordinate is outside known range for Mycobilimbia carneoalbida
+DataFieldName=Species
+DataRecordId=NHMSYS0020535733
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN64
+
+

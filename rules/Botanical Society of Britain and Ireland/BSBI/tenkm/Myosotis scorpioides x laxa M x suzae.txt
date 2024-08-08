@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Myosotis scorpioides x laxa = M. x suzae 10km
+Description=Check coordinate against known distribution of Myosotis scorpioides x laxa = M. x suzae
+ErrorMsg=Coordinate is outside known range for Myosotis scorpioides x laxa = M. x suzae
+DataFieldName=Species
+DataRecordId=NHMSYS0001754538
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG08
+NO69
+NY01
+SD44
+SE13
+SH32
+SH33
+SH37
+SH53
+SH54
+SH71
+SH83
+SH93
+SJ03
+SN24
+SN34
+SN35
+SN44
+SN54
+SN65
+SN68
+SN73
+SN76
+SN79
+SO14
+SO15
+SO39
+SO73
+SP46
+TL30
+TL32
+
+
+[10km_Ireland]
+W25
+W27
+W35
+W37
+W44
+W45
+
+

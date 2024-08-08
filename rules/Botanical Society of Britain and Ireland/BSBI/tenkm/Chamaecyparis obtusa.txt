@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chamaecyparis obtusa 10km
+Description=Check coordinate against known distribution of Chamaecyparis obtusa
+ErrorMsg=Coordinate is outside known range for Chamaecyparis obtusa
+DataFieldName=Species
+DataRecordId=NBNSYS0000042080
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM49
+NS68
+NT07
+SN24
+SN34
+SN44
+SN51
+SN57
+
+

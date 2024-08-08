@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Epinotia maculana
+Description=Checks date is within known recording period of Epinotia maculana
+ErrorMsg=Date is outside known recording period of Epinotia maculana
+Tvk=NHMSYS0000502437
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

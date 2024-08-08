@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Cicadula (Cyperana) intermedia
+Description=Checks date is within known recording period of Cicadula (Cyperana) intermedia
+ErrorMsg=Date is outside known recording period of Cicadula (Cyperana) intermedia
+Tvk=NHMSYS0020705276
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

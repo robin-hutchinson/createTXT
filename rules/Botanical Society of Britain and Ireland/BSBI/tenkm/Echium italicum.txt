@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Echium italicum 10km
+Description=Check coordinate against known distribution of Echium italicum
+ErrorMsg=Coordinate is outside known range for Echium italicum
+DataFieldName=Species
+DataRecordId=NBNSYS0200002055
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TF26
+TL31
+
+

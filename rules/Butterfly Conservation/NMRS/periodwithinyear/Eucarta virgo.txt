@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eucarta virgo
+Description=Checks date is within known flight period of Eucarta virgo
+ErrorMsg=Date is outside known flight period of Eucarta virgo
+Tvk=NHMSYS0020758196
+DataFieldName=
+StartDate=0621
+EndDate=0721
+LastChanged=20240808
+[EndMetadata]

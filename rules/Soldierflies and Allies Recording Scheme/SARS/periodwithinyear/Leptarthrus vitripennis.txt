@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Leptarthrus vitripennis
+Description=Checks date is within known flight period of Leptarthrus vitripennis
+ErrorMsg=Date is outside known flight period of Leptarthrus vitripennis
+Tvk=NBNSYS0100003706
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

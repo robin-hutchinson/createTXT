@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Alkmaria romijni 10km
+Description=Check coordinate against known distribution of Alkmaria romijni
+ErrorMsg=Coordinate is outside known range for Alkmaria romijni
+DataFieldName=Species
+DataRecordId=NBNSYS0000188454
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE82
+SE92
+SM90
+SN00
+SX55
+SX64
+SX73
+SX83
+SX98
+SZ19
+SZ68
+TA02
+TA11
+TA12
+TA21
+TA22
+TA30
+TA31
+TA41
+TG40
+TM03
+TM34
+TM45
+
+

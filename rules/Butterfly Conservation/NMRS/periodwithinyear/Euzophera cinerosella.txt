@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Euzophera cinerosella
+Description=Checks date is within known flight period of Euzophera cinerosella
+ErrorMsg=Date is outside known flight period of Euzophera cinerosella
+Tvk=NHMSYS0000502660
+DataFieldName=
+StartDate=0501
+EndDate=0907
+LastChanged=20240808
+[EndMetadata]

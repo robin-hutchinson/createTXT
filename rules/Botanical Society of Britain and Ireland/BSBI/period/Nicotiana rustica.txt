@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Nicotiana rustica
+Description=Checks date is within known recording period of Nicotiana rustica
+ErrorMsg=Date is outside known recording period of Nicotiana rustica
+Tvk=NBNSYS0000014454
+StartDate=18690101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Miktoniscus linearis
+Description=Checks date is within known recording period of Miktoniscus linearis
+ErrorMsg=Date is outside known recording period of Miktoniscus linearis
+Tvk=NBNSYS0000008549
+StartDate=19080101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

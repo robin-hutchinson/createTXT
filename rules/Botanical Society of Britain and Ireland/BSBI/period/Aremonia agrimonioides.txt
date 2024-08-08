@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Aremonia agrimonioides
+Description=Checks date is within known recording period of Aremonia agrimonioides
+ErrorMsg=Date is outside known recording period of Aremonia agrimonioides
+Tvk=NBNSYS0000003368
+StartDate=18520101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

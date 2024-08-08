@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Papaver somniferum subsp. somniferum
+Description=Checks date is within known recording period of Papaver somniferum subsp. somniferum
+ErrorMsg=Date is outside known recording period of Papaver somniferum subsp. somniferum
+Tvk=NHMSYS0000461493
+StartDate=18300101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Mompha sturnipennella
+Description=Checks date is within known recording period of Mompha sturnipennella
+ErrorMsg=Date is outside known recording period of Mompha sturnipennella
+Tvk=NBNSYS0100004102
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

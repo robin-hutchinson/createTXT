@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rhizocarpon inarense 10km
+Description=Check coordinate against known distribution of Rhizocarpon inarense
+ErrorMsg=Coordinate is outside known range for Rhizocarpon inarense
+DataFieldName=Species
+DataRecordId=NBNSYS0000039762
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC44
+NC45
+NJ00
+SH91
+
+

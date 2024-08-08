@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex distans x hostiana = C. x muelleriana 10km
+Description=Check coordinate against known distribution of Carex distans x hostiana = C. x muelleriana
+ErrorMsg=Coordinate is outside known range for Carex distans x hostiana = C. x muelleriana
+DataFieldName=Species
+DataRecordId=NHMSYS0001754724
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU65
+SU83
+
+

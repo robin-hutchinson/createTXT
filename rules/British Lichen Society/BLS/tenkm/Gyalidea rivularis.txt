@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Gyalidea rivularis 10km
+Description=Check coordinate against known distribution of Gyalidea rivularis
+ErrorMsg=Coordinate is outside known range for Gyalidea rivularis
+DataFieldName=Species
+DataRecordId=NHMSYS0020990254
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO16
+NX16
+
+

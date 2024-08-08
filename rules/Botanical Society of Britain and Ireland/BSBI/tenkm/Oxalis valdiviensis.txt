@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Oxalis valdiviensis 10km
+Description=Check coordinate against known distribution of Oxalis valdiviensis
+ErrorMsg=Coordinate is outside known range for Oxalis valdiviensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000461429
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO65
+SH78
+SK95
+SP21
+SS94
+ST31
+SW83
+SZ58
+TL31
+TL45
+TQ05
+
+

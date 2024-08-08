@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex otrubae x divulsa 10km
+Description=Check coordinate against known distribution of Carex otrubae x divulsa
+ErrorMsg=Coordinate is outside known range for Carex otrubae x divulsa
+DataFieldName=Species
+DataRecordId=NHMSYS0100000921
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO74
+SO75
+SO97
+TQ21
+TQ82
+
+

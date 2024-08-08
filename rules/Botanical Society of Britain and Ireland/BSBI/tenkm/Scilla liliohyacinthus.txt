@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Scilla liliohyacinthus 10km
+Description=Check coordinate against known distribution of Scilla liliohyacinthus
+ErrorMsg=Coordinate is outside known range for Scilla liliohyacinthus
+DataFieldName=Species
+DataRecordId=NHMSYS0000463303
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ35
+NJ65
+NT43
+NT53
+NT54
+NT61
+NT65
+NY43
+SE27
+SS84
+SU76
+
+

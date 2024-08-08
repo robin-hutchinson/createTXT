@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Pernis apivorus
+Description=Checks date is within known flight period of Pernis apivorus
+ErrorMsg=Date is outside known flight period of Pernis apivorus
+Tvk=NHMSYS0000530550
+DataFieldName=
+StartDate=0425
+EndDate=0910
+LastChanged=20240808
+[EndMetadata]

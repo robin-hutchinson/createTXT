@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex hydrolapathum x conglomeratus = R. x digeneus 10km
+Description=Check coordinate against known distribution of Rumex hydrolapathum x conglomeratus = R. x digeneus
+ErrorMsg=Coordinate is outside known range for Rumex hydrolapathum x conglomeratus = R. x digeneus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754445
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX91
+NY45
+SD38
+SD57
+SJ21
+ST43
+TQ31
+
+

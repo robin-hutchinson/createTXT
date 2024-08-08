@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Gnophos dumetata hibernica
+Description=Checks date is within known flight period of Gnophos dumetata hibernica
+ErrorMsg=Date is outside known flight period of Gnophos dumetata hibernica
+Tvk=NHMSYS0021144288
+DataFieldName=
+StartDate=0815
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

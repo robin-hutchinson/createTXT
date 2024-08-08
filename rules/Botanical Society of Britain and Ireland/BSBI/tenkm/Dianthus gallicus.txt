@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dianthus gallicus 10km
+Description=Check coordinate against known distribution of Dianthus gallicus
+ErrorMsg=Coordinate is outside known range for Dianthus gallicus
+DataFieldName=Species
+DataRecordId=NBNSYS0000003011
+LastChanged=20240808
+[EndMetadata]
+
+NA
+
+

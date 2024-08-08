@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Andreaea blyttii 10km
+Description=Check coordinate against known distribution of Andreaea blyttii
+ErrorMsg=Coordinate is outside known range for Andreaea blyttii
+DataFieldName=Species
+DataRecordId=NBNSYS0000036121
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH60
+NJ00
+NN49
+NN78
+NN89
+NN98
+NN99
+NO09
+
+

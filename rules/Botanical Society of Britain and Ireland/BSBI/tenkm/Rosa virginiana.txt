@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa virginiana 10km
+Description=Check coordinate against known distribution of Rosa virginiana
+ErrorMsg=Coordinate is outside known range for Rosa virginiana
+DataFieldName=Species
+DataRecordId=NHMSYS0000462492
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+L65
+
+
+[10km_GB]
+NO37
+SC37
+SJ78
+SK20
+SN34
+SN57
+SN69
+SN78
+SP17
+SS69
+ST17
+ST44
+ST81
+ST90
+ST91
+SY67
+SY68
+SY69
+SY78
+SY79
+SY87
+SY88
+SY89
+SY99
+TG01
+
+

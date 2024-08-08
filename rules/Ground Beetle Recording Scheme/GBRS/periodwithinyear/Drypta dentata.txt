@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Drypta dentata
+Description=Checks date is within known flight period of Drypta dentata
+ErrorMsg=Date is outside known flight period of Drypta dentata
+Tvk=NBNSYS0000007488
+DataFieldName=
+StartDate=0301
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

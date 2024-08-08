@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Erucaria hispanica 10km
+Description=Check coordinate against known distribution of Erucaria hispanica
+ErrorMsg=Coordinate is outside known range for Erucaria hispanica
+DataFieldName=Species
+DataRecordId=NHMSYS0000458591
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO41
+NT26
+NT27
+ST57
+SZ09
+TF05
+TL13
+TL31
+TQ26
+
+

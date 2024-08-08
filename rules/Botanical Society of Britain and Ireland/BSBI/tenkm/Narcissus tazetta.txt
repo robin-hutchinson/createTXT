@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Narcissus tazetta 10km
+Description=Check coordinate against known distribution of Narcissus tazetta
+ErrorMsg=Coordinate is outside known range for Narcissus tazetta
+DataFieldName=Species
+DataRecordId=NBNSYS0000014810
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM41
+NS56
+NT27
+SC26
+SM83
+SN35
+SN46
+SS43
+SS44
+SS84
+SU96
+SV81
+SV91
+SW42
+SW52
+SW54
+SW83
+SX66
+SX79
+SY66
+SY67
+SZ09
+TL34
+
+
+NA
+
+

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum pannulatiforme 10km
+Description=Check coordinate against known distribution of Taraxacum pannulatiforme
+ErrorMsg=Coordinate is outside known range for Taraxacum pannulatiforme
+DataFieldName=Species
+DataRecordId=NHMSYS0000840711
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ21
+SN11
+SN30
+ST11
+
+

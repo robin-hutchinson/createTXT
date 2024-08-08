@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Plusia festucae
+Description=Checks date is within known flight period of Plusia festucae
+ErrorMsg=Date is outside known flight period of Plusia festucae
+Tvk=NBNSYS0000006544
+DataFieldName=
+StartDate=0507
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

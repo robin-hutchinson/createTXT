@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Dryobotodes roboris
+Description=Checks date is within known recording period of Dryobotodes roboris
+ErrorMsg=Date is outside known recording period of Dryobotodes roboris
+Tvk=NHMSYS0021144761
+StartDate=20061012
+EndDate=
+LastChanged=20240808
+[EndMetadata]

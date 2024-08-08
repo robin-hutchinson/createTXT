@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Epiblema costipunctana
+Description=Checks date is within known flight period of Epiblema costipunctana
+ErrorMsg=Date is outside known flight period of Epiblema costipunctana
+Tvk=NHMSYS0000502405
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

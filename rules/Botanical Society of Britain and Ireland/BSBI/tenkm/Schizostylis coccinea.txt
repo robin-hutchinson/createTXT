@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Schizostylis coccinea 10km
+Description=Check coordinate against known distribution of Schizostylis coccinea
+ErrorMsg=Coordinate is outside known range for Schizostylis coccinea
+DataFieldName=Species
+DataRecordId=NHMSYS0000463288
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN25
+SU77
+
+

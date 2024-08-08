@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex paniculata x appropinquata = C. x rotae 10km
+Description=Check coordinate against known distribution of Carex paniculata x appropinquata = C. x rotae
+ErrorMsg=Coordinate is outside known range for Carex paniculata x appropinquata = C. x rotae
+DataFieldName=Species
+DataRecordId=NHMSYS0001754380
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+N14
+N35
+N36
+
+
+[10km_GB]
+TF92
+TG30
+TG31
+TL77
+TL99
+TQ09
+
+

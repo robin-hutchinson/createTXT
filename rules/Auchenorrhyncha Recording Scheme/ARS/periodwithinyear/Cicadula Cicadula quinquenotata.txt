@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Cicadula (Cicadula) quinquenotata
+Description=Checks date is within known flight period of Cicadula (Cicadula) quinquenotata
+ErrorMsg=Date is outside known flight period of Cicadula (Cicadula) quinquenotata
+Tvk=NHMSYS0020705280
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

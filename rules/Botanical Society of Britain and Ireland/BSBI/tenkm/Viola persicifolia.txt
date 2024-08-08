@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Viola persicifolia 10km
+Description=Check coordinate against known distribution of Viola persicifolia
+ErrorMsg=Coordinate is outside known range for Viola persicifolia
+DataFieldName=Species
+DataRecordId=NHMSYS0000464895
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+H15
+H23
+H32
+H33
+M15
+M20
+M31
+M40
+M41
+M50
+M52
+M96
+N03
+N08
+N38
+R29
+R39
+
+
+[10km_GB]
+NS96
+SE51
+SE71
+SK69
+SK79
+SK96
+SP51
+TF06
+TF07
+TF16
+TL28
+TL29
+TL47
+TL49
+TL56
+TL57
+TL58
+TL69
+TL78
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plecoptera Recording Scheme/PRS Flight Period
+ShortName=Protonemura meyeri
+Description=Checks date is within known flight period of Protonemura meyeri
+ErrorMsg=Date is outside known flight period of Protonemura meyeri
+Tvk=NBNSYS0000022425
+DataFieldName=
+StartDate=0201
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

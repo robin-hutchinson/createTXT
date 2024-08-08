@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rhizocarpon ridescens 10km
+Description=Check coordinate against known distribution of Rhizocarpon ridescens
+ErrorMsg=Coordinate is outside known range for Rhizocarpon ridescens
+DataFieldName=Species
+DataRecordId=NHMSYS0001496289
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO19
+
+

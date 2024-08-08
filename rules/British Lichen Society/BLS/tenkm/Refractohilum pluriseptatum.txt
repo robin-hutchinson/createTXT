@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Refractohilum pluriseptatum 10km
+Description=Check coordinate against known distribution of Refractohilum pluriseptatum
+ErrorMsg=Coordinate is outside known range for Refractohilum pluriseptatum
+DataFieldName=Species
+DataRecordId=BMSSYS0000016129
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG51
+NH41
+
+

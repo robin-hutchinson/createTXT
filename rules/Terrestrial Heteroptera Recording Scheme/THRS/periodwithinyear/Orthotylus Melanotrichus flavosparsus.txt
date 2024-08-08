@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Orthotylus (Melanotrichus) flavosparsus
+Description=Checks date is within known flight period of Orthotylus (Melanotrichus) flavosparsus
+ErrorMsg=Date is outside known flight period of Orthotylus (Melanotrichus) flavosparsus
+Tvk=NHMSYS0020309587
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

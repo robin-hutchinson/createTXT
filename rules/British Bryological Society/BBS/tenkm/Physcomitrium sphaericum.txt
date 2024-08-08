@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Physcomitrium sphaericum 10km
+Description=Check coordinate against known distribution of Physcomitrium sphaericum
+ErrorMsg=Coordinate is outside known range for Physcomitrium sphaericum
+DataFieldName=Species
+DataRecordId=NHMSYS0000310285
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS35
+NS36
+NS45
+NS46
+NS55
+NS56
+NS57
+NS65
+NS66
+NS67
+NS76
+NS77
+NS79
+NS84
+SE01
+SE10
+SE15
+SE16
+SE17
+SE20
+SJ85
+SJ95
+SJ96
+SJ97
+SJ98
+SJ99
+SK06
+SK08
+SK09
+SK28
+SK29
+
+

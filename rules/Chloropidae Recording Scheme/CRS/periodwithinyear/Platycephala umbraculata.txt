@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Platycephala umbraculata
+Description=Checks date is within known flight period of Platycephala umbraculata
+ErrorMsg=Date is outside known flight period of Platycephala umbraculata
+Tvk=NBNSYS0000029943
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

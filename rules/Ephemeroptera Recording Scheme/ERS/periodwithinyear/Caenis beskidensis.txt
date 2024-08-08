@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Caenis beskidensis
+Description=Checks date is within known flight period of Caenis beskidensis
+ErrorMsg=Date is outside known flight period of Caenis beskidensis
+Tvk=NBNSYS0100002144
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

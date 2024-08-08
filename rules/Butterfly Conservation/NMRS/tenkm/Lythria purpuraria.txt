@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Lythria purpuraria 10km
+Description=Check coordinate against known distribution of Lythria purpuraria
+ErrorMsg=Coordinate is outside known range for Lythria purpuraria
+DataFieldName=Species
+DataRecordId=NBNSYS0000005790
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST41
+ST42
+ST43
+ST51
+ST52
+ST53
+ST61
+ST62
+ST63
+
+

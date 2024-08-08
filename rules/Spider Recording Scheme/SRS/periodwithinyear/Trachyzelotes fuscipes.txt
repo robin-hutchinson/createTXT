@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Trachyzelotes fuscipes
+Description=Checks date is within known flight period of Trachyzelotes fuscipes
+ErrorMsg=Date is outside known flight period of Trachyzelotes fuscipes
+Tvk=NHMSYS0000354403
+DataFieldName=
+StartDate=0316
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Mythimna vitellina
+Description=Checks date is within known flight period of Mythimna vitellina
+ErrorMsg=Date is outside known flight period of Mythimna vitellina
+Tvk=NHMSYS0021144863
+DataFieldName=
+StartDate=0501
+EndDate=1115
+LastChanged=20240808
+[EndMetadata]

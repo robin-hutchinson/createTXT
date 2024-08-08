@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Noctua orbona
+Description=Checks date is within known flight period of Noctua orbona
+ErrorMsg=Date is outside known flight period of Noctua orbona
+Tvk=NBNSYS0000006194
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

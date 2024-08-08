@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Leptocerus tineiformis
+Description=Checks date is within known recording period of Leptocerus tineiformis
+ErrorMsg=Date is outside known recording period of Leptocerus tineiformis
+Tvk=NBNSYS0000008524
+StartDate=18340101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex acutiformis x riparia = C. x sooi 10km
+Description=Check coordinate against known distribution of Carex acutiformis x riparia = C. x sooi
+ErrorMsg=Coordinate is outside known range for Carex acutiformis x riparia = C. x sooi
+DataFieldName=Species
+DataRecordId=NHMSYS0001754609
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ22
+SK41
+SK51
+ST07
+ST17
+TG23
+TL57
+TL88
+TM26
+
+

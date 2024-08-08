@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Hiereoblatta cassidea
+Description=Checks date is within known recording period of Hiereoblatta cassidea
+ErrorMsg=Date is outside known recording period of Hiereoblatta cassidea
+Tvk=NHMSYS0020978470
+StartDate=19320101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

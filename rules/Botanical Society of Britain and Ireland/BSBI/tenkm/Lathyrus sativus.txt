@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lathyrus sativus 10km
+Description=Check coordinate against known distribution of Lathyrus sativus
+ErrorMsg=Coordinate is outside known range for Lathyrus sativus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014842
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TA12
+TF62
+TQ25
+
+

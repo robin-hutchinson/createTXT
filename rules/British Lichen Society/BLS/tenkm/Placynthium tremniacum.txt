@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Placynthium tremniacum 10km
+Description=Check coordinate against known distribution of Placynthium tremniacum
+ErrorMsg=Coordinate is outside known range for Placynthium tremniacum
+DataFieldName=Species
+DataRecordId=NHMSYS0001493909
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+L90
+M21
+R29
+
+
+[10km_GB]
+NG74
+NG84
+NH42
+NM22
+NM52
+NN43
+NN64
+NZ03
+SH12
+SH71
+SH93
+SK90
+SN71
+SN97
+SS53
+SU32
+SW75
+SZ08
+TQ15
+
+

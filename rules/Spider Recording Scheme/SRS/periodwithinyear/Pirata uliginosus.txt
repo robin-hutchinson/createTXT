@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Pirata uliginosus
+Description=Checks date is within known flight period of Pirata uliginosus
+ErrorMsg=Date is outside known flight period of Pirata uliginosus
+Tvk=NBNSYS0000008826
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

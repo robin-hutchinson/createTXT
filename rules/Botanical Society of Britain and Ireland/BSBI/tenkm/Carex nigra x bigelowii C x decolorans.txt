@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex nigra x bigelowii = C. x decolorans 10km
+Description=Check coordinate against known distribution of Carex nigra x bigelowii = C. x decolorans
+ErrorMsg=Coordinate is outside known range for Carex nigra x bigelowii = C. x decolorans
+DataFieldName=Species
+DataRecordId=NHMSYS0001754411
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY42
+NN42
+NN53
+NN67
+NO17
+NO27
+NO28
+NS60
+NS72
+NT13
+NT22
+NT34
+NT40
+NT41
+NT60
+NT81
+NY32
+NY33
+NY39
+NY49
+NY63
+NY69
+NY73
+SD78
+SJ03
+SN88
+
+

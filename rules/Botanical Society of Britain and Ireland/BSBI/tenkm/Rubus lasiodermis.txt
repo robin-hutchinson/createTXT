@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus lasiodermis 10km
+Description=Check coordinate against known distribution of Rubus lasiodermis
+ErrorMsg=Coordinate is outside known range for Rubus lasiodermis
+DataFieldName=Species
+DataRecordId=NHMSYS0000840927
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST02
+ST12
+ST51
+ST61
+ST73
+ST84
+ST90
+SU00
+SU01
+SU10
+SU11
+SU20
+SU21
+SU30
+SU40
+SU41
+SU50
+SU51
+SY89
+SY98
+SY99
+SZ09
+SZ19
+SZ39
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lichenochora coarctatae 10km
+Description=Check coordinate against known distribution of Lichenochora coarctatae
+ErrorMsg=Coordinate is outside known range for Lichenochora coarctatae
+DataFieldName=Species
+DataRecordId=NHMSYS0020990569
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ67
+TM14
+
+

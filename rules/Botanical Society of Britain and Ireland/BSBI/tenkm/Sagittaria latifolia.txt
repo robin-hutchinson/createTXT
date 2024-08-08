@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sagittaria latifolia 10km
+Description=Check coordinate against known distribution of Sagittaria latifolia
+ErrorMsg=Coordinate is outside known range for Sagittaria latifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000002106
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY35
+SE14
+SU30
+SU31
+SU84
+SU85
+SU93
+SU94
+SX56
+SX79
+SZ07
+SZ39
+TQ04
+TQ05
+TQ13
+TQ16
+TQ21
+TQ24
+TQ26
+TQ31
+TQ34
+TQ42
+
+
+NA
+
+

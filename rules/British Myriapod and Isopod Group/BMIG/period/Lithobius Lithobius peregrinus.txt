@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Lithobius (Lithobius) peregrinus
+Description=Checks date is within known recording period of Lithobius (Lithobius) peregrinus
+ErrorMsg=Date is outside known recording period of Lithobius (Lithobius) peregrinus
+Tvk=NHMSYS0020500674
+StartDate=19860101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

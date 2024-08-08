@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Stenophiloscia glarearum 10km
+Description=Check coordinate against known distribution of Stenophiloscia glarearum
+ErrorMsg=Coordinate is outside known range for Stenophiloscia glarearum
+DataFieldName=Species
+DataRecordId=NHMSYS0020302572
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TM01
+TM11
+TM34
+
+

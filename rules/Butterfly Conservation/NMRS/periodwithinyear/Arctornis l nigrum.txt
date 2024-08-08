@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Arctornis l-nigrum
+Description=Checks date is within known flight period of Arctornis l-nigrum
+ErrorMsg=Date is outside known flight period of Arctornis l-nigrum
+Tvk=NHMSYS0000501296
+DataFieldName=
+StartDate=0701
+EndDate=0715
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Elachiptera rufifrons 10km
+Description=Check coordinate against known distribution of Elachiptera rufifrons
+ErrorMsg=Coordinate is outside known range for Elachiptera rufifrons
+DataFieldName=Species
+DataRecordId=NBNSYS0000029935
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ87
+TQ96
+
+

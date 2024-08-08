@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Psychomyia fragilis
+Description=Checks date is within known flight period of Psychomyia fragilis
+ErrorMsg=Date is outside known flight period of Psychomyia fragilis
+Tvk=NHMSYS0020547806
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

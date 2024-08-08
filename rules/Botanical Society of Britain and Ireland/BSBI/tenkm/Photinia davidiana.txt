@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Photinia davidiana 10km
+Description=Check coordinate against known distribution of Photinia davidiana
+ErrorMsg=Coordinate is outside known range for Photinia davidiana
+DataFieldName=Species
+DataRecordId=NBNSYS0000014140
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG53
+NH33
+NH65
+NH75
+NH76
+NS03
+NS18
+NS19
+SC48
+SD47
+SE33
+SJ46
+SS58
+SS84
+SU40
+SU84
+SU86
+SU93
+SU94
+SU95
+SW74
+SZ39
+TL20
+TQ05
+TQ06
+TQ15
+TQ16
+TQ24
+TQ25
+TQ27
+TQ28
+TQ46
+TQ56
+TQ66
+
+

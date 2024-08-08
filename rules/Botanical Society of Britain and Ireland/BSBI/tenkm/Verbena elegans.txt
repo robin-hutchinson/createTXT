@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbena elegans 10km
+Description=Check coordinate against known distribution of Verbena elegans
+ErrorMsg=Coordinate is outside known range for Verbena elegans
+DataFieldName=Species
+DataRecordId=NBNSYS0200003770
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP50
+
+

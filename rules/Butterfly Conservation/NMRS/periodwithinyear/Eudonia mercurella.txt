@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eudonia mercurella
+Description=Checks date is within known flight period of Eudonia mercurella
+ErrorMsg=Date is outside known flight period of Eudonia mercurella
+Tvk=NHMSYS0000502556
+DataFieldName=
+StartDate=0415
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

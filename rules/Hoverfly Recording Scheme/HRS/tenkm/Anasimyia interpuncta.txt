@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Anasimyia interpuncta 10km
+Description=Check coordinate against known distribution of Anasimyia interpuncta
+ErrorMsg=Coordinate is outside known range for Anasimyia interpuncta
+DataFieldName=Species
+DataRecordId=NBNSYS0000007040
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM83
+SP87
+TG10
+TG30
+TL19
+TL21
+TL26
+TL28
+TL29
+TL44
+TL56
+TL57
+TL70
+TL78
+TL98
+TL99
+TM37
+TQ17
+TQ47
+TQ48
+TQ57
+TQ58
+TQ60
+TQ71
+TQ91
+
+

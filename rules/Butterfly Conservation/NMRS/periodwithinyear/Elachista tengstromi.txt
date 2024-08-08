@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Elachista tengstromi
+Description=Checks date is within known flight period of Elachista tengstromi
+ErrorMsg=Date is outside known flight period of Elachista tengstromi
+Tvk=NHMSYS0021142278
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

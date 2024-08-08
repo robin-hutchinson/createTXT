@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Malus floribunda 10km
+Description=Check coordinate against known distribution of Malus floribunda
+ErrorMsg=Coordinate is outside known range for Malus floribunda
+DataFieldName=Species
+DataRecordId=NHMSYS0000460568
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ84
+TQ13
+TQ23
+
+

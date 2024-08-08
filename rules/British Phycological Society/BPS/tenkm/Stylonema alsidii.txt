@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Stylonema alsidii 10km
+Description=Check coordinate against known distribution of Stylonema alsidii
+ErrorMsg=Coordinate is outside known range for Stylonema alsidii
+DataFieldName=Species
+DataRecordId=NHMSYS0000568361
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM42
+NM44
+NM73
+NO51
+NS15
+SD46
+SH57
+SH67
+SH68
+SM70
+SM80
+SR99
+SS14
+SS49
+SW82
+SW83
+SX73
+SZ07
+SZ39
+SZ49
+SZ68
+TF84
+TL90
+TM01
+TM11
+TM20
+TQ88
+
+

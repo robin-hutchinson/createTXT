@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eupithecia satyrata curzoni
+Description=Checks date is within known flight period of Eupithecia satyrata curzoni
+ErrorMsg=Date is outside known flight period of Eupithecia satyrata curzoni
+Tvk=NHMSYS0021144114
+DataFieldName=
+StartDate=0415
+EndDate=0807
+LastChanged=20240808
+[EndMetadata]

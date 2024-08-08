@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Eupeodes nitens
+Description=Checks date is within known flight period of Eupeodes nitens
+ErrorMsg=Date is outside known flight period of Eupeodes nitens
+Tvk=NBNSYS0100003113
+DataFieldName=
+StartDate=0413
+EndDate=1121
+LastChanged=20240808
+[EndMetadata]

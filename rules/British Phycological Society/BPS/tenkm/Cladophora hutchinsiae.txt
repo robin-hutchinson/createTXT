@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Cladophora hutchinsiae 10km
+Description=Check coordinate against known distribution of Cladophora hutchinsiae
+ErrorMsg=Coordinate is outside known range for Cladophora hutchinsiae
+DataFieldName=Species
+DataRecordId=NBNSYS0000174589
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+NB13
+NF72
+NG18
+NG19
+NM04
+NM15
+NR39
+NR47
+NS14
+NS15
+SH12
+SH36
+SH37
+SH56
+SM73
+SS14
+SS48
+SS49
+SS68
+SV80
+SV81
+SV90
+SV91
+SW42
+SW72
+SW83
+SW93
+SX96
+SY39
+SY58
+SY68
+SY78
+SY87
+SY97
+SZ07
+SZ08
+TL90
+TR16
+TR23
+TR34
+
+

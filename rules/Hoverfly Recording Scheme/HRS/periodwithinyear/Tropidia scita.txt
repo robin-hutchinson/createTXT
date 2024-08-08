@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Tropidia scita
+Description=Checks date is within known flight period of Tropidia scita
+ErrorMsg=Date is outside known flight period of Tropidia scita
+Tvk=NBNSYS0000007111
+DataFieldName=
+StartDate=0106
+EndDate=1110
+LastChanged=20240808
+[EndMetadata]

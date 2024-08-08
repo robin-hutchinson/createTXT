@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hypericum forrestii 10km
+Description=Check coordinate against known distribution of Hypericum forrestii
+ErrorMsg=Coordinate is outside known range for Hypericum forrestii
+DataFieldName=Species
+DataRecordId=NHMSYS0000459851
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ15
+NM71
+SD48
+SE24
+SK63
+SN77
+SP81
+SS94
+ST74
+TL02
+
+

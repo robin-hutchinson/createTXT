@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Oxidus gracilis
+Description=Checks date is within known recording period of Oxidus gracilis
+ErrorMsg=Date is outside known recording period of Oxidus gracilis
+Tvk=NBNSYS0000011363
+StartDate=19020101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

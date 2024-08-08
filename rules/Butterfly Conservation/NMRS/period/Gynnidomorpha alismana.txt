@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Gynnidomorpha alismana
+Description=Checks date is within known recording period of Gynnidomorpha alismana
+ErrorMsg=Date is outside known recording period of Gynnidomorpha alismana
+Tvk=NBNSYS0100003311
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

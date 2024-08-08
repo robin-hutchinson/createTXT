@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pilosella officinarum x aurantiaca = P. x stoloniflora 10km
+Description=Check coordinate against known distribution of Pilosella officinarum x aurantiaca = P. x stoloniflora
+ErrorMsg=Coordinate is outside known range for Pilosella officinarum x aurantiaca = P. x stoloniflora
+DataFieldName=Species
+DataRecordId=NHMSYS0001754397
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC83
+NJ14
+NX75
+NZ36
+SJ77
+SN24
+SO78
+SS64
+ST62
+SX05
+
+
+NA
+
+

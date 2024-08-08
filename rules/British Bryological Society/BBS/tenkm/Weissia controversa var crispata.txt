@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Weissia controversa var. crispata 10km
+Description=Check coordinate against known distribution of Weissia controversa var. crispata
+ErrorMsg=Coordinate is outside known range for Weissia controversa var. crispata
+DataFieldName=Species
+DataRecordId=NHMSYS0000841019
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SR89
+SS38
+SS39
+
+

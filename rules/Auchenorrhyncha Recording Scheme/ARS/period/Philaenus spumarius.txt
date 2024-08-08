@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Philaenus spumarius
+Description=Checks date is within known recording period of Philaenus spumarius
+ErrorMsg=Date is outside known recording period of Philaenus spumarius
+Tvk=NHMSYS0020705811
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

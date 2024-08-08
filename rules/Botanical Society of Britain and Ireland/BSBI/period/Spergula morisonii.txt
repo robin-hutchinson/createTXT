@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Spergula morisonii
+Description=Checks date is within known recording period of Spergula morisonii
+ErrorMsg=Date is outside known recording period of Spergula morisonii
+Tvk=NBNSYS0000003067
+StartDate=19430101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ranunculus trichophyllus x aquatilis = R. x lutzii 10km
+Description=Check coordinate against known distribution of Ranunculus trichophyllus x aquatilis = R. x lutzii
+ErrorMsg=Coordinate is outside known range for Ranunculus trichophyllus x aquatilis = R. x lutzii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754386
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY31
+HY42
+HY51
+NJ51
+NT73
+SJ37
+SJ44
+SP17
+SP29
+SP45
+
+

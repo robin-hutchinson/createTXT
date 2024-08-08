@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix caprea x cinerea x repens 10km
+Description=Check coordinate against known distribution of Salix caprea x cinerea x repens
+ErrorMsg=Coordinate is outside known range for Salix caprea x cinerea x repens
+DataFieldName=Species
+DataRecordId=NHMSYS0020112229
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS43
+
+

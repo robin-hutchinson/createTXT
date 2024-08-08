@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Orobanche lucorum 10km
+Description=Check coordinate against known distribution of Orobanche lucorum
+ErrorMsg=Coordinate is outside known range for Orobanche lucorum
+DataFieldName=Species
+DataRecordId=NBNSYS0200002756
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP50
+
+

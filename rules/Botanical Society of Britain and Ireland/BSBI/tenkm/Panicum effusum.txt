@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Panicum effusum 10km
+Description=Check coordinate against known distribution of Panicum effusum
+ErrorMsg=Coordinate is outside known range for Panicum effusum
+DataFieldName=Species
+DataRecordId=NBNSYS0200002775
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TL30
+
+

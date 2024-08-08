@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Epinotia subocellana
+Description=Checks date is within known flight period of Epinotia subocellana
+ErrorMsg=Date is outside known flight period of Epinotia subocellana
+Tvk=NHMSYS0000502452
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

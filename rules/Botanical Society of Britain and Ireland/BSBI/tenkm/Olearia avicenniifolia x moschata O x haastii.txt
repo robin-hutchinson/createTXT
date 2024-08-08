@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Olearia avicenniifolia x moschata = O. x haastii 10km
+Description=Check coordinate against known distribution of Olearia avicenniifolia x moschata = O. x haastii
+ErrorMsg=Coordinate is outside known range for Olearia avicenniifolia x moschata = O. x haastii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754758
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C73
+
+
+[10km_GB]
+NG55
+NS32
+NS38
+NW95
+NX40
+NZ71
+SC26
+SC37
+SC48
+SC49
+SD20
+SD63
+SD70
+SE02
+SE43
+SH78
+SN45
+SN46
+SO99
+SS68
+SV81
+SV91
+SW32
+SW74
+SW84
+SX25
+SX96
+SY67
+TA08
+TG14
+TQ45
+TQ57
+
+

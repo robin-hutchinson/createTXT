@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=National Amphibian and Reptile Recording Scheme/NARRS 10km distribution
+ShortName=Lithobates catesbeianus 10km
+Description=Check coordinate against known distribution of Lithobates catesbeianus
+ErrorMsg=Coordinate is outside known range for Lithobates catesbeianus
+DataFieldName=Species
+DataRecordId=NHMSYS0020194859
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ60
+TQ61
+TQ70
+TQ71
+TQ80
+TQ81
+TV69
+TV79
+
+

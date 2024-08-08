@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Antigastra catalaunalis
+Description=Checks date is within known recording period of Antigastra catalaunalis
+ErrorMsg=Date is outside known recording period of Antigastra catalaunalis
+Tvk=NHMSYS0000501267
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

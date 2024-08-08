@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Erigeron philadelphicus 10km
+Description=Check coordinate against known distribution of Erigeron philadelphicus
+ErrorMsg=Coordinate is outside known range for Erigeron philadelphicus
+DataFieldName=Species
+DataRecordId=NBNSYS0000013928
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+SD47
+SO50
+SP50
+SS43
+SS91
+ST17
+ST34
+ST57
+ST58
+ST59
+ST67
+ST68
+SU94
+SW42
+SY58
+SY68
+TQ05
+TQ15
+TQ17
+TQ26
+TQ27
+
+
+NA
+
+

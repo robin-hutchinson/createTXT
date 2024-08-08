@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus radulicaulis 10km
+Description=Check coordinate against known distribution of Rubus radulicaulis
+ErrorMsg=Coordinate is outside known range for Rubus radulicaulis
+DataFieldName=Species
+DataRecordId=NHMSYS0000840669
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO02
+SO24
+SO46
+SO50
+SO52
+SO53
+ST49
+SU42
+SU50
+SU60
+SU71
+SZ38
+SZ58
+SZ59
+
+

@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Polygonum oxyspermum subsp. raii 10km
+Description=Check coordinate against known distribution of Polygonum oxyspermum subsp. raii
+ErrorMsg=Coordinate is outside known range for Polygonum oxyspermum subsp. raii
+DataFieldName=Species
+DataRecordId=NHMSYS0000461873
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG30
+NG33
+NG42
+NG50
+NM15
+NM22
+NM26
+NM48
+NX15
+SH61
+SH98
+SJ18
+SS78
+SS87
+ST24
+
+

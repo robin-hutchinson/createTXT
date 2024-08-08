@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Erzaleus metrius
+Description=Checks date is within known flight period of Erzaleus metrius
+ErrorMsg=Date is outside known flight period of Erzaleus metrius
+Tvk=NHMSYS0020977210
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

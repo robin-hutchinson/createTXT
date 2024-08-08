@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Struebingianella lugubrina
+Description=Checks date is within known flight period of Struebingianella lugubrina
+ErrorMsg=Date is outside known flight period of Struebingianella lugubrina
+Tvk=NHMSYS0020705924
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

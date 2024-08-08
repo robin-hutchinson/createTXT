@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Deltote deceptoria
+Description=Checks date is within known flight period of Deltote deceptoria
+ErrorMsg=Date is outside known flight period of Deltote deceptoria
+Tvk=NBNSYS0000006517
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

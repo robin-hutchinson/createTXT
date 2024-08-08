@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Scolymus hispanicus
+Description=Checks date is within known recording period of Scolymus hispanicus
+ErrorMsg=Date is outside known recording period of Scolymus hispanicus
+Tvk=NBNSYS0000014859
+StartDate=18760101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

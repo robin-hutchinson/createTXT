@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia norvegica 10km
+Description=Check coordinate against known distribution of Cladonia norvegica
+ErrorMsg=Coordinate is outside known range for Cladonia norvegica
+DataFieldName=Species
+DataRecordId=NBNSYS0000039613
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH06
+NM66
+NR78
+NR89
+SH62
+SH64
+SH72
+SN69
+SN77
+SS83
+
+

@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus celticus 10km
+Description=Check coordinate against known distribution of Rubus celticus
+ErrorMsg=Coordinate is outside known range for Rubus celticus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462634
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH43
+SH52
+SH53
+SH54
+SH61
+SH62
+SH63
+SH64
+SH70
+SH71
+SH72
+SH74
+SH82
+SN69
+
+

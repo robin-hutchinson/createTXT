@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Aster novi-belgii
+Description=Checks date is within known recording period of Aster novi-belgii
+ErrorMsg=Date is outside known recording period of Aster novi-belgii
+Tvk=NBNSYS0000004426
+StartDate=18600101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Leiocolea gillmanii 10km
+Description=Check coordinate against known distribution of Leiocolea gillmanii
+ErrorMsg=Coordinate is outside known range for Leiocolea gillmanii
+DataFieldName=Species
+DataRecordId=NHMSYS0000310133
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NF68
+NN75
+
+

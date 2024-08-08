@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Bucculatrix cidarella
+Description=Checks date is within known recording period of Bucculatrix cidarella
+ErrorMsg=Date is outside known recording period of Bucculatrix cidarella
+Tvk=NHMSYS0021142409
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

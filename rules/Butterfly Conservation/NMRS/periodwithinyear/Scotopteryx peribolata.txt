@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Scotopteryx peribolata
+Description=Checks date is within known flight period of Scotopteryx peribolata
+ErrorMsg=Date is outside known flight period of Scotopteryx peribolata
+Tvk=NHMSYS0021143906
+DataFieldName=
+StartDate=0821
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

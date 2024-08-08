@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Anakelisia fasciata
+Description=Checks date is within known flight period of Anakelisia fasciata
+ErrorMsg=Date is outside known flight period of Anakelisia fasciata
+Tvk=NHMSYS0020705193
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

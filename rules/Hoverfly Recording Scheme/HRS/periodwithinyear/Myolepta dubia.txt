@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Myolepta dubia
+Description=Checks date is within known flight period of Myolepta dubia
+ErrorMsg=Date is outside known flight period of Myolepta dubia
+Tvk=NBNSYS0100004156
+DataFieldName=
+StartDate=0520
+EndDate=0924
+LastChanged=20240808
+[EndMetadata]

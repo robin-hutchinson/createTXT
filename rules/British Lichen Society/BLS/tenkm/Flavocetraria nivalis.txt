@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Flavocetraria nivalis 10km
+Description=Check coordinate against known distribution of Flavocetraria nivalis
+ErrorMsg=Coordinate is outside known range for Flavocetraria nivalis
+DataFieldName=Species
+DataRecordId=BMSSYS0000006834
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH70
+NH71
+NH72
+NH80
+NH81
+NH82
+NH90
+NH91
+NH92
+NJ00
+NJ01
+NJ02
+NJ03
+NJ10
+NJ11
+NJ12
+NJ13
+NJ20
+NJ21
+NJ22
+NJ23
+NJ30
+NJ31
+NJ40
+NJ41
+NN79
+NN89
+NN98
+NN99
+NO08
+NO09
+NO18
+NO19
+NO28
+NO29
+NO39
+NO49
+
+

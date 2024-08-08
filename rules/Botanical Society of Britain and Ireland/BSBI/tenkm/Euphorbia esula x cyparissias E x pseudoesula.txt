@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphorbia esula x cyparissias = E. x pseudoesula 10km
+Description=Check coordinate against known distribution of Euphorbia esula x cyparissias = E. x pseudoesula
+ErrorMsg=Coordinate is outside known range for Euphorbia esula x cyparissias = E. x pseudoesula
+DataFieldName=Species
+DataRecordId=NHMSYS0001754468
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ62
+SD33
+SN10
+SN81
+SZ08
+TL04
+TL66
+TL87
+
+

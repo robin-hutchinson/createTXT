@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix lanata 10km
+Description=Check coordinate against known distribution of Salix lanata
+ErrorMsg=Coordinate is outside known range for Salix lanata
+DataFieldName=Species
+DataRecordId=NBNSYS0000003881
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH11
+NN43
+NN47
+NN53
+NN59
+NN64
+NN67
+NN68
+NN78
+NN89
+NO07
+NO17
+NO18
+NO27
+NO28
+NO37
+
+

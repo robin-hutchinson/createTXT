@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Lepidostoma hirtum
+Description=Checks date is within known flight period of Lepidostoma hirtum
+ErrorMsg=Date is outside known flight period of Lepidostoma hirtum
+Tvk=NHMSYS0020704804
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

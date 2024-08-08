@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Mompha langiella
+Description=Checks date is within known flight period of Mompha langiella
+ErrorMsg=Date is outside known flight period of Mompha langiella
+Tvk=NHMSYS0000503258
+DataFieldName=
+StartDate=0515
+EndDate=0715
+LastChanged=20240808
+[EndMetadata]

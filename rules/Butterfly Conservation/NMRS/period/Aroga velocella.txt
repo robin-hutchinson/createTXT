@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Aroga velocella
+Description=Checks date is within known recording period of Aroga velocella
+ErrorMsg=Date is outside known recording period of Aroga velocella
+Tvk=NHMSYS0000501403
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

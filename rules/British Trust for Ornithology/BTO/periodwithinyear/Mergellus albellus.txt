@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Mergellus albellus
+Description=Checks date is within known flight period of Mergellus albellus
+ErrorMsg=Date is outside known flight period of Mergellus albellus
+Tvk=NHMSYS0000530474
+DataFieldName=
+StartDate=0602
+EndDate=1009
+LastChanged=20240808
+[EndMetadata]

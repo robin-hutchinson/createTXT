@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Orthonevra brevicornis
+Description=Checks date is within known flight period of Orthonevra brevicornis
+ErrorMsg=Date is outside known flight period of Orthonevra brevicornis
+Tvk=NBNSYS0000007032
+DataFieldName=
+StartDate=0417
+EndDate=0916
+LastChanged=20240808
+[EndMetadata]

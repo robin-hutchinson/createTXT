@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum inane 10km
+Description=Check coordinate against known distribution of Taraxacum inane
+ErrorMsg=Coordinate is outside known range for Taraxacum inane
+DataFieldName=Species
+DataRecordId=NHMSYS0000464234
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN40
+SN71
+
+

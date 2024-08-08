@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Dioryctria abietella
+Description=Checks date is within known flight period of Dioryctria abietella
+ErrorMsg=Date is outside known flight period of Dioryctria abietella
+Tvk=NHMSYS0021143643
+DataFieldName=
+StartDate=0501
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

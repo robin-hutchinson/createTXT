@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Rhagio scolopaceus
+Description=Checks date is within known flight period of Rhagio scolopaceus
+ErrorMsg=Date is outside known flight period of Rhagio scolopaceus
+Tvk=NBNSYS0100005063
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

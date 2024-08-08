@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Pistius truncatus
+Description=Checks date is within known flight period of Pistius truncatus
+ErrorMsg=Date is outside known flight period of Pistius truncatus
+Tvk=NBNSYS0000008719
+DataFieldName=
+StartDate=0424
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

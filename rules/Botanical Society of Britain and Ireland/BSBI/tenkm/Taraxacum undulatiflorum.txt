@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum undulatiflorum 10km
+Description=Check coordinate against known distribution of Taraxacum undulatiflorum
+ErrorMsg=Coordinate is outside known range for Taraxacum undulatiflorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464343
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN40
+SN41
+SN43
+SN50
+SO02
+SP05
+ST39
+TL11
+TQ29
+
+

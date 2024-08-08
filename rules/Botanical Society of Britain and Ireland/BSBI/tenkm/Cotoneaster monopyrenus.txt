@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster monopyrenus 10km
+Description=Check coordinate against known distribution of Cotoneaster monopyrenus
+ErrorMsg=Coordinate is outside known range for Cotoneaster monopyrenus
+DataFieldName=Species
+DataRecordId=NHMSYS0000457611
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP91
+TQ57
+
+

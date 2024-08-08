@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix aurita x herbacea = S. x margarita 10km
+Description=Check coordinate against known distribution of Salix aurita x herbacea = S. x margarita
+ErrorMsg=Coordinate is outside known range for Salix aurita x herbacea = S. x margarita
+DataFieldName=Species
+DataRecordId=NHMSYS0001754720
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC33
+NG53
+NG95
+NH15
+NN33
+NN34
+NN43
+NO07
+NO18
+NO27
+NO28
+NR87
+NS29
+
+

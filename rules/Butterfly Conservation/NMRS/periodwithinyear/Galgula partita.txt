@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Galgula partita
+Description=Checks date is within known flight period of Galgula partita
+ErrorMsg=Date is outside known flight period of Galgula partita
+Tvk=NHMSYS0021144570
+DataFieldName=
+StartDate=0821
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

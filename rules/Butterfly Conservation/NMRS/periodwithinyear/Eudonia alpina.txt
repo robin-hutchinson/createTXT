@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eudonia alpina
+Description=Checks date is within known flight period of Eudonia alpina
+ErrorMsg=Date is outside known flight period of Eudonia alpina
+Tvk=NHMSYS0000502551
+DataFieldName=
+StartDate=0515
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

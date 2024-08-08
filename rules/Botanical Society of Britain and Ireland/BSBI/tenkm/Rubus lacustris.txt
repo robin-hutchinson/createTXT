@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus lacustris 10km
+Description=Check coordinate against known distribution of Rubus lacustris
+ErrorMsg=Coordinate is outside known range for Rubus lacustris
+DataFieldName=Species
+DataRecordId=NHMSYS0000462749
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY10
+NY12
+NY20
+NY21
+NY22
+NY23
+NY30
+NY31
+NY32
+NY42
+NY50
+NY53
+NY54
+SD29
+SD39
+SD48
+
+

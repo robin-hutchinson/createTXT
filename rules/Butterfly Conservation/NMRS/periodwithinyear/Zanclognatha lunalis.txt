@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Zanclognatha lunalis
+Description=Checks date is within known flight period of Zanclognatha lunalis
+ErrorMsg=Date is outside known flight period of Zanclognatha lunalis
+Tvk=NBNSYS0100006031
+DataFieldName=
+StartDate=0701
+EndDate=0721
+LastChanged=20240808
+[EndMetadata]

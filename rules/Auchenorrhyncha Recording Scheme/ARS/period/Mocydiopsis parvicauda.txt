@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Mocydiopsis parvicauda
+Description=Checks date is within known recording period of Mocydiopsis parvicauda
+ErrorMsg=Date is outside known recording period of Mocydiopsis parvicauda
+Tvk=NHMSYS0020705749
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

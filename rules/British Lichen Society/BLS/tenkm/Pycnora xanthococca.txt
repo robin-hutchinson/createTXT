@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pycnora xanthococca 10km
+Description=Check coordinate against known distribution of Pycnora xanthococca
+ErrorMsg=Coordinate is outside known range for Pycnora xanthococca
+DataFieldName=Species
+DataRecordId=NHMSYS0001495831
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH70
+NH71
+NH80
+NH81
+NH90
+NH91
+NH92
+NJ00
+NJ01
+NJ02
+NJ10
+NJ11
+NJ12
+NN79
+NN89
+NN99
+NO09
+
+

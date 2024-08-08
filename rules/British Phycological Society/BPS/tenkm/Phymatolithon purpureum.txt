@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Phymatolithon purpureum 10km
+Description=Check coordinate against known distribution of Phymatolithon purpureum
+ErrorMsg=Coordinate is outside known range for Phymatolithon purpureum
+DataFieldName=Species
+DataRecordId=NHMSYS0000568083
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU54
+HY55
+HY63
+HY64
+HY74
+NB90
+NF71
+NF86
+NG24
+NH19
+NM71
+NM83
+NM95
+SC27
+SM70
+SM71
+SM90
+SS33
+SU90
+SV90
+SW72
+SW83
+SW97
+SW98
+SX15
+SX44
+SX45
+SX73
+SX85
+SZ48
+SZ49
+SZ99
+TR37
+
+

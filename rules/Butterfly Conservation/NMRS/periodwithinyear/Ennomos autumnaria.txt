@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ennomos autumnaria
+Description=Checks date is within known flight period of Ennomos autumnaria
+ErrorMsg=Date is outside known flight period of Ennomos autumnaria
+Tvk=NBNSYS0000006002
+DataFieldName=
+StartDate=0801
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

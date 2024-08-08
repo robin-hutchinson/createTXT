@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pinus mugo 10km
+Description=Check coordinate against known distribution of Pinus mugo
+ErrorMsg=Coordinate is outside known range for Pinus mugo
+DataFieldName=Species
+DataRecordId=NBNSYS0000014081
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY20
+NF09
+NM49
+NM64
+NT45
+SC27
+SC37
+SD88
+SH39
+SN30
+SN79
+
+
+[10km_Ireland]
+T18
+
+

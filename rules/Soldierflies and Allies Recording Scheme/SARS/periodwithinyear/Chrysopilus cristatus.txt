@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Chrysopilus cristatus
+Description=Checks date is within known flight period of Chrysopilus cristatus
+ErrorMsg=Date is outside known flight period of Chrysopilus cristatus
+Tvk=NBNSYS0000007850
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

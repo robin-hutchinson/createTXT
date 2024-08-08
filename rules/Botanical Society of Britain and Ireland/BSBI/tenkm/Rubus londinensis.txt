@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus londinensis 10km
+Description=Check coordinate against known distribution of Rubus londinensis
+ErrorMsg=Coordinate is outside known range for Rubus londinensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462766
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU75
+SU95
+TF80
+TG01
+TG03
+TG11
+TG21
+TG31
+TL70
+TL71
+TL91
+TL92
+TM13
+TQ05
+TQ06
+TQ15
+TQ16
+TQ26
+TQ27
+TQ28
+TQ36
+TQ37
+TQ46
+TQ59
+
+

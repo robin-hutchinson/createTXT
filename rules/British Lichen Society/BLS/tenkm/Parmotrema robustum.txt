@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Parmotrema robustum 10km
+Description=Check coordinate against known distribution of Parmotrema robustum
+ErrorMsg=Coordinate is outside known range for Parmotrema robustum
+DataFieldName=Species
+DataRecordId=NBNSYS0000153262
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH62
+SH72
+SN69
+SW61
+
+
+[10km_Ireland]
+V83
+W02
+
+

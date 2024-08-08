@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Leucojum aestivum subsp. pulchellum
+Description=Checks date is within known recording period of Leucojum aestivum subsp. pulchellum
+ErrorMsg=Date is outside known recording period of Leucojum aestivum subsp. pulchellum
+Tvk=NBNSYS0000014315
+StartDate=18480101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

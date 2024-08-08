@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Sphagnum platyphyllum 10km
+Description=Check coordinate against known distribution of Sphagnum platyphyllum
+ErrorMsg=Coordinate is outside known range for Sphagnum platyphyllum
+DataFieldName=Species
+DataRecordId=NHMSYS0000310681
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NF58
+NF67
+NF71
+NF80
+NF88
+NF99
+NH70
+NH80
+NH81
+NH82
+NH90
+NH91
+NH92
+NJ01
+NJ02
+NJ03
+NJ13
+NL58
+NL79
+NN79
+NO39
+
+

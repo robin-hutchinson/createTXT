@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Microspongium immersum 10km
+Description=Check coordinate against known distribution of Microspongium immersum
+ErrorMsg=Coordinate is outside known range for Microspongium immersum
+DataFieldName=Species
+DataRecordId=NHMSYS0000568018
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC26
+
+

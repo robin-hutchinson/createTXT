@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Pyracantha rogersiana
+Description=Checks date is within known recording period of Pyracantha rogersiana
+ErrorMsg=Date is outside known recording period of Pyracantha rogersiana
+Tvk=NHMSYS0000462187
+StartDate=19760101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

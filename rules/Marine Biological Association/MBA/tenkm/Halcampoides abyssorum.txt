@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Halcampoides abyssorum 10km
+Description=Check coordinate against known distribution of Halcampoides abyssorum
+ErrorMsg=Coordinate is outside known range for Halcampoides abyssorum
+DataFieldName=Species
+DataRecordId=NHMSYS0020668199
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D04
+D05
+D06
+D14
+D15
+D16
+D24
+D25
+D26
+
+
+[10km_GB]
+NR20
+NR21
+NR30
+NR31
+NR40
+NR41
+NW29
+NW39
+NW49
+
+

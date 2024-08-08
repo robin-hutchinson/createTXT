@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Metzneria aestivella
+Description=Checks date is within known flight period of Metzneria aestivella
+ErrorMsg=Date is outside known flight period of Metzneria aestivella
+Tvk=NHMSYS0000503221
+DataFieldName=
+StartDate=0621
+EndDate=0815
+LastChanged=20240808
+[EndMetadata]

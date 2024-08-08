@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa arvensis x micrantha = R. x vituperabilis 10km
+Description=Check coordinate against known distribution of Rosa arvensis x micrantha = R. x vituperabilis
+ErrorMsg=Coordinate is outside known range for Rosa arvensis x micrantha = R. x vituperabilis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754818
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+R91
+W87
+
+
+[10km_GB]
+SH63
+SO75
+SP64
+
+

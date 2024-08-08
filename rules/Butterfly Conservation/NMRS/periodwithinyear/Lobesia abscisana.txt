@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lobesia abscisana
+Description=Checks date is within known flight period of Lobesia abscisana
+ErrorMsg=Date is outside known flight period of Lobesia abscisana
+Tvk=NHMSYS0021143196
+DataFieldName=
+StartDate=0407
+EndDate=0907
+LastChanged=20240808
+[EndMetadata]

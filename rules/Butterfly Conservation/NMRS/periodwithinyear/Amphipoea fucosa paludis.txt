@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Amphipoea fucosa paludis
+Description=Checks date is within known flight period of Amphipoea fucosa paludis
+ErrorMsg=Date is outside known flight period of Amphipoea fucosa paludis
+Tvk=NHMSYS0021144618
+DataFieldName=
+StartDate=0621
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

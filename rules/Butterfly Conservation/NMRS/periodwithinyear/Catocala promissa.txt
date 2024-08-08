@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Catocala promissa
+Description=Checks date is within known flight period of Catocala promissa
+ErrorMsg=Date is outside known flight period of Catocala promissa
+Tvk=NHMSYS0021144450
+DataFieldName=
+StartDate=0621
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

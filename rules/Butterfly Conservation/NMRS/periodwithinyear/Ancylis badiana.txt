@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ancylis badiana
+Description=Checks date is within known flight period of Ancylis badiana
+ErrorMsg=Date is outside known flight period of Ancylis badiana
+Tvk=NHMSYS0021143235
+DataFieldName=
+StartDate=0415
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

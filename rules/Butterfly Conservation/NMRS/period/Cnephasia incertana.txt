@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Cnephasia incertana
+Description=Checks date is within known recording period of Cnephasia incertana
+ErrorMsg=Date is outside known recording period of Cnephasia incertana
+Tvk=NHMSYS0000501333
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

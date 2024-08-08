@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Centromerus semiater
+Description=Checks date is within known flight period of Centromerus semiater
+ErrorMsg=Date is outside known flight period of Centromerus semiater
+Tvk=NBNSYS0100002237
+DataFieldName=
+StartDate=0522
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

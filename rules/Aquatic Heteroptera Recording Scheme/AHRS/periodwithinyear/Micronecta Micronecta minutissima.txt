@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Aquatic Heteroptera Recording Scheme/AHRS Flight Period
+ShortName=Micronecta (Micronecta) minutissima
+Description=Checks date is within known flight period of Micronecta (Micronecta) minutissima
+ErrorMsg=Date is outside known flight period of Micronecta (Micronecta) minutissima
+Tvk=NHMSYS0020309457
+DataFieldName=
+StartDate=0301
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

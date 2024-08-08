@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plecoptera Recording Scheme/PRS Flight Period
+ShortName=Isoperla obscura
+Description=Checks date is within known flight period of Isoperla obscura
+ErrorMsg=Date is outside known flight period of Isoperla obscura
+Tvk=NBNSYS0000022440
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

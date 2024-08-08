@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Bucculatrix nigricomella
+Description=Checks date is within known flight period of Bucculatrix nigricomella
+ErrorMsg=Date is outside known flight period of Bucculatrix nigricomella
+Tvk=NHMSYS0021142404
+DataFieldName=
+StartDate=0421
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

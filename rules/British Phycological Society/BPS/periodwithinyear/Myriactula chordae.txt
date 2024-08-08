@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Phycological Society/BPS Flight Period
+ShortName=Myriactula chordae
+Description=Checks date is within known flight period of Myriactula chordae
+ErrorMsg=Date is outside known flight period of Myriactula chordae
+Tvk=NBNSYS0000184416
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

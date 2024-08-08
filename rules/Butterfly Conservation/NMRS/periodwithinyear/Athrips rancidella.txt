@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Athrips rancidella
+Description=Checks date is within known flight period of Athrips rancidella
+ErrorMsg=Date is outside known flight period of Athrips rancidella
+Tvk=NHMSYS0000501424
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

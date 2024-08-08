@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus cerdicii 10km
+Description=Check coordinate against known distribution of Rubus cerdicii
+ErrorMsg=Coordinate is outside known range for Rubus cerdicii
+DataFieldName=Species
+DataRecordId=NHMSYS0020110580
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU20
+SU21
+SU30
+SU31
+SU41
+SU42
+SU61
+SU71
+SZ29
+SZ39
+SZ47
+SZ58
+SZ59
+SZ68
+
+

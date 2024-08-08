@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Acrosathe annulata
+Description=Checks date is within known flight period of Acrosathe annulata
+ErrorMsg=Date is outside known flight period of Acrosathe annulata
+Tvk=NBNSYS0100001416
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

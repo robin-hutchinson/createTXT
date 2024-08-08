@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Syncopacma vinella 10km
+Description=Check coordinate against known distribution of Syncopacma vinella
+ErrorMsg=Coordinate is outside known range for Syncopacma vinella
+DataFieldName=Species
+DataRecordId=NHMSYS0000504435
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ03
+TQ23
+TQ31
+TQ51
+
+

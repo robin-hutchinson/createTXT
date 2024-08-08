@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cladonia alpina 10km
+Description=Check coordinate against known distribution of Cladonia alpina
+ErrorMsg=Coordinate is outside known range for Cladonia alpina
+DataFieldName=Species
+DataRecordId=BMSSYS0000003886
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG91
+SH72
+SH73
+SH95
+
+

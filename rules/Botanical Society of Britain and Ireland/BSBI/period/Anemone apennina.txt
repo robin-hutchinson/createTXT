@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Anemone apennina
+Description=Checks date is within known recording period of Anemone apennina
+ErrorMsg=Date is outside known recording period of Anemone apennina
+Tvk=NBNSYS0000002702
+StartDate=17240101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Athrips tetrapunctella
+Description=Checks date is within known flight period of Athrips tetrapunctella
+ErrorMsg=Date is outside known flight period of Athrips tetrapunctella
+Tvk=NHMSYS0000501425
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

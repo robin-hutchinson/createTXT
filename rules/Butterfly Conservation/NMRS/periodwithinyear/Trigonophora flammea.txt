@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Trigonophora flammea
+Description=Checks date is within known flight period of Trigonophora flammea
+ErrorMsg=Date is outside known flight period of Trigonophora flammea
+Tvk=NBNSYS0000006344
+DataFieldName=
+StartDate=0921
+EndDate=1115
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium palustre x alsinifolium = E. x haynaldianum 10km
+Description=Check coordinate against known distribution of Epilobium palustre x alsinifolium = E. x haynaldianum
+ErrorMsg=Coordinate is outside known range for Epilobium palustre x alsinifolium = E. x haynaldianum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754365
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+G74
+
+
+[10km_GB]
+NC44
+NJ11
+NS58
+NS89
+NT92
+NY82
+
+

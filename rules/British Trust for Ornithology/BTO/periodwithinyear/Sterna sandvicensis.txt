@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Sterna sandvicensis
+Description=Checks date is within known flight period of Sterna sandvicensis
+ErrorMsg=Date is outside known flight period of Sterna sandvicensis
+Tvk=NBNSYS0000000363
+DataFieldName=
+StartDate=0310
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crocus biflorus 10km
+Description=Check coordinate against known distribution of Crocus biflorus
+ErrorMsg=Coordinate is outside known range for Crocus biflorus
+DataFieldName=Species
+DataRecordId=NHMSYS0000457721
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO02
+NO12
+SC39
+SU56
+SU57
+SU96
+TL08
+TL86
+TM25
+
+

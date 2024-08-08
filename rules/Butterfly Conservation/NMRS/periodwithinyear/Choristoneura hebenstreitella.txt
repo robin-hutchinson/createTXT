@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Choristoneura hebenstreitella
+Description=Checks date is within known flight period of Choristoneura hebenstreitella
+ErrorMsg=Date is outside known flight period of Choristoneura hebenstreitella
+Tvk=NHMSYS0000501769
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

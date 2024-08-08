@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ranunculus trichophyllus x fluitans = R. x bachii 10km
+Description=Check coordinate against known distribution of Ranunculus trichophyllus x fluitans = R. x bachii
+ErrorMsg=Coordinate is outside known range for Ranunculus trichophyllus x fluitans = R. x bachii
+DataFieldName=Species
+DataRecordId=NBNSYS0000161887
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT85
+
+

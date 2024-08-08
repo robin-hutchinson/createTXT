@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus cambrensis 10km
+Description=Check coordinate against known distribution of Rubus cambrensis
+ErrorMsg=Coordinate is outside known range for Rubus cambrensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462627
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN71
+SO34
+SO36
+SO42
+SO43
+SO50
+SO51
+SO52
+SO53
+SO54
+SO55
+SO61
+SO62
+SO65
+SO67
+SO71
+SO74
+SO85
+SO87
+ST59
+
+

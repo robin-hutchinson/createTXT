@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Fulgensia fulgens 10km
+Description=Check coordinate against known distribution of Fulgensia fulgens
+ErrorMsg=Coordinate is outside known range for Fulgensia fulgens
+DataFieldName=Species
+DataRecordId=NBNSYS0000020569
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+S90
+
+
+[10km_GB]
+SM80
+SR89
+SR99
+SS09
+SS43
+ST25
+SW75
+SW87
+SW97
+SZ28
+SZ38
+TL78
+
+

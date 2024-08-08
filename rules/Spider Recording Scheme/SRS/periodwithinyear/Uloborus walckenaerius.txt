@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Uloborus walckenaerius
+Description=Checks date is within known flight period of Uloborus walckenaerius
+ErrorMsg=Date is outside known flight period of Uloborus walckenaerius
+Tvk=NBNSYS0000008627
+DataFieldName=
+StartDate=0424
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

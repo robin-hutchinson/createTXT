@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Symphoromyia immaculata 10km
+Description=Check coordinate against known distribution of Symphoromyia immaculata
+ErrorMsg=Coordinate is outside known range for Symphoromyia immaculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000007857
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE85
+SE94
+ST95
+SU62
+SY78
+TL02
+TL03
+TQ05
+TQ08
+TQ15
+TQ21
+TQ48
+TQ57
+TQ65
+TQ68
+TQ75
+TQ96
+TR14
+TV59
+
+

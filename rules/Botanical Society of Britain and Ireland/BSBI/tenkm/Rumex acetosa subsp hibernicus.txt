@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex acetosa subsp. hibernicus 10km
+Description=Check coordinate against known distribution of Rumex acetosa subsp. hibernicus
+ErrorMsg=Coordinate is outside known range for Rumex acetosa subsp. hibernicus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462960
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+B72
+F61
+F62
+F63
+G69
+G75
+L54
+L55
+L63
+L65
+L72
+L73
+L74
+L76
+M31
+Q51
+S60
+S90
+T38
+X49
+
+
+[10km_GB]
+HP60
+NF60
+NF66
+SS39
+SV81
+SW54
+
+

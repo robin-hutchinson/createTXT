@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Heterodermia leucomela orth. var. 10km
+Description=Check coordinate against known distribution of Heterodermia leucomela orth. var.
+ErrorMsg=Coordinate is outside known range for Heterodermia leucomela orth. var.
+DataFieldName=Species
+DataRecordId=NHMSYS0001484074
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+R29
+V36
+V44
+V45
+V46
+V53
+V72
+V73
+V92
+V93
+W02
+W33
+
+
+[10km_GB]
+SH12
+SH27
+SH28
+SM72
+SR99
+SS48
+SV80
+SV81
+SV90
+SV91
+SW32
+SW33
+SW61
+SW71
+SW95
+SW98
+SX16
+SX26
+
+

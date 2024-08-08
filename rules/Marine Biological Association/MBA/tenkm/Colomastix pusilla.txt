@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Colomastix pusilla 10km
+Description=Check coordinate against known distribution of Colomastix pusilla
+ErrorMsg=Coordinate is outside known range for Colomastix pusilla
+DataFieldName=Species
+DataRecordId=NBNSYS0000174661
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC15
+SC36
+SC46
+SG34
+SH22
+SH24
+SH25
+SH32
+SM77
+SM90
+SX54
+SY93
+TA27
+TV04
+
+
+[10km_Ireland]
+T38
+T72
+
+

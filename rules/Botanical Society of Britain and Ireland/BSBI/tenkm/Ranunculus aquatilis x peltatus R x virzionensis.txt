@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ranunculus aquatilis x peltatus = R. x virzionensis 10km
+Description=Check coordinate against known distribution of Ranunculus aquatilis x peltatus = R. x virzionensis
+ErrorMsg=Coordinate is outside known range for Ranunculus aquatilis x peltatus = R. x virzionensis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754672
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK20
+SO49
+SP28
+
+

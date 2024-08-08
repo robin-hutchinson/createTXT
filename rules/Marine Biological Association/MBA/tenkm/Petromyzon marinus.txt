@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Petromyzon marinus 10km
+Description=Check coordinate against known distribution of Petromyzon marinus
+ErrorMsg=Coordinate is outside known range for Petromyzon marinus
+DataFieldName=Species
+DataRecordId=NBNSYS0000188586
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C94
+
+
+[10km_GB]
+NW19
+SN25
+SN30
+ST69
+
+

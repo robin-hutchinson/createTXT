@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium placerophylloides 10km
+Description=Check coordinate against known distribution of Hieracium placerophylloides
+ErrorMsg=Coordinate is outside known range for Hieracium placerophylloides
+DataFieldName=Species
+DataRecordId=NHMSYS0000840718
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT81
+NT82
+NX77
+NY30
+NY50
+NY64
+NY65
+NY68
+NY74
+NY78
+NY83
+NY88
+NY92
+NZ01
+NZ31
+SD67
+SD69
+SD77
+SD78
+SD87
+SD89
+SD96
+SD97
+SD98
+SH54
+SH62
+SH66
+SH71
+SH75
+SH83
+SJ03
+SN69
+SN81
+SN96
+SO01
+TA08
+
+

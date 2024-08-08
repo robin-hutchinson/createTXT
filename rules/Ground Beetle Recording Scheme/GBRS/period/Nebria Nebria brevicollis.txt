@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Nebria (Nebria) brevicollis
+Description=Checks date is within known recording period of Nebria (Nebria) brevicollis
+ErrorMsg=Date is outside known recording period of Nebria (Nebria) brevicollis
+Tvk=NHMSYS0001719104
+StartDate=19220101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

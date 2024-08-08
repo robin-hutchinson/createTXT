@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Epistrophe ochrostoma 10km
+Description=Check coordinate against known distribution of Epistrophe ochrostoma
+ErrorMsg=Coordinate is outside known range for Epistrophe ochrostoma
+DataFieldName=Species
+DataRecordId=NBNSYS0000033189
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH57
+
+

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium montanum x brunnescens = E. x confusilobum 10km
+Description=Check coordinate against known distribution of Epilobium montanum x brunnescens = E. x confusilobum
+ErrorMsg=Coordinate is outside known range for Epilobium montanum x brunnescens = E. x confusilobum
+DataFieldName=Species
+DataRecordId=NBNSYS0100003039
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC13
+SW74
+SW95
+SX05
+SX16
+SX26
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Colutea arborescens
+Description=Checks date is within known recording period of Colutea arborescens
+ErrorMsg=Date is outside known recording period of Colutea arborescens
+Tvk=NBNSYS0000003266
+StartDate=19000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

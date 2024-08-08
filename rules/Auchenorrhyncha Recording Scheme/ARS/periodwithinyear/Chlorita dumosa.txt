@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Chlorita dumosa
+Description=Checks date is within known flight period of Chlorita dumosa
+ErrorMsg=Date is outside known flight period of Chlorita dumosa
+Tvk=NHMSYS0020442303
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

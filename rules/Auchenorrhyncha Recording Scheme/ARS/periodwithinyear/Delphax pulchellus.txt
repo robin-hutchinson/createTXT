@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Delphax pulchellus
+Description=Checks date is within known flight period of Delphax pulchellus
+ErrorMsg=Date is outside known flight period of Delphax pulchellus
+Tvk=NHMSYS0020705324
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

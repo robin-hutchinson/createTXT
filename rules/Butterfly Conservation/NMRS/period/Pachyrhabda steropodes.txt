@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pachyrhabda steropodes
+Description=Checks date is within known recording period of Pachyrhabda steropodes
+ErrorMsg=Date is outside known recording period of Pachyrhabda steropodes
+Tvk=NHMSYS0021142875
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

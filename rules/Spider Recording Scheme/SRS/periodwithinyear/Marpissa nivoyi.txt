@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Marpissa nivoyi
+Description=Checks date is within known flight period of Marpissa nivoyi
+ErrorMsg=Date is outside known flight period of Marpissa nivoyi
+Tvk=NBNSYS0000008766
+DataFieldName=
+StartDate=0321
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

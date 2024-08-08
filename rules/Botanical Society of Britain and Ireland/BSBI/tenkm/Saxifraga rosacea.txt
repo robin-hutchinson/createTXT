@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Saxifraga rosacea 10km
+Description=Check coordinate against known distribution of Saxifraga rosacea
+ErrorMsg=Coordinate is outside known range for Saxifraga rosacea
+DataFieldName=Species
+DataRecordId=NBNSYS0000033860
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+G64
+G74
+L68
+L71
+L75
+L80
+L81
+L90
+M00
+M10
+M11
+M20
+M30
+Q41
+Q70
+Q80
+R28
+R29
+R38
+R39
+R82
+R92
+V78
+V88
+
+
+[10km_GB]
+NF83
+NN40
+SK52
+SK63
+
+

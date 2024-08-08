@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Xanthia togata
+Description=Checks date is within known recording period of Xanthia togata
+ErrorMsg=Date is outside known recording period of Xanthia togata
+Tvk=NBNSYS0000006368
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster splendens 10km
+Description=Check coordinate against known distribution of Cotoneaster splendens
+ErrorMsg=Coordinate is outside known range for Cotoneaster splendens
+DataFieldName=Species
+DataRecordId=NHMSYS0000457630
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SW72
+TQ00
+TQ37
+TQ55
+TQ56
+TV59
+
+

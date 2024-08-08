@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Herminia tarsicrinalis
+Description=Checks date is within known flight period of Herminia tarsicrinalis
+ErrorMsg=Date is outside known flight period of Herminia tarsicrinalis
+Tvk=NBNSYS0000006595
+DataFieldName=
+StartDate=0607
+EndDate=0821
+LastChanged=20240808
+[EndMetadata]

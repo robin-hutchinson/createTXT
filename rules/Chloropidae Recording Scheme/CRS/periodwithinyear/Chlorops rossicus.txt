@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Chlorops rossicus
+Description=Checks date is within known flight period of Chlorops rossicus
+ErrorMsg=Date is outside known flight period of Chlorops rossicus
+Tvk=NBNSYS0100002369
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

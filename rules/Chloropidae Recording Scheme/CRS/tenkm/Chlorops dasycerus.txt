@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Chlorops dasycerus 10km
+Description=Check coordinate against known distribution of Chlorops dasycerus
+ErrorMsg=Coordinate is outside known range for Chlorops dasycerus
+DataFieldName=Species
+DataRecordId=NBNSYS0100002361
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG30
+
+

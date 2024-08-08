@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pseudorchis albida x Dactylorhiza maculata = X Pseudorhiza bruniana 10km
+Description=Check coordinate against known distribution of Pseudorchis albida x Dactylorhiza maculata = X Pseudorhiza bruniana
+ErrorMsg=Coordinate is outside known range for Pseudorchis albida x Dactylorhiza maculata = X Pseudorhiza bruniana
+DataFieldName=Species
+DataRecordId=NHMSYS0001754472
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY31
+NG33
+
+

@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hemerocallis lilioasphodelus 10km
+Description=Check coordinate against known distribution of Hemerocallis lilioasphodelus
+ErrorMsg=Coordinate is outside known range for Hemerocallis lilioasphodelus
+DataFieldName=Species
+DataRecordId=NBNSYS0000002159
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH80
+NS31
+NS32
+NS65
+NX46
+NX56
+NY35
+NY43
+NY45
+SD32
+SD33
+SD47
+SJ49
+SK66
+SN61
+SP50
+ST12
+ST40
+ST41
+ST55
+ST63
+ST64
+ST75
+SU77
+SU93
+SU96
+SW97
+SX09
+SX26
+TL02
+TQ26
+
+

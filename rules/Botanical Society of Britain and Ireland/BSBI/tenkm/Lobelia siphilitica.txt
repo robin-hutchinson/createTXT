@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lobelia siphilitica 10km
+Description=Check coordinate against known distribution of Lobelia siphilitica
+ErrorMsg=Coordinate is outside known range for Lobelia siphilitica
+DataFieldName=Species
+DataRecordId=NBNSYS0000014548
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TF50
+TQ17
+
+

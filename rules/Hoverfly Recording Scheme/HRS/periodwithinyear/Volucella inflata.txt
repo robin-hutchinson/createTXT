@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Volucella inflata
+Description=Checks date is within known flight period of Volucella inflata
+ErrorMsg=Date is outside known flight period of Volucella inflata
+Tvk=NBNSYS0000007096
+DataFieldName=
+StartDate=0108
+EndDate=1105
+LastChanged=20240808
+[EndMetadata]

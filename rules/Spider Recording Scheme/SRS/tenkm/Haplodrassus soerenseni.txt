@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Haplodrassus soerenseni 10km
+Description=Check coordinate against known distribution of Haplodrassus soerenseni
+ErrorMsg=Coordinate is outside known range for Haplodrassus soerenseni
+DataFieldName=Species
+DataRecordId=NBNSYS0000008648
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH91
+NJ01
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Macroplax preyssleri
+Description=Checks date is within known recording period of Macroplax preyssleri
+ErrorMsg=Date is outside known recording period of Macroplax preyssleri
+Tvk=NHMSYS0020309406
+StartDate=19700101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

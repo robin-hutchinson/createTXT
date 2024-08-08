@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lepraria borealis 10km
+Description=Check coordinate against known distribution of Lepraria borealis
+ErrorMsg=Coordinate is outside known range for Lepraria borealis
+DataFieldName=Species
+DataRecordId=BMSSYS0000010275
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG20
+NG91
+NH31
+NJ00
+NN05
+NN59
+NN67
+NN69
+NN86
+NO35
+NO39
+NT57
+NT62
+SK38
+SN03
+SN96
+SO52
+SP38
+ST89
+
+

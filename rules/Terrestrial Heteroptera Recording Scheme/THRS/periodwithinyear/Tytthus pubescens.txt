@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Tytthus pubescens
+Description=Checks date is within known flight period of Tytthus pubescens
+ErrorMsg=Date is outside known flight period of Tytthus pubescens
+Tvk=NHMSYS0020309932
+DataFieldName=
+StartDate=0801
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Dorhynchus thomsoni 10km
+Description=Check coordinate against known distribution of Dorhynchus thomsoni
+ErrorMsg=Coordinate is outside known range for Dorhynchus thomsoni
+DataFieldName=Species
+DataRecordId=NBNSYS0000181422
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HO76
+HR65
+HS11
+HS55
+HV39
+HV88
+HW08
+NA15
+
+

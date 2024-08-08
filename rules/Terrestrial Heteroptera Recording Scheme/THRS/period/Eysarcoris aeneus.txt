@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Eysarcoris aeneus
+Description=Checks date is within known recording period of Eysarcoris aeneus
+ErrorMsg=Date is outside known recording period of Eysarcoris aeneus
+Tvk=NHMSYS0020309234
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

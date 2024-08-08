@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Lipara rufitarsis
+Description=Checks date is within known recording period of Lipara rufitarsis
+ErrorMsg=Date is outside known recording period of Lipara rufitarsis
+Tvk=NBNSYS0000029842
+StartDate=20141001
+EndDate=
+LastChanged=20240808
+[EndMetadata]

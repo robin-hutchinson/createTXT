@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Haloragis micrantha 10km
+Description=Check coordinate against known distribution of Haloragis micrantha
+ErrorMsg=Coordinate is outside known range for Haloragis micrantha
+DataFieldName=Species
+DataRecordId=NHMSYS0000459206
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+L73
+
+

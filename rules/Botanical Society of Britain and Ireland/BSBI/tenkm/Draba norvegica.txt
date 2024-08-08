@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Draba norvegica 10km
+Description=Check coordinate against known distribution of Draba norvegica
+ErrorMsg=Coordinate is outside known range for Draba norvegica
+DataFieldName=Species
+DataRecordId=NBNSYS0000002864
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC31
+NC32
+NC33
+NC34
+NC44
+ND02
+NG42
+NG52
+NG97
+NH04
+NH07
+NH08
+NH13
+NH19
+NH27
+NH28
+NH38
+NH90
+NJ00
+NN15
+NN21
+NN22
+NN24
+NN33
+NN34
+NN42
+NN43
+NN44
+NN47
+NN53
+NN54
+NN64
+NN73
+NN89
+
+

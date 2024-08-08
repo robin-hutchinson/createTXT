@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ground Beetle Recording Scheme/GBRS 10km distribution
+ShortName=Tachys (Paratachys) micros 10km
+Description=Check coordinate against known distribution of Tachys (Paratachys) micros
+ErrorMsg=Coordinate is outside known range for Tachys (Paratachys) micros
+DataFieldName=Species
+DataRecordId=NHMSYS0001720304
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH12
+SH13
+SH22
+SH23
+SH32
+SH33
+ST20
+ST30
+ST40
+ST50
+SY28
+SY29
+SY38
+SY39
+SY48
+SY49
+SY58
+SY59
+
+

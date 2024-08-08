@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecanora conizaeoides f. variola 10km
+Description=Check coordinate against known distribution of Lecanora conizaeoides f. variola
+ErrorMsg=Coordinate is outside known range for Lecanora conizaeoides f. variola
+DataFieldName=Species
+DataRecordId=NHMSYS0020990340
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN79
+NY21
+SN69
+TM46
+
+

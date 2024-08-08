@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Geotomus punctulatus
+Description=Checks date is within known recording period of Geotomus punctulatus
+ErrorMsg=Date is outside known recording period of Geotomus punctulatus
+Tvk=NHMSYS0020309247
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

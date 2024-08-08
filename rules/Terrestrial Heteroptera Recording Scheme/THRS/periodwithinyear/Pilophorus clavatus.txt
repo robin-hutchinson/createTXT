@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Pilophorus clavatus
+Description=Checks date is within known flight period of Pilophorus clavatus
+ErrorMsg=Date is outside known flight period of Pilophorus clavatus
+Tvk=NHMSYS0020309668
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

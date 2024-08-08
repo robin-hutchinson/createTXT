@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Monosapyga clavicornis
+Description=Checks date is within known flight period of Monosapyga clavicornis
+ErrorMsg=Date is outside known flight period of Monosapyga clavicornis
+Tvk=NHMSYS0000876352
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

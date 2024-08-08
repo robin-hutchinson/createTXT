@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Drassyllus lutetianus 10km
+Description=Check coordinate against known distribution of Drassyllus lutetianus
+ErrorMsg=Coordinate is outside known range for Drassyllus lutetianus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008662
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN00
+SN45
+SN66
+SN69
+SU22
+SU46
+SU56
+SU76
+SY58
+SY67
+SY68
+SY88
+SY89
+TF26
+TM07
+TM22
+TM44
+TQ78
+TQ81
+TR01
+TR06
+TR33
+TR35
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/BC Flight Period
+ShortName=Nymphalis polychloros
+Description=Checks date is within known flight period of Nymphalis polychloros
+ErrorMsg=Date is outside known flight period of Nymphalis polychloros
+Tvk=NHMSYS0000516575
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Crabro scutellatus
+Description=Checks date is within known flight period of Crabro scutellatus
+ErrorMsg=Date is outside known flight period of Crabro scutellatus
+Tvk=NHMSYS0000875735
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

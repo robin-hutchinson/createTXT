@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Wormaldia occipitalis
+Description=Checks date is within known flight period of Wormaldia occipitalis
+ErrorMsg=Date is outside known flight period of Wormaldia occipitalis
+Tvk=NBNSYS0000008382
+DataFieldName=
+StartDate=0101
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

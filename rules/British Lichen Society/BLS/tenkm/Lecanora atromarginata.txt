@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecanora atromarginata 10km
+Description=Check coordinate against known distribution of Lecanora atromarginata
+ErrorMsg=Coordinate is outside known range for Lecanora atromarginata
+DataFieldName=Species
+DataRecordId=NBNSYS0000039653
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC21
+NG96
+NJ10
+NN64
+
+

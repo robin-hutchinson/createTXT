@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Tragus berteronianus 10km
+Description=Check coordinate against known distribution of Tragus berteronianus
+ErrorMsg=Coordinate is outside known range for Tragus berteronianus
+DataFieldName=Species
+DataRecordId=NHMSYS0000464522
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE32
+SU73
+
+

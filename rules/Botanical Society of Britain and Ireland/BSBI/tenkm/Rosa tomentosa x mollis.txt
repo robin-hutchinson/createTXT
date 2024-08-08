@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa tomentosa x mollis 10km
+Description=Check coordinate against known distribution of Rosa tomentosa x mollis
+ErrorMsg=Coordinate is outside known range for Rosa tomentosa x mollis
+DataFieldName=Species
+DataRecordId=NHMSYS0100002721
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ14
+SD61
+SO78
+
+

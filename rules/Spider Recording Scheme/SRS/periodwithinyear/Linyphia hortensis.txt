@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Linyphia hortensis
+Description=Checks date is within known flight period of Linyphia hortensis
+ErrorMsg=Date is outside known flight period of Linyphia hortensis
+Tvk=NBNSYS0000009232
+DataFieldName=
+StartDate=0317
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

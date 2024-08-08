@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Centaurea solstitialis
+Description=Checks date is within known recording period of Centaurea solstitialis
+ErrorMsg=Date is outside known recording period of Centaurea solstitialis
+Tvk=NBNSYS0000004511
+StartDate=17780101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

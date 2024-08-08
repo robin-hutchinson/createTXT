@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Oxyethira mirabilis
+Description=Checks date is within known flight period of Oxyethira mirabilis
+ErrorMsg=Date is outside known flight period of Oxyethira mirabilis
+Tvk=NBNSYS0000008370
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

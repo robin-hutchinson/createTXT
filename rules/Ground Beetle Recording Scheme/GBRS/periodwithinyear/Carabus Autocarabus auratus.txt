@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Carabus (Autocarabus) auratus
+Description=Checks date is within known flight period of Carabus (Autocarabus) auratus
+ErrorMsg=Date is outside known flight period of Carabus (Autocarabus) auratus
+Tvk=NHMSYS0001717504
+DataFieldName=
+StartDate=0201
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

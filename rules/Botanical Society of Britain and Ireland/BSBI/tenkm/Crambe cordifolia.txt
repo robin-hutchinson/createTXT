@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crambe cordifolia 10km
+Description=Check coordinate against known distribution of Crambe cordifolia
+ErrorMsg=Coordinate is outside known range for Crambe cordifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000002822
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY15
+SD31
+SJ39
+SO99
+SP50
+ST71
+SU80
+SW98
+TQ17
+TQ46
+
+

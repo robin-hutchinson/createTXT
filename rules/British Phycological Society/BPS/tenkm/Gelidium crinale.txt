@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Gelidium crinale 10km
+Description=Check coordinate against known distribution of Gelidium crinale
+ErrorMsg=Coordinate is outside known range for Gelidium crinale
+DataFieldName=Species
+DataRecordId=NBNSYS0000182213
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS14
+
+

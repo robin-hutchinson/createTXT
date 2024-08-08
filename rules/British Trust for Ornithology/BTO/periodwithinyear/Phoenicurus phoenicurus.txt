@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Phoenicurus phoenicurus
+Description=Checks date is within known flight period of Phoenicurus phoenicurus
+ErrorMsg=Date is outside known flight period of Phoenicurus phoenicurus
+Tvk=NHMSYS0000530745
+DataFieldName=
+StartDate=0405
+EndDate=1115
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Acronicta auricoma 10km
+Description=Check coordinate against known distribution of Acronicta auricoma
+ErrorMsg=Coordinate is outside known range for Acronicta auricoma
+DataFieldName=Species
+DataRecordId=NHMSYS0021144508
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TA30
+TA31
+TA32
+TA40
+TA41
+TA42
+TM33
+TM34
+TM35
+TM44
+TM45
+TQ91
+TQ92
+TQ93
+TR01
+TR02
+TR03
+TR12
+TR13
+
+

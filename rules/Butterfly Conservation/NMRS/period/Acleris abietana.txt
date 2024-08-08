@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Acleris abietana
+Description=Checks date is within known recording period of Acleris abietana
+ErrorMsg=Date is outside known recording period of Acleris abietana
+Tvk=NHMSYS0021143078
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Walckenaeria corniculans 10km
+Description=Check coordinate against known distribution of Walckenaeria corniculans
+ErrorMsg=Coordinate is outside known range for Walckenaeria corniculans
+DataFieldName=Species
+DataRecordId=NBNSYS0000008983
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ37
+
+

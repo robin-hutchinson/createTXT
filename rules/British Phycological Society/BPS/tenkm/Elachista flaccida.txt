@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Elachista flaccida 10km
+Description=Check coordinate against known distribution of Elachista flaccida
+ErrorMsg=Coordinate is outside known range for Elachista flaccida
+DataFieldName=Species
+DataRecordId=NHMSYS0000377566
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU27
+HU33
+HU37
+HU42
+HY22
+NA92
+NB13
+NB14
+NM22
+NM43
+NO51
+NT49
+NT67
+NT95
+NU05
+NU21
+NW95
+NW97
+NX03
+NX04
+SH37
+SH39
+SH49
+SH68
+SM80
+SM81
+SS48
+SS58
+SV80
+SV81
+SV91
+SW61
+SW71
+SX73
+SY67
+SY78
+SY87
+SY88
+SY97
+TA08
+TQ87
+TR37
+
+

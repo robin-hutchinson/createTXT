@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Achlya flavicornis scotica
+Description=Checks date is within known flight period of Achlya flavicornis scotica
+ErrorMsg=Date is outside known flight period of Achlya flavicornis scotica
+Tvk=NHMSYS0021143803
+DataFieldName=
+StartDate=0215
+EndDate=0515
+LastChanged=20240808
+[EndMetadata]

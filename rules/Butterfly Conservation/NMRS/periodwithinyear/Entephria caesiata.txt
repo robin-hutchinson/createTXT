@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Entephria caesiata
+Description=Checks date is within known flight period of Entephria caesiata
+ErrorMsg=Date is outside known flight period of Entephria caesiata
+Tvk=NHMSYS0021143952
+DataFieldName=
+StartDate=0601
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

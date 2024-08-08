@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Euscelis venosus
+Description=Checks date is within known flight period of Euscelis venosus
+ErrorMsg=Date is outside known flight period of Euscelis venosus
+Tvk=NBNSYS0000010554
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

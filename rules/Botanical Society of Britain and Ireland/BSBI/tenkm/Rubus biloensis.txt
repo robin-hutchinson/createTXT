@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus biloensis 10km
+Description=Check coordinate against known distribution of Rubus biloensis
+ErrorMsg=Coordinate is outside known range for Rubus biloensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462611
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH85
+SN14
+SN35
+SN42
+SN43
+SN44
+SN52
+SN53
+SN54
+SN55
+SN63
+SN64
+SN71
+SN80
+SN82
+SN83
+SN84
+SN90
+SO02
+SO05
+SO06
+SO07
+SO12
+SO13
+SS62
+SS63
+SS72
+SS82
+SS83
+ST49
+ST73
+
+

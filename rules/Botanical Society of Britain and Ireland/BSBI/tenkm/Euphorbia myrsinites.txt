@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphorbia myrsinites 10km
+Description=Check coordinate against known distribution of Euphorbia myrsinites
+ErrorMsg=Coordinate is outside known range for Euphorbia myrsinites
+DataFieldName=Species
+DataRecordId=NBNSYS0200002174
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU86
+
+

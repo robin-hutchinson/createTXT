@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Elytrigia repens x Hordeum secalinum = X Elytrordeum langei 10km
+Description=Check coordinate against known distribution of Elytrigia repens x Hordeum secalinum = X Elytrordeum langei
+ErrorMsg=Coordinate is outside known range for Elytrigia repens x Hordeum secalinum = X Elytrordeum langei
+DataFieldName=Species
+DataRecordId=NBNSYS0000161596
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ29
+NZ41
+NZ52
+SO60
+ST34
+ST58
+SV81
+TF72
+TF81
+TF84
+
+

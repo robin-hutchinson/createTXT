@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Wormaldia subnigra
+Description=Checks date is within known recording period of Wormaldia subnigra
+ErrorMsg=Date is outside known recording period of Wormaldia subnigra
+Tvk=NBNSYS0000008383
+StartDate=18600101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

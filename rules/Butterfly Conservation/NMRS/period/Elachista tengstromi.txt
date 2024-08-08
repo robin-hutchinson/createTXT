@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Elachista tengstromi
+Description=Checks date is within known recording period of Elachista tengstromi
+ErrorMsg=Date is outside known recording period of Elachista tengstromi
+Tvk=NHMSYS0021142278
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

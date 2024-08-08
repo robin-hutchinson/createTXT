@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Artemisia norvegica 10km
+Description=Check coordinate against known distribution of Artemisia norvegica
+ErrorMsg=Coordinate is outside known range for Artemisia norvegica
+DataFieldName=Species
+DataRecordId=NHMSYS0000456106
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC11
+NH28
+NH38
+
+

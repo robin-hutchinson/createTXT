@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Arthonia colombiana 10km
+Description=Check coordinate against known distribution of Arthonia colombiana
+ErrorMsg=Coordinate is outside known range for Arthonia colombiana
+DataFieldName=Species
+DataRecordId=NHMSYS0020038993
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG71
+NG81
+NN15
+SX67
+
+

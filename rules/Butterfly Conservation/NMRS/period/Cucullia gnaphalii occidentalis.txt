@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Cucullia gnaphalii occidentalis
+Description=Checks date is within known recording period of Cucullia gnaphalii occidentalis
+ErrorMsg=Date is outside known recording period of Cucullia gnaphalii occidentalis
+Tvk=NHMSYS0021144522
+StartDate=17000101
+EndDate=19790811
+LastChanged=20240808
+[EndMetadata]

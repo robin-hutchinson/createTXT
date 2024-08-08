@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Coleotechnites piceaella
+Description=Checks date is within known flight period of Coleotechnites piceaella
+ErrorMsg=Date is outside known flight period of Coleotechnites piceaella
+Tvk=NBNSYS0100002536
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

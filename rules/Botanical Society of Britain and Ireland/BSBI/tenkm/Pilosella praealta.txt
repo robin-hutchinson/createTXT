@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pilosella praealta 10km
+Description=Check coordinate against known distribution of Pilosella praealta
+ErrorMsg=Coordinate is outside known range for Pilosella praealta
+DataFieldName=Species
+DataRecordId=NHMSYS0000461680
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS42
+NS43
+NS98
+SK12
+SX45
+SX56
+TL05
+
+

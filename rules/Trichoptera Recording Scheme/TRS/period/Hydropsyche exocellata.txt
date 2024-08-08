@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Hydropsyche exocellata
+Description=Checks date is within known recording period of Hydropsyche exocellata
+ErrorMsg=Date is outside known recording period of Hydropsyche exocellata
+Tvk=NBNSYS0000008416
+StartDate=18620101
+EndDate=19031231
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Butterfly Conservation/NMRS 10km distribution
+ShortName=Saturnia pyri 10km
+Description=Check coordinate against known distribution of Saturnia pyri
+ErrorMsg=Coordinate is outside known range for Saturnia pyri
+DataFieldName=Species
+DataRecordId=NHMSYS0000504081
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD91
+SD92
+SD93
+SE01
+SE02
+SE03
+SE11
+SE12
+SE13
+SP93
+SP94
+SP95
+SU40
+SU41
+SU50
+SU51
+SU60
+SU61
+SZ49
+SZ59
+SZ69
+TL03
+TL04
+TL05
+TL13
+TL14
+TL15
+
+

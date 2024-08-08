@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Swammerdamia compunctella
+Description=Checks date is within known flight period of Swammerdamia compunctella
+ErrorMsg=Date is outside known flight period of Swammerdamia compunctella
+Tvk=NHMSYS0000504411
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

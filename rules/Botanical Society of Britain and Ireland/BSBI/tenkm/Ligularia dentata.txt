@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ligularia dentata 10km
+Description=Check coordinate against known distribution of Ligularia dentata
+ErrorMsg=Coordinate is outside known range for Ligularia dentata
+DataFieldName=Species
+DataRecordId=NHMSYS0000460332
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO01
+NO03
+NO04
+NT18
+SC48
+SD48
+SD56
+SK55
+SO58
+SP31
+SP41
+SP81
+SU77
+SU89
+TA08
+TL44
+TL77
+TQ47
+TQ57
+
+

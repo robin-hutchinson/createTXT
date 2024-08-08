@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Udea fulvalis
+Description=Checks date is within known recording period of Udea fulvalis
+ErrorMsg=Date is outside known recording period of Udea fulvalis
+Tvk=NHMSYS0021143723
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

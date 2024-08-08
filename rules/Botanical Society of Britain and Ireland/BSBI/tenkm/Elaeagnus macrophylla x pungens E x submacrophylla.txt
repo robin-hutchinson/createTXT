@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Elaeagnus macrophylla x pungens = E. x submacrophylla 10km
+Description=Check coordinate against known distribution of Elaeagnus macrophylla x pungens = E. x submacrophylla
+ErrorMsg=Coordinate is outside known range for Elaeagnus macrophylla x pungens = E. x submacrophylla
+DataFieldName=Species
+DataRecordId=NHMSYS0001754601
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE50
+SP13
+SU46
+SU76
+SU77
+SU86
+SU87
+SU88
+SU96
+SU98
+SW74
+SW97
+SY67
+SZ08
+SZ09
+
+
+[10km_CI]
+WA60
+
+
+NA
+
+

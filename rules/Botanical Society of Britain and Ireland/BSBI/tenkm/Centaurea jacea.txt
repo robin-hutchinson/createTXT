@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Centaurea jacea 10km
+Description=Check coordinate against known distribution of Centaurea jacea
+ErrorMsg=Coordinate is outside known range for Centaurea jacea
+DataFieldName=Species
+DataRecordId=NBNSYS0000004505
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J36
+
+
+[10km_GB]
+NT39
+NZ36
+SE13
+SJ39
+SP36
+SS79
+ST93
+SU57
+SU58
+SU67
+SU85
+SU86
+SU89
+SW81
+TL86
+TM47
+TQ05
+TQ06
+TQ16
+TQ17
+TQ19
+TQ25
+TQ26
+TQ27
+TQ28
+TQ31
+TQ35
+TQ37
+TQ40
+TQ46
+TQ48
+TQ75
+TQ86
+TR34
+TR35
+
+
+NA
+
+

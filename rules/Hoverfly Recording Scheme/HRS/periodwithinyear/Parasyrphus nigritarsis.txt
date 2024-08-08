@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Parasyrphus nigritarsis
+Description=Checks date is within known flight period of Parasyrphus nigritarsis
+ErrorMsg=Date is outside known flight period of Parasyrphus nigritarsis
+Tvk=NBNSYS0000006946
+DataFieldName=
+StartDate=0429
+EndDate=0803
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia pseudokerneri x confusa 10km
+Description=Check coordinate against known distribution of Euphrasia pseudokerneri x confusa
+ErrorMsg=Coordinate is outside known range for Euphrasia pseudokerneri x confusa
+DataFieldName=Species
+DataRecordId=NBNSYS0100003128
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST90
+SY18
+SY28
+
+

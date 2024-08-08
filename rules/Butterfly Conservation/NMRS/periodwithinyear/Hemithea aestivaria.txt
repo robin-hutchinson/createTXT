@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Hemithea aestivaria
+Description=Checks date is within known flight period of Hemithea aestivaria
+ErrorMsg=Date is outside known flight period of Hemithea aestivaria
+Tvk=NHMSYS0021144330
+DataFieldName=
+StartDate=0601
+EndDate=0821
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex acuta x elata = C. x prolixa 10km
+Description=Check coordinate against known distribution of Carex acuta x elata = C. x prolixa
+ErrorMsg=Coordinate is outside known range for Carex acuta x elata = C. x prolixa
+DataFieldName=Species
+DataRecordId=NHMSYS0001754734
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH48
+SO12
+SS69
+ST45
+TF71
+TG30
+TL56
+TL57
+
+

@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium uisticola 10km
+Description=Check coordinate against known distribution of Hieracium uisticola
+ErrorMsg=Coordinate is outside known range for Hieracium uisticola
+DataFieldName=Species
+DataRecordId=NHMSYS0000840764
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NB02
+NB03
+NC54
+NF96
+NM62
+NM68
+NM71
+NM82
+NN25
+NN42
+NO17
+NR61
+SY88
+SY98
+
+

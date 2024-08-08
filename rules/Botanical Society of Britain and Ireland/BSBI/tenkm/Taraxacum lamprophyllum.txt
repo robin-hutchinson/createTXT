@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum lamprophyllum 10km
+Description=Check coordinate against known distribution of Taraxacum lamprophyllum
+ErrorMsg=Coordinate is outside known range for Taraxacum lamprophyllum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464243
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG33
+NN16
+NX76
+NX86
+NX96
+NX97
+SJ34
+SN22
+SN23
+SN30
+SN31
+SN40
+SN41
+SN42
+SN53
+SN54
+SN60
+SN71
+SW61
+SW62
+SW64
+SW71
+SW72
+SW75
+SW81
+SW82
+SW83
+TQ19
+
+

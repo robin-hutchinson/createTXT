@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Hygrohypnum smithii 10km
+Description=Check coordinate against known distribution of Hygrohypnum smithii
+ErrorMsg=Coordinate is outside known range for Hygrohypnum smithii
+DataFieldName=Species
+DataRecordId=NBNSYS0000036836
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ10
+NN67
+NN97
+NO07
+NO17
+NO18
+NO27
+NO28
+NO37
+
+

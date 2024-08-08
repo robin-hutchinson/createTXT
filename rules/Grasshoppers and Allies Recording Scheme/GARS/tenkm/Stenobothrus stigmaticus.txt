@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Grasshoppers and Allies Recording Scheme/GARS 10km distribution
+ShortName=Stenobothrus stigmaticus 10km
+Description=Check coordinate against known distribution of Stenobothrus stigmaticus
+ErrorMsg=Coordinate is outside known range for Stenobothrus stigmaticus
+DataFieldName=Species
+DataRecordId=NBNSYS0000006836
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC26
+
+

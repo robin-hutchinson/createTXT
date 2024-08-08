@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Adicella filicornis
+Description=Checks date is within known recording period of Adicella filicornis
+ErrorMsg=Date is outside known recording period of Adicella filicornis
+Tvk=NBNSYS0000008528
+StartDate=18840101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Tibellus oblongus
+Description=Checks date is within known flight period of Tibellus oblongus
+ErrorMsg=Date is outside known flight period of Tibellus oblongus
+Tvk=NBNSYS0000008755
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

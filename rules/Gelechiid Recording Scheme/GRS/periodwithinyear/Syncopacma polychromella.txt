@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Syncopacma polychromella
+Description=Checks date is within known flight period of Syncopacma polychromella
+ErrorMsg=Date is outside known flight period of Syncopacma polychromella
+Tvk=NHMSYS0000504431
+DataFieldName=
+StartDate=0201
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

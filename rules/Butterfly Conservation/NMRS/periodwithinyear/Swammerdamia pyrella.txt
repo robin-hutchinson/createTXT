@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Swammerdamia pyrella
+Description=Checks date is within known flight period of Swammerdamia pyrella
+ErrorMsg=Date is outside known flight period of Swammerdamia pyrella
+Tvk=NHMSYS0000504414
+DataFieldName=
+StartDate=0421
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

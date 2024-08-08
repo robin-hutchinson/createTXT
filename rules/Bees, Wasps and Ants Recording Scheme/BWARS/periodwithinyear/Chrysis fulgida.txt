@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Chrysis fulgida
+Description=Checks date is within known flight period of Chrysis fulgida
+ErrorMsg=Date is outside known flight period of Chrysis fulgida
+Tvk=NHMSYS0000875658
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Stephensia brunnichella
+Description=Checks date is within known recording period of Stephensia brunnichella
+ErrorMsg=Date is outside known recording period of Stephensia brunnichella
+Tvk=NHMSYS0000504321
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

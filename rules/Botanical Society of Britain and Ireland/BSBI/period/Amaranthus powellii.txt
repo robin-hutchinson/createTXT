@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Amaranthus powellii
+Description=Checks date is within known recording period of Amaranthus powellii
+ErrorMsg=Date is outside known recording period of Amaranthus powellii
+Tvk=NHMSYS0000455839
+StartDate=19820101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

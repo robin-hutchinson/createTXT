@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Maro lepidus
+Description=Checks date is within known flight period of Maro lepidus
+ErrorMsg=Date is outside known flight period of Maro lepidus
+Tvk=NBNSYS0000009165
+DataFieldName=
+StartDate=0319
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

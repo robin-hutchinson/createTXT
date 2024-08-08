@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Bryum calophyllum 10km
+Description=Check coordinate against known distribution of Bryum calophyllum
+ErrorMsg=Coordinate is outside known range for Bryum calophyllum
+DataFieldName=Species
+DataRecordId=NBNSYS0000036581
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ND59
+NO52
+SD36
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex saxatilis x viridula 10km
+Description=Check coordinate against known distribution of Carex saxatilis x viridula
+ErrorMsg=Coordinate is outside known range for Carex saxatilis x viridula
+DataFieldName=Species
+DataRecordId=NHMSYS0020112215
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN27
+
+

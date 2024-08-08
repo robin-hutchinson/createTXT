@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Polysyncraton lacazei 10km
+Description=Check coordinate against known distribution of Polysyncraton lacazei
+ErrorMsg=Coordinate is outside known range for Polysyncraton lacazei
+DataFieldName=Species
+DataRecordId=NBNSYS0000177424
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH12
+SH13
+SH23
+SM70
+SM71
+SM72
+SM80
+SM83
+SX44
+
+
+[10km_Ireland]
+Y87
+Y95
+Y98
+
+

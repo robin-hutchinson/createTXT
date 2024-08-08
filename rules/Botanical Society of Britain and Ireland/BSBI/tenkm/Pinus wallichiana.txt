@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pinus wallichiana 10km
+Description=Check coordinate against known distribution of Pinus wallichiana
+ErrorMsg=Coordinate is outside known range for Pinus wallichiana
+DataFieldName=Species
+DataRecordId=NHMSYS0000461734
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS68
+NS89
+SD52
+SD88
+SJ91
+SJ92
+SK96
+SN79
+SO61
+SP09
+SP13
+ST61
+SU95
+TF23
+TL54
+TL84
+TM02
+TQ15
+TQ25
+TQ27
+TQ36
+TQ46
+TQ82
+
+

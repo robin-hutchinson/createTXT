@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Tinicephalus (Tinicephalus) hortulanus
+Description=Checks date is within known flight period of Tinicephalus (Tinicephalus) hortulanus
+ErrorMsg=Date is outside known flight period of Tinicephalus (Tinicephalus) hortulanus
+Tvk=NHMSYS0020309907
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

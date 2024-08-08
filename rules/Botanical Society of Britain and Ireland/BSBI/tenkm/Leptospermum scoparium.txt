@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Leptospermum scoparium 10km
+Description=Check coordinate against known distribution of Leptospermum scoparium
+ErrorMsg=Coordinate is outside known range for Leptospermum scoparium
+DataFieldName=Species
+DataRecordId=NHMSYS0000460273
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC17
+SV81
+SV91
+SW42
+SW43
+
+

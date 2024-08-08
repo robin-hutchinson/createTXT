@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Phalaris canariensis
+Description=Checks date is within known recording period of Phalaris canariensis
+ErrorMsg=Date is outside known recording period of Phalaris canariensis
+Tvk=NBNSYS0000002670
+StartDate=16320101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

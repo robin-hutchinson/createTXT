@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Coleosoma floridanum 10km
+Description=Check coordinate against known distribution of Coleosoma floridanum
+ErrorMsg=Coordinate is outside known range for Coleosoma floridanum
+DataFieldName=Species
+DataRecordId=NBNSYS0200000058
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD46
+SK90
+TL15
+TL45
+
+

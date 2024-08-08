@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pheosia tremula
+Description=Checks date is within known recording period of Pheosia tremula
+ErrorMsg=Date is outside known recording period of Pheosia tremula
+Tvk=NBNSYS0000006093
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Cerceris quinquefasciata
+Description=Checks date is within known flight period of Cerceris quinquefasciata
+ErrorMsg=Date is outside known flight period of Cerceris quinquefasciata
+Tvk=NHMSYS0000875632
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

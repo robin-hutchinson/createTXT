@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Carpocoris purpureipennis
+Description=Checks date is within known recording period of Carpocoris purpureipennis
+ErrorMsg=Date is outside known recording period of Carpocoris purpureipennis
+Tvk=NHMSYS0020309048
+StartDate=19950101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

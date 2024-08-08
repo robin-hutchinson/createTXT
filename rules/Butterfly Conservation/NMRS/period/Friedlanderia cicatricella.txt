@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Friedlanderia cicatricella
+Description=Checks date is within known recording period of Friedlanderia cicatricella
+ErrorMsg=Date is outside known recording period of Friedlanderia cicatricella
+Tvk=NHMSYS0000516769
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

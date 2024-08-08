@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Psychomyia pusilla
+Description=Checks date is within known recording period of Psychomyia pusilla
+ErrorMsg=Date is outside known recording period of Psychomyia pusilla
+Tvk=NHMSYS0020704831
+StartDate=18350101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Omalus puncticollis
+Description=Checks date is within known flight period of Omalus puncticollis
+ErrorMsg=Date is outside known flight period of Omalus puncticollis
+Tvk=NHMSYS0000876487
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Psallus (Psallus) haematodes
+Description=Checks date is within known flight period of Psallus (Psallus) haematodes
+ErrorMsg=Date is outside known flight period of Psallus (Psallus) haematodes
+Tvk=NHMSYS0020309738
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

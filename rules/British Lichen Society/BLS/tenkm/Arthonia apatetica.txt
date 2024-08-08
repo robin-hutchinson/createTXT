@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Arthonia apatetica 10km
+Description=Check coordinate against known distribution of Arthonia apatetica
+ErrorMsg=Coordinate is outside known range for Arthonia apatetica
+DataFieldName=Species
+DataRecordId=NHMSYS0001474924
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN85
+
+

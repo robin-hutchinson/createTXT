@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Haemescharia hennedyi 10km
+Description=Check coordinate against known distribution of Haemescharia hennedyi
+ErrorMsg=Coordinate is outside known range for Haemescharia hennedyi
+DataFieldName=Species
+DataRecordId=NHMSYS0000567972
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO51
+NO88
+NR24
+NT77
+NU05
+SM72
+SM80
+SM83
+SM90
+SX45
+SX73
+SY87
+SZ89
+TQ30
+
+

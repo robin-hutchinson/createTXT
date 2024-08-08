@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eublemma ostrina
+Description=Checks date is within known flight period of Eublemma ostrina
+ErrorMsg=Date is outside known flight period of Eublemma ostrina
+Tvk=NHMSYS0021144443
+DataFieldName=
+StartDate=0121
+EndDate=1221
+LastChanged=20240808
+[EndMetadata]

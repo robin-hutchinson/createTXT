@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Hoplomachus thunbergii
+Description=Checks date is within known recording period of Hoplomachus thunbergii
+ErrorMsg=Date is outside known recording period of Hoplomachus thunbergii
+Tvk=NHMSYS0020309324
+StartDate=18130101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

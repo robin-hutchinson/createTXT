@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Sciocoris (Sciocoris) cursitans 10km
+Description=Check coordinate against known distribution of Sciocoris (Sciocoris) cursitans
+ErrorMsg=Coordinate is outside known range for Sciocoris (Sciocoris) cursitans
+DataFieldName=Species
+DataRecordId=NHMSYS0020309806
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SN40
+ST35
+SW53
+SW54
+SW61
+SW64
+SW71
+SW75
+SW97
+TQ15
+TQ25
+TQ26
+TQ48
+TQ57
+TQ58
+TQ67
+TQ68
+TQ76
+TQ78
+TQ88
+TR25
+TR26
+TR35
+
+

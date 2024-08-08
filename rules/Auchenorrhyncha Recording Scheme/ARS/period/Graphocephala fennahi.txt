@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Graphocephala fennahi
+Description=Checks date is within known recording period of Graphocephala fennahi
+ErrorMsg=Date is outside known recording period of Graphocephala fennahi
+Tvk=NHMSYS0020705608
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

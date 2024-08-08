@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Limotettix atricapillus 10km
+Description=Check coordinate against known distribution of Limotettix atricapillus
+ErrorMsg=Coordinate is outside known range for Limotettix atricapillus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442422
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ56
+SJ57
+SJ66
+SU30
+
+

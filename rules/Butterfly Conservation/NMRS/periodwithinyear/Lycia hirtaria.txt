@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lycia hirtaria
+Description=Checks date is within known flight period of Lycia hirtaria
+ErrorMsg=Date is outside known flight period of Lycia hirtaria
+Tvk=NBNSYS0000006018
+DataFieldName=
+StartDate=0215
+EndDate=0607
+LastChanged=20240808
+[EndMetadata]

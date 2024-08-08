@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Harpactea rubicunda 10km
+Description=Check coordinate against known distribution of Harpactea rubicunda
+ErrorMsg=Coordinate is outside known range for Harpactea rubicunda
+DataFieldName=Species
+DataRecordId=NBNSYS0000008634
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ57
+TQ67
+
+

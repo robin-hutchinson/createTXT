@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Geophilus proximus
+Description=Checks date is within known recording period of Geophilus proximus
+ErrorMsg=Date is outside known recording period of Geophilus proximus
+Tvk=NBNSYS0000011414
+StartDate=19740801
+EndDate=
+LastChanged=20240808
+[EndMetadata]

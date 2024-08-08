@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Atriplex prostrata x glabriuscula 10km
+Description=Check coordinate against known distribution of Atriplex prostrata x glabriuscula
+ErrorMsg=Coordinate is outside known range for Atriplex prostrata x glabriuscula
+DataFieldName=Species
+DataRecordId=NHMSYS0100000728
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC55
+ND12
+NH19
+NR87
+NU05
+NX06
+NZ52
+NZ53
+SD46
+SW64
+SZ47
+SZ69
+SZ79
+TA15
+TA41
+TF84
+TQ39
+TR06
+
+

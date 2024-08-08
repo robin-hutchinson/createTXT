@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Cnaemidophorus rhododactyla
+Description=Checks date is within known recording period of Cnaemidophorus rhododactyla
+ErrorMsg=Date is outside known recording period of Cnaemidophorus rhododactyla
+Tvk=NHMSYS0000501326
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

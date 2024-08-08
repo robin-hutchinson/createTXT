@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Limonium binervosum 10km
+Description=Check coordinate against known distribution of Limonium binervosum
+ErrorMsg=Coordinate is outside known range for Limonium binervosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000460353
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS96
+ST24
+ST25
+ST33
+TM11
+TM22
+TR33
+
+
+[10km_CI]
+WA50
+WA60
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Tmeticus affinis
+Description=Checks date is within known flight period of Tmeticus affinis
+ErrorMsg=Date is outside known flight period of Tmeticus affinis
+Tvk=NBNSYS0000009003
+DataFieldName=
+StartDate=0318
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

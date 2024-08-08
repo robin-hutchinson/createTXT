@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Calidris alba
+Description=Checks date is within known flight period of Calidris alba
+ErrorMsg=Date is outside known flight period of Calidris alba
+Tvk=NBNSYS0000000152
+DataFieldName=
+StartDate=0601
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

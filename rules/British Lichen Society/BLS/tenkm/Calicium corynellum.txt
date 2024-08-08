@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Calicium corynellum 10km
+Description=Check coordinate against known distribution of Calicium corynellum
+ErrorMsg=Coordinate is outside known range for Calicium corynellum
+DataFieldName=Species
+DataRecordId=NBNSYS0000015535
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT35
+NY75
+NZ06
+
+

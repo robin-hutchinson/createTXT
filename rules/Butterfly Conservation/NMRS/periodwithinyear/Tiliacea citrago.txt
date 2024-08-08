@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Tiliacea citrago
+Description=Checks date is within known flight period of Tiliacea citrago
+ErrorMsg=Date is outside known flight period of Tiliacea citrago
+Tvk=NHMSYS0021144698
+DataFieldName=
+StartDate=0807
+EndDate=1107
+LastChanged=20240808
+[EndMetadata]

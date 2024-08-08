@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Moebelia penicillata
+Description=Checks date is within known flight period of Moebelia penicillata
+ErrorMsg=Date is outside known flight period of Moebelia penicillata
+Tvk=NBNSYS0000008999
+DataFieldName=
+StartDate=0320
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

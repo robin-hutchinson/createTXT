@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lupinus angustifolius
+Description=Checks date is within known recording period of Lupinus angustifolius
+ErrorMsg=Date is outside known recording period of Lupinus angustifolius
+Tvk=NBNSYS0000034086
+StartDate=18900101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

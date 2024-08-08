@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Lucernariopsis campanulata 10km
+Description=Check coordinate against known distribution of Lucernariopsis campanulata
+ErrorMsg=Coordinate is outside known range for Lucernariopsis campanulata
+DataFieldName=Species
+DataRecordId=NBNSYS0000176256
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+D23
+J67
+Y85
+Y95
+
+
+[10km_GB]
+NB10
+NB13
+NB14
+NB42
+NC01
+NF85
+NM68
+NM83
+NR67
+NW49
+NW72
+SH41
+SM70
+SM71
+SM81
+SV81
+SV91
+SW82
+SX25
+SX54
+SX73
+SZ28
+
+

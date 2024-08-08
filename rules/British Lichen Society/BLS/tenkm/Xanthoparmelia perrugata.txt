@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Xanthoparmelia perrugata 10km
+Description=Check coordinate against known distribution of Xanthoparmelia perrugata
+ErrorMsg=Coordinate is outside known range for Xanthoparmelia perrugata
+DataFieldName=Species
+DataRecordId=NHMSYS0020327895
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NB12
+NC63
+NF82
+NG20
+NH69
+NO39
+NS00
+SS74
+
+

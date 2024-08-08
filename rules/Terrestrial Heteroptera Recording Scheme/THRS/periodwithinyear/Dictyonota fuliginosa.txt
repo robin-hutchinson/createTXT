@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Dictyonota fuliginosa
+Description=Checks date is within known flight period of Dictyonota fuliginosa
+ErrorMsg=Date is outside known flight period of Dictyonota fuliginosa
+Tvk=NHMSYS0020309160
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

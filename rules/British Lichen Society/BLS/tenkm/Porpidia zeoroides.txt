@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Porpidia zeoroides 10km
+Description=Check coordinate against known distribution of Porpidia zeoroides
+ErrorMsg=Coordinate is outside known range for Porpidia zeoroides
+DataFieldName=Species
+DataRecordId=BMSSYS0000015267
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN04
+NN64
+SO37
+SZ68
+
+
+[10km_Ireland]
+R11
+
+

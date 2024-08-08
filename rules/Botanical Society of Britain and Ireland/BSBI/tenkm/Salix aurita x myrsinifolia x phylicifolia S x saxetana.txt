@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Salix aurita x myrsinifolia x phylicifolia = S. x saxetana 10km
+Description=Check coordinate against known distribution of Salix aurita x myrsinifolia x phylicifolia = S. x saxetana
+ErrorMsg=Coordinate is outside known range for Salix aurita x myrsinifolia x phylicifolia = S. x saxetana
+DataFieldName=Species
+DataRecordId=NHMSYS0001754722
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN22
+NO07
+NO18
+NO27
+SD96
+
+

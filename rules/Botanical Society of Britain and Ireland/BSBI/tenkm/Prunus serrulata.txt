@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Prunus serrulata 10km
+Description=Check coordinate against known distribution of Prunus serrulata
+ErrorMsg=Coordinate is outside known range for Prunus serrulata
+DataFieldName=Species
+DataRecordId=NHMSYS0000462088
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C31
+C41
+C62
+
+
+[10km_GB]
+NG53
+NT07
+NT27
+SD40
+SJ84
+SJ95
+SK54
+SK96
+SN42
+SN68
+SN83
+SO98
+ST47
+ST81
+SW43
+SY78
+SZ07
+SZ09
+TL34
+TM00
+TQ89
+TQ99
+
+

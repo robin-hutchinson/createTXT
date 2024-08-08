@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Eupteryx stachydearum
+Description=Checks date is within known flight period of Eupteryx stachydearum
+ErrorMsg=Date is outside known flight period of Eupteryx stachydearum
+Tvk=NHMSYS0020705573
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

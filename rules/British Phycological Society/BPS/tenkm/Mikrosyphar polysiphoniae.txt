@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Mikrosyphar polysiphoniae 10km
+Description=Check coordinate against known distribution of Mikrosyphar polysiphoniae
+ErrorMsg=Coordinate is outside known range for Mikrosyphar polysiphoniae
+DataFieldName=Species
+DataRecordId=NBNSYS0000176489
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+NK14
+NO88
+NZ36
+SD46
+SJ38
+SJ39
+SM81
+SV90
+TR23
+TR37
+
+

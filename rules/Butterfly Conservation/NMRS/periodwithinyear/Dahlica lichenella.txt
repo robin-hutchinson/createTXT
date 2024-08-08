@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Dahlica lichenella
+Description=Checks date is within known flight period of Dahlica lichenella
+ErrorMsg=Date is outside known flight period of Dahlica lichenella
+Tvk=NHMSYS0000502086
+DataFieldName=
+StartDate=0401
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

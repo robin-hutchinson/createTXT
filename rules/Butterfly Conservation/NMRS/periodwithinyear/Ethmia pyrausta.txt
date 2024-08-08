@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ethmia pyrausta
+Description=Checks date is within known flight period of Ethmia pyrausta
+ErrorMsg=Date is outside known flight period of Ethmia pyrausta
+Tvk=NHMSYS0000502505
+DataFieldName=
+StartDate=0421
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

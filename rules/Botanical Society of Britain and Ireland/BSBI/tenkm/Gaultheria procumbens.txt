@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gaultheria procumbens 10km
+Description=Check coordinate against known distribution of Gaultheria procumbens
+ErrorMsg=Coordinate is outside known range for Gaultheria procumbens
+DataFieldName=Species
+DataRecordId=NBNSYS0000003897
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH10
+SN67
+SS92
+SU95
+SU96
+TQ14
+
+

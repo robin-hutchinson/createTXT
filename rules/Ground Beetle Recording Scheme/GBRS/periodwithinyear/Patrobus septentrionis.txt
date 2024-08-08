@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Patrobus septentrionis
+Description=Checks date is within known flight period of Patrobus septentrionis
+ErrorMsg=Date is outside known flight period of Patrobus septentrionis
+Tvk=NBNSYS0000007189
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

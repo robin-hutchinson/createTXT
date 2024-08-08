@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Acer cappadocicum
+Description=Checks date is within known recording period of Acer cappadocicum
+ErrorMsg=Date is outside known recording period of Acer cappadocicum
+Tvk=NBNSYS0000014410
+StartDate=19770101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

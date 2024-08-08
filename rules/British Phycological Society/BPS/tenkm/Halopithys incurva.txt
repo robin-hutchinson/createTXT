@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Halopithys incurva 10km
+Description=Check coordinate against known distribution of Halopithys incurva
+ErrorMsg=Coordinate is outside known range for Halopithys incurva
+DataFieldName=Species
+DataRecordId=NHMSYS0000377580
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS43
+SW61
+SW71
+SW87
+SX35
+SX73
+SX85
+SX95
+SX96
+SY08
+SY18
+SY28
+SY39
+SY49
+SY58
+SY67
+SY68
+SY78
+SY87
+SY88
+SY97
+SZ07
+SZ08
+SZ28
+SZ49
+SZ68
+SZ69
+SZ89
+SZ99
+TG24
+TQ30
+
+

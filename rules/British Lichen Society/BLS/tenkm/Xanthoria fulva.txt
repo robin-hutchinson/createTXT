@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Xanthoria fulva 10km
+Description=Check coordinate against known distribution of Xanthoria fulva
+ErrorMsg=Coordinate is outside known range for Xanthoria fulva
+DataFieldName=Species
+DataRecordId=NHMSYS0001501923
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT60
+SE12
+SE99
+
+

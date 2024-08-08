@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Pteris cretica 10km
+Description=Check coordinate against known distribution of Pteris cretica
+ErrorMsg=Coordinate is outside known range for Pteris cretica
+DataFieldName=Species
+DataRecordId=NBNSYS0000014557
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS38
+SK25
+SK33
+SO76
+SP09
+SP36
+SP50
+ST45
+ST76
+SU47
+SU77
+SW64
+SW72
+SW95
+SX05
+SX73
+TA16
+TF62
+TL02
+TL35
+TL42
+TL45
+TM14
+TM46
+TQ17
+TQ18
+TQ27
+TQ28
+TQ29
+TQ30
+TQ44
+TQ46
+TQ47
+TQ65
+
+
+[10km_Ireland]
+O13
+
+

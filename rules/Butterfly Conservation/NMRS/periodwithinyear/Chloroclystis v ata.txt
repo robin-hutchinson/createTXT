@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Chloroclystis v-ata
+Description=Checks date is within known flight period of Chloroclystis v-ata
+ErrorMsg=Date is outside known flight period of Chloroclystis v-ata
+Tvk=NBNSYS0000005946
+DataFieldName=
+StartDate=0321
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

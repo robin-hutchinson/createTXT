@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Trinia glauca 10km
+Description=Check coordinate against known distribution of Trinia glauca
+ErrorMsg=Coordinate is outside known range for Trinia glauca
+DataFieldName=Species
+DataRecordId=NBNSYS0000003662
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST35
+ST36
+ST45
+ST46
+ST57
+SX95
+SX96
+
+

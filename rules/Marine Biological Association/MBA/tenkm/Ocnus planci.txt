@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Ocnus planci 10km
+Description=Check coordinate against known distribution of Ocnus planci
+ErrorMsg=Coordinate is outside known range for Ocnus planci
+DataFieldName=Species
+DataRecordId=NBNSYS0000176782
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J11
+J55
+J56
+Y98
+
+
+[10km_GB]
+NB32
+NB42
+NC23
+NC25
+NG19
+NG29
+NG77
+NG80
+NG82
+NG88
+NH09
+NM57
+NM65
+NM73
+NN07
+NR88
+NS19
+NW71
+SB27
+SC05
+SC16
+SC31
+SC56
+SC94
+SH42
+SH43
+SH49
+SH53
+SM83
+SS09
+SX95
+
+

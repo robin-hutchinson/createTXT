@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Unguiculariopsis manriquei 10km
+Description=Check coordinate against known distribution of Unguiculariopsis manriquei
+ErrorMsg=Coordinate is outside known range for Unguiculariopsis manriquei
+DataFieldName=Species
+DataRecordId=NHMSYS0001500813
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM43
+NM44
+NM45
+NM53
+NM54
+NM55
+NM60
+NM61
+NM62
+NM63
+NM64
+NM65
+NM70
+NM71
+NM72
+NM80
+NM81
+NM82
+
+

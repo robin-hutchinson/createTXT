@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Uloborus walckenaerius 10km
+Description=Check coordinate against known distribution of Uloborus walckenaerius
+ErrorMsg=Coordinate is outside known range for Uloborus walckenaerius
+DataFieldName=Species
+DataRecordId=NBNSYS0000008627
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU84
+SU91
+SU94
+SU95
+SU96
+SZ19
+
+

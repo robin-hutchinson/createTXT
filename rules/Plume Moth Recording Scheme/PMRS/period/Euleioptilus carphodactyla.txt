@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Euleioptilus carphodactyla
+Description=Checks date is within known recording period of Euleioptilus carphodactyla
+ErrorMsg=Date is outside known recording period of Euleioptilus carphodactyla
+Tvk=NBNSYS0100003103
+StartDate=19000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

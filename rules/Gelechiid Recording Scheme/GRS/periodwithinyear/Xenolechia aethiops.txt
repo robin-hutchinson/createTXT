@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Xenolechia aethiops
+Description=Checks date is within known flight period of Xenolechia aethiops
+ErrorMsg=Date is outside known flight period of Xenolechia aethiops
+Tvk=NHMSYS0000504665
+DataFieldName=
+StartDate=0401
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

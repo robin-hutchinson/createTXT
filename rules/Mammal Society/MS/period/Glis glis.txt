@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Mammal Society/MS Recording Period
+ShortName=Glis glis
+Description=Checks date is within known recording period of Glis glis
+ErrorMsg=Date is outside known recording period of Glis glis
+Tvk=NHMSYS0000080215
+StartDate=19020101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Oegoconia quadripuncta
+Description=Checks date is within known flight period of Oegoconia quadripuncta
+ErrorMsg=Date is outside known flight period of Oegoconia quadripuncta
+Tvk=NHMSYS0000503461
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

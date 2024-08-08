@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Navarretia squarrosa 10km
+Description=Check coordinate against known distribution of Navarretia squarrosa
+ErrorMsg=Coordinate is outside known range for Navarretia squarrosa
+DataFieldName=Species
+DataRecordId=NBNSYS0500000313
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU96
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Episyrphus balteatus
+Description=Checks date is within known flight period of Episyrphus balteatus
+ErrorMsg=Date is outside known flight period of Episyrphus balteatus
+Tvk=NBNSYS0000006916
+DataFieldName=
+StartDate=0103
+EndDate=1228
+LastChanged=20240808
+[EndMetadata]

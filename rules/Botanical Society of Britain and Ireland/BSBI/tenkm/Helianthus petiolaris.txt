@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Helianthus petiolaris 10km
+Description=Check coordinate against known distribution of Helianthus petiolaris
+ErrorMsg=Coordinate is outside known range for Helianthus petiolaris
+DataFieldName=Species
+DataRecordId=NBNSYS0000033836
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD32
+SE13
+SE32
+SJ47
+SJ97
+SO60
+SO81
+SO83
+SO89
+SP09
+SP50
+ST57
+SU77
+SU89
+SY88
+TL31
+TL42
+TL51
+TL60
+TM33
+TQ08
+TQ17
+TQ48
+TQ57
+TQ58
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Hyledelphax elegantula
+Description=Checks date is within known flight period of Hyledelphax elegantula
+ErrorMsg=Date is outside known flight period of Hyledelphax elegantula
+Tvk=NHMSYS0020705627
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

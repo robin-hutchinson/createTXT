@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Aporophyla australis pascuea
+Description=Checks date is within known flight period of Aporophyla australis pascuea
+ErrorMsg=Date is outside known flight period of Aporophyla australis pascuea
+Tvk=NHMSYS0021144768
+DataFieldName=
+StartDate=0821
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

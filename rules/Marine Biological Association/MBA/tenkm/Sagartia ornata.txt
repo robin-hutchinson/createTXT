@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Sagartia ornata 10km
+Description=Check coordinate against known distribution of Sagartia ornata
+ErrorMsg=Coordinate is outside known range for Sagartia ornata
+DataFieldName=Species
+DataRecordId=NBNSYS0000186732
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J42
+V74
+
+
+[10km_GB]
+NG75
+NT69
+NT96
+SB57
+SH24
+SX45
+SX54
+
+

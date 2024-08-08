@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Belonia calcicola 10km
+Description=Check coordinate against known distribution of Belonia calcicola
+ErrorMsg=Coordinate is outside known range for Belonia calcicola
+DataFieldName=Species
+DataRecordId=NBNSYS0000016957
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC44
+NY11
+ST46
+
+

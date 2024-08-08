@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Odontoscelis (Odontoscelis) fuliginosa
+Description=Checks date is within known recording period of Odontoscelis (Odontoscelis) fuliginosa
+ErrorMsg=Date is outside known recording period of Odontoscelis (Odontoscelis) fuliginosa
+Tvk=NHMSYS0020309545
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

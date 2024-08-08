@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Tinodes waeneri
+Description=Checks date is within known flight period of Tinodes waeneri
+ErrorMsg=Date is outside known flight period of Tinodes waeneri
+Tvk=NBNSYS0000008396
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

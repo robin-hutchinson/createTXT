@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Lophocolea bispinosa 10km
+Description=Check coordinate against known distribution of Lophocolea bispinosa
+ErrorMsg=Coordinate is outside known range for Lophocolea bispinosa
+DataFieldName=Species
+DataRecordId=NHMSYS0000309663
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU00
+SU10
+SU11
+SU20
+SU21
+SU30
+SU31
+SU40
+SU41
+SV80
+SV90
+SW65
+SY88
+SY89
+SY98
+SY99
+SZ08
+SZ09
+SZ19
+SZ29
+SZ39
+SZ49
+
+

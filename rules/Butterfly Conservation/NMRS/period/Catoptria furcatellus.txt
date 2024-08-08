@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Catoptria furcatellus
+Description=Checks date is within known recording period of Catoptria furcatellus
+ErrorMsg=Date is outside known recording period of Catoptria furcatellus
+Tvk=NBNSYS0000026839
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Byssoloma leucoblepharum 10km
+Description=Check coordinate against known distribution of Byssoloma leucoblepharum
+ErrorMsg=Coordinate is outside known range for Byssoloma leucoblepharum
+DataFieldName=Species
+DataRecordId=NBNSYS0000039590
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS14
+SU10
+SU20
+SU21
+SU30
+SU92
+SZ49
+
+

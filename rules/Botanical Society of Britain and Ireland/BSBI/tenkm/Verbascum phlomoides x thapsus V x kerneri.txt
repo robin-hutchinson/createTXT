@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbascum phlomoides x thapsus = V. x kerneri 10km
+Description=Check coordinate against known distribution of Verbascum phlomoides x thapsus = V. x kerneri
+ErrorMsg=Coordinate is outside known range for Verbascum phlomoides x thapsus = V. x kerneri
+DataFieldName=Species
+DataRecordId=NBNSYS0000162122
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NU21
+SP40
+SU39
+TL31
+TL45
+TQ05
+TQ17
+TQ46
+TQ75
+
+

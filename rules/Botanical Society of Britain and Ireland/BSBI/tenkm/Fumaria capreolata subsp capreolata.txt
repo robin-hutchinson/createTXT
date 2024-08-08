@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fumaria capreolata subsp. capreolata 10km
+Description=Check coordinate against known distribution of Fumaria capreolata subsp. capreolata
+ErrorMsg=Coordinate is outside known range for Fumaria capreolata subsp. capreolata
+DataFieldName=Species
+DataRecordId=NHMSYS0000458907
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ26
+NS37
+NY18
+NZ27
+SJ21
+SS09
+SS54
+TF83
+TL69
+TL99
+
+
+NA
+
+

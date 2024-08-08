@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cyrtomium falcatum 10km
+Description=Check coordinate against known distribution of Cyrtomium falcatum
+ErrorMsg=Coordinate is outside known range for Cyrtomium falcatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000457839
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM49
+SC37
+SH45
+SN58
+SO92
+SS84
+SU46
+SU60
+SU95
+SV91
+SW42
+SW43
+SW71
+SW76
+SX08
+SX15
+SY67
+SZ57
+TL02
+TL42
+TQ17
+TQ26
+TQ27
+TQ29
+TQ30
+TQ37
+TQ47
+TQ75
+TQ81
+TQ97
+
+
+[10km_Ireland]
+W67
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Isotrias rectifasciana
+Description=Checks date is within known flight period of Isotrias rectifasciana
+ErrorMsg=Date is outside known flight period of Isotrias rectifasciana
+Tvk=NHMSYS0000502961
+DataFieldName=
+StartDate=0501
+EndDate=0807
+LastChanged=20240808
+[EndMetadata]

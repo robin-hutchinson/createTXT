@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Caryocolum junctella 10km
+Description=Check coordinate against known distribution of Caryocolum junctella
+ErrorMsg=Coordinate is outside known range for Caryocolum junctella
+DataFieldName=Species
+DataRecordId=NHMSYS0000501651
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH31
+NH69
+NH75
+NJ01
+NJ05
+NN55
+NN58
+SE65
+SJ35
+SO63
+SO64
+SO77
+
+

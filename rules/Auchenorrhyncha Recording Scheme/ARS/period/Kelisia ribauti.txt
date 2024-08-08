@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Kelisia ribauti
+Description=Checks date is within known recording period of Kelisia ribauti
+ErrorMsg=Date is outside known recording period of Kelisia ribauti
+Tvk=NHMSYS0020705670
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

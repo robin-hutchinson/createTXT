@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Blastophysa rhizopus 10km
+Description=Check coordinate against known distribution of Blastophysa rhizopus
+ErrorMsg=Coordinate is outside known range for Blastophysa rhizopus
+DataFieldName=Species
+DataRecordId=NBNSYS0000174141
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+NS15
+SX45
+TG50
+
+

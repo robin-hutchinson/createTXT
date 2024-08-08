@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Trifolium echinatum
+Description=Checks date is within known recording period of Trifolium echinatum
+ErrorMsg=Date is outside known recording period of Trifolium echinatum
+Tvk=NHMSYS0000464565
+StartDate=18780101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

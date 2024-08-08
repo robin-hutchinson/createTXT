@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Chloropidae Recording Scheme/CRS Flight Period
+ShortName=Trachysiphonella pygmaea
+Description=Checks date is within known flight period of Trachysiphonella pygmaea
+ErrorMsg=Date is outside known flight period of Trachysiphonella pygmaea
+Tvk=NBNSYS0000029858
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

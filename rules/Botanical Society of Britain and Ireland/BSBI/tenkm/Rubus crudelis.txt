@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus crudelis 10km
+Description=Check coordinate against known distribution of Rubus crudelis
+ErrorMsg=Coordinate is outside known range for Rubus crudelis
+DataFieldName=Species
+DataRecordId=NHMSYS0000462654
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU31
+SU73
+SU83
+SU84
+SU91
+SU93
+SU94
+SU95
+TG13
+TQ05
+TQ06
+TQ16
+TQ27
+TQ42
+TQ45
+
+

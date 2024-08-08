@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sasa veitchii 10km
+Description=Check coordinate against known distribution of Sasa veitchii
+ErrorMsg=Coordinate is outside known range for Sasa veitchii
+DataFieldName=Species
+DataRecordId=NHMSYS0000463227
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+G85
+
+
+[10km_GB]
+NJ46
+ST40
+SU93
+SU96
+SV91
+SW64
+SX78
+SY09
+SY19
+SY39
+SY99
+TQ46
+
+
+NA
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Anser albifrons flavirostris
+Description=Checks date is within known flight period of Anser albifrons flavirostris
+ErrorMsg=Date is outside known flight period of Anser albifrons flavirostris
+Tvk=NHMSYS0000532795
+DataFieldName=
+StartDate=0426
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

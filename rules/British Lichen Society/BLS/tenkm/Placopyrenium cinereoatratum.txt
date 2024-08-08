@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Placopyrenium cinereoatratum 10km
+Description=Check coordinate against known distribution of Placopyrenium cinereoatratum
+ErrorMsg=Coordinate is outside known range for Placopyrenium cinereoatratum
+DataFieldName=Species
+DataRecordId=NHMSYS0020535933
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ51
+NO25
+
+

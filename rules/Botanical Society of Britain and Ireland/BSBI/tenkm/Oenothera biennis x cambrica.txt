@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Oenothera biennis x cambrica 10km
+Description=Check coordinate against known distribution of Oenothera biennis x cambrica
+ErrorMsg=Coordinate is outside known range for Oenothera biennis x cambrica
+DataFieldName=Species
+DataRecordId=NBNSYS0000014014
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ05
+NJ25
+NS56
+NS66
+SD70
+SH75
+SJ22
+SN10
+SN20
+SN51
+SO74
+SO84
+SO87
+SO88
+SO94
+SP04
+SP08
+SP17
+SP26
+SR99
+SS19
+SS43
+SS49
+SS78
+ST63
+SU73
+SU83
+SU85
+SU96
+SV91
+SW53
+SW64
+SX04
+SX16
+TF81
+TL31
+TL42
+
+

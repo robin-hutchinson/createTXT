@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Najas graminea 10km
+Description=Check coordinate against known distribution of Najas graminea
+ErrorMsg=Coordinate is outside known range for Najas graminea
+DataFieldName=Species
+DataRecordId=NHMSYS0000460843
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ89
+
+

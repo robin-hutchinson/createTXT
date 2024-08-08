@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Brassica tournefortii 10km
+Description=Check coordinate against known distribution of Brassica tournefortii
+ErrorMsg=Coordinate is outside known range for Brassica tournefortii
+DataFieldName=Species
+DataRecordId=NBNSYS0000014817
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH64
+NH72
+NH82
+NJ24
+NO41
+NT27
+NT53
+SD90
+SE13
+SE22
+SE48
+SK22
+SO60
+SO83
+SP04
+SP36
+SP38
+ST57
+ST67
+SU73
+SX87
+TA12
+TL03
+TL13
+TL24
+TL78
+TR25
+
+
+[10km_Ireland]
+O13
+
+

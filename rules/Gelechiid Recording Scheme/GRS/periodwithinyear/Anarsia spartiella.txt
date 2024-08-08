@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Anarsia spartiella
+Description=Checks date is within known flight period of Anarsia spartiella
+ErrorMsg=Date is outside known flight period of Anarsia spartiella
+Tvk=NHMSYS0000501235
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Artemisia stelleriana 10km
+Description=Check coordinate against known distribution of Artemisia stelleriana
+ErrorMsg=Coordinate is outside known range for Artemisia stelleriana
+DataFieldName=Species
+DataRecordId=NBNSYS0000004472
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+C83
+O23
+
+
+[10km_GB]
+NH87
+NO43
+NS03
+NS33
+NS56
+NT18
+NT28
+NX95
+NY04
+NY05
+NY15
+SC49
+SD33
+SP00
+SU76
+SU87
+SU96
+SW52
+SW53
+SW71
+SW98
+SX84
+TF40
+TL20
+TL54
+
+

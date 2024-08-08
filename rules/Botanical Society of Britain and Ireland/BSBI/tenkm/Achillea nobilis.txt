@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Achillea nobilis 10km
+Description=Check coordinate against known distribution of Achillea nobilis
+ErrorMsg=Coordinate is outside known range for Achillea nobilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000004455
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NR72
+NT73
+SJ60
+SO83
+SP40
+SP50
+ST57
+SU88
+TF26
+TL04
+TL31
+
+

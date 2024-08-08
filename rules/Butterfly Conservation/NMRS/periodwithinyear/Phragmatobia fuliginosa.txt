@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phragmatobia fuliginosa
+Description=Checks date is within known flight period of Phragmatobia fuliginosa
+ErrorMsg=Date is outside known flight period of Phragmatobia fuliginosa
+Tvk=NBNSYS0000006150
+DataFieldName=
+StartDate=0401
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

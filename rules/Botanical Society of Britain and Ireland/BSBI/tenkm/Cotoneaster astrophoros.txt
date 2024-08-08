@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cotoneaster astrophoros 10km
+Description=Check coordinate against known distribution of Cotoneaster astrophoros
+ErrorMsg=Coordinate is outside known range for Cotoneaster astrophoros
+DataFieldName=Species
+DataRecordId=NBNSYS0100002624
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS66
+
+

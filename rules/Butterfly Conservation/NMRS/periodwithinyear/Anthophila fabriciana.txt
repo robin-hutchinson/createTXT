@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Anthophila fabriciana
+Description=Checks date is within known flight period of Anthophila fabriciana
+ErrorMsg=Date is outside known flight period of Anthophila fabriciana
+Tvk=NHMSYS0000501258
+DataFieldName=
+StartDate=0401
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

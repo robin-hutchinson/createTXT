@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Plume Moth Recording Scheme/PMRS Flight Period
+ShortName=Euleioptilus tephradactyla
+Description=Checks date is within known flight period of Euleioptilus tephradactyla
+ErrorMsg=Date is outside known flight period of Euleioptilus tephradactyla
+Tvk=NBNSYS0100003104
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

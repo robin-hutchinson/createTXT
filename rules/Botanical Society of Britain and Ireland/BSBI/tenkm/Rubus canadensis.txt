@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus canadensis 10km
+Description=Check coordinate against known distribution of Rubus canadensis
+ErrorMsg=Coordinate is outside known range for Rubus canadensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000857312
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD51
+SJ77
+SJ79
+SJ98
+SK31
+SO81
+SU95
+TG13
+TQ04
+TQ59
+
+

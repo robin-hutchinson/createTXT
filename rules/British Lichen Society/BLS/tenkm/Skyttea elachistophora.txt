@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Skyttea elachistophora 10km
+Description=Check coordinate against known distribution of Skyttea elachistophora
+ErrorMsg=Coordinate is outside known range for Skyttea elachistophora
+DataFieldName=Species
+DataRecordId=NHMSYS0001497622
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU27
+HY21
+ND19
+ND28
+NM70
+NO13
+NR46
+NR78
+NT14
+NT68
+
+

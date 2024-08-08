@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Spergularia bocconei 10km
+Description=Check coordinate against known distribution of Spergularia bocconei
+ErrorMsg=Coordinate is outside known range for Spergularia bocconei
+DataFieldName=Species
+DataRecordId=NHMSYS0000463879
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST16
+ST27
+SV91
+SW32
+SW52
+SW53
+SW62
+SW73
+SW83
+SW97
+SX05
+SX35
+SX44
+SX98
+TM02
+TM24
+TM45
+TQ76
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

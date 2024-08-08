@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Primula auricula 10km
+Description=Check coordinate against known distribution of Primula auricula
+ErrorMsg=Coordinate is outside known range for Primula auricula
+DataFieldName=Species
+DataRecordId=NBNSYS0000005377
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO17
+NS46
+TA04
+
+

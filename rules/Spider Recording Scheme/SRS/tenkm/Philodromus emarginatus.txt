@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Philodromus emarginatus 10km
+Description=Check coordinate against known distribution of Philodromus emarginatus
+ErrorMsg=Coordinate is outside known range for Philodromus emarginatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008749
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG85
+NJ01
+NO09
+NO19
+SD38
+SU10
+SU21
+SU83
+SZ19
+
+

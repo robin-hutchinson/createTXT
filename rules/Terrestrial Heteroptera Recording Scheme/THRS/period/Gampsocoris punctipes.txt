@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Gampsocoris punctipes
+Description=Checks date is within known recording period of Gampsocoris punctipes
+ErrorMsg=Date is outside known recording period of Gampsocoris punctipes
+Tvk=NHMSYS0020309240
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

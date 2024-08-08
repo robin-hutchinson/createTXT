@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Iris spuria
+Description=Checks date is within known recording period of Iris spuria
+ErrorMsg=Date is outside known recording period of Iris spuria
+Tvk=NBNSYS0000002266
+StartDate=18360101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

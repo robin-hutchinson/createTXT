@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Juncus subulatus 10km
+Description=Check coordinate against known distribution of Juncus subulatus
+ErrorMsg=Coordinate is outside known range for Juncus subulatus
+DataFieldName=Species
+DataRecordId=NHMSYS0000459991
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS98
+ST25
+
+

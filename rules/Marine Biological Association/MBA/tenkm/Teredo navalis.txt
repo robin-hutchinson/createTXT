@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Teredo navalis 10km
+Description=Check coordinate against known distribution of Teredo navalis
+ErrorMsg=Coordinate is outside known range for Teredo navalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000178314
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS19
+SY77
+SZ79
+TM23
+
+

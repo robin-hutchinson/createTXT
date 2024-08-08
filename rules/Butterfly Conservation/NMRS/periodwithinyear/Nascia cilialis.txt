@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Nascia cilialis
+Description=Checks date is within known flight period of Nascia cilialis
+ErrorMsg=Date is outside known flight period of Nascia cilialis
+Tvk=NHMSYS0000503327
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

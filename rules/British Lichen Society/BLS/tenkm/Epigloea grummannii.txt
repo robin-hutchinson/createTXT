@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Epigloea grummannii 10km
+Description=Check coordinate against known distribution of Epigloea grummannii
+ErrorMsg=Coordinate is outside known range for Epigloea grummannii
+DataFieldName=Species
+DataRecordId=NHMSYS0001481833
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM60
+NM61
+NM62
+NM70
+NM71
+NM72
+NM80
+NM81
+NM82
+NM92
+NM93
+NM94
+NN02
+NN03
+NN04
+NN11
+NN12
+NN13
+NN14
+NN21
+NN22
+NN23
+NN31
+NN32
+NN33
+NN53
+NN54
+NN55
+NN63
+NN64
+NN65
+NN73
+NN74
+NN75
+
+

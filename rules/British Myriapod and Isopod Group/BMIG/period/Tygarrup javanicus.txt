@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Tygarrup javanicus
+Description=Checks date is within known recording period of Tygarrup javanicus
+ErrorMsg=Date is outside known recording period of Tygarrup javanicus
+Tvk=NHMSYS0020784896
+StartDate=19760208
+EndDate=
+LastChanged=20240808
+[EndMetadata]

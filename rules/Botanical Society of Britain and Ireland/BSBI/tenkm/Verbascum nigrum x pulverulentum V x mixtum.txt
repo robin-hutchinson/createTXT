@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbascum nigrum x pulverulentum = V. x mixtum 10km
+Description=Check coordinate against known distribution of Verbascum nigrum x pulverulentum = V. x mixtum
+ErrorMsg=Coordinate is outside known range for Verbascum nigrum x pulverulentum = V. x mixtum
+DataFieldName=Species
+DataRecordId=NBNSYS0000162120
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SX05
+TF72
+TF73
+TF92
+TG11
+TL49
+TL76
+TL84
+TL88
+TM24
+
+

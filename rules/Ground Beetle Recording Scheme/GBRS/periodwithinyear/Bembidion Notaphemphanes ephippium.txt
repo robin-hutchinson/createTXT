@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Bembidion (Notaphemphanes) ephippium
+Description=Checks date is within known flight period of Bembidion (Notaphemphanes) ephippium
+ErrorMsg=Date is outside known flight period of Bembidion (Notaphemphanes) ephippium
+Tvk=NBNSYS0100001950
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

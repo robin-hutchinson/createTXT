@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia arctica x nemorosa x micrantha 10km
+Description=Check coordinate against known distribution of Euphrasia arctica x nemorosa x micrantha
+ErrorMsg=Coordinate is outside known range for Euphrasia arctica x nemorosa x micrantha
+DataFieldName=Species
+DataRecordId=NHMSYS0000458651
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT02
+
+

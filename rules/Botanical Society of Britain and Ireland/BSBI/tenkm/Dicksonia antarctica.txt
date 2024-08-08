@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Dicksonia antarctica 10km
+Description=Check coordinate against known distribution of Dicksonia antarctica
+ErrorMsg=Coordinate is outside known range for Dicksonia antarctica
+DataFieldName=Species
+DataRecordId=NBNSYS0000033530
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV81
+SV91
+SW43
+SW53
+SW72
+SW73
+SW83
+SX04
+SX47
+
+
+[10km_Ireland]
+V47
+
+

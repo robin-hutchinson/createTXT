@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum commixtum 10km
+Description=Check coordinate against known distribution of Taraxacum commixtum
+ErrorMsg=Coordinate is outside known range for Taraxacum commixtum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464193
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TM46
+
+

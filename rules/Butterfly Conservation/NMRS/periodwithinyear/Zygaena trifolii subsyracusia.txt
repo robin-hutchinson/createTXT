@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Zygaena trifolii subsyracusia
+Description=Checks date is within known flight period of Zygaena trifolii subsyracusia
+ErrorMsg=Date is outside known flight period of Zygaena trifolii subsyracusia
+Tvk=NHMSYS0021143447
+DataFieldName=
+StartDate=0501
+EndDate=0821
+LastChanged=20240808
+[EndMetadata]

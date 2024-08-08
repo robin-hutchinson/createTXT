@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca pratensis x gigantea = F. x schlickumii 10km
+Description=Check coordinate against known distribution of Festuca pratensis x gigantea = F. x schlickumii
+ErrorMsg=Coordinate is outside known range for Festuca pratensis x gigantea = F. x schlickumii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754502
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TF72
+TL45
+
+

@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium clovense 10km
+Description=Check coordinate against known distribution of Hieracium clovense
+ErrorMsg=Coordinate is outside known range for Hieracium clovense
+DataFieldName=Species
+DataRecordId=NHMSYS0000459387
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH12
+NH90
+NM77
+NN15
+NN64
+NN96
+NO07
+NO16
+NO17
+NO27
+NO28
+NO37
+NO48
+NY11
+NY20
+NY31
+NY40
+NY41
+NY81
+
+

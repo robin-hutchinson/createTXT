@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rumex scutatus 10km
+Description=Check coordinate against known distribution of Rumex scutatus
+ErrorMsg=Coordinate is outside known range for Rumex scutatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000003779
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT18
+NT27
+NT43
+NX92
+NY13
+NY22
+NY52
+NZ36
+SD26
+SD27
+SD34
+SD37
+SD38
+SD42
+SD47
+SD49
+SD58
+SD74
+SD75
+SD84
+SD85
+SD86
+SD87
+SD99
+SE03
+SE28
+SJ49
+SN10
+SO50
+SO80
+SP12
+SP30
+SP31
+SS88
+SS91
+ST46
+ST57
+ST59
+ST66
+ST69
+ST85
+SW63
+SY18
+
+

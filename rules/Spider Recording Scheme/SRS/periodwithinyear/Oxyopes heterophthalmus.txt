@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Oxyopes heterophthalmus
+Description=Checks date is within known flight period of Oxyopes heterophthalmus
+ErrorMsg=Date is outside known flight period of Oxyopes heterophthalmus
+Tvk=NBNSYS0000008791
+DataFieldName=
+StartDate=0222
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

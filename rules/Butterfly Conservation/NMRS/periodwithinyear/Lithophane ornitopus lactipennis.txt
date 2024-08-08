@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Lithophane ornitopus lactipennis
+Description=Checks date is within known flight period of Lithophane ornitopus lactipennis
+ErrorMsg=Date is outside known flight period of Lithophane ornitopus lactipennis
+Tvk=NHMSYS0021144727
+DataFieldName=
+StartDate=0531
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

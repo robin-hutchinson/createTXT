@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Nomada flavopicta
+Description=Checks date is within known flight period of Nomada flavopicta
+ErrorMsg=Date is outside known flight period of Nomada flavopicta
+Tvk=NHMSYS0000876421
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

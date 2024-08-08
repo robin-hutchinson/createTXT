@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Aythya marila
+Description=Checks date is within known flight period of Aythya marila
+ErrorMsg=Date is outside known flight period of Aythya marila
+Tvk=NBNSYS0000000193
+DataFieldName=
+StartDate=0521
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

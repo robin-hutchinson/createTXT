@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Zevadia peroccidentalis 10km
+Description=Check coordinate against known distribution of Zevadia peroccidentalis
+ErrorMsg=Coordinate is outside known range for Zevadia peroccidentalis
+DataFieldName=Species
+DataRecordId=BMSSYS0000019863
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+L78
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Helcystogramma lutatella
+Description=Checks date is within known recording period of Helcystogramma lutatella
+ErrorMsg=Date is outside known recording period of Helcystogramma lutatella
+Tvk=NBNSYS0100003379
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

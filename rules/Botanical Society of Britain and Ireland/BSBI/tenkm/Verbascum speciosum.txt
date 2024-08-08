@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Verbascum speciosum 10km
+Description=Check coordinate against known distribution of Verbascum speciosum
+ErrorMsg=Coordinate is outside known range for Verbascum speciosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464797
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE46
+SK22
+SK60
+SK73
+SN35
+SO74
+SP15
+ST43
+ST52
+ST78
+SU16
+SU27
+SU77
+SU90
+SU92
+TL12
+TL30
+TL44
+TL45
+TL46
+TL54
+TL66
+TL79
+TL89
+TM15
+TM34
+TQ16
+TQ56
+TQ57
+TR02
+
+
+NA
+
+

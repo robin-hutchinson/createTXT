@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Andrena (Micrandrena) proxima
+Description=Checks date is within known flight period of Andrena (Micrandrena) proxima
+ErrorMsg=Date is outside known flight period of Andrena (Micrandrena) proxima
+Tvk=NHMSYS0000875115
+DataFieldName=
+StartDate=0301
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

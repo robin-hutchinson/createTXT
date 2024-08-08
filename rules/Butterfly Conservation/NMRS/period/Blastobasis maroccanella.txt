@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Blastobasis maroccanella
+Description=Checks date is within known recording period of Blastobasis maroccanella
+ErrorMsg=Date is outside known recording period of Blastobasis maroccanella
+Tvk=NHMSYS0021158224
+StartDate=20130725
+EndDate=
+LastChanged=20240808
+[EndMetadata]

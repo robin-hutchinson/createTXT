@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Erigone arctica
+Description=Checks date is within known flight period of Erigone arctica
+ErrorMsg=Date is outside known flight period of Erigone arctica
+Tvk=NBNSYS0000009105
+DataFieldName=
+StartDate=0117
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

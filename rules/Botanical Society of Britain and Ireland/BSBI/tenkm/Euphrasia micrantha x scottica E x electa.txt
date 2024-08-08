@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia micrantha x scottica = E. x electa 10km
+Description=Check coordinate against known distribution of Euphrasia micrantha x scottica = E. x electa
+ErrorMsg=Coordinate is outside known range for Euphrasia micrantha x scottica = E. x electa
+DataFieldName=Species
+DataRecordId=NBNSYS0000161669
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HP50
+HP51
+NB00
+NB14
+NB20
+NB43
+ND29
+NF70
+NF99
+NG09
+NG30
+NG36
+NG53
+NG54
+NJ10
+NJ33
+NL68
+NL69
+NM39
+NM43
+NM94
+NN22
+NO18
+NO27
+NT12
+NT65
+NY68
+NY92
+SO02
+
+
+[10km_Ireland]
+J22
+
+

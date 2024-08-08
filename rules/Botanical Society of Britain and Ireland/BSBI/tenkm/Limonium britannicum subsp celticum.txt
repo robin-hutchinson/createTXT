@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Limonium britannicum subsp. celticum 10km
+Description=Check coordinate against known distribution of Limonium britannicum subsp. celticum
+ErrorMsg=Coordinate is outside known range for Limonium britannicum subsp. celticum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459822
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD34
+SD37
+SD45
+SH28
+SH48
+
+

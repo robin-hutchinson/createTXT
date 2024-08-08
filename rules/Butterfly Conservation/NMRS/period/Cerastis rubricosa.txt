@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Cerastis rubricosa
+Description=Checks date is within known recording period of Cerastis rubricosa
+ErrorMsg=Date is outside known recording period of Cerastis rubricosa
+Tvk=NHMSYS0021144914
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

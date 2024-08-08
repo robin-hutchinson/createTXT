@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Callophyllis cristata 10km
+Description=Check coordinate against known distribution of Callophyllis cristata
+ErrorMsg=Coordinate is outside known range for Callophyllis cristata
+DataFieldName=Species
+DataRecordId=NHMSYS0000567830
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HP60
+HU16
+HU28
+HU32
+HU33
+HU34
+HU36
+HU37
+HU39
+HU43
+HU44
+HU46
+HU49
+HU54
+HU56
+HU59
+HU68
+HY20
+HY33
+HY41
+HY63
+HY64
+NF09
+NF81
+NF96
+NF97
+NG89
+NJ96
+NM46
+NM47
+NM66
+NM67
+NM83
+NM84
+NM94
+NN07
+NR67
+NR79
+NR98
+NT67
+NT96
+NU06
+NU23
+
+

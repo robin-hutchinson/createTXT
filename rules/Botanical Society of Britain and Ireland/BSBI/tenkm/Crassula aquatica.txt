@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crassula aquatica 10km
+Description=Check coordinate against known distribution of Crassula aquatica
+ErrorMsg=Coordinate is outside known range for Crassula aquatica
+DataFieldName=Species
+DataRecordId=NHMSYS0000457654
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM66
+SE24
+
+

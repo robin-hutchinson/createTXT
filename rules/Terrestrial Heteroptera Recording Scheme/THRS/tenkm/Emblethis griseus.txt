@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Emblethis griseus 10km
+Description=Check coordinate against known distribution of Emblethis griseus
+ErrorMsg=Coordinate is outside known range for Emblethis griseus
+DataFieldName=Species
+DataRecordId=NHMSYS0020309206
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV91
+SW32
+
+

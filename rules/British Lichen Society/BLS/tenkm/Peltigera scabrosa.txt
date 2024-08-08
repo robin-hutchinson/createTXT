@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Peltigera scabrosa 10km
+Description=Check coordinate against known distribution of Peltigera scabrosa
+ErrorMsg=Coordinate is outside known range for Peltigera scabrosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000019337
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY32
+NH28
+
+

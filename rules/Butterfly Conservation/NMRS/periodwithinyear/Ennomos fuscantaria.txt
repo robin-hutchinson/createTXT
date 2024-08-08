@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ennomos fuscantaria
+Description=Checks date is within known flight period of Ennomos fuscantaria
+ErrorMsg=Date is outside known flight period of Ennomos fuscantaria
+Tvk=NBNSYS0000006005
+DataFieldName=
+StartDate=0707
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

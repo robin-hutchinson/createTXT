@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex chordorrhiza 10km
+Description=Check coordinate against known distribution of Carex chordorrhiza
+ErrorMsg=Coordinate is outside known range for Carex chordorrhiza
+DataFieldName=Species
+DataRecordId=NHMSYS0000456838
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC53
+NC63
+NH70
+NH80
+
+

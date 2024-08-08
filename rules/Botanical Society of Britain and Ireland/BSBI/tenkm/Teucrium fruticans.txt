@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Teucrium fruticans 10km
+Description=Check coordinate against known distribution of Teucrium fruticans
+ErrorMsg=Coordinate is outside known range for Teucrium fruticans
+DataFieldName=Species
+DataRecordId=NBNSYS0200003293
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU97
+
+

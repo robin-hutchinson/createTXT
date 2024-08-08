@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Stethophyma grossum
+Description=Checks date is within known recording period of Stethophyma grossum
+ErrorMsg=Date is outside known recording period of Stethophyma grossum
+Tvk=NBNSYS0000006834
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

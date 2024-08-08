@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Crepis nicaeensis
+Description=Checks date is within known recording period of Crepis nicaeensis
+ErrorMsg=Date is outside known recording period of Crepis nicaeensis
+Tvk=NHMSYS0000457689
+StartDate=18740101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

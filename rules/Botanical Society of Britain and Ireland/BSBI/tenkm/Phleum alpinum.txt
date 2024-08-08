@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Phleum alpinum 10km
+Description=Check coordinate against known distribution of Phleum alpinum
+ErrorMsg=Coordinate is outside known range for Phleum alpinum
+DataFieldName=Species
+DataRecordId=NBNSYS0000002652
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH11
+NH12
+NH13
+NH28
+NH46
+NH90
+NJ00
+NJ10
+NN17
+NN27
+NN47
+NN48
+NN49
+NN53
+NN58
+NN59
+NN64
+NN67
+NN68
+NN89
+NN97
+NN98
+NN99
+NO09
+NO17
+NO18
+NO27
+NO28
+NO37
+NT53
+NY31
+NY63
+NY73
+
+

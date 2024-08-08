@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Locusta migratoria
+Description=Checks date is within known recording period of Locusta migratoria
+ErrorMsg=Date is outside known recording period of Locusta migratoria
+Tvk=NHMSYS0000377679
+StartDate=18460101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

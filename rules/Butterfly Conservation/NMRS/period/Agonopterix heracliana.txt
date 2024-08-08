@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Agonopterix heracliana
+Description=Checks date is within known recording period of Agonopterix heracliana
+ErrorMsg=Date is outside known recording period of Agonopterix heracliana
+Tvk=NHMSYS0000501056
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

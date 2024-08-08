@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phyllonorycter leucographella
+Description=Checks date is within known flight period of Phyllonorycter leucographella
+ErrorMsg=Date is outside known flight period of Phyllonorycter leucographella
+Tvk=NBNSYS0000005356
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Pachytomella parallela
+Description=Checks date is within known recording period of Pachytomella parallela
+ErrorMsg=Date is outside known recording period of Pachytomella parallela
+Tvk=NHMSYS0020309612
+StartDate=18430101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

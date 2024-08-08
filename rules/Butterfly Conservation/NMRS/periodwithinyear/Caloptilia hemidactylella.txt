@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Caloptilia hemidactylella
+Description=Checks date is within known flight period of Caloptilia hemidactylella
+ErrorMsg=Date is outside known flight period of Caloptilia hemidactylella
+Tvk=NHMSYS0021142420
+DataFieldName=
+StartDate=0601
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

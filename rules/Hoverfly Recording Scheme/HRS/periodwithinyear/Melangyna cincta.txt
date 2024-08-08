@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Melangyna cincta
+Description=Checks date is within known flight period of Melangyna cincta
+ErrorMsg=Date is outside known flight period of Melangyna cincta
+Tvk=NBNSYS0000006930
+DataFieldName=
+StartDate=0206
+EndDate=1218
+LastChanged=20240808
+[EndMetadata]

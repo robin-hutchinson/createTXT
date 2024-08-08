@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Consolida regalis 10km
+Description=Check coordinate against known distribution of Consolida regalis
+ErrorMsg=Coordinate is outside known range for Consolida regalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000014272
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT26
+NT27
+SD20
+SD31
+SD32
+SD33
+SE47
+SK27
+SP06
+SP28
+SP37
+SU13
+SU76
+SZ47
+SZ68
+SZ69
+TF26
+TL23
+TM05
+TM14
+TM23
+TM25
+TM59
+TQ20
+TQ40
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Boudinotiana notha
+Description=Checks date is within known recording period of Boudinotiana notha
+ErrorMsg=Date is outside known recording period of Boudinotiana notha
+Tvk=NHMSYS0021144157
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

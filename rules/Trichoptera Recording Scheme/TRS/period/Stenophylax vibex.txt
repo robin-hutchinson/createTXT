@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Stenophylax vibex
+Description=Checks date is within known recording period of Stenophylax vibex
+ErrorMsg=Date is outside known recording period of Stenophylax vibex
+Tvk=NBNSYS0000008460
+StartDate=18360101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

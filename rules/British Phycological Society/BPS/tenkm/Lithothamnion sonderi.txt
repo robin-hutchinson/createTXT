@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Lithothamnion sonderi 10km
+Description=Check coordinate against known distribution of Lithothamnion sonderi
+ErrorMsg=Coordinate is outside known range for Lithothamnion sonderi
+DataFieldName=Species
+DataRecordId=NBNSYS0000176198
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU37
+HU54
+HY52
+HY53
+HY55
+NB90
+NH19
+NM23
+NM43
+NM52
+NM95
+NS15
+NU23
+NZ37
+NZ39
+SC16
+SC17
+SC26
+SC27
+SC39
+SM70
+SM71
+SM80
+SN45
+SS14
+SW72
+SW83
+SY78
+SY98
+SZ69
+SZ78
+
+

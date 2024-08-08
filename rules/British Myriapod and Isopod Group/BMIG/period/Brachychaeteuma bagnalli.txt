@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Brachychaeteuma bagnalli
+Description=Checks date is within known recording period of Brachychaeteuma bagnalli
+ErrorMsg=Date is outside known recording period of Brachychaeteuma bagnalli
+Tvk=NBNSYS0000011357
+StartDate=19110101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

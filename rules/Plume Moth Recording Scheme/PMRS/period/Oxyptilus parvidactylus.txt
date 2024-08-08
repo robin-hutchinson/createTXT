@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Oxyptilus parvidactylus
+Description=Checks date is within known recording period of Oxyptilus parvidactylus
+ErrorMsg=Date is outside known recording period of Oxyptilus parvidactylus
+Tvk=NHMSYS0000503533
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

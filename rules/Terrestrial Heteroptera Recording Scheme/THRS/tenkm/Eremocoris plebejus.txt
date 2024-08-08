@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Eremocoris plebejus 10km
+Description=Check coordinate against known distribution of Eremocoris plebejus
+ErrorMsg=Coordinate is outside known range for Eremocoris plebejus
+DataFieldName=Species
+DataRecordId=NHMSYS0020309215
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH33
+NH63
+NH91
+
+

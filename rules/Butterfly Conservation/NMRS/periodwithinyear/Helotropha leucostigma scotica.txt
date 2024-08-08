@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Helotropha leucostigma scotica
+Description=Checks date is within known flight period of Helotropha leucostigma scotica
+ErrorMsg=Date is outside known flight period of Helotropha leucostigma scotica
+Tvk=NHMSYS0021144607
+DataFieldName=
+StartDate=0621
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

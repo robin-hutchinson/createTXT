@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus nitidiformis 10km
+Description=Check coordinate against known distribution of Rubus nitidiformis
+ErrorMsg=Coordinate is outside known range for Rubus nitidiformis
+DataFieldName=Species
+DataRecordId=NHMSYS0000840962
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP50
+SP60
+SP61
+SU41
+SU86
+SU96
+TG22
+TL70
+TL94
+TM13
+TM18
+TM45
+TQ25
+TQ27
+TQ28
+TQ33
+TQ34
+TQ36
+TQ46
+TQ53
+TQ59
+TQ69
+TR05
+
+

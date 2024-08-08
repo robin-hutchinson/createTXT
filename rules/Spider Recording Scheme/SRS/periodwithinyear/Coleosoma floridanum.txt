@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Coleosoma floridanum
+Description=Checks date is within known flight period of Coleosoma floridanum
+ErrorMsg=Date is outside known flight period of Coleosoma floridanum
+Tvk=NBNSYS0200000058
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

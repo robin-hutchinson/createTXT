@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa sherardii x mollis = R. x perthensis 10km
+Description=Check coordinate against known distribution of Rosa sherardii x mollis = R. x perthensis
+ErrorMsg=Coordinate is outside known range for Rosa sherardii x mollis = R. x perthensis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754555
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY93
+SN65
+SN68
+SN75
+SN76
+
+

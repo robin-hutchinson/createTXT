@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sigesbeckia orientalis 10km
+Description=Check coordinate against known distribution of Sigesbeckia orientalis
+ErrorMsg=Coordinate is outside known range for Sigesbeckia orientalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000033907
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE63
+SP04
+SU73
+SU82
+SZ09
+TL03
+TQ17
+TR25
+
+

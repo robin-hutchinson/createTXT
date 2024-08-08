@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Ebarrius cognatus 10km
+Description=Check coordinate against known distribution of Ebarrius cognatus
+ErrorMsg=Coordinate is outside known range for Ebarrius cognatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442320
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH81
+NH90
+NJ01
+NJ02
+NO09
+NO29
+NS56
+NY73
+SZ08
+
+

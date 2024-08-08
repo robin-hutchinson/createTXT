@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora badiipennella
+Description=Checks date is within known flight period of Coleophora badiipennella
+ErrorMsg=Date is outside known flight period of Coleophora badiipennella
+Tvk=NHMSYS0021142813
+DataFieldName=
+StartDate=0701
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

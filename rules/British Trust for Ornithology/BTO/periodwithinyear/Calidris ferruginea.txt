@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Calidris ferruginea
+Description=Checks date is within known flight period of Calidris ferruginea
+ErrorMsg=Date is outside known flight period of Calidris ferruginea
+Tvk=NBNSYS0000188700
+DataFieldName=
+StartDate=0415
+EndDate=1120
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lilium candidum 10km
+Description=Check coordinate against known distribution of Lilium candidum
+ErrorMsg=Coordinate is outside known range for Lilium candidum
+DataFieldName=Species
+DataRecordId=NBNSYS0000033918
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX30
+ST23
+TM13
+TM14
+TM25
+TQ25
+TR02
+
+
+NA
+
+

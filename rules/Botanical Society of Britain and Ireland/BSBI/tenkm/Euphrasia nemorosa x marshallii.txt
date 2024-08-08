@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Euphrasia nemorosa x marshallii 10km
+Description=Check coordinate against known distribution of Euphrasia nemorosa x marshallii
+ErrorMsg=Coordinate is outside known range for Euphrasia nemorosa x marshallii
+DataFieldName=Species
+DataRecordId=NBNSYS0100003125
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NB35
+NB43
+NB56
+NC02
+NC36
+NC66
+NC76
+NC86
+NG26
+NM15
+
+

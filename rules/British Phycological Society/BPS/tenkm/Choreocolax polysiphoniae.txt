@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Choreocolax polysiphoniae 10km
+Description=Check coordinate against known distribution of Choreocolax polysiphoniae
+ErrorMsg=Coordinate is outside known range for Choreocolax polysiphoniae
+DataFieldName=Species
+DataRecordId=NBNSYS0000180449
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU35
+HU37
+NB13
+NB53
+NG19
+NJ90
+NM45
+NM55
+NM73
+NO51
+NO88
+NS14
+NS15
+NT67
+NU05
+NX03
+NX07
+SH27
+SH39
+SH57
+SH77
+SH78
+SS14
+SS48
+SS53
+ST04
+SZ07
+SZ58
+TR23
+
+

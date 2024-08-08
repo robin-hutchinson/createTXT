@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Narcissus minor 10km
+Description=Check coordinate against known distribution of Narcissus minor
+ErrorMsg=Coordinate is outside known range for Narcissus minor
+DataFieldName=Species
+DataRecordId=NBNSYS0000014551
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX40
+SC37
+SC39
+SC49
+SS72
+TL03
+TL04
+TL13
+
+

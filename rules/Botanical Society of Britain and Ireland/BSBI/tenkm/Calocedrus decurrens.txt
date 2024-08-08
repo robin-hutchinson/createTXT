@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Calocedrus decurrens 10km
+Description=Check coordinate against known distribution of Calocedrus decurrens
+ErrorMsg=Coordinate is outside known range for Calocedrus decurrens
+DataFieldName=Species
+DataRecordId=NBNSYS0000042071
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS68
+SN44
+SN54
+SP50
+SU84
+
+

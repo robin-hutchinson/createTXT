@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Pelecopsis parallela
+Description=Checks date is within known flight period of Pelecopsis parallela
+ErrorMsg=Date is outside known flight period of Pelecopsis parallela
+Tvk=NBNSYS0000009036
+DataFieldName=
+StartDate=0120
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

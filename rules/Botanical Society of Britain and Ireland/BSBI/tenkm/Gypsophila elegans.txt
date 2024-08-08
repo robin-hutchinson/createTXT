@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Gypsophila elegans 10km
+Description=Check coordinate against known distribution of Gypsophila elegans
+ErrorMsg=Coordinate is outside known range for Gypsophila elegans
+DataFieldName=Species
+DataRecordId=NHMSYS0000459182
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP06
+ST04
+TL21
+TL95
+TQ05
+TQ38
+TQ39
+TQ48
+
+

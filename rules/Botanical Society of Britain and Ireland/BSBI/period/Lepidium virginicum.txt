@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lepidium virginicum
+Description=Checks date is within known recording period of Lepidium virginicum
+ErrorMsg=Date is outside known recording period of Lepidium virginicum
+Tvk=NBNSYS0000002832
+StartDate=18810101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

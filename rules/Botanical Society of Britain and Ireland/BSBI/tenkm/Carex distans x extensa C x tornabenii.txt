@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Carex distans x extensa = C. x tornabenii 10km
+Description=Check coordinate against known distribution of Carex distans x extensa = C. x tornabenii
+ErrorMsg=Coordinate is outside known range for Carex distans x extensa = C. x tornabenii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754703
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX46
+SH52
+SH53
+SW42
+SW97
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Actinotia polyodon
+Description=Checks date is within known recording period of Actinotia polyodon
+ErrorMsg=Date is outside known recording period of Actinotia polyodon
+Tvk=NBNSYS0000006183
+StartDate=18390601
+EndDate=
+LastChanged=20240808
+[EndMetadata]

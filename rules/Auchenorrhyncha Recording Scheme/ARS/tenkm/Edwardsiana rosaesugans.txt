@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Auchenorrhyncha Recording Scheme/ARS 10km distribution
+ShortName=Edwardsiana rosaesugans 10km
+Description=Check coordinate against known distribution of Edwardsiana rosaesugans
+ErrorMsg=Coordinate is outside known range for Edwardsiana rosaesugans
+DataFieldName=Species
+DataRecordId=NHMSYS0020442324
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO01
+
+

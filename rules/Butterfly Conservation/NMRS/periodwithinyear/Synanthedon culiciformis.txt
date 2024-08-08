@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Synanthedon culiciformis
+Description=Checks date is within known flight period of Synanthedon culiciformis
+ErrorMsg=Date is outside known flight period of Synanthedon culiciformis
+Tvk=NBNSYS0000005696
+DataFieldName=
+StartDate=0415
+EndDate=0715
+LastChanged=20240808
+[EndMetadata]

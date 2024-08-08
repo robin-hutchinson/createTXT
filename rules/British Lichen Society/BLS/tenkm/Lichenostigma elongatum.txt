@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lichenostigma elongatum 10km
+Description=Check coordinate against known distribution of Lichenostigma elongatum
+ErrorMsg=Coordinate is outside known range for Lichenostigma elongatum
+DataFieldName=Species
+DataRecordId=NHMSYS0020990575
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT47
+NT48
+NT49
+NT56
+NT57
+NT58
+NT59
+NT66
+NT67
+NT68
+NT69
+NT76
+NT77
+ST31
+ST32
+ST33
+ST41
+ST42
+ST43
+ST51
+ST52
+ST53
+TQ91
+TQ92
+TQ93
+TR01
+TR02
+TR03
+TR12
+TR13
+
+

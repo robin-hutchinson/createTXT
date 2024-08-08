@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ground Beetle Recording Scheme/GBRS Recording Period
+ShortName=Ophonus (Metophonus) puncticeps
+Description=Checks date is within known recording period of Ophonus (Metophonus) puncticeps
+ErrorMsg=Date is outside known recording period of Ophonus (Metophonus) puncticeps
+Tvk=NHMSYS0001719329
+StartDate=19120101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

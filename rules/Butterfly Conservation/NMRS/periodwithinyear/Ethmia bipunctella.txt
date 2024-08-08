@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Ethmia bipunctella
+Description=Checks date is within known flight period of Ethmia bipunctella
+ErrorMsg=Date is outside known flight period of Ethmia bipunctella
+Tvk=NBNSYS0000026224
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Roselliniopsis gelidaria 10km
+Description=Check coordinate against known distribution of Roselliniopsis gelidaria
+ErrorMsg=Coordinate is outside known range for Roselliniopsis gelidaria
+DataFieldName=Species
+DataRecordId=BMSSYS0000016469
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM45
+NY60
+
+

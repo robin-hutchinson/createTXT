@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Eupeodes goeldlini 10km
+Description=Check coordinate against known distribution of Eupeodes goeldlini
+ErrorMsg=Coordinate is outside known range for Eupeodes goeldlini
+DataFieldName=Species
+DataRecordId=NHMSYS0020978344
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SY79
+SY89
+
+

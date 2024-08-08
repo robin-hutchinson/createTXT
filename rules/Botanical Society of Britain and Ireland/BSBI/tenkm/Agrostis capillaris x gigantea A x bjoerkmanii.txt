@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Agrostis capillaris x gigantea = A. x bjoerkmanii 10km
+Description=Check coordinate against known distribution of Agrostis capillaris x gigantea = A. x bjoerkmanii
+ErrorMsg=Coordinate is outside known range for Agrostis capillaris x gigantea = A. x bjoerkmanii
+DataFieldName=Species
+DataRecordId=NHMSYS0001754811
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT44
+SH57
+SN68
+TL66
+
+

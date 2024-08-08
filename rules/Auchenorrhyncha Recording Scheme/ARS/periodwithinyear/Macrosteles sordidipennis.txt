@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Macrosteles sordidipennis
+Description=Checks date is within known flight period of Macrosteles sordidipennis
+ErrorMsg=Date is outside known flight period of Macrosteles sordidipennis
+Tvk=NHMSYS0020442433
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

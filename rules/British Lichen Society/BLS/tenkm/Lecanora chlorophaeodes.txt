@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecanora chlorophaeodes 10km
+Description=Check coordinate against known distribution of Lecanora chlorophaeodes
+ErrorMsg=Coordinate is outside known range for Lecanora chlorophaeodes
+DataFieldName=Species
+DataRecordId=NBNSYS0000039650
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC54
+
+

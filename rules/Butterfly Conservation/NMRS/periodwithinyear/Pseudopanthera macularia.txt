@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pseudopanthera macularia
+Description=Checks date is within known flight period of Pseudopanthera macularia
+ErrorMsg=Date is outside known flight period of Pseudopanthera macularia
+Tvk=NBNSYS0000006000
+DataFieldName=
+StartDate=0415
+EndDate=0707
+LastChanged=20240808
+[EndMetadata]

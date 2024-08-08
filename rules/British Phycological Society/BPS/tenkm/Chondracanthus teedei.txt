@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Chondracanthus teedei 10km
+Description=Check coordinate against known distribution of Chondracanthus teedei
+ErrorMsg=Coordinate is outside known range for Chondracanthus teedei
+DataFieldName=Species
+DataRecordId=NBNSYS0000174509
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM90
+SN58
+SV81
+SV91
+SW71
+SX54
+SX73
+SX74
+SX96
+SY08
+SY28
+SY68
+SY78
+SZ28
+
+

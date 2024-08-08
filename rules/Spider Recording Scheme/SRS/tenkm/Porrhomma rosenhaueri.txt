@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Porrhomma rosenhaueri 10km
+Description=Check coordinate against known distribution of Porrhomma rosenhaueri
+ErrorMsg=Coordinate is outside known range for Porrhomma rosenhaueri
+DataFieldName=Species
+DataRecordId=NBNSYS0000009140
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST18
+
+

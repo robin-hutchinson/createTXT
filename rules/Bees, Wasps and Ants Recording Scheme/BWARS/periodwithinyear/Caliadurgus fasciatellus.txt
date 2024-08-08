@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Caliadurgus fasciatellus
+Description=Checks date is within known flight period of Caliadurgus fasciatellus
+ErrorMsg=Date is outside known flight period of Caliadurgus fasciatellus
+Tvk=NBNSYS0000009399
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

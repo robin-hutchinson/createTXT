@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Vaccinium corymbosum 10km
+Description=Check coordinate against known distribution of Vaccinium corymbosum
+ErrorMsg=Coordinate is outside known range for Vaccinium corymbosum
+DataFieldName=Species
+DataRecordId=NBNSYS0000033466
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU00
+SU10
+SY78
+SY79
+SY89
+SZ09
+
+

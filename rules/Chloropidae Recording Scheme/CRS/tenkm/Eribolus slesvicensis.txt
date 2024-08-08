@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Chloropidae Recording Scheme/CRS 10km distribution
+ShortName=Eribolus slesvicensis 10km
+Description=Check coordinate against known distribution of Eribolus slesvicensis
+ErrorMsg=Coordinate is outside known range for Eribolus slesvicensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000029902
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU20
+SU21
+SU30
+SU31
+SU40
+SU41
+SY87
+SY88
+SY89
+SY97
+SY98
+SY99
+SZ07
+SZ08
+SZ09
+SZ19
+SZ29
+SZ39
+SZ49
+TM11
+TM12
+TM13
+TM21
+TM22
+TM23
+TM24
+TM25
+TM26
+TM33
+TM34
+TM35
+TM36
+TM44
+TM45
+TM46
+TM47
+TM48
+TM49
+TM57
+TM58
+TM59
+
+

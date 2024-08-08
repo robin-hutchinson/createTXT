@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Malus hupehensis 10km
+Description=Check coordinate against known distribution of Malus hupehensis
+ErrorMsg=Coordinate is outside known range for Malus hupehensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000460570
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS69
+SU73
+SU96
+SZ39
+
+

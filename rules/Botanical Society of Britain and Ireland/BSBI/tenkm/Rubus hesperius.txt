@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus hesperius 10km
+Description=Check coordinate against known distribution of Rubus hesperius
+ErrorMsg=Coordinate is outside known range for Rubus hesperius
+DataFieldName=Species
+DataRecordId=NHMSYS0000462716
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+B70
+B82
+F70
+G10
+G73
+G81
+H36
+H72
+J13
+J36
+J54
+L55
+L56
+L57
+L64
+L65
+L66
+L74
+L75
+L77
+L88
+L93
+L94
+L99
+M05
+M06
+M09
+M14
+M15
+M22
+M23
+M80
+N59
+R09
+R66
+S21
+W05
+W67
+W77
+W89
+
+

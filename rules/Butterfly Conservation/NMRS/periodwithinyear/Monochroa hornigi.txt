@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Monochroa hornigi
+Description=Checks date is within known flight period of Monochroa hornigi
+ErrorMsg=Date is outside known flight period of Monochroa hornigi
+Tvk=NHMSYS0000503274
+DataFieldName=
+StartDate=0601
+EndDate=0815
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Dichomeris derasella
+Description=Checks date is within known flight period of Dichomeris derasella
+ErrorMsg=Date is outside known flight period of Dichomeris derasella
+Tvk=NBNSYS0100002797
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

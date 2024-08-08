@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Sisyrinchium laxum 10km
+Description=Check coordinate against known distribution of Sisyrinchium laxum
+ErrorMsg=Coordinate is outside known range for Sisyrinchium laxum
+DataFieldName=Species
+DataRecordId=NBNSYS0000004945
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU74
+SU85
+
+
+NA
+
+

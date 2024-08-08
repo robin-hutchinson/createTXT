@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Phyllonorycter viminiella
+Description=Checks date is within known recording period of Phyllonorycter viminiella
+ErrorMsg=Date is outside known recording period of Phyllonorycter viminiella
+Tvk=NBNSYS0000025925
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

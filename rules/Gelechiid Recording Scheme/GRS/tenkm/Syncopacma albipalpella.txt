@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Syncopacma albipalpella 10km
+Description=Check coordinate against known distribution of Syncopacma albipalpella
+ErrorMsg=Coordinate is outside known range for Syncopacma albipalpella
+DataFieldName=Species
+DataRecordId=NHMSYS0000504428
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NZ21
+SE65
+SU30
+SU66
+SU75
+SY67
+TF61
+TQ06
+TQ09
+TQ30
+TQ31
+TQ41
+
+

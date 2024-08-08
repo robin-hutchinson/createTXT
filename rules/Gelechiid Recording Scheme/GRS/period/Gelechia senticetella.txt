@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Gelechiid Recording Scheme/GRS Recording Period
+ShortName=Gelechia senticetella
+Description=Checks date is within known recording period of Gelechia senticetella
+ErrorMsg=Date is outside known recording period of Gelechia senticetella
+Tvk=NHMSYS0000502712
+StartDate=19880806
+EndDate=
+LastChanged=20240808
+[EndMetadata]

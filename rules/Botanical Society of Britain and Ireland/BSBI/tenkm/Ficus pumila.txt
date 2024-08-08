@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ficus pumila 10km
+Description=Check coordinate against known distribution of Ficus pumila
+ErrorMsg=Coordinate is outside known range for Ficus pumila
+DataFieldName=Species
+DataRecordId=NBNSYS0000042109
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SX38
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Philodromus praedatus
+Description=Checks date is within known flight period of Philodromus praedatus
+ErrorMsg=Date is outside known flight period of Philodromus praedatus
+Tvk=NBNSYS0000008743
+DataFieldName=
+StartDate=0418
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

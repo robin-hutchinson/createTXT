@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Claytonia virginica 10km
+Description=Check coordinate against known distribution of Claytonia virginica
+ErrorMsg=Coordinate is outside known range for Claytonia virginica
+DataFieldName=Species
+DataRecordId=NBNSYS0000003081
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD33
+TF36
+TF45
+TL29
+TL45
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Caryocolum blandulella
+Description=Checks date is within known flight period of Caryocolum blandulella
+ErrorMsg=Date is outside known flight period of Caryocolum blandulella
+Tvk=NHMSYS0000501648
+DataFieldName=
+StartDate=0715
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

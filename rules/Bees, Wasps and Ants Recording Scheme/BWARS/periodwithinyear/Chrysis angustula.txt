@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Chrysis angustula
+Description=Checks date is within known flight period of Chrysis angustula
+ErrorMsg=Date is outside known flight period of Chrysis angustula
+Tvk=NHMSYS0000875654
+DataFieldName=
+StartDate=0101
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

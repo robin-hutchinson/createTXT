@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Macropis europaea
+Description=Checks date is within known flight period of Macropis europaea
+ErrorMsg=Date is outside known flight period of Macropis europaea
+Tvk=NHMSYS0000876276
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

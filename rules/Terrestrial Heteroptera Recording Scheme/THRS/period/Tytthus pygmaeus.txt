@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Tytthus pygmaeus
+Description=Checks date is within known recording period of Tytthus pygmaeus
+ErrorMsg=Date is outside known recording period of Tytthus pygmaeus
+Tvk=NHMSYS0020309933
+StartDate=18380101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

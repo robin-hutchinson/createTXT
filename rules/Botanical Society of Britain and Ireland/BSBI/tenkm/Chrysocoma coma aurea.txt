@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chrysocoma coma-aurea 10km
+Description=Check coordinate against known distribution of Chrysocoma coma-aurea
+ErrorMsg=Coordinate is outside known range for Chrysocoma coma-aurea
+DataFieldName=Species
+DataRecordId=NBNSYS0000034016
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT53
+SV81
+SV91
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Hadena perplexa capsophila
+Description=Checks date is within known recording period of Hadena perplexa capsophila
+ErrorMsg=Date is outside known recording period of Hadena perplexa capsophila
+Tvk=NHMSYS0021144856
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Rhopalus (Rhopalus) parumpunctatus
+Description=Checks date is within known recording period of Rhopalus (Rhopalus) parumpunctatus
+ErrorMsg=Date is outside known recording period of Rhopalus (Rhopalus) parumpunctatus
+Tvk=NHMSYS0020309775
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

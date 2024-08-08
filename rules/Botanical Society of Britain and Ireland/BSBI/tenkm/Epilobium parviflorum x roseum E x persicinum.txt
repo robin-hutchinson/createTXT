@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium parviflorum x roseum = E. x persicinum 10km
+Description=Check coordinate against known distribution of Epilobium parviflorum x roseum = E. x persicinum
+ErrorMsg=Coordinate is outside known range for Epilobium parviflorum x roseum = E. x persicinum
+DataFieldName=Species
+DataRecordId=NHMSYS0001754789
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO25
+SO65
+SO74
+SO84
+SP21
+SP50
+SP51
+ST61
+SU88
+SU94
+TG02
+TL06
+TQ08
+TQ26
+TQ48
+
+

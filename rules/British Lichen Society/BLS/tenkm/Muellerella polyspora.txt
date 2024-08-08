@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Muellerella polyspora 10km
+Description=Check coordinate against known distribution of Muellerella polyspora
+ErrorMsg=Coordinate is outside known range for Muellerella polyspora
+DataFieldName=Species
+DataRecordId=NHMSYS0001489992
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC01
+NC96
+NG61
+
+

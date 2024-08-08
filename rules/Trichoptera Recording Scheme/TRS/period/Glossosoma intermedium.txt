@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Glossosoma intermedium
+Description=Checks date is within known recording period of Glossosoma intermedium
+ErrorMsg=Date is outside known recording period of Glossosoma intermedium
+Tvk=NBNSYS0000008345
+StartDate=19250101
+EndDate=20031231
+LastChanged=20240808
+[EndMetadata]

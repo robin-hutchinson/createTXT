@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cercidospora macrospora 10km
+Description=Check coordinate against known distribution of Cercidospora macrospora
+ErrorMsg=Coordinate is outside known range for Cercidospora macrospora
+DataFieldName=Species
+DataRecordId=NHMSYS0001477129
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT57
+NT69
+SU16
+SU17
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Coleophora glaucicolella
+Description=Checks date is within known flight period of Coleophora glaucicolella
+ErrorMsg=Date is outside known flight period of Coleophora glaucicolella
+Tvk=NHMSYS0000501869
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

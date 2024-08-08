@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Chesias legatella
+Description=Checks date is within known flight period of Chesias legatella
+ErrorMsg=Date is outside known flight period of Chesias legatella
+Tvk=NHMSYS0021144143
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

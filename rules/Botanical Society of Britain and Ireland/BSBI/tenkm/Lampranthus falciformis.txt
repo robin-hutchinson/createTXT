@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Lampranthus falciformis 10km
+Description=Check coordinate against known distribution of Lampranthus falciformis
+ErrorMsg=Coordinate is outside known range for Lampranthus falciformis
+DataFieldName=Species
+DataRecordId=NHMSYS0000460090
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM80
+SS14
+SV81
+SV91
+SX45
+SZ09
+
+

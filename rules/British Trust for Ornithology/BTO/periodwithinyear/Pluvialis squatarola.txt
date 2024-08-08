@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Pluvialis squatarola
+Description=Checks date is within known flight period of Pluvialis squatarola
+ErrorMsg=Date is outside known flight period of Pluvialis squatarola
+Tvk=NBNSYS0000000141
+DataFieldName=
+StartDate=0701
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

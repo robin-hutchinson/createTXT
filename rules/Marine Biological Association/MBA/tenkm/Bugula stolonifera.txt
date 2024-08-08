@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Bugula stolonifera 10km
+Description=Check coordinate against known distribution of Bugula stolonifera
+ErrorMsg=Coordinate is outside known range for Bugula stolonifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000174236
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NR59
+SM71
+SM90
+SW83
+
+
+[10km_Ireland]
+V75
+Y85
+
+

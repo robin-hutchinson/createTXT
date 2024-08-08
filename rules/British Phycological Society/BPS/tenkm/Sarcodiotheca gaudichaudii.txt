@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Sarcodiotheca gaudichaudii 10km
+Description=Check coordinate against known distribution of Sarcodiotheca gaudichaudii
+ErrorMsg=Coordinate is outside known range for Sarcodiotheca gaudichaudii
+DataFieldName=Species
+DataRecordId=NHMSYS0000568302
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU70
+SZ69
+SZ79
+
+

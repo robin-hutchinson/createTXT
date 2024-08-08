@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Stigmella sorbi
+Description=Checks date is within known recording period of Stigmella sorbi
+ErrorMsg=Date is outside known recording period of Stigmella sorbi
+Tvk=NHMSYS0000504383
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

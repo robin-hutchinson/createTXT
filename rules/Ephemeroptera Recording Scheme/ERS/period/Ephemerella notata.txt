@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ephemeroptera Recording Scheme/ERS Recording Period
+ShortName=Ephemerella notata
+Description=Checks date is within known recording period of Ephemerella notata
+ErrorMsg=Date is outside known recording period of Ephemerella notata
+Tvk=NBNSYS0000010895
+StartDate=18870101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

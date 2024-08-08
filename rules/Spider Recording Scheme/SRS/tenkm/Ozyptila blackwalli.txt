@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Ozyptila blackwalli 10km
+Description=Check coordinate against known distribution of Ozyptila blackwalli
+ErrorMsg=Coordinate is outside known range for Ozyptila blackwalli
+DataFieldName=Species
+DataRecordId=NBNSYS0000008732
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST25
+SU70
+SY77
+TQ88
+
+

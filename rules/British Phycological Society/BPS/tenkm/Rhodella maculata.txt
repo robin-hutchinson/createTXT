@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Rhodella maculata 10km
+Description=Check coordinate against known distribution of Rhodella maculata
+ErrorMsg=Coordinate is outside known range for Rhodella maculata
+DataFieldName=Species
+DataRecordId=NHMSYS0000568283
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TQ88
+
+

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Juncus pallidus 10km
+Description=Check coordinate against known distribution of Juncus pallidus
+ErrorMsg=Coordinate is outside known range for Juncus pallidus
+DataFieldName=Species
+DataRecordId=NHMSYS0000459984
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX74
+SD90
+SO86
+SO94
+TL15
+TQ07
+
+

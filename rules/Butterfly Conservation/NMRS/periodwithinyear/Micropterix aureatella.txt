@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Micropterix aureatella
+Description=Checks date is within known flight period of Micropterix aureatella
+ErrorMsg=Date is outside known flight period of Micropterix aureatella
+Tvk=NHMSYS0000503230
+DataFieldName=
+StartDate=0501
+EndDate=0707
+LastChanged=20240808
+[EndMetadata]

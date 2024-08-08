@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Tephromela pertusarioides 10km
+Description=Check coordinate against known distribution of Tephromela pertusarioides
+ErrorMsg=Coordinate is outside known range for Tephromela pertusarioides
+DataFieldName=Species
+DataRecordId=NHMSYS0001499455
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN15
+NN43
+NT86
+NY22
+NY32
+SH66
+SH71
+SH75
+SH77
+SN30
+
+

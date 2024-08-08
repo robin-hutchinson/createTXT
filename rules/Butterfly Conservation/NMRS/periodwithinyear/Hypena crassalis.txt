@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Hypena crassalis
+Description=Checks date is within known flight period of Hypena crassalis
+ErrorMsg=Date is outside known flight period of Hypena crassalis
+Tvk=NBNSYS0000006580
+DataFieldName=
+StartDate=0515
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

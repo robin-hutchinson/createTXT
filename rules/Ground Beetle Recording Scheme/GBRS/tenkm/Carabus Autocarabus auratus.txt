@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Ground Beetle Recording Scheme/GBRS 10km distribution
+ShortName=Carabus (Autocarabus) auratus 10km
+Description=Check coordinate against known distribution of Carabus (Autocarabus) auratus
+ErrorMsg=Coordinate is outside known range for Carabus (Autocarabus) auratus
+DataFieldName=Species
+DataRecordId=NHMSYS0001717504
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU77
+TM23
+
+

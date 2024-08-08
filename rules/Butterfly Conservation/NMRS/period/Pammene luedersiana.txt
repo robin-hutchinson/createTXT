@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Pammene luedersiana
+Description=Checks date is within known recording period of Pammene luedersiana
+ErrorMsg=Date is outside known recording period of Pammene luedersiana
+Tvk=NHMSYS0000503560
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

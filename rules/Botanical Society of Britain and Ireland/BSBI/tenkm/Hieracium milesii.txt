@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium milesii 10km
+Description=Check coordinate against known distribution of Hieracium milesii
+ErrorMsg=Coordinate is outside known range for Hieracium milesii
+DataFieldName=Species
+DataRecordId=NHMSYS0000459502
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN99
+NO17
+NO18
+NO19
+NO27
+NO28
+NO37
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Cygnus cygnus
+Description=Checks date is within known flight period of Cygnus cygnus
+ErrorMsg=Date is outside known flight period of Cygnus cygnus
+Tvk=NBNSYS0000000199
+DataFieldName=
+StartDate=0402
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

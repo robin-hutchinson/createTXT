@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Helianthus annuus x decapetalus = H. x multiflorus 10km
+Description=Check coordinate against known distribution of Helianthus annuus x decapetalus = H. x multiflorus
+ErrorMsg=Coordinate is outside known range for Helianthus annuus x decapetalus = H. x multiflorus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754771
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SO73
+SO98
+SP30
+SU10
+SU32
+SU59
+SU77
+SV91
+TL31
+TQ07
+TQ18
+TQ26
+TQ28
+TQ29
+TQ37
+TQ38
+TQ39
+TQ58
+
+

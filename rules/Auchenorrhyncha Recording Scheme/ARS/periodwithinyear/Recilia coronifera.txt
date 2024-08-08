@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Recilia coronifera
+Description=Checks date is within known flight period of Recilia coronifera
+ErrorMsg=Date is outside known flight period of Recilia coronifera
+Tvk=NHMSYS0020705867
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

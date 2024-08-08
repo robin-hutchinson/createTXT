@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Pammene agnotana
+Description=Checks date is within known flight period of Pammene agnotana
+ErrorMsg=Date is outside known flight period of Pammene agnotana
+Tvk=NHMSYS0000503550
+DataFieldName=
+StartDate=0301
+EndDate=0531
+LastChanged=20240808
+[EndMetadata]

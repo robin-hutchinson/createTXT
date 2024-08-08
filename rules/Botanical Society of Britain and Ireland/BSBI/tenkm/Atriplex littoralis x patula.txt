@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Atriplex littoralis x patula 10km
+Description=Check coordinate against known distribution of Atriplex littoralis x patula
+ErrorMsg=Coordinate is outside known range for Atriplex littoralis x patula
+DataFieldName=Species
+DataRecordId=NBNSYS0000033515
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ06
+NT27
+SJ89
+TF62
+TL86
+TM18
+TM38
+TM39
+
+

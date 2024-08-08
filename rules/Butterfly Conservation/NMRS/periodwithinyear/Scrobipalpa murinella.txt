@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Scrobipalpa murinella
+Description=Checks date is within known flight period of Scrobipalpa murinella
+ErrorMsg=Date is outside known flight period of Scrobipalpa murinella
+Tvk=NHMSYS0021142749
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

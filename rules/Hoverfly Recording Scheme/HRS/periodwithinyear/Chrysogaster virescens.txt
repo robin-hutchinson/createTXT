@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Chrysogaster virescens
+Description=Checks date is within known flight period of Chrysogaster virescens
+ErrorMsg=Date is outside known flight period of Chrysogaster virescens
+Tvk=NBNSYS0000007020
+DataFieldName=
+StartDate=0206
+EndDate=1102
+LastChanged=20240808
+[EndMetadata]

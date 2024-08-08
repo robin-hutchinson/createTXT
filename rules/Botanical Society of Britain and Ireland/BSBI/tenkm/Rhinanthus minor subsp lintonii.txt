@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rhinanthus minor subsp. lintonii 10km
+Description=Check coordinate against known distribution of Rhinanthus minor subsp. lintonii
+ErrorMsg=Coordinate is outside known range for Rhinanthus minor subsp. lintonii
+DataFieldName=Species
+DataRecordId=NHMSYS0000462359
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC11
+NC12
+NC22
+NC52
+NC83
+NG30
+NG81
+NH02
+NH13
+NH28
+NH30
+NH78
+NM39
+NM48
+NM65
+NN08
+NN22
+NN36
+NN37
+NN64
+NN99
+NO17
+
+

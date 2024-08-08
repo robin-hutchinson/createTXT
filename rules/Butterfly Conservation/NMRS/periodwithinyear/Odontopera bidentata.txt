@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Odontopera bidentata
+Description=Checks date is within known flight period of Odontopera bidentata
+ErrorMsg=Date is outside known flight period of Odontopera bidentata
+Tvk=NBNSYS0000006011
+DataFieldName=
+StartDate=0415
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

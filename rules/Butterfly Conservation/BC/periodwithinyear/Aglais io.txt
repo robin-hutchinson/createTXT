@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/BC Flight Period
+ShortName=Aglais io
+Description=Checks date is within known flight period of Aglais io
+ErrorMsg=Date is outside known flight period of Aglais io
+Tvk=NHMSYS0021143568
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

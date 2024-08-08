@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium brigantum 10km
+Description=Check coordinate against known distribution of Hieracium brigantum
+ErrorMsg=Coordinate is outside known range for Hieracium brigantum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459352
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX91
+SD49
+SD76
+SD77
+SD86
+SD87
+SD96
+SD97
+
+

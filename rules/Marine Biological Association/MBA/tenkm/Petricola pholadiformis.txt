@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Petricola pholadiformis 10km
+Description=Check coordinate against known distribution of Petricola pholadiformis
+ErrorMsg=Coordinate is outside known range for Petricola pholadiformis
+DataFieldName=Species
+DataRecordId=NBNSYS0000177086
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU24
+SE82
+SE92
+SH68
+SU40
+SU41
+SX55
+SX83
+SZ08
+SZ09
+SZ99
+TA02
+TA11
+TA12
+TA21
+TA22
+TA30
+TA31
+TA41
+TF64
+TF74
+TG14
+TL90
+TM01
+TM45
+TQ87
+TQ88
+TQ96
+TR06
+TR17
+TR37
+
+

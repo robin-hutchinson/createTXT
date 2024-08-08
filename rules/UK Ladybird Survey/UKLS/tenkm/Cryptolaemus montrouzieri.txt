@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=UK Ladybird Survey/UKLS 10km distribution
+ShortName=Cryptolaemus montrouzieri 10km
+Description=Check coordinate against known distribution of Cryptolaemus montrouzieri
+ErrorMsg=Coordinate is outside known range for Cryptolaemus montrouzieri
+DataFieldName=Species
+DataRecordId=NHMSYS0020151871
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK67
+ST46
+
+

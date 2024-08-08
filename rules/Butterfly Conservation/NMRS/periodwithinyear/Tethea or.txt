@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Tethea or
+Description=Checks date is within known flight period of Tethea or
+ErrorMsg=Date is outside known flight period of Tethea or
+Tvk=NHMSYS0000521108
+DataFieldName=
+StartDate=0415
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Trichorhina tomentosa 10km
+Description=Check coordinate against known distribution of Trichorhina tomentosa
+ErrorMsg=Coordinate is outside known range for Trichorhina tomentosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000008566
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS56
+NS66
+SP50
+SX05
+
+

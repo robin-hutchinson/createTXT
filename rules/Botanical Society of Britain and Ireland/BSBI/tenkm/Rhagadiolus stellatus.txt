@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rhagadiolus stellatus 10km
+Description=Check coordinate against known distribution of Rhagadiolus stellatus
+ErrorMsg=Coordinate is outside known range for Rhagadiolus stellatus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462342
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE13
+SK22
+SU99
+TA30
+TM14
+TM59
+TQ17
+
+

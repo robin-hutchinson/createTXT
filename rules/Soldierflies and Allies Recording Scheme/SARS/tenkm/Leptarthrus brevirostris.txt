@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Soldierflies and Allies Recording Scheme/SARS 10km distribution
+ShortName=Leptarthrus brevirostris 10km
+Description=Check coordinate against known distribution of Leptarthrus brevirostris
+ErrorMsg=Coordinate is outside known range for Leptarthrus brevirostris
+DataFieldName=Species
+DataRecordId=NBNSYS0000007839
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH66
+SH47
+SH48
+SH57
+SH58
+SP40
+SU49
+
+

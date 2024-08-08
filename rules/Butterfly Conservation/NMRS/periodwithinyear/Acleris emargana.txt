@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Acleris emargana
+Description=Checks date is within known flight period of Acleris emargana
+ErrorMsg=Date is outside known flight period of Acleris emargana
+Tvk=NHMSYS0000500927
+DataFieldName=
+StartDate=0701
+EndDate=1115
+LastChanged=20240808
+[EndMetadata]

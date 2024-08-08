@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Ancistrocerus antilope
+Description=Checks date is within known flight period of Ancistrocerus antilope
+ErrorMsg=Date is outside known flight period of Ancistrocerus antilope
+Tvk=NHMSYS0000875042
+DataFieldName=
+StartDate=0501
+EndDate=0630
+LastChanged=20240808
+[EndMetadata]

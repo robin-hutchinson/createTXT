@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ground Beetle Recording Scheme/GBRS Flight Period
+ShortName=Nebria (Boreonebria) rufescens
+Description=Checks date is within known flight period of Nebria (Boreonebria) rufescens
+ErrorMsg=Date is outside known flight period of Nebria (Boreonebria) rufescens
+Tvk=NHMSYS0001719102
+DataFieldName=
+StartDate=0301
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

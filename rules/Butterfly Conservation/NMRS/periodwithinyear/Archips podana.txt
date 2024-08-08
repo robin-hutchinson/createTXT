@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Archips podana
+Description=Checks date is within known flight period of Archips podana
+ErrorMsg=Date is outside known flight period of Archips podana
+Tvk=NHMSYS0000501288
+DataFieldName=
+StartDate=0521
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

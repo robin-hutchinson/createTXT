@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lichenochora lecidellae 10km
+Description=Check coordinate against known distribution of Lichenochora lecidellae
+ErrorMsg=Coordinate is outside known range for Lichenochora lecidellae
+DataFieldName=Species
+DataRecordId=BMSSYS0000010652
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG60
+NH79
+NM68
+NZ19
+
+

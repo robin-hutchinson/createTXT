@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Hypogymnia vittata 10km
+Description=Check coordinate against known distribution of Hypogymnia vittata
+ErrorMsg=Coordinate is outside known range for Hypogymnia vittata
+DataFieldName=Species
+DataRecordId=NHMSYS0001485080
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH89
+
+

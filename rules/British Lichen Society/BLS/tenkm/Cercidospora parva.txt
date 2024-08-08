@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Cercidospora parva 10km
+Description=Check coordinate against known distribution of Cercidospora parva
+ErrorMsg=Coordinate is outside known range for Cercidospora parva
+DataFieldName=Species
+DataRecordId=BMSSYS0000003482
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO17
+
+

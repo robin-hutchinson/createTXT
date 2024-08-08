@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Paulownia tomentosa 10km
+Description=Check coordinate against known distribution of Paulownia tomentosa
+ErrorMsg=Coordinate is outside known range for Paulownia tomentosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000033831
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SS84
+ST61
+ST80
+SU41
+TQ17
+
+

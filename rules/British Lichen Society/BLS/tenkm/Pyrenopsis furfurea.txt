@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pyrenopsis furfurea 10km
+Description=Check coordinate against known distribution of Pyrenopsis furfurea
+ErrorMsg=Coordinate is outside known range for Pyrenopsis furfurea
+DataFieldName=Species
+DataRecordId=NHMSYS0000363846
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN43
+NN64
+SH12
+
+

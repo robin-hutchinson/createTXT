@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Eriocrania cicatricella
+Description=Checks date is within known flight period of Eriocrania cicatricella
+ErrorMsg=Date is outside known flight period of Eriocrania cicatricella
+Tvk=NBNSYS0100003067
+DataFieldName=
+StartDate=0401
+EndDate=0430
+LastChanged=20240808
+[EndMetadata]

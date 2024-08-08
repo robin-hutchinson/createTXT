@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Verrucaria phaeosperma 10km
+Description=Check coordinate against known distribution of Verrucaria phaeosperma
+ErrorMsg=Coordinate is outside known range for Verrucaria phaeosperma
+DataFieldName=Species
+DataRecordId=NHMSYS0001501676
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG51
+ST55
+
+

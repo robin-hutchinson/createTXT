@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Nothofagus obliqua
+Description=Checks date is within known recording period of Nothofagus obliqua
+ErrorMsg=Date is outside known recording period of Nothofagus obliqua
+Tvk=NHMSYS0000461098
+StartDate=19560101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

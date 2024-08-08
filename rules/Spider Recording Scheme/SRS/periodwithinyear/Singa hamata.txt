@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Singa hamata
+Description=Checks date is within known flight period of Singa hamata
+ErrorMsg=Date is outside known flight period of Singa hamata
+Tvk=NBNSYS0000008960
+DataFieldName=
+StartDate=0422
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

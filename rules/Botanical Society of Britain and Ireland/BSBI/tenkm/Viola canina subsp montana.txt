@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Viola canina subsp. montana 10km
+Description=Check coordinate against known distribution of Viola canina subsp. montana
+ErrorMsg=Coordinate is outside known range for Viola canina subsp. montana
+DataFieldName=Species
+DataRecordId=NHMSYS0000464883
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE90
+SK53
+SK64
+SK97
+TF18
+TF49
+TL18
+TL28
+TL38
+TL57
+TL78
+
+

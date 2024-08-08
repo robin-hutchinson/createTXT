@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Myosotis sicula 10km
+Description=Check coordinate against known distribution of Myosotis sicula
+ErrorMsg=Coordinate is outside known range for Myosotis sicula
+DataFieldName=Species
+DataRecordId=NBNSYS0000004009
+LastChanged=20240808
+[EndMetadata]
+
+NA
+
+

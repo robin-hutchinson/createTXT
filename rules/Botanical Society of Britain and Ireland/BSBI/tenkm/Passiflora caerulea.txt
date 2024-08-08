@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Passiflora caerulea 10km
+Description=Check coordinate against known distribution of Passiflora caerulea
+ErrorMsg=Coordinate is outside known range for Passiflora caerulea
+DataFieldName=Species
+DataRecordId=NBNSYS0200002808
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SC48
+SC49
+SU67
+SU77
+SU86
+SX25
+TL31
+
+

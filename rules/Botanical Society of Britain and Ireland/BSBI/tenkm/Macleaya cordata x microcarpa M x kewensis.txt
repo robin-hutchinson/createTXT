@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Macleaya cordata x microcarpa = M. x kewensis 10km
+Description=Check coordinate against known distribution of Macleaya cordata x microcarpa = M. x kewensis
+ErrorMsg=Coordinate is outside known range for Macleaya cordata x microcarpa = M. x kewensis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754807
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN00
+SK01
+SO74
+SP50
+SP82
+SP91
+SS41
+ST43
+SU36
+SU38
+SU87
+SY97
+TQ16
+TQ27
+TQ28
+TQ48
+TQ57
+TQ58
+TQ92
+
+

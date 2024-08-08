@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Collema parvum 10km
+Description=Check coordinate against known distribution of Collema parvum
+ErrorMsg=Coordinate is outside known range for Collema parvum
+DataFieldName=Species
+DataRecordId=NBNSYS0000039621
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN96
+NN97
+NO17
+SD96
+SE08
+SH65
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Amaranthus crispus 10km
+Description=Check coordinate against known distribution of Amaranthus crispus
+ErrorMsg=Coordinate is outside known range for Amaranthus crispus
+DataFieldName=Species
+DataRecordId=NHMSYS0000455828
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ84
+SP04
+
+

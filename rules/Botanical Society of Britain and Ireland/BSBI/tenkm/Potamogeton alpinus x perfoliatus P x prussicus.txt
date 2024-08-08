@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton alpinus x perfoliatus = P. x prussicus 10km
+Description=Check coordinate against known distribution of Potamogeton alpinus x perfoliatus = P. x prussicus
+ErrorMsg=Coordinate is outside known range for Potamogeton alpinus x perfoliatus = P. x prussicus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754743
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+N61
+
+
+[10km_GB]
+NF85
+NR39
+
+

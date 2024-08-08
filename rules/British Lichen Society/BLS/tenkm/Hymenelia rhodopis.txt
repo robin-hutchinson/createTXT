@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Hymenelia rhodopis 10km
+Description=Check coordinate against known distribution of Hymenelia rhodopis
+ErrorMsg=Coordinate is outside known range for Hymenelia rhodopis
+DataFieldName=Species
+DataRecordId=NHMSYS0001484717
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN98
+NO07
+NO08
+NO19
+
+

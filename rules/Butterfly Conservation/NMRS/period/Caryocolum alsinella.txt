@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Caryocolum alsinella
+Description=Checks date is within known recording period of Caryocolum alsinella
+ErrorMsg=Date is outside known recording period of Caryocolum alsinella
+Tvk=NHMSYS0000501646
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

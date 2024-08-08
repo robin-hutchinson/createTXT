@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Catocala fraxini
+Description=Checks date is within known flight period of Catocala fraxini
+ErrorMsg=Date is outside known flight period of Catocala fraxini
+Tvk=NBNSYS0000006556
+DataFieldName=
+StartDate=0807
+EndDate=1107
+LastChanged=20240808
+[EndMetadata]

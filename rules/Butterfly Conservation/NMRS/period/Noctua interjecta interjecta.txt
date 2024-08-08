@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Noctua interjecta interjecta
+Description=Checks date is within known recording period of Noctua interjecta interjecta
+ErrorMsg=Date is outside known recording period of Noctua interjecta interjecta
+Tvk=NHMSYS0021144924
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Wagneripteryx germari
+Description=Checks date is within known flight period of Wagneripteryx germari
+ErrorMsg=Date is outside known flight period of Wagneripteryx germari
+Tvk=NHMSYS0020705181
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

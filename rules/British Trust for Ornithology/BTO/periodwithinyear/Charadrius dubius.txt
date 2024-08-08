@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Charadrius dubius
+Description=Checks date is within known flight period of Charadrius dubius
+ErrorMsg=Date is outside known flight period of Charadrius dubius
+Tvk=NBNSYS0000000162
+DataFieldName=
+StartDate=0301
+EndDate=0920
+LastChanged=20240808
+[EndMetadata]

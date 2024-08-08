@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus polyoplus 10km
+Description=Check coordinate against known distribution of Rubus polyoplus
+ErrorMsg=Coordinate is outside known range for Rubus polyoplus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462844
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+L87
+M15
+
+
+[10km_GB]
+NR84
+SN81
+SN82
+SN90
+SN92
+SN93
+SO24
+SO43
+SO52
+SO53
+SO55
+SS89
+SS98
+ST07
+ST08
+ST17
+ST18
+ST28
+ST48
+ST59
+ST89
+
+

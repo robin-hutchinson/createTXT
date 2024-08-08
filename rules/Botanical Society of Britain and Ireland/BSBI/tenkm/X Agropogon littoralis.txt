@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=X Agropogon littoralis 10km
+Description=Check coordinate against known distribution of X Agropogon littoralis
+ErrorMsg=Coordinate is outside known range for X Agropogon littoralis
+DataFieldName=Species
+DataRecordId=NHMSYS0000465088
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+M48
+
+
+[10km_GB]
+NT27
+NT43
+SD71
+SE23
+SJ66
+ST27
+ST43
+ST53
+ST57
+ST67
+SU40
+SU50
+SU60
+SU70
+SU80
+SZ08
+SZ69
+TF55
+TF94
+TG04
+TG30
+TG42
+TL66
+TM49
+TQ05
+TQ48
+TQ76
+TQ77
+TQ78
+TQ86
+TQ87
+TQ91
+TQ97
+TQ98
+TR23
+
+
+NA
+
+

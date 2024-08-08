@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Silene muscipula 10km
+Description=Check coordinate against known distribution of Silene muscipula
+ErrorMsg=Coordinate is outside known range for Silene muscipula
+DataFieldName=Species
+DataRecordId=NBNSYS0000014399
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+O13
+
+
+[10km_GB]
+SD53
+SK22
+SN68
+SU48
+TA21
+TA30
+TL21
+TL66
+TL78
+TQ41
+
+

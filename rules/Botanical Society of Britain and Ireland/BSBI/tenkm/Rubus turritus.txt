@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus turritus 10km
+Description=Check coordinate against known distribution of Rubus turritus
+ErrorMsg=Coordinate is outside known range for Rubus turritus
+DataFieldName=Species
+DataRecordId=NHMSYS0000840929
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SJ73
+SJ74
+SJ83
+SJ84
+SJ93
+SJ94
+SK03
+SK05
+
+

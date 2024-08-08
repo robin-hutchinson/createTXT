@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Sphacelaria plumigera 10km
+Description=Check coordinate against known distribution of Sphacelaria plumigera
+ErrorMsg=Coordinate is outside known range for Sphacelaria plumigera
+DataFieldName=Species
+DataRecordId=NBNSYS0000178046
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HU36
+HU37
+HU47
+NO51
+NS15
+NT17
+NT27
+NT37
+NT49
+NT77
+NT96
+NU05
+NU06
+NX44
+SH28
+SH56
+SH57
+SH67
+SH68
+SN58
+TR06
+TR23
+
+

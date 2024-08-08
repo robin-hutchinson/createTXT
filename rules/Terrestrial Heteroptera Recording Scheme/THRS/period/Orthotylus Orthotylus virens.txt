@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Orthotylus (Orthotylus) virens
+Description=Checks date is within known recording period of Orthotylus (Orthotylus) virens
+ErrorMsg=Date is outside known recording period of Orthotylus (Orthotylus) virens
+Tvk=NHMSYS0020309597
+StartDate=18070101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

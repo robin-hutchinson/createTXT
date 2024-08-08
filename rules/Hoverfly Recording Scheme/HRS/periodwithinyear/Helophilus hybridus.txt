@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Helophilus hybridus
+Description=Checks date is within known flight period of Helophilus hybridus
+ErrorMsg=Date is outside known flight period of Helophilus hybridus
+Tvk=NBNSYS0000007056
+DataFieldName=
+StartDate=0307
+EndDate=1102
+LastChanged=20240808
+[EndMetadata]

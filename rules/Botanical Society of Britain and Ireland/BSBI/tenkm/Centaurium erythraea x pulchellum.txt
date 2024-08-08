@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Centaurium erythraea x pulchellum 10km
+Description=Check coordinate against known distribution of Centaurium erythraea x pulchellum
+ErrorMsg=Coordinate is outside known range for Centaurium erythraea x pulchellum
+DataFieldName=Species
+DataRecordId=NBNSYS0000014426
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD30
+SD32
+SO94
+SO95
+ST47
+
+

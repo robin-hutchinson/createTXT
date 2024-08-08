@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fumaria occidentalis 10km
+Description=Check coordinate against known distribution of Fumaria occidentalis
+ErrorMsg=Coordinate is outside known range for Fumaria occidentalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000002782
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV81
+SV90
+SV91
+SW32
+SW33
+SW42
+SW43
+SW52
+SW53
+SW54
+SW61
+SW62
+SW63
+SW64
+SW71
+SW72
+SW74
+SW75
+SW76
+SW82
+SW83
+SW84
+SW85
+SW86
+SW87
+SW95
+SW96
+SW97
+SX07
+SX08
+
+

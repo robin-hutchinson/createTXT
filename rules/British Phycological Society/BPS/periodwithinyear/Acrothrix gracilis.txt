@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Phycological Society/BPS Flight Period
+ShortName=Acrothrix gracilis
+Description=Checks date is within known flight period of Acrothrix gracilis
+ErrorMsg=Date is outside known flight period of Acrothrix gracilis
+Tvk=NBNSYS0000173597
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

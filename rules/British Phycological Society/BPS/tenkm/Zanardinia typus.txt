@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Zanardinia typus 10km
+Description=Check coordinate against known distribution of Zanardinia typus
+ErrorMsg=Coordinate is outside known range for Zanardinia typus
+DataFieldName=Species
+DataRecordId=NHMSYS0000377642
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM72
+SM73
+SM80
+SN04
+SR89
+SR99
+SS10
+SS11
+SS14
+SS44
+SS54
+SS64
+SS74
+SS75
+SW87
+SW98
+SX04
+SX09
+SX19
+SX64
+SX95
+SY48
+SY87
+SY88
+SY97
+SZ28
+SZ38
+SZ68
+
+

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Rimularia globulosa 10km
+Description=Check coordinate against known distribution of Rimularia globulosa
+ErrorMsg=Coordinate is outside known range for Rimularia globulosa
+DataFieldName=Species
+DataRecordId=NHMSYS0000363993
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NO07
+NO19
+
+

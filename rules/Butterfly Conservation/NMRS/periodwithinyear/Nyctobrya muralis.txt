@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Nyctobrya muralis
+Description=Checks date is within known flight period of Nyctobrya muralis
+ErrorMsg=Date is outside known flight period of Nyctobrya muralis
+Tvk=NHMSYS0021144559
+DataFieldName=
+StartDate=0621
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

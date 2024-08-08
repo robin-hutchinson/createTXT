@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Soldierflies and Allies Recording Scheme/SARS Flight Period
+ShortName=Villa venusta
+Description=Checks date is within known flight period of Villa venusta
+ErrorMsg=Date is outside known flight period of Villa venusta
+Tvk=NBNSYS0100005964
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

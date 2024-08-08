@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Omocestus viridulus
+Description=Checks date is within known recording period of Omocestus viridulus
+ErrorMsg=Date is outside known recording period of Omocestus viridulus
+Tvk=NBNSYS0000006838
+StartDate=18000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

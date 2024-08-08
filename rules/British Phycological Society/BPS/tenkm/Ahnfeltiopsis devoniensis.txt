@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Ahnfeltiopsis devoniensis 10km
+Description=Check coordinate against known distribution of Ahnfeltiopsis devoniensis
+ErrorMsg=Coordinate is outside known range for Ahnfeltiopsis devoniensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000567767
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NR67
+SM70
+SW72
+SW83
+SW84
+SX44
+SX45
+SX54
+SX73
+SY09
+
+

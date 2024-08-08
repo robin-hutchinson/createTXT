@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Criomorphus albomarginatus
+Description=Checks date is within known flight period of Criomorphus albomarginatus
+ErrorMsg=Date is outside known flight period of Criomorphus albomarginatus
+Tvk=NHMSYS0020705311
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

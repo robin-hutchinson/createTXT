@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Sphinx ligustri
+Description=Checks date is within known recording period of Sphinx ligustri
+ErrorMsg=Date is outside known recording period of Sphinx ligustri
+Tvk=NHMSYS0021143835
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Aloina rigida 10km
+Description=Check coordinate against known distribution of Aloina rigida
+ErrorMsg=Coordinate is outside known range for Aloina rigida
+DataFieldName=Species
+DataRecordId=NBNSYS0000036327
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE53
+SE84
+SE86
+SE87
+SE94
+SE95
+SE96
+SE97
+TA07
+TA17
+TA18
+TA26
+TA27
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Polycoccum kerneri 10km
+Description=Check coordinate against known distribution of Polycoccum kerneri
+ErrorMsg=Coordinate is outside known range for Polycoccum kerneri
+DataFieldName=Species
+DataRecordId=BMSSYS0000014917
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SX58
+
+

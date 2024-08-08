@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa caesia x obtusifolia 10km
+Description=Check coordinate against known distribution of Rosa caesia x obtusifolia
+ErrorMsg=Coordinate is outside known range for Rosa caesia x obtusifolia
+DataFieldName=Species
+DataRecordId=NBNSYS0000033296
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD45
+SK14
+SK24
+SK50
+SO76
+SO98
+
+

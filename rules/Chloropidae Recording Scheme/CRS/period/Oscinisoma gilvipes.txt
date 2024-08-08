@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Chloropidae Recording Scheme/CRS Recording Period
+ShortName=Oscinisoma gilvipes
+Description=Checks date is within known recording period of Oscinisoma gilvipes
+ErrorMsg=Date is outside known recording period of Oscinisoma gilvipes
+Tvk=NBNSYS0100004361
+StartDate=19760101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Philedone gerningana
+Description=Checks date is within known flight period of Philedone gerningana
+ErrorMsg=Date is outside known flight period of Philedone gerningana
+Tvk=NHMSYS0021142994
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

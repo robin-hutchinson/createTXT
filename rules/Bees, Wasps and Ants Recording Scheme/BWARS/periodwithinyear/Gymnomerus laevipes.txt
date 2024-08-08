@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Gymnomerus laevipes
+Description=Checks date is within known flight period of Gymnomerus laevipes
+ErrorMsg=Date is outside known flight period of Gymnomerus laevipes
+Tvk=NBNSYS0000009446
+DataFieldName=
+StartDate=0101
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

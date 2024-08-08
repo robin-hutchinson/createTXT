@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Cucumaria frondosa 10km
+Description=Check coordinate against known distribution of Cucumaria frondosa
+ErrorMsg=Coordinate is outside known range for Cucumaria frondosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000174791
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HP50
+HU24
+HU34
+HU35
+HU36
+HU44
+HU45
+HU48
+HU55
+HU56
+HU57
+HU59
+HY30
+NG93
+NW61
+SC16
+SC45
+SM72
+SM80
+SW82
+SX09
+
+
+[10km_Ireland]
+J55
+J56
+Y87
+Y95
+Y97
+
+

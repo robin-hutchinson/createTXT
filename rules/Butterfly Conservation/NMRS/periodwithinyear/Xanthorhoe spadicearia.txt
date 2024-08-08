@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Xanthorhoe spadicearia
+Description=Checks date is within known flight period of Xanthorhoe spadicearia
+ErrorMsg=Date is outside known flight period of Xanthorhoe spadicearia
+Tvk=NHMSYS0021143920
+DataFieldName=
+StartDate=0415
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Athrips mouffetella
+Description=Checks date is within known flight period of Athrips mouffetella
+ErrorMsg=Date is outside known flight period of Athrips mouffetella
+Tvk=NHMSYS0000501423
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

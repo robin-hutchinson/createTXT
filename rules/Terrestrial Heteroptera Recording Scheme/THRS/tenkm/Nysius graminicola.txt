@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Nysius graminicola 10km
+Description=Check coordinate against known distribution of Nysius graminicola
+ErrorMsg=Coordinate is outside known range for Nysius graminicola
+DataFieldName=Species
+DataRecordId=NHMSYS0020309536
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN54
+SP92
+TL10
+TQ30
+
+

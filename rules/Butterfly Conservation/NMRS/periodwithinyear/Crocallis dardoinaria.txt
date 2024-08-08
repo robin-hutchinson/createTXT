@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Crocallis dardoinaria
+Description=Checks date is within known flight period of Crocallis dardoinaria
+ErrorMsg=Date is outside known flight period of Crocallis dardoinaria
+Tvk=NHMSYS0020531189
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

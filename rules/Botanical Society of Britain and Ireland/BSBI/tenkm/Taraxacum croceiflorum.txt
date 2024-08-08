@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum croceiflorum 10km
+Description=Check coordinate against known distribution of Taraxacum croceiflorum
+ErrorMsg=Coordinate is outside known range for Taraxacum croceiflorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840790
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT16
+NT73
+NX46
+NX65
+NX86
+NX97
+NY38
+NY59
+NZ23
+SH76
+SN11
+SN42
+SN50
+SN52
+SN60
+SO02
+SP33
+SP50
+SP60
+SP70
+SS20
+SS49
+ST00
+ST21
+ST30
+ST39
+SU79
+SW42
+SW43
+SW53
+SW61
+SW62
+SW64
+SW71
+SW72
+SW82
+SX05
+SX08
+SX18
+SX45
+TQ09
+TQ29
+
+

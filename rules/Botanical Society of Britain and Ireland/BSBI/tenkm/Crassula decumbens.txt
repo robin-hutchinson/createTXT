@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Crassula decumbens 10km
+Description=Check coordinate against known distribution of Crassula decumbens
+ErrorMsg=Coordinate is outside known range for Crassula decumbens
+DataFieldName=Species
+DataRecordId=NBNSYS0000014052
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE38
+SU73
+SV91
+
+

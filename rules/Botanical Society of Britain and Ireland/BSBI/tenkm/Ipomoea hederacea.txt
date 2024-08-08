@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Ipomoea hederacea 10km
+Description=Check coordinate against known distribution of Ipomoea hederacea
+ErrorMsg=Coordinate is outside known range for Ipomoea hederacea
+DataFieldName=Species
+DataRecordId=NBNSYS0000034205
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+ST57
+ST74
+SU89
+TF60
+TL31
+TL32
+TL36
+TM14
+TM24
+TM36
+TQ09
+TQ57
+TQ67
+TQ76
+
+

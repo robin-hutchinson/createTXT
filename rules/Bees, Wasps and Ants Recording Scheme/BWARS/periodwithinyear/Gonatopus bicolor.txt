@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Gonatopus bicolor
+Description=Checks date is within known flight period of Gonatopus bicolor
+ErrorMsg=Date is outside known flight period of Gonatopus bicolor
+Tvk=NHMSYS0000875975
+DataFieldName=
+StartDate=0601
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Cytisus scoparius subsp. maritimus 10km
+Description=Check coordinate against known distribution of Cytisus scoparius subsp. maritimus
+ErrorMsg=Coordinate is outside known range for Cytisus scoparius subsp. maritimus
+DataFieldName=Species
+DataRecordId=NHMSYS0000457860
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+O23
+T10
+V72
+
+
+[10km_GB]
+SH12
+SH33
+SM70
+SM71
+SM72
+SM80
+SM81
+SM82
+SM83
+SS14
+SS22
+SW61
+SW71
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

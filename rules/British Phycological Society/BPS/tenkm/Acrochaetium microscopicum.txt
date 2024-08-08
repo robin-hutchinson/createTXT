@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Acrochaetium microscopicum 10km
+Description=Check coordinate against known distribution of Acrochaetium microscopicum
+ErrorMsg=Coordinate is outside known range for Acrochaetium microscopicum
+DataFieldName=Species
+DataRecordId=NHMSYS0000567744
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM62
+SW61
+
+

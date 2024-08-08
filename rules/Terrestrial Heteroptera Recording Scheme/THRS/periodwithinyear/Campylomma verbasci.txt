@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Campylomma verbasci
+Description=Checks date is within known flight period of Campylomma verbasci
+ErrorMsg=Date is outside known flight period of Campylomma verbasci
+Tvk=NHMSYS0020309030
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

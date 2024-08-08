@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Lamium maculatum
+Description=Checks date is within known recording period of Lamium maculatum
+ErrorMsg=Date is outside known recording period of Lamium maculatum
+Tvk=NHMSYS0000460084
+StartDate=17300101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

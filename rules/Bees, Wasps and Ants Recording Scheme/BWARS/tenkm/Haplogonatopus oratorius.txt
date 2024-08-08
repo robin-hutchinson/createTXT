@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Bees, Wasps and Ants Recording Scheme/BWARS 10km distribution
+ShortName=Haplogonatopus oratorius 10km
+Description=Check coordinate against known distribution of Haplogonatopus oratorius
+ErrorMsg=Coordinate is outside known range for Haplogonatopus oratorius
+DataFieldName=Species
+DataRecordId=NHMSYS0000876036
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TA42
+TF62
+TF63
+TF64
+TF71
+TF74
+TF84
+TF94
+TG01
+TG03
+TG04
+TG11
+TG12
+TG13
+TG14
+TG23
+TG24
+TG31
+TG32
+TG33
+TG41
+TG42
+TG50
+TG51
+TM57
+TQ80
+TR12
+TR33
+TR46
+TV69
+
+

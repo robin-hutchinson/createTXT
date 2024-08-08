@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Holocentropus stagnalis
+Description=Checks date is within known recording period of Holocentropus stagnalis
+ErrorMsg=Date is outside known recording period of Holocentropus stagnalis
+Tvk=NBNSYS0000008404
+StartDate=18700101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

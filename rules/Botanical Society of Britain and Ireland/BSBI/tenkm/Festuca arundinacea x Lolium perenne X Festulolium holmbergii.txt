@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Festuca arundinacea x Lolium perenne = X Festulolium holmbergii 10km
+Description=Check coordinate against known distribution of Festuca arundinacea x Lolium perenne = X Festulolium holmbergii
+ErrorMsg=Coordinate is outside known range for Festuca arundinacea x Lolium perenne = X Festulolium holmbergii
+DataFieldName=Species
+DataRecordId=NBNSYS0000161673
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+N25
+N33
+S61
+
+
+[10km_GB]
+NS28
+NS32
+SD62
+SE73
+SJ07
+SO85
+SP02
+SP17
+SP83
+ST57
+ST62
+SU41
+SU51
+SU60
+SU95
+SW94
+TA04
+TA16
+TF51
+TL59
+TQ06
+TQ07
+TQ17
+TQ24
+TQ38
+
+

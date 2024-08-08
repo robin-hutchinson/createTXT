@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Gelechia hippophaella 10km
+Description=Check coordinate against known distribution of Gelechia hippophaella
+ErrorMsg=Coordinate is outside known range for Gelechia hippophaella
+DataFieldName=Species
+DataRecordId=NHMSYS0000502706
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+TA41
+TF49
+TF55
+TF58
+TF74
+TG41
+TQ91
+TR35
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Evagetes dubius
+Description=Checks date is within known flight period of Evagetes dubius
+ErrorMsg=Date is outside known flight period of Evagetes dubius
+Tvk=NHMSYS0000875943
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

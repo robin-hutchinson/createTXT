@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Kelisia guttulifera
+Description=Checks date is within known flight period of Kelisia guttulifera
+ErrorMsg=Date is outside known flight period of Kelisia guttulifera
+Tvk=NHMSYS0020705667
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

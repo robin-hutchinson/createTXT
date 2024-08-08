@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Aglossa pinguinalis
+Description=Checks date is within known flight period of Aglossa pinguinalis
+ErrorMsg=Date is outside known flight period of Aglossa pinguinalis
+Tvk=NHMSYS0000501040
+DataFieldName=
+StartDate=0501
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

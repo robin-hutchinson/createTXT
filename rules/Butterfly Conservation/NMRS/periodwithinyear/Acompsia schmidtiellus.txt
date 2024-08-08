@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Acompsia schmidtiellus
+Description=Checks date is within known flight period of Acompsia schmidtiellus
+ErrorMsg=Date is outside known flight period of Acompsia schmidtiellus
+Tvk=NBNSYS0100001410
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

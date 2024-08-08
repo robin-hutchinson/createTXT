@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Myriapod and Isopod Group/BMIG 10km distribution
+ShortName=Anthogona britannica 10km
+Description=Check coordinate against known distribution of Anthogona britannica
+ErrorMsg=Coordinate is outside known range for Anthogona britannica
+DataFieldName=Species
+DataRecordId=NHMSYS0000356226
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SX84
+SX85
+SX95
+
+

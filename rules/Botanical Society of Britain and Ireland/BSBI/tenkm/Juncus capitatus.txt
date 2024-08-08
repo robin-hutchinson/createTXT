@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Juncus capitatus 10km
+Description=Check coordinate against known distribution of Juncus capitatus
+ErrorMsg=Coordinate is outside known range for Juncus capitatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000002228
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NM39
+SH27
+SH28
+SH36
+SH37
+SH46
+SV91
+SW32
+SW42
+SW54
+SW61
+SW71
+SW72
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

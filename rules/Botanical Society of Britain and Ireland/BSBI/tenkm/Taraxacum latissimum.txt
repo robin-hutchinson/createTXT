@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum latissimum 10km
+Description=Check coordinate against known distribution of Taraxacum latissimum
+ErrorMsg=Coordinate is outside known range for Taraxacum latissimum
+DataFieldName=Species
+DataRecordId=NHMSYS0000464247
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX96
+SE37
+SW62
+TQ09
+
+

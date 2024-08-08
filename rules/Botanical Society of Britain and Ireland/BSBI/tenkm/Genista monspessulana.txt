@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Genista monspessulana 10km
+Description=Check coordinate against known distribution of Genista monspessulana
+ErrorMsg=Coordinate is outside known range for Genista monspessulana
+DataFieldName=Species
+DataRecordId=NHMSYS0000459004
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SP50
+SS94
+ST57
+SU31
+SU41
+SU96
+SX97
+SY68
+SY98
+SZ58
+SZ68
+SZ69
+TG20
+TL72
+TM13
+TM33
+TQ00
+TQ04
+TQ05
+TQ29
+TQ46
+TQ56
+TQ57
+
+
+NA
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Epinotia tetraquetrana
+Description=Checks date is within known recording period of Epinotia tetraquetrana
+ErrorMsg=Date is outside known recording period of Epinotia tetraquetrana
+Tvk=NHMSYS0000502456
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

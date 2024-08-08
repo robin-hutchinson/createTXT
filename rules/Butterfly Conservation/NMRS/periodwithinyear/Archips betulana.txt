@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Archips betulana
+Description=Checks date is within known flight period of Archips betulana
+ErrorMsg=Date is outside known flight period of Archips betulana
+Tvk=NHMSYS0021143001
+DataFieldName=
+StartDate=0801
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

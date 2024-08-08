@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Epilobium pedunculare 10km
+Description=Check coordinate against known distribution of Epilobium pedunculare
+ErrorMsg=Coordinate is outside known range for Epilobium pedunculare
+DataFieldName=Species
+DataRecordId=NHMSYS0000458404
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J57
+L75
+L76
+L86
+L95
+
+
+[10km_GB]
+NN50
+NN97
+NT27
+NX04
+NY48
+NY82
+NY90
+NY92
+NY94
+NZ00
+SD99
+SE19
+SH34
+SH65
+SH75
+SH96
+SJ03
+SJ05
+SJ24
+SJ44
+SJ47
+SN60
+SO00
+SO10
+SO20
+SS99
+ST09
+ST18
+SX16
+SX36
+TQ05
+
+

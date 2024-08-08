@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum atactum 10km
+Description=Check coordinate against known distribution of Taraxacum atactum
+ErrorMsg=Coordinate is outside known range for Taraxacum atactum
+DataFieldName=Species
+DataRecordId=NHMSYS0000840687
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NF76
+NJ92
+NX67
+NX76
+NX95
+NY92
+SH57
+SN10
+SN11
+SN22
+SN30
+SN34
+SN40
+SN41
+SN43
+SN44
+SN50
+SN52
+SN53
+SN83
+SO02
+SS59
+SW62
+SW81
+TQ19
+
+

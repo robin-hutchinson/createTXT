@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Trichoptera Recording Scheme/TRS Flight Period
+ShortName=Limnephilus decipiens
+Description=Checks date is within known flight period of Limnephilus decipiens
+ErrorMsg=Date is outside known flight period of Limnephilus decipiens
+Tvk=NBNSYS0000008473
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Pipizella maculipennis 10km
+Description=Check coordinate against known distribution of Pipizella maculipennis
+ErrorMsg=Coordinate is outside known range for Pipizella maculipennis
+DataFieldName=Species
+DataRecordId=NBNSYS0000007086
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS18
+NX64
+NX98
+NY07
+SK93
+SO61
+SO62
+SP37
+SP50
+ST54
+ST79
+ST86
+SU51
+SU61
+SU65
+SU70
+SU82
+SU90
+SZ48
+SZ59
+SZ69
+TL87
+TM02
+TQ05
+TQ25
+TQ28
+TQ41
+TQ48
+TQ96
+TR01
+
+

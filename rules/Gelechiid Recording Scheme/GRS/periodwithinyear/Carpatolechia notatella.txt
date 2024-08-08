@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Gelechiid Recording Scheme/GRS Flight Period
+ShortName=Carpatolechia notatella
+Description=Checks date is within known flight period of Carpatolechia notatella
+ErrorMsg=Date is outside known flight period of Carpatolechia notatella
+Tvk=NBNSYS0100002200
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

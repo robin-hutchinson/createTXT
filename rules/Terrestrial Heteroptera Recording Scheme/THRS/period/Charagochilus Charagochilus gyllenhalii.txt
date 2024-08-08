@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Terrestrial Heteroptera Recording Scheme/THRS Recording Period
+ShortName=Charagochilus (Charagochilus) gyllenhalii
+Description=Checks date is within known recording period of Charagochilus (Charagochilus) gyllenhalii
+ErrorMsg=Date is outside known recording period of Charagochilus (Charagochilus) gyllenhalii
+Tvk=NHMSYS0020309061
+StartDate=18070101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

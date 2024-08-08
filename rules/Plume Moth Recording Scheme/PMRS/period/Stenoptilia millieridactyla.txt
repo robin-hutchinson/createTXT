@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plume Moth Recording Scheme/PMRS Recording Period
+ShortName=Stenoptilia millieridactyla
+Description=Checks date is within known recording period of Stenoptilia millieridactyla
+ErrorMsg=Date is outside known recording period of Stenoptilia millieridactyla
+Tvk=NBNSYS0100005593
+StartDate=19690101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Stigmella lemniscella
+Description=Checks date is within known flight period of Stigmella lemniscella
+ErrorMsg=Date is outside known flight period of Stigmella lemniscella
+Tvk=NBNSYS0100005605
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Planes minutus 10km
+Description=Check coordinate against known distribution of Planes minutus
+ErrorMsg=Coordinate is outside known range for Planes minutus
+DataFieldName=Species
+DataRecordId=NBNSYS0000177253
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+L31
+M21
+Q50
+
+
+[10km_GB]
+SS32
+SW53
+SW72
+SX26
+SX46
+SY67
+SY97
+SZ19
+
+

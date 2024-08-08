@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Centaurea aspera 10km
+Description=Check coordinate against known distribution of Centaurea aspera
+ErrorMsg=Coordinate is outside known range for Centaurea aspera
+DataFieldName=Species
+DataRecordId=NBNSYS0000004509
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NU11
+SD31
+SJ39
+SN30
+SN40
+SS78
+SS79
+ST16
+SU41
+SX05
+TA02
+TQ18
+TQ27
+TQ47
+
+
+[10km_CI]
+WA50
+
+
+NA
+
+

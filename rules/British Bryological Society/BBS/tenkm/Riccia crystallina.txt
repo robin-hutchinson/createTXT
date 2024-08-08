@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Riccia crystallina 10km
+Description=Check coordinate against known distribution of Riccia crystallina
+ErrorMsg=Coordinate is outside known range for Riccia crystallina
+DataFieldName=Species
+DataRecordId=NHMSYS0000310448
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV90
+
+

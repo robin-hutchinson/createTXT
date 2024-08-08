@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Campylopus pilifer 10km
+Description=Check coordinate against known distribution of Campylopus pilifer
+ErrorMsg=Coordinate is outside known range for Campylopus pilifer
+DataFieldName=Species
+DataRecordId=NBNSYS0000143595
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SM62
+SM71
+SM73
+SM84
+SN15
+SV80
+SV81
+SV90
+SV91
+SW52
+SW65
+SW82
+SX03
+SX94
+
+

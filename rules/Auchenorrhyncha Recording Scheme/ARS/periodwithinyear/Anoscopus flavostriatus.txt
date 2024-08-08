@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Anoscopus flavostriatus
+Description=Checks date is within known flight period of Anoscopus flavostriatus
+ErrorMsg=Date is outside known flight period of Anoscopus flavostriatus
+Tvk=NHMSYS0020705216
+DataFieldName=
+StartDate=0701
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

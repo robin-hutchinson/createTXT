@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rosa mollis x rubiginosa = R. x molliformis 10km
+Description=Check coordinate against known distribution of Rosa mollis x rubiginosa = R. x molliformis
+ErrorMsg=Coordinate is outside known range for Rosa mollis x rubiginosa = R. x molliformis
+DataFieldName=Species
+DataRecordId=NHMSYS0001754819
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HY20
+HY30
+HY40
+NC55
+NC96
+NG52
+NH52
+NH53
+NH64
+NH74
+NJ45
+NJ61
+NN63
+NN91
+NO21
+NO40
+NO42
+NO50
+NO64
+NS74
+NS93
+NT43
+NT47
+NT56
+NX54
+NY42
+NZ13
+
+

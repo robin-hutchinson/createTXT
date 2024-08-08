@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Terrestrial Heteroptera Recording Scheme/THRS Flight Period
+ShortName=Fieberocapsus flaveolus
+Description=Checks date is within known flight period of Fieberocapsus flaveolus
+ErrorMsg=Date is outside known flight period of Fieberocapsus flaveolus
+Tvk=NHMSYS0020309237
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

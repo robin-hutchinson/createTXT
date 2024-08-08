@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Fumaria muralis x officinalis = F. x painteri 10km
+Description=Check coordinate against known distribution of Fumaria muralis x officinalis = F. x painteri
+ErrorMsg=Coordinate is outside known range for Fumaria muralis x officinalis = F. x painteri
+DataFieldName=Species
+DataRecordId=NHMSYS0001754786
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SH50
+SJ60
+SO38
+SS91
+TQ75
+
+

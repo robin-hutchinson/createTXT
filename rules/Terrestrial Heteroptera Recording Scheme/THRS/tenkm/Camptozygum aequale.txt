@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Terrestrial Heteroptera Recording Scheme/THRS 10km distribution
+ShortName=Camptozygum aequale 10km
+Description=Check coordinate against known distribution of Camptozygum aequale
+ErrorMsg=Coordinate is outside known range for Camptozygum aequale
+DataFieldName=Species
+DataRecordId=NHMSYS0020309027
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG97
+NH18
+NH95
+NJ33
+NN55
+NT16
+NT67
+NY22
+SE10
+SE91
+SP29
+SP92
+SU21
+SU84
+SU94
+SY88
+SY98
+SZ19
+TL14
+TL20
+TL33
+TL34
+TL77
+TM35
+TM47
+TM49
+TQ28
+TQ34
+TQ37
+
+

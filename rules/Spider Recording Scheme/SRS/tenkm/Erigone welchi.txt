@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Erigone welchi 10km
+Description=Check coordinate against known distribution of Erigone welchi
+ErrorMsg=Coordinate is outside known range for Erigone welchi
+DataFieldName=Species
+DataRecordId=NBNSYS0000009109
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX76
+SH74
+SK08
+SN87
+
+

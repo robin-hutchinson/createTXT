@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Friedlanderia cicatricella
+Description=Checks date is within known flight period of Friedlanderia cicatricella
+ErrorMsg=Date is outside known flight period of Friedlanderia cicatricella
+Tvk=NHMSYS0000516769
+DataFieldName=
+StartDate=0701
+EndDate=0815
+LastChanged=20240808
+[EndMetadata]

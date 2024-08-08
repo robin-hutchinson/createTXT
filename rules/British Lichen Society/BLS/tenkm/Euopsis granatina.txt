@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Euopsis granatina 10km
+Description=Check coordinate against known distribution of Euopsis granatina
+ErrorMsg=Coordinate is outside known range for Euopsis granatina
+DataFieldName=Species
+DataRecordId=NBNSYS0000018977
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG91
+NG96
+NG97
+NH01
+NM68
+NN64
+SN57
+SN69
+SN74
+SN96
+SS62
+SS64
+SS74
+ST60
+ST81
+ST96
+SU51
+SX19
+SY49
+SY59
+SY79
+SY97
+SY99
+SZ58
+
+

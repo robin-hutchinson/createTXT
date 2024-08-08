@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Pronectria xanthoriae 10km
+Description=Check coordinate against known distribution of Pronectria xanthoriae
+ErrorMsg=Coordinate is outside known range for Pronectria xanthoriae
+DataFieldName=Species
+DataRecordId=BMSSYS0000015293
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK26
+
+

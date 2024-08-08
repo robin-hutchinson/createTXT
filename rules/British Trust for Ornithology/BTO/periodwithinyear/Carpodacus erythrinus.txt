@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=British Trust for Ornithology/BTO Flight Period
+ShortName=Carpodacus erythrinus
+Description=Checks date is within known flight period of Carpodacus erythrinus
+ErrorMsg=Date is outside known flight period of Carpodacus erythrinus
+Tvk=NHMSYS0000530254
+DataFieldName=
+StartDate=0520
+EndDate=1015
+LastChanged=20240808
+[EndMetadata]

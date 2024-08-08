@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Spiraea douglasii subsp. menziesii 10km
+Description=Check coordinate against known distribution of Spiraea douglasii subsp. menziesii
+ErrorMsg=Coordinate is outside known range for Spiraea douglasii subsp. menziesii
+DataFieldName=Species
+DataRecordId=NHMSYS0000463912
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ44
+SN81
+SO70
+SP19
+SS51
+SU96
+SW63
+SW84
+
+

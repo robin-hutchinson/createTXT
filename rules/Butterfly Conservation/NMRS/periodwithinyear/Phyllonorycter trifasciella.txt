@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phyllonorycter trifasciella
+Description=Checks date is within known flight period of Phyllonorycter trifasciella
+ErrorMsg=Date is outside known flight period of Phyllonorycter trifasciella
+Tvk=NHMSYS0000503816
+DataFieldName=
+StartDate=0401
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

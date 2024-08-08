@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Tetragnatha montana
+Description=Checks date is within known flight period of Tetragnatha montana
+ErrorMsg=Date is outside known flight period of Tetragnatha montana
+Tvk=NBNSYS0000008919
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

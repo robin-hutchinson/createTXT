@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Gelechiid Recording Scheme/GRS 10km distribution
+ShortName=Coleotechnites piceaella 10km
+Description=Check coordinate against known distribution of Coleotechnites piceaella
+ErrorMsg=Coordinate is outside known range for Coleotechnites piceaella
+DataFieldName=Species
+DataRecordId=NBNSYS0100002536
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU43
+TQ04
+TQ18
+TQ19
+TQ38
+
+

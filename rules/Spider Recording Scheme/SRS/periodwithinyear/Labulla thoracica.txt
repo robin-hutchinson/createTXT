@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spider Recording Scheme/SRS Flight Period
+ShortName=Labulla thoracica
+Description=Checks date is within known flight period of Labulla thoracica
+ErrorMsg=Date is outside known flight period of Labulla thoracica
+Tvk=NBNSYS0000009204
+DataFieldName=
+StartDate=0416
+EndDate=1231
+LastChanged=20240808
+[EndMetadata]

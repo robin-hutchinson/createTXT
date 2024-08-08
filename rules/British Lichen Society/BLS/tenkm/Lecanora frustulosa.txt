@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Lecanora frustulosa 10km
+Description=Check coordinate against known distribution of Lecanora frustulosa
+ErrorMsg=Coordinate is outside known range for Lecanora frustulosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000018591
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG45
+NG55
+NM53
+NN15
+NN53
+NN60
+NN64
+
+

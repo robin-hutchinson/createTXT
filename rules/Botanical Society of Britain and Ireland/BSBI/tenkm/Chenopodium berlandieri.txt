@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Chenopodium berlandieri 10km
+Description=Check coordinate against known distribution of Chenopodium berlandieri
+ErrorMsg=Coordinate is outside known range for Chenopodium berlandieri
+DataFieldName=Species
+DataRecordId=NBNSYS0000003094
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+L64
+
+
+[10km_GB]
+SD32
+SD33
+SD53
+SD81
+SE63
+SJ89
+SO51
+SO60
+SO83
+SS78
+ST17
+ST47
+ST67
+SU41
+SU59
+SU77
+SX05
+TL31
+TM02
+TQ05
+TQ06
+TQ09
+TQ25
+TQ35
+TQ48
+TQ58
+
+

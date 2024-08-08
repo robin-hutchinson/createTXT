@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Stosatea italica
+Description=Checks date is within known recording period of Stosatea italica
+ErrorMsg=Date is outside known recording period of Stosatea italica
+Tvk=NBNSYS0000011362
+StartDate=19220101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

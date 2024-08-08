@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Ephemeroptera Recording Scheme/ERS Flight Period
+ShortName=Electrogena affinis
+Description=Checks date is within known flight period of Electrogena affinis
+ErrorMsg=Date is outside known flight period of Electrogena affinis
+Tvk=NBNSYS0100002943
+DataFieldName=
+StartDate=0701
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

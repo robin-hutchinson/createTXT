@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus proiectus 10km
+Description=Check coordinate against known distribution of Rubus proiectus
+ErrorMsg=Coordinate is outside known range for Rubus proiectus
+DataFieldName=Species
+DataRecordId=NHMSYS0000462849
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SE91
+SK66
+SK73
+SK79
+SK82
+SK83
+SK85
+SK90
+SK91
+SK92
+SK93
+SP27
+SP88
+TF00
+TF01
+TF02
+TL08
+TL22
+TL42
+TL52
+TL53
+TL70
+TL94
+TM13
+TM28
+TQ16
+TQ18
+
+

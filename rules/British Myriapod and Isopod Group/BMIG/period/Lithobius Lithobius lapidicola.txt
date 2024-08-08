@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Lithobius (Lithobius) lapidicola
+Description=Checks date is within known recording period of Lithobius (Lithobius) lapidicola
+ErrorMsg=Date is outside known recording period of Lithobius (Lithobius) lapidicola
+Tvk=NHMSYS0020500669
+StartDate=19860520
+EndDate=
+LastChanged=20240808
+[EndMetadata]

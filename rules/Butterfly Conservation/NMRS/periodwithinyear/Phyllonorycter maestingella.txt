@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Phyllonorycter maestingella
+Description=Checks date is within known flight period of Phyllonorycter maestingella
+ErrorMsg=Date is outside known flight period of Phyllonorycter maestingella
+Tvk=NHMSYS0000503785
+DataFieldName=
+StartDate=0401
+EndDate=1130
+LastChanged=20240808
+[EndMetadata]

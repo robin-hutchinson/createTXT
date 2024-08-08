@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Stigmella microtheriella
+Description=Checks date is within known recording period of Stigmella microtheriella
+ErrorMsg=Date is outside known recording period of Stigmella microtheriella
+Tvk=NHMSYS0000504362
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

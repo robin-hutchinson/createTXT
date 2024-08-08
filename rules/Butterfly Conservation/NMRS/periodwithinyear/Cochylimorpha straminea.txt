@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Cochylimorpha straminea
+Description=Checks date is within known flight period of Cochylimorpha straminea
+ErrorMsg=Date is outside known flight period of Cochylimorpha straminea
+Tvk=NBNSYS0100002511
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20240808
+[EndMetadata]

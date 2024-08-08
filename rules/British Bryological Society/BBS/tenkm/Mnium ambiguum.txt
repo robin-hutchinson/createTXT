@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Mnium ambiguum 10km
+Description=Check coordinate against known distribution of Mnium ambiguum
+ErrorMsg=Coordinate is outside known range for Mnium ambiguum
+DataFieldName=Species
+DataRecordId=NBNSYS0000036643
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NN73
+
+

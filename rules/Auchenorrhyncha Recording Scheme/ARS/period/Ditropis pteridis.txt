@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Auchenorrhyncha Recording Scheme/ARS Recording Period
+ShortName=Ditropis pteridis
+Description=Checks date is within known recording period of Ditropis pteridis
+ErrorMsg=Date is outside known recording period of Ditropis pteridis
+Tvk=NHMSYS0020705337
+StartDate=19500101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Limnephilus vittatus
+Description=Checks date is within known recording period of Limnephilus vittatus
+ErrorMsg=Date is outside known recording period of Limnephilus vittatus
+Tvk=NHMSYS0020704808
+StartDate=18370101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

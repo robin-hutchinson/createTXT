@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Empoasca pteridis
+Description=Checks date is within known flight period of Empoasca pteridis
+ErrorMsg=Date is outside known flight period of Empoasca pteridis
+Tvk=NHMSYS0020705543
+DataFieldName=
+StartDate=0801
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

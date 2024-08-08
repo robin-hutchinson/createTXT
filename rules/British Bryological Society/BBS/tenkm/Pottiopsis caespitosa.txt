@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Pottiopsis caespitosa 10km
+Description=Check coordinate against known distribution of Pottiopsis caespitosa
+ErrorMsg=Coordinate is outside known range for Pottiopsis caespitosa
+DataFieldName=Species
+DataRecordId=NBNSYS0100004852
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SU80
+SU90
+TQ00
+TQ10
+TQ20
+TQ30
+TQ40
+TQ50
+TQ60
+TV59
+
+

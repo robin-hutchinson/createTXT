@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Bactra lacteana
+Description=Checks date is within known flight period of Bactra lacteana
+ErrorMsg=Date is outside known flight period of Bactra lacteana
+Tvk=NHMSYS0000501439
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

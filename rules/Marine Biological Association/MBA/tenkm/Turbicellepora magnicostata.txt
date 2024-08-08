@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Marine Biological Association/MBA 10km distribution
+ShortName=Turbicellepora magnicostata 10km
+Description=Check coordinate against known distribution of Turbicellepora magnicostata
+ErrorMsg=Coordinate is outside known range for Turbicellepora magnicostata
+DataFieldName=Species
+DataRecordId=NBNSYS0000188574
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV81
+SV91
+
+

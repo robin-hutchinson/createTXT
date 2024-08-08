@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Scorpiurus muricatus 10km
+Description=Check coordinate against known distribution of Scorpiurus muricatus
+ErrorMsg=Coordinate is outside known range for Scorpiurus muricatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000033829
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY23
+SD33
+SE13
+SE14
+SE22
+SE32
+SE50
+SK22
+SK33
+SO74
+SO88
+SO95
+SP08
+SP36
+ST07
+ST17
+ST51
+SU73
+SW72
+SW83
+SW94
+TA21
+TA30
+TL03
+TL10
+TL13
+TL21
+TL23
+TL31
+TM02
+TM25
+TQ27
+TQ28
+TQ29
+TQ57
+TQ58
+
+
+NA
+
+

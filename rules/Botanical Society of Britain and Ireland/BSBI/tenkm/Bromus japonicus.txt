@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Bromus japonicus 10km
+Description=Check coordinate against known distribution of Bromus japonicus
+ErrorMsg=Coordinate is outside known range for Bromus japonicus
+DataFieldName=Species
+DataRecordId=NHMSYS0100000816
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NX06
+NY15
+SD62
+SD80
+SE37
+SE47
+SJ29
+SO71
+SO81
+SO83
+SO94
+ST34
+ST47
+ST57
+ST67
+SU12
+SU41
+SU73
+SW73
+SW83
+SX05
+TA00
+TL03
+TL45
+TL97
+TQ07
+TQ08
+TQ27
+TQ28
+TQ37
+TQ48
+TQ58
+
+

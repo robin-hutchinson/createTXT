@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Meta bourneti 10km
+Description=Check coordinate against known distribution of Meta bourneti
+ErrorMsg=Coordinate is outside known range for Meta bourneti
+DataFieldName=Species
+DataRecordId=NBNSYS0000008930
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK66
+SO76
+SO84
+SO93
+SO94
+ST04
+ST14
+ST23
+ST34
+ST35
+ST42
+SU20
+SU30
+SU59
+TG10
+TL14
+TL51
+TL62
+TL82
+TL83
+TL86
+TL87
+TL88
+TL96
+TM24
+TM25
+TM26
+TQ16
+TQ17
+TQ27
+
+

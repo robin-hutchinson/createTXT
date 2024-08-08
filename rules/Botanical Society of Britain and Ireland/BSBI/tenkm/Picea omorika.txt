@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Picea omorika 10km
+Description=Check coordinate against known distribution of Picea omorika
+ErrorMsg=Coordinate is outside known range for Picea omorika
+DataFieldName=Species
+DataRecordId=NHMSYS0000461254
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH20
+NH78
+NN09
+NN18
+NN19
+NR92
+NR93
+NS02
+NT70
+NT91
+NY47
+NY48
+NY67
+NY71
+NY75
+NY89
+NZ07
+NZ15
+NZ32
+SD29
+SD52
+SD88
+SD95
+SJ15
+SJ80
+SK53
+SK96
+SN55
+SN77
+SN78
+SN79
+SN88
+SO50
+SO78
+SP80
+SP92
+ST29
+SU97
+TL87
+TQ50
+
+

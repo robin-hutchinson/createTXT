@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Auchenorrhyncha Recording Scheme/ARS Flight Period
+ShortName=Edwardsiana rosae
+Description=Checks date is within known flight period of Edwardsiana rosae
+ErrorMsg=Date is outside known flight period of Edwardsiana rosae
+Tvk=NHMSYS0020705364
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20240808
+[EndMetadata]

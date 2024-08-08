@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Clematis viticella 10km
+Description=Check coordinate against known distribution of Clematis viticella
+ErrorMsg=Coordinate is outside known range for Clematis viticella
+DataFieldName=Species
+DataRecordId=NBNSYS0000002707
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+N03
+
+
+[10km_GB]
+SP50
+SP79
+SP83
+SS49
+ST54
+SY58
+SY89
+TQ16
+TQ17
+TQ19
+TQ28
+TQ29
+
+

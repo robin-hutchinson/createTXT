@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Taraxacum pseudolarssonii 10km
+Description=Check coordinate against known distribution of Taraxacum pseudolarssonii
+ErrorMsg=Coordinate is outside known range for Taraxacum pseudolarssonii
+DataFieldName=Species
+DataRecordId=NHMSYS0000464289
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT11
+NT60
+NT67
+NX35
+NX36
+NX38
+NX45
+NX64
+NX65
+NX77
+NX85
+NX95
+NX97
+NZ31
+NZ32
+
+

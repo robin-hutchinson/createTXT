@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Elytrigia juncea subsp. boreoatlantica 10km
+Description=Check coordinate against known distribution of Elytrigia juncea subsp. boreoatlantica
+ErrorMsg=Coordinate is outside known range for Elytrigia juncea subsp. boreoatlantica
+DataFieldName=Species
+DataRecordId=NHMSYS0000458359
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+J33
+J48
+
+
+[10km_GB]
+NG71
+NX15
+SS49
+SV91
+SW54
+
+

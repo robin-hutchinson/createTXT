@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Potamogeton pectinatus x vaginatus = P. x bottnicus 10km
+Description=Check coordinate against known distribution of Potamogeton pectinatus x vaginatus = P. x bottnicus
+ErrorMsg=Coordinate is outside known range for Potamogeton pectinatus x vaginatus = P. x bottnicus
+DataFieldName=Species
+DataRecordId=NHMSYS0001754631
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NT84
+NT94
+NT95
+
+

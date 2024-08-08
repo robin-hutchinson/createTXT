@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Agdistis bennetii
+Description=Checks date is within known flight period of Agdistis bennetii
+ErrorMsg=Date is outside known flight period of Agdistis bennetii
+Tvk=NHMSYS0000501029
+DataFieldName=
+StartDate=0501
+EndDate=0915
+LastChanged=20240808
+[EndMetadata]

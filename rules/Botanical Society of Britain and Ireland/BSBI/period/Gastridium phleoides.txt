@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Gastridium phleoides
+Description=Checks date is within known recording period of Gastridium phleoides
+ErrorMsg=Date is outside known recording period of Gastridium phleoides
+Tvk=NHMSYS0000458989
+StartDate=19060101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

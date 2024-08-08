@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=British Myriapod and Isopod Group/BMIG Recording Period
+ShortName=Melogona scutellaris
+Description=Checks date is within known recording period of Melogona scutellaris
+ErrorMsg=Date is outside known recording period of Melogona scutellaris
+Tvk=NHMSYS0020108475
+StartDate=19160101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

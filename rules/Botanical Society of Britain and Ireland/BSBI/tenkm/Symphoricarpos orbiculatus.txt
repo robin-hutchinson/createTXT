@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Symphoricarpos orbiculatus 10km
+Description=Check coordinate against known distribution of Symphoricarpos orbiculatus
+ErrorMsg=Coordinate is outside known range for Symphoricarpos orbiculatus
+DataFieldName=Species
+DataRecordId=NHMSYS0100003089
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY47
+SP50
+SU83
+SX98
+TL30
+TL31
+TL45
+TQ19
+TQ40
+TQ57
+
+

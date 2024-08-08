@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Archips crataegana
+Description=Checks date is within known flight period of Archips crataegana
+ErrorMsg=Date is outside known flight period of Archips crataegana
+Tvk=NHMSYS0021143005
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20240808
+[EndMetadata]

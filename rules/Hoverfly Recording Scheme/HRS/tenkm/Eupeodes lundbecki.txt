@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Hoverfly Recording Scheme/HRS 10km distribution
+ShortName=Eupeodes lundbecki 10km
+Description=Check coordinate against known distribution of Eupeodes lundbecki
+ErrorMsg=Coordinate is outside known range for Eupeodes lundbecki
+DataFieldName=Species
+DataRecordId=NBNSYS0100003111
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+HT93
+HU25
+HZ27
+NC41
+NF60
+NJ35
+NJ91
+NK06
+NX89
+SU84
+SU91
+TF94
+TQ01
+TQ16
+TQ42
+TQ43
+
+

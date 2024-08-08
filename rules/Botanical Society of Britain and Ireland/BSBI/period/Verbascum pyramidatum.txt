@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Verbascum pyramidatum
+Description=Checks date is within known recording period of Verbascum pyramidatum
+ErrorMsg=Date is outside known recording period of Verbascum pyramidatum
+Tvk=NHMSYS0000464795
+StartDate=19220101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

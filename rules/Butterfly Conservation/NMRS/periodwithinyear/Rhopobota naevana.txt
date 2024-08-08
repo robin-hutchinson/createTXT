@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Butterfly Conservation/NMRS Flight Period
+ShortName=Rhopobota naevana
+Description=Checks date is within known flight period of Rhopobota naevana
+ErrorMsg=Date is outside known flight period of Rhopobota naevana
+Tvk=NHMSYS0021143246
+DataFieldName=
+StartDate=0601
+EndDate=1007
+LastChanged=20240808
+[EndMetadata]

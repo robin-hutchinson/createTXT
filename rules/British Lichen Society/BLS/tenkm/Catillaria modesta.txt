@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Catillaria modesta 10km
+Description=Check coordinate against known distribution of Catillaria modesta
+ErrorMsg=Coordinate is outside known range for Catillaria modesta
+DataFieldName=Species
+DataRecordId=NBNSYS0000018694
+LastChanged=20240808
+[EndMetadata]
+
+[10km_Ireland]
+B92
+C12
+
+
+[10km_GB]
+NG52
+NG96
+NN43
+NY83
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Butterfly Conservation/NMRS Recording Period
+ShortName=Anarsia spartiella
+Description=Checks date is within known recording period of Anarsia spartiella
+ErrorMsg=Date is outside known recording period of Anarsia spartiella
+Tvk=NHMSYS0000501235
+StartDate=17000101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Trichoptera Recording Scheme/TRS Recording Period
+ShortName=Limnephilus coenosus
+Description=Checks date is within known recording period of Limnephilus coenosus
+ErrorMsg=Date is outside known recording period of Limnephilus coenosus
+Tvk=NBNSYS0000008472
+StartDate=18370101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

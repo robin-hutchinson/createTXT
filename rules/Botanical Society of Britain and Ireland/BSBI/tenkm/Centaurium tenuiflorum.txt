@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Centaurium tenuiflorum 10km
+Description=Check coordinate against known distribution of Centaurium tenuiflorum
+ErrorMsg=Coordinate is outside known range for Centaurium tenuiflorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000457037
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SY39
+SY49
+SZ59
+
+
+NA
+
+

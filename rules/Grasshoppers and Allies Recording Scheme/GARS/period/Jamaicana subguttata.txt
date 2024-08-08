@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Grasshoppers and Allies Recording Scheme/GARS Recording Period
+ShortName=Jamaicana subguttata
+Description=Checks date is within known recording period of Jamaicana subguttata
+ErrorMsg=Date is outside known recording period of Jamaicana subguttata
+Tvk=NHMSYS0020978416
+StartDate=19560101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

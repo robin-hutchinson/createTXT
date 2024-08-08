@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Centaurium erythraea x littorale = C. x intermedium 10km
+Description=Check coordinate against known distribution of Centaurium erythraea x littorale = C. x intermedium
+ErrorMsg=Coordinate is outside known range for Centaurium erythraea x littorale = C. x intermedium
+DataFieldName=Species
+DataRecordId=NHMSYS0001754668
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NY15
+NY37
+SD17
+SD20
+SD21
+SD31
+SD32
+SD33
+SH13
+SH36
+SH46
+SH52
+SJ08
+SJ18
+SJ39
+
+

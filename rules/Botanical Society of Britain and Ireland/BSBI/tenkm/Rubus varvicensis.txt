@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Rubus varvicensis 10km
+Description=Check coordinate against known distribution of Rubus varvicensis
+ErrorMsg=Coordinate is outside known range for Rubus varvicensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000840786
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SK20
+SP09
+SP16
+SP26
+SP28
+SP29
+SP34
+SP35
+SP37
+SP38
+SP39
+SP47
+SP48
+
+

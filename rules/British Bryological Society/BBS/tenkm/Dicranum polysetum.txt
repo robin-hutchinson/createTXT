@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Dicranum polysetum 10km
+Description=Check coordinate against known distribution of Dicranum polysetum
+ErrorMsg=Coordinate is outside known range for Dicranum polysetum
+DataFieldName=Species
+DataRecordId=NBNSYS0000036224
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ36
+NX85
+NX92
+NX93
+NX95
+NX96
+NY03
+NY04
+NY05
+NY06
+NY15
+NY16
+NY25
+NY26
+NY35
+NY36
+SD36
+
+

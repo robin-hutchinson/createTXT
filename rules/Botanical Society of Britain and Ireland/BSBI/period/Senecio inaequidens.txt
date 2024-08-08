@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Senecio inaequidens
+Description=Checks date is within known recording period of Senecio inaequidens
+ErrorMsg=Date is outside known recording period of Senecio inaequidens
+Tvk=NBNSYS0000004377
+StartDate=18360101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

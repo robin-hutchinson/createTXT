@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hieracium cymbifolium 10km
+Description=Check coordinate against known distribution of Hieracium cymbifolium
+ErrorMsg=Coordinate is outside known range for Hieracium cymbifolium
+DataFieldName=Species
+DataRecordId=NHMSYS0000459401
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NG51
+NG53
+NG54
+NM52
+NM65
+NM73
+NM83
+NS84
+NT84
+NY72
+NY81
+SD76
+SD77
+SD86
+SD87
+SD89
+SD96
+SD97
+SD98
+SE06
+SE10
+SK05
+SK06
+SK07
+SK15
+SK17
+SK18
+
+

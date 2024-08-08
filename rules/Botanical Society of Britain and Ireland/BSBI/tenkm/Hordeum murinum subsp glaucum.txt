@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Hordeum murinum subsp. glaucum 10km
+Description=Check coordinate against known distribution of Hordeum murinum subsp. glaucum
+ErrorMsg=Coordinate is outside known range for Hordeum murinum subsp. glaucum
+DataFieldName=Species
+DataRecordId=NHMSYS0000459749
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NJ05
+NT27
+NT53
+SD62
+SE11
+SE13
+SE22
+SE37
+SO94
+SP04
+ST43
+ST53
+ST69
+SU73
+SX99
+TL03
+TR13
+
+

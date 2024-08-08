@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Bryological Society/BBS 10km distribution
+ShortName=Schistidium pruinosum 10km
+Description=Check coordinate against known distribution of Schistidium pruinosum
+ErrorMsg=Coordinate is outside known range for Schistidium pruinosum
+DataFieldName=Species
+DataRecordId=NBNSYS0100005440
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NC90
+NC91
+ND13
+
+

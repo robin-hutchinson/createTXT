@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spider Recording Scheme/SRS 10km distribution
+ShortName=Dipoena torva 10km
+Description=Check coordinate against known distribution of Dipoena torva
+ErrorMsg=Coordinate is outside known range for Dipoena torva
+DataFieldName=Species
+DataRecordId=NBNSYS0000008872
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NH31
+NH48
+NJ01
+NN55
+NO09
+NO19
+NO49
+
+

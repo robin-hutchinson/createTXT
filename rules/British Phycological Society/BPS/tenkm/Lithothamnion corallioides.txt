@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Phycological Society/BPS 10km distribution
+ShortName=Lithothamnion corallioides 10km
+Description=Check coordinate against known distribution of Lithothamnion corallioides
+ErrorMsg=Coordinate is outside known range for Lithothamnion corallioides
+DataFieldName=Species
+DataRecordId=NHMSYS0000567997
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NS29
+SW72
+SW83
+SY88
+
+

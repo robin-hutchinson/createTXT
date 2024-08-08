@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Coprosma repens 10km
+Description=Check coordinate against known distribution of Coprosma repens
+ErrorMsg=Coordinate is outside known range for Coprosma repens
+DataFieldName=Species
+DataRecordId=NHMSYS0000457490
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV81
+SV90
+SV91
+
+

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=British Lichen Society/BLS 10km distribution
+ShortName=Multiclavula vernalis 10km
+Description=Check coordinate against known distribution of Multiclavula vernalis
+ErrorMsg=Coordinate is outside known range for Multiclavula vernalis
+DataFieldName=Species
+DataRecordId=NHMSYS0001489998
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+NB00
+NB02
+NB20
+SU85
+
+

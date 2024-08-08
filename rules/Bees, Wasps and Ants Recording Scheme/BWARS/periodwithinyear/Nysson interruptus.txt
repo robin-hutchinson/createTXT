@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Bees, Wasps and Ants Recording Scheme/BWARS Flight Period
+ShortName=Nysson interruptus
+Description=Checks date is within known flight period of Nysson interruptus
+ErrorMsg=Date is outside known flight period of Nysson interruptus
+Tvk=NHMSYS0000876470
+DataFieldName=
+StartDate=0501
+EndDate=0731
+LastChanged=20240808
+[EndMetadata]

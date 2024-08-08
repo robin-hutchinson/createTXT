@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Hoverfly Recording Scheme/HRS Flight Period
+ShortName=Pipiza fenestrata
+Description=Checks date is within known flight period of Pipiza fenestrata
+ErrorMsg=Date is outside known flight period of Pipiza fenestrata
+Tvk=NBNSYS0000007082
+DataFieldName=
+StartDate=0418
+EndDate=0908
+LastChanged=20240808
+[EndMetadata]

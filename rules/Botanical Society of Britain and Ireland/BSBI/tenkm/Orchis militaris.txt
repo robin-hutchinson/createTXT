@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Botanical Society of Britain and Ireland/BSBI 10km distribution
+ShortName=Orchis militaris 10km
+Description=Check coordinate against known distribution of Orchis militaris
+ErrorMsg=Coordinate is outside known range for Orchis militaris
+DataFieldName=Species
+DataRecordId=NBNSYS0000002321
+LastChanged=20240808
+[EndMetadata]
+
+[10km_GB]
+SD70
+SP91
+SU58
+SU67
+SU69
+SU77
+SU78
+SU79
+SU88
+SU89
+SU99
+TL34
+TL77
+TL84
+TQ09
+TQ15
+TR34
+
+

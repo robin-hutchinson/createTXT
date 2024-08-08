@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Ephemeroptera Recording Scheme/ERS Recording Period
+ShortName=Baetis scambus
+Description=Checks date is within known recording period of Baetis scambus
+ErrorMsg=Date is outside known recording period of Baetis scambus
+Tvk=NBNSYS0000010870
+StartDate=18700101
+EndDate=
+LastChanged=20240808
+[EndMetadata]

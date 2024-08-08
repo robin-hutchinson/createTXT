@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Botanical Society of Britain and Ireland/BSBI Recording Period
+ShortName=Alnus cordata
+Description=Checks date is within known recording period of Alnus cordata
+ErrorMsg=Date is outside known recording period of Alnus cordata
+Tvk=NHMSYS0000455770
+StartDate=19350101
+EndDate=
+LastChanged=20240808
+[EndMetadata]
