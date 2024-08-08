@@ -8,11 +8,12 @@ for(i in 1:length(schemes)) {
   
   print(names(schemes[i]))
   species_file = paste0("rules_as_csv/", schemes[[i]]$scheme, "/",schemes[[i]]$rule_group, "/id_difficulty.csv")
+	
 
   if(file.exists(species_file)){
 	  print("ID Difficulty file exists")
 	  species = read.csv(species_file)
-	  
+	  print(head(species))
 	  # Check file
 
 	  flush.console()
