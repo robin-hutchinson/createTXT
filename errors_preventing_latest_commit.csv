@@ -1,10 +1,8 @@
 "file","error_msg","column_identifier"
-"rules_as_csv/Auchenorrhyncha Recording Scheme/ARS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/Bees, Wasps and Ants Recording Scheme/BWARS/id_difficulty.csv","TVKs are duplicated","NHMSYS0000875934"
 "rules_as_csv/Bees, Wasps and Ants Recording Scheme/BWARS/id_difficulty.csv","TVKs are linked to more than 1 name","NHMSYS0000875934"
 "rules_as_csv/Bees, Wasps and Ants Recording Scheme/BWARS/id_difficulty.csv","Names are linked to more than 1 TVK","Eumenes coarctatus"
 "rules_as_csv/Bees, Wasps and Ants Recording Scheme/BWARS/periodwithinyear.csv","Contains duplicated tvk and stage combination","NHMSYS0000875934"
-"rules_as_csv/Bees, Wasps and Ants Recording Scheme/BWARS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/Botanical Society of Britain and Ireland/BSBI/id_difficulty.csv","TVKs are duplicated","NBNSYS0000002234
 	NBNSYS0000002626
 	NBNSYS0000003567
@@ -20,7 +18,6 @@
 	Epilobium tetragonum
 	Geranium purpureum
 	Juncus bulbosus"
-"rules_as_csv/Botanical Society of Britain and Ireland/BSBI/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/Botanical Society of Britain and Ireland/BSBI/tenkm.csv","TVKs are present in tenkm.csv but are not present in id_difficulty.csv",""
 "rules_as_csv/British Bryological Society/BBS/id_difficulty.csv","TVKs are duplicated","NBNSYS0000036284
 	NBNSYS0000036417
@@ -46,7 +43,6 @@
 	Marsupella emarginata
 	Tortella flavovirens
 	Weissia longifolia"
-"rules_as_csv/British Bryological Society/BBS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/British Lichen Society/BLS/id_difficulty.csv","TVKs are duplicated","BMSSYS0000047935
 	BMSSYS0000052458
 	BMSSYS0000731145
@@ -74,33 +70,24 @@
 	Micarea byssacea
 	Pronectria anisospora
 	Verrucaria elaeomelaena s. lat."
-"rules_as_csv/British Lichen Society/BLS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/British Lichen Society/BLS/tenkm.csv","TVKs are present in tenkm.csv but are not present in id_difficulty.csv",""
-"rules_as_csv/British Myriapod and Isopod Group/BMIG/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/British Phycological Society/BPS/id_difficulty.csv","TVKs are duplicated","NHMSYS0021058522
 	NHMSYS0021059606"
 "rules_as_csv/British Phycological Society/BPS/id_difficulty.csv","TVKs are linked to more than 1 name","NHMSYS0021058522
 	NHMSYS0021059606"
 "rules_as_csv/British Phycological Society/BPS/id_difficulty.csv","Names are linked to more than 1 TVK","Mesogloia vermiculata
 	Phymatolithon lenormandii"
-"rules_as_csv/British Phycological Society/BPS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
-"rules_as_csv/British Trust for Ornithology/BTO/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
-"rules_as_csv/Butterfly Conservation/BC/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/Butterfly Conservation/NMRS/id_difficulty.csv","TVKs are duplicated","NHMSYS0000501270"
 "rules_as_csv/Butterfly Conservation/NMRS/id_difficulty.csv","TVKs are linked to more than 1 name","NHMSYS0000501270"
 "rules_as_csv/Butterfly Conservation/NMRS/id_difficulty.csv","Names are linked to more than 1 TVK","Antispila petryi"
 "rules_as_csv/Butterfly Conservation/NMRS/periodwithinyear.csv","Contains duplicated tvk and stage combination","NBNSYS0000006292
 	NHMSYS0000501270
 	NHMSYS0021238182"
-"rules_as_csv/Butterfly Conservation/NMRS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
-"rules_as_csv/Chloropidae Recording Scheme/CRS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
-"rules_as_csv/Dragonfly Recording Scheme/DRS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/Hoverfly Recording Scheme/HRS/periodwithinyear.csv","Contains duplicated tvk and stage combination","NBNSYS0000006897
 	NBNSYS0000006974
 	NBNSYS0000007080
 	NBNSYS0100022723
 	NHMSYS0021196476"
-"rules_as_csv/Hoverfly Recording Scheme/HRS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/Mammal Society/Bats/tenkm.csv","TVKs are present in tenkm.csv but are not present in id_difficulty.csv",""
 "rules_as_csv/Marine Biological Association/MBA/id_difficulty.csv","TVKs are duplicated","NHMSYS0021053694
 	NHMSYS0021058370
@@ -111,11 +98,7 @@
 "rules_as_csv/Marine Biological Association/MBA/id_difficulty.csv","Names are linked to more than 1 TVK","Ascophyllum nodosum
 	Epizoanthus papillosus
 	Zanardinia typus"
-"rules_as_csv/Marine Biological Association/MBA/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/Spider Recording Scheme/SRS/periodwithinyear.csv","Contains duplicated tvk and stage combination","NBNSYS0000008939"
-"rules_as_csv/Spider Recording Scheme/SRS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
-"rules_as_csv/Terrestrial Heteroptera Recording Scheme/THRS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
 "rules_as_csv/Trichoptera Recording Scheme/TRS/id_difficulty.csv","TVKs are duplicated","NBNSYS0000155925"
 "rules_as_csv/Trichoptera Recording Scheme/TRS/id_difficulty.csv","TVKs are linked to more than 1 name","NBNSYS0000155925"
 "rules_as_csv/Trichoptera Recording Scheme/TRS/id_difficulty.csv","Names are linked to more than 1 TVK","Rhyacophila fasciata"
-"rules_as_csv/Trichoptera Recording Scheme/TRS/id_difficulty.csv","TCodes given below are present in species.csv but are not present in difficulty_codes.csv","6"
