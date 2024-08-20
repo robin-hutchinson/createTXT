@@ -1,28 +1,28 @@
-"start_day","start_month","end_day","end_month","stage","taxon","tvk"
-1,5,30,11,"*","Porphyra amplissima","NHMSYS0000568111"
-1,6,30,9,"*","Arthrocladia villosa","NHMSYS0021058374"
-1,6,30,9,"*","Acrothrix gracilis","NHMSYS0021058440"
-1,6,30,9,"*","Cladosiphon contortus","NHMSYS0021058467"
-1,6,30,9,"*","Cladosiphon zosterae","NHMSYS0021058468"
-1,4,30,9,"*","Corynophlaea crispa","NHMSYS0021058474"
-1,6,31,10,"*","Myriactula areschougii","NHMSYS0021058537"
-1,5,30,9,"*","Myriactula chordae","NHMSYS0021058538"
-1,6,30,9,"*","Myriactula haydenii","NHMSYS0021058540"
-1,7,30,9,"*","Myriactula rivulariae","NHMSYS0021058541"
-1,6,30,9,"*","Myriactula stellulata","NHMSYS0021058542"
-1,5,30,9,"*","Myrionema magnusii","NHMSYS0021058552"
-1,7,31,10,"*","Myrionema papillosum","NHMSYS0021058553"
-1,6,30,9,"*","Sauvageaugloia divaricata","NHMSYS0021058589"
-1,5,30,9,"*","Spermatochnus paradoxus","NHMSYS0021058592"
-1,5,30,9,"*","Stictyosiphon griffithsianus","NHMSYS0021058595"
-1,4,30,9,"*","Stictyosiphon soriferus","NHMSYS0021058596"
-1,6,30,9,"*","Stilophora tenella","NHMSYS0021058599"
-1,6,30,11,"*","Compsonema microspongium","NHMSYS0021058700"
-1,4,31,10,"*","Compsonema saxicola","NHMSYS0021058702"
-1,11,30,4,"*","Porphyra linearis","NHMSYS0021059450"
-1,4,30,9,"*","Pyropia leucosticta","NHMSYS0021059458"
-1,6,30,9,"*","Helminthora divaricata","NHMSYS0021059626"
-1,5,31,10,"*","Anotrichium barbatum","NHMSYS0021060021"
-1,9,30,11,"*","Anotrichium furcellatum","NHMSYS0021060023"
-1,6,31,8,"*","Pyropia drachii","NHMSYS0021185490"
-1,4,30,11,"*","Erythropeltis discigera var. flustrae","NHMSYS0021605572"
+start_day,start_month,end_day,end_month,stage,taxon,tvk
+1,5,30,11,*,Porphyra amplissima,NHMSYS0000568111
+1,6,30,9,*,Arthrocladia villosa,NHMSYS0021058374
+1,6,30,9,*,Acrothrix gracilis,NHMSYS0021058440
+1,6,30,9,*,Cladosiphon contortus,NHMSYS0021058467
+1,6,30,9,*,Cladosiphon zosterae,NHMSYS0021058468
+1,4,30,9,*,Corynophlaea crispa,NHMSYS0021058474
+1,6,31,10,*,Myriactula areschougii,NHMSYS0021058537
+1,5,30,9,*,Myriactula chordae,NHMSYS0021058538
+1,6,30,9,*,Myriactula haydenii,NHMSYS0021058540
+1,7,30,9,*,Myriactula rivulariae,NHMSYS0021058541
+1,6,30,9,*,Myriactula stellulata,NHMSYS0021058542
+1,5,30,9,*,Myrionema magnusii,NHMSYS0021058552
+1,7,31,10,*,Myrionema papillosum,NHMSYS0021058553
+1,6,30,9,*,Sauvageaugloia divaricata,NHMSYS0021058589
+1,5,30,9,*,Spermatochnus paradoxus,NHMSYS0021058592
+1,5,30,9,*,Stictyosiphon griffithsianus,NHMSYS0021058595
+1,4,30,9,*,Stictyosiphon soriferus,NHMSYS0021058596
+1,6,30,9,*,Stilophora tenella,NHMSYS0021058599
+1,6,30,11,*,Compsonema microspongium,NHMSYS0021058700
+1,4,31,10,*,Compsonema saxicola,NHMSYS0021058702
+1,11,30,4,*,Porphyra linearis,NHMSYS0021059450
+1,4,30,9,*,Pyropia leucosticta,NHMSYS0021059458
+1,6,30,9,*,Helminthora divaricata,NHMSYS0021059626
+1,5,31,10,*,Anotrichium barbatum,NHMSYS0021060021
+1,9,30,11,*,Anotrichium furcellatum,NHMSYS0021060023
+1,6,31,8,*,Pyropia drachii,NHMSYS0021185490
+1,4,30,11,*,Erythropeltis discigera var. flustrae,NHMSYS0021605572

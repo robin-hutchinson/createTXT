@@ -1,15 +1,15 @@
-"value_code","taxon","tvk"
-1,"Clitostethus arcuatus","NBNSYS0000008293"
-1,"Scymnus limbatus","NBNSYS0000008302"
-2,"Nephus bisignatus","NBNSYS0000008304"
-1,"Nephus quadrimaculatus","NBNSYS0000008305"
-2,"Exochomus nigromaculatus","NBNSYS0000008311"
-2,"Hippodamia tredecimpunctata","NBNSYS0000008313"
-1,"Coccinella quinquepunctata","NBNSYS0000008323"
-2,"Vibidia duodecimguttata","NBNSYS0000008333"
-1,"Cryptolaemus montrouzieri","NHMSYS0020151871"
-1,"Henosepilachna argus","NHMSYS0020152260"
-1,"Rhyzobius chrysomeloides","NHMSYS0020153335"
-1,"Rhyzobius lophanthae","NHMSYS0020153337"
-2,"Rodolia cardinalis","NHMSYS0020153342"
-1,"Scymnus interruptus","NHMSYS0020920019"
+value_code,taxon,tvk
+1,Clitostethus arcuatus,NBNSYS0000008293
+1,Scymnus limbatus,NBNSYS0000008302
+2,Nephus bisignatus,NBNSYS0000008304
+1,Nephus quadrimaculatus,NBNSYS0000008305
+2,Exochomus nigromaculatus,NBNSYS0000008311
+2,Hippodamia tredecimpunctata,NBNSYS0000008313
+1,Coccinella quinquepunctata,NBNSYS0000008323
+2,Vibidia duodecimguttata,NBNSYS0000008333
+1,Cryptolaemus montrouzieri,NHMSYS0020151871
+1,Henosepilachna argus,NHMSYS0020152260
+1,Rhyzobius chrysomeloides,NHMSYS0020153335
+1,Rhyzobius lophanthae,NHMSYS0020153337
+2,Rodolia cardinalis,NHMSYS0020153342
+1,Scymnus interruptus,NHMSYS0020920019

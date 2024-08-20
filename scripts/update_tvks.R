@@ -18,7 +18,7 @@ for(i in 1:length(dir)) {
                taxon = preferred_taxon) %>%
         distinct(.keep_all = TRUE)
       
-      write.csv(file, paste(dir[i], files[j], sep = "/"), na = "", row.names = FALSE)
+      write.csv(file, paste(dir[i], files[j], sep = "/"), na = "", row.names = FALSE, quote = FALSE)
       
     }
   }

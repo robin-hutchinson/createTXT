@@ -1,9 +1,9 @@
-"start_day","start_month","end_day","end_month","stage","taxon","tvk"
-1,3,31,10,"mature","Lacerta agilis","NBNSYS0000005070"
-1,1,30,11,"mature","Vipera berus","NBNSYS0000005075"
-1,3,30,11,"mature","Coronella austriaca","NHMSYS0000332360"
-1,4,30,9,"mature","Epidalea calamita","NHMSYS0020194825"
-1,3,30,11,"mature","Lithobates catesbeianus","NHMSYS0020194859"
-1,2,31,12,"mature","Pelophylax ridibundus","NHMSYS0020194860"
-1,3,30,11,"mature","Pelophylax esculentus","NHMSYS0020194861"
-1,2,30,11,"mature","Ichthyosaura alpestris","NHMSYS0020740241"
+start_day,start_month,end_day,end_month,stage,taxon,tvk
+1,3,31,10,mature,Lacerta agilis,NBNSYS0000005070
+1,1,30,11,mature,Vipera berus,NBNSYS0000005075
+1,3,30,11,mature,Coronella austriaca,NHMSYS0000332360
+1,4,30,9,mature,Epidalea calamita,NHMSYS0020194825
+1,3,30,11,mature,Lithobates catesbeianus,NHMSYS0020194859
+1,2,31,12,mature,Pelophylax ridibundus,NHMSYS0020194860
+1,3,30,11,mature,Pelophylax esculentus,NHMSYS0020194861
+1,2,30,11,mature,Ichthyosaura alpestris,NHMSYS0020740241

@@ -1,12 +1,12 @@
-"code","taxon","tvk"
-1,"Lacerta agilis","NBNSYS0000005070"
-2,"Salamandra salamandra","NHMSYS0000080153"
-2,"Triturus carnifex","NHMSYS0000080155"
-2,"Xenopus laevis","NHMSYS0000080166"
-2,"Natrix tessellata","NHMSYS0000080232"
-1,"Coronella austriaca","NHMSYS0000332360"
-2,"Podarcis sicula","NHMSYS0000375719"
-2,"Triturus marmoratus","NHMSYS0000376071"
-2,"Pelophylax lessonae","NHMSYS0020194823"
-1,"Epidalea calamita","NHMSYS0020194825"
-2,"Lithobates catesbeianus","NHMSYS0020194859"
+code,taxon,tvk
+1,Lacerta agilis,NBNSYS0000005070
+2,Salamandra salamandra,NHMSYS0000080153
+2,Triturus carnifex,NHMSYS0000080155
+2,Xenopus laevis,NHMSYS0000080166
+2,Natrix tessellata,NHMSYS0000080232
+1,Coronella austriaca,NHMSYS0000332360
+2,Podarcis sicula,NHMSYS0000375719
+2,Triturus marmoratus,NHMSYS0000376071
+2,Pelophylax lessonae,NHMSYS0020194823
+1,Epidalea calamita,NHMSYS0020194825
+2,Lithobates catesbeianus,NHMSYS0020194859

@@ -1,30 +1,30 @@
-"code","taxon","tvk"
-5,"Vespertilio murinus","NBNSYS0000005095"
-5,"Plecotus auritus","NBNSYS0000005102"
-5,"Plecotus austriacus","NBNSYS0000005103"
-3,"Myotis","NBNSYS0000040730"
-1,"Pipistrellus","NBNSYS0000136578"
-3,"Plecotus","NBNSYS0000136687"
-1,"Rhinolophus","NBNSYS0000137324"
-3,"Pipistrellus pygmaeus","NBNSYS0100004720"
-3,"Rhinolophus ferrumequinum","NHMSYS0000080176"
-3,"Rhinolophus hipposideros","NHMSYS0000080177"
-3,"Barbastella barbastellus","NHMSYS0000080178"
-4,"Myotis myotis","NHMSYS0000080182"
-5,"Myotis mystacinus","NHMSYS0000080183"
-4,"Myotis nattereri","NHMSYS0000080184"
-4,"Nyctalus leisleri","NHMSYS0000080185"
-3,"Nyctalus noctula","NHMSYS0000080186"
-3,"Pipistrellus nathusii","NHMSYS0000080187"
-5,"Pipistrellus kuhlii","NHMSYS0000377112"
-5,"Eptesicus fuscus","NHMSYS0000528006"
-5,"Eptesicus nilssonii","NHMSYS0000528007"
-4,"Eptesicus serotinus","NHMSYS0000528008"
-4,"Myotis bechsteinii","NHMSYS0000528024"
-5,"Myotis brandtii","NHMSYS0000528026"
-4,"Myotis daubentonii","NHMSYS0000528028"
-5,"Myotis lucifugus","NHMSYS0000528029"
-3,"Pipistrellus pipistrellus sensu stricto","NHMSYS0020001355"
-5,"Myotis alcathoe","NHMSYS0020636762"
-5,"Hypsugo savii","NHMSYS0020774288"
-5,"Lasiurus (Lasiurus) cinereus","NHMSYS0020774291"
+code,taxon,tvk
+5,Vespertilio murinus,NBNSYS0000005095
+5,Plecotus auritus,NBNSYS0000005102
+5,Plecotus austriacus,NBNSYS0000005103
+3,Myotis,NBNSYS0000040730
+1,Pipistrellus,NBNSYS0000136578
+3,Plecotus,NBNSYS0000136687
+1,Rhinolophus,NBNSYS0000137324
+3,Pipistrellus pygmaeus,NBNSYS0100004720
+3,Rhinolophus ferrumequinum,NHMSYS0000080176
+3,Rhinolophus hipposideros,NHMSYS0000080177
+3,Barbastella barbastellus,NHMSYS0000080178
+4,Myotis myotis,NHMSYS0000080182
+5,Myotis mystacinus,NHMSYS0000080183
+4,Myotis nattereri,NHMSYS0000080184
+4,Nyctalus leisleri,NHMSYS0000080185
+3,Nyctalus noctula,NHMSYS0000080186
+3,Pipistrellus nathusii,NHMSYS0000080187
+5,Pipistrellus kuhlii,NHMSYS0000377112
+5,Eptesicus fuscus,NHMSYS0000528006
+5,Eptesicus nilssonii,NHMSYS0000528007
+4,Eptesicus serotinus,NHMSYS0000528008
+4,Myotis bechsteinii,NHMSYS0000528024
+5,Myotis brandtii,NHMSYS0000528026
+4,Myotis daubentonii,NHMSYS0000528028
+5,Myotis lucifugus,NHMSYS0000528029
+3,Pipistrellus pipistrellus sensu stricto,NHMSYS0020001355
+5,Myotis alcathoe,NHMSYS0020636762
+5,Hypsugo savii,NHMSYS0020774288
+5,Lasiurus (Lasiurus) cinereus,NHMSYS0020774291

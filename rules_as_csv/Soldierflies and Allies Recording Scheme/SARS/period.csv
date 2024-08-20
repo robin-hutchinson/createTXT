@@ -1,12 +1,12 @@
-"start_day","start_month","start_year","end_day","end_month","end_year","taxon","tvk"
-1,1,1997,,,,"Oxycera fallenii","NBNSYS0000007810"
-6,7,1989,,,,"Oxycera leonina","NBNSYS0000007812"
-1,1,1986,,,,"Odontomyia hydroleon","NBNSYS0000007835"
-1,1,1911,,,,"Atylotus plebeius","NBNSYS0000007877"
-1,1,1909,,,,"Hybomitra expollicata","NBNSYS0000007882"
-,,,31,12,1899,"Dasypogon diadema","NBNSYS0000007913"
-6,7,1987,,,,"Haematopota subcylindrica","NBNSYS0000042531"
-1,1,1938,31,12,1951,"Choerades gilvus","NBNSYS0100002378"
-1,1,1992,,,,"Thereva cinifera","NBNSYS0100005797"
-,,,31,12,1958,"Villa venusta","NBNSYS0100005964"
-1,1,1941,,,,"Machimus cowini","NHMSYS0020734171"
+start_day,start_month,start_year,end_day,end_month,end_year,taxon,tvk
+1,1,1997,,,,Oxycera fallenii,NBNSYS0000007810
+6,7,1989,,,,Oxycera leonina,NBNSYS0000007812
+1,1,1986,,,,Odontomyia hydroleon,NBNSYS0000007835
+1,1,1911,,,,Atylotus plebeius,NBNSYS0000007877
+1,1,1909,,,,Hybomitra expollicata,NBNSYS0000007882
+,,,31,12,1899,Dasypogon diadema,NBNSYS0000007913
+6,7,1987,,,,Haematopota subcylindrica,NBNSYS0000042531
+1,1,1938,31,12,1951,Choerades gilvus,NBNSYS0100002378
+1,1,1992,,,,Thereva cinifera,NBNSYS0100005797
+,,,31,12,1958,Villa venusta,NBNSYS0100005964
+1,1,1941,,,,Machimus cowini,NHMSYS0020734171

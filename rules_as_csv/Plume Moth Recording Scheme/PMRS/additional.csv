@@ -1,12 +1,12 @@
-"value_code","taxon","tvk"
-1,"Buckleria paludum","NBNSYS0000027027"
-2,"Hellinsia chrysocomae","NBNSYS0100003432"
-2,"Merrifieldia tridactyla","NBNSYS0100004011"
-4,"Stenoptilia islandicus","NBNSYS0100005592"
-3,"Oxyptilus laetus","NHMSYS0000503532"
-4,"Oxyptilus pilosellae","NHMSYS0000503534"
-3,"Stenoptilia gallobritannidactyla","NHMSYS0000504310"
-7,"Stenoptilia pneumonanthes","NHMSYS0000504313"
-6,"Stenoptilia scabiodactylus","NHMSYS0000504316"
-5,"Stenoptilia annadactyla","NHMSYS0020547811"
-2,"Emmelina argoteles","NHMSYS0020732915"
+value_code,taxon,tvk
+1,Buckleria paludum,NBNSYS0000027027
+2,Hellinsia chrysocomae,NBNSYS0100003432
+2,Merrifieldia tridactyla,NBNSYS0100004011
+4,Stenoptilia islandicus,NBNSYS0100005592
+3,Oxyptilus laetus,NHMSYS0000503532
+4,Oxyptilus pilosellae,NHMSYS0000503534
+3,Stenoptilia gallobritannidactyla,NHMSYS0000504310
+7,Stenoptilia pneumonanthes,NHMSYS0000504313
+6,Stenoptilia scabiodactylus,NHMSYS0000504316
+5,Stenoptilia annadactyla,NHMSYS0020547811
+2,Emmelina argoteles,NHMSYS0020732915
