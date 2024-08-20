@@ -189,6 +189,7 @@ code,taxon,tvk
 2,Henestaris halophilus,NHMSYS0020309297
 2,Henestaris laticeps,NHMSYS0020309298
 3,Heterocordylus (Heterocordylus) genistae,NHMSYS0020309302
+6,Heterocordylus (Heterocordylus) parvulus,NHMSYS0020309303
 2,Heterocordylus (Heterocordylus) tibialis,NHMSYS0020309304
 2,Heterogaster artemisiae,NHMSYS0020309306
 1,Heterotoma planicornis,NHMSYS0020309310
@@ -457,6 +458,7 @@ code,taxon,tvk
 3,Xylocoris (Xylocoris) cursitans,NHMSYS0020309948
 3,Xylocoris (Xylocoris) formicetorum,NHMSYS0020309949
 1,Zygimus nigriceps,NHMSYS0020309952
+6,Anthocoris minki,NHMSYS0020442288
 3,Cimex columbarius,NHMSYS0020442309
 2,Eremocoris fenestratus,NHMSYS0020442331
 1,Leptoglossus occidentalis,NHMSYS0020476639

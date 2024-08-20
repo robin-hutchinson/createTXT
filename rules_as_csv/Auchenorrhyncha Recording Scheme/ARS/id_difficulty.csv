@@ -357,11 +357,18 @@ code,taxon,tvk
 2,Allygidius commutatus,NHMSYS0020920326
 1,Pentastiridius leporinus,NHMSYS0020920487
 2,Verdanus abdominalis,NHMSYS0020920555
+6,Cixius similis sensu lato,NHMSYS0020924573
+6,Florodelphax leptosoma sensu lato,NHMSYS0020924609
 2,Florodelphax leptosoma sensu stricto,NHMSYS0020924615
+6,Macropsis scutellata sensu lato,NHMSYS0020924633
 3,Macropsis scutellata sensu stricto,NHMSYS0020924639
+6,Megamelodes quadrimaculatus sensu lato,NHMSYS0020924645
 3,Megamelodes quadrimaculatus sensu stricto,NHMSYS0020924651
+6,Psammotettix putoni sensu lato,NHMSYS0020924657
 4,Psammotettix putoni sensu stricto,NHMSYS0020924663
+6,Ribautiana tenerrima sensu lato,NHMSYS0020924681
 3,Ribautiana tenerrima sensu stricto,NHMSYS0020924687
+6,Psammotettix striatus sensu lato,NHMSYS0020924713
 4,Ophiola plutonia,NHMSYS0020927625
 4,Oncopsis appendiculata,NHMSYS0020973319
 2,Acericerus heydenii,NHMSYS0020973325
@@ -369,10 +376,12 @@ code,taxon,tvk
 2,Pithyotettix abietinus,NHMSYS0020973355
 1,Orientus ishidae,NHMSYS0020973367
 2,Erotettix cyane,NHMSYS0020977145
+6,Verdanus bensoni,NHMSYS0020977163
 2,Planaphrodes trifasciata,NHMSYS0020977178
 4,Eurysanoides douglasi,NHMSYS0020977194
 2,Erzaleus metrius,NHMSYS0020977210
 3,Jassargus pseudocellaris,NHMSYS0020977455
+6,Aphrodes diminuta,NHMSYS0020977552
 2,Euides basilinea,NHMSYS0020977611
 4,Eurysella brunnea,NHMSYS0020977628
 2,Anoterostemma ivanhofi,NHMSYS0021109891
@@ -390,3 +399,4 @@ code,taxon,tvk
 4,Oncopsis subangulata,NHMSYS0021126481
 3,Psammotettix cephalotes,NHMSYS0021126487
 2,Streptanus marginatus,NHMSYS0021126493
+6,Zygina nivea,NHMSYS0021126499

@@ -2,6 +2,8 @@ code,taxon,tvk
 3,Rhyacophila dorsalis,NBNSYS0000008339
 3,Rhyacophila munda,NBNSYS0000008340
 3,Rhyacophila obliterata,NBNSYS0000008341
+6,Rhyacophila septentrionis,NBNSYS0000008342
+6,Rhyacophila fasciata,NBNSYS0000155925
 3,Glossosoma boltoni,NBNSYS0000008343
 3,Glossosoma conformis,NBNSYS0000008344
 3,Glossosoma intermedium,NBNSYS0000008345
@@ -27,6 +29,7 @@ code,taxon,tvk
 4,Hydroptila vectis,NBNSYS0000008365
 4,Oxyethira distinctella,NBNSYS0000008366
 3,Oxyethira falcata,NBNSYS0000008367
+6,Oxyethira flavicornis,NBNSYS0000008368
 3,Oxyethira frici,NBNSYS0000008369
 4,Oxyethira mirabilis,NBNSYS0000008370
 3,Oxyethira sagittifera,NBNSYS0000008371
@@ -77,6 +80,9 @@ code,taxon,tvk
 3,Hydropsyche saxonica,NBNSYS0000008420
 3,Hydropsyche siltalai,NBNSYS0000008421
 2,Diplectrona felix,NBNSYS0000008422
+6,Agrypnia obsoleta,NBNSYS0000008424
+6,Agrypnia pagetana,NBNSYS0000008425
+6,Agrypnia picta,NBNSYS0000008426
 4,Hagenella clathrata,NBNSYS0000008428
 1,Oligotricha striata,NBNSYS0000008429
 2,Phryganea bipunctata,NBNSYS0000008430
@@ -159,6 +165,7 @@ code,taxon,tvk
 3,Leptocerus tineiformis,NBNSYS0000008524
 3,Mystacides azurea,NBNSYS0000008525
 1,Mystacides longicornis,NBNSYS0000008526
+6,Mystacides nigra,NBNSYS0000008527
 4,Adicella filicornis,NBNSYS0000008528
 3,Adicella reducta,NBNSYS0000008529
 3,Erotesis baltica,NBNSYS0000008530
@@ -180,6 +187,7 @@ code,taxon,tvk
 2,Phryganeidae,NBNSYS0000160695
 3,Leptocerus interruptus,NHMSYS0020442420
 3,Psychomyia fragilis,NHMSYS0020547806
+6,Agrypnia varia,NHMSYS0020704765
 1,Chaetopteryx villosa,NHMSYS0020704776
 2,Goera pilosa,NHMSYS0020704791
 4,Grammotaulius nitidus,NHMSYS0020704793

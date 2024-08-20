@@ -1,9 +1,28 @@
 code,taxon,tvk
+6,Scythris potentillella,MM0001Z1000RH411
+6,Bucculatrix humiliella,MM0001Z1003R8501
+6,Adoxophyes orana,MM0001Z10045DSS1
+6,Levipalpus hepatariella,MM0001Z1005LL6O1
+6,Hyles gallii,MM0001Z10063HLV1
+6,Hypomecis punctinalis,MM0001Z100758RH1
+6,Thysanoplusia orichalcea,MM0001Z100B1FMS1
+6,Xanthorhoe quadrifasiata,MM0001Z100BZSUG1
+6,Euclidia glyphica,MM0001Z100DH5JN1
+6,Hypenodes humidalis,MM0001Z100DMN711
+6,Meganephria bimaculosa,MM0001Z100H6VVQ1
+6,Palpita vitrealis,MM0001Z100HTMPQ1
+6,Retinia resinella,MM0001Z100QKZ9J1
+6,Duponchelia fovealis,MM0001Z1D7P511Z1
+6,Herpetogramma licarsisalis,MM0001Z1GPZNU1ZJ
+6,Ancylodes pallens,MM0001Z1GTI8C1MY
+6,Dryobota labecula,MM0001Z1Q00021ZZ
 2,Eupithecia sinuosaria,NBNSYS0000005231
+6,Agrius cingulata,NBNSYS0000005251
 1,Proserpinus proserpina,NBNSYS0000005256
 3,Aporophyla lueneburgensis,NBNSYS0000005281
 3,Mniotype solieri,NBNSYS0000005284
 5,Polyphaenis sericata,NBNSYS0000005290
+6,Earias vittella,NBNSYS0000005299
 1,Hepialus humuli,NBNSYS0000005307
 4,Monochroa moyses,NBNSYS0000005341
 2,Phyllonorycter leucographella,NBNSYS0000005356
@@ -77,6 +96,7 @@ code,taxon,tvk
 1,Idaea aversata,NBNSYS0000005786
 2,Idaea straminata,NBNSYS0000005788
 1,Rhodometra sacraria,NBNSYS0000005789
+6,Lythria purpuraria,NBNSYS0000005790
 1,Phibalapteryx virgata,NBNSYS0000005791
 1,Orthonama vittata,NBNSYS0000005792
 2,Xanthorhoe biriviata,NBNSYS0000005794
@@ -352,6 +372,7 @@ code,taxon,tvk
 1,Cryphia algae,NBNSYS0000006387
 1,Tathorhynchus exsiccata,NBNSYS0000006391
 2,Amphipyra pyramidea,NBNSYS0000006392
+6,Amphipyra pyramidea agg.,NBNSYS0000006393
 1,Amphipyra tragopoginis,NBNSYS0000006395
 1,Mormo maura,NBNSYS0000006396
 1,Dypterygia scabriuscula,NBNSYS0000006397
@@ -377,6 +398,7 @@ code,taxon,tvk
 4,Oligia strigilis,NBNSYS0000006435
 4,Oligia versicolor,NBNSYS0000006436
 1,Oligia fasciuncula,NBNSYS0000006438
+6,Mesapamea secalis agg.,NBNSYS0000006441
 4,Mesapamea secalis,NBNSYS0000006442
 4,Mesapamea didyma,NBNSYS0000006443
 2,Photedes captiuncula,NBNSYS0000006444
@@ -424,6 +446,7 @@ code,taxon,tvk
 2,Abrostola triplasia,NBNSYS0000006555
 1,Catocala fraxini,NBNSYS0000006556
 1,Catocala electa,NBNSYS0000006558
+6,Mocis trifasciata,NBNSYS0000006564
 1,Dysgonia algira,NBNSYS0000006565
 1,Grammodes stolida,NBNSYS0000006566
 1,Callistege mi,NBNSYS0000006567
@@ -475,6 +498,7 @@ code,taxon,tvk
 2,Eupithecia ultimaria,NBNSYS0000033137
 2,Photedes morrisii,NBNSYS0000100174
 2,Eucosma fulvana,NBNSYS0000100586
+6,Scotopteryx,NBNSYS0000137655
 3,Diasemia reticularis,NBNSYS0000146002
 2,Dysstroma citrata,NBNSYS0000146496
 2,Dysstroma truncata,NBNSYS0000146497
@@ -741,6 +765,7 @@ code,taxon,tvk
 3,Ancylolomia tentaculella,NHMSYS0000501240
 2,Ancylosis oblitella,NHMSYS0000501242
 1,Anthophila fabriciana,NHMSYS0000501258
+6,Antichloris eriphia,NHMSYS0000501261
 1,Antigastra catalaunalis,NHMSYS0000501267
 5,Antispila petryi,NHMSYS0000501270
 2,Antispila petryi,NHMSYS0000501270
@@ -1310,6 +1335,7 @@ code,taxon,tvk
 2,Paralipsa gularis,NHMSYS0000503603
 4,Paramesia gnomana,NHMSYS0000503606
 1,Parapoynx stratiotata,NHMSYS0000503611
+6,Pardasena virgulana,NHMSYS0000503628
 1,Parectopa ononidis,NHMSYS0000503630
 4,Parornix anglicella,NHMSYS0000503642
 4,Parornix betulae,NHMSYS0000503643
@@ -1416,6 +1442,7 @@ code,taxon,tvk
 2,Rhyacionia pinivorana,NHMSYS0000504061
 1,Roeslerstammia erxlebella,NHMSYS0000504067
 2,Salebriopsis albicilla,NHMSYS0000504078
+6,Saturnia pyri,NHMSYS0000504081
 2,Sciota adelphella,NHMSYS0000504111
 2,Sclerocona acutellus,NHMSYS0000504113
 2,Scoparia ambigualis,NHMSYS0000504116
@@ -1582,19 +1609,27 @@ code,taxon,tvk
 3,Zeiraphera rufimitrana,NHMSYS0000504716
 2,Zelleria hepariella,NHMSYS0000504718
 3,Friedlanderia cicatricella,NHMSYS0000516769
+6,Acronicta,NHMSYS0000516834
+6,Adscita,NHMSYS0000516869
 1,Agrotis trux,NHMSYS0000516938
+6,Amphipoea,NHMSYS0000516993
 4,Amphipoea fucosa,NHMSYS0000516998
+6,Amphipyra,NHMSYS0000517003
 2,Amphipyra berbera,NHMSYS0000517008
 1,Thetidia smaragdaria,NHMSYS0000517123
 2,Apomyelois bistriatella,NHMSYS0000517188
+6,Aporophyla,NHMSYS0000517193
 1,Aporophyla australis,NHMSYS0000517198
 2,Apotomis sauciana,NHMSYS0000517208
+6,Archiearis,NHMSYS0000517223
 1,Arctia villica,NHMSYS0000517243
 2,Aspitates gilvaria,NHMSYS0000517298
 1,Pseudoips prasinana,NHMSYS0000517403
+6,Zygaena,NHMSYS0000517508
 1,Calamia tridens,NHMSYS0000517533
 1,Camptogramma bilineata,NHMSYS0000517593
 1,Carsia sororiata,NHMSYS0000517633
+6,Ectropis,NHMSYS0000517713
 2,Cleora cinctaria,NHMSYS0000519018
 1,Cucullia gnaphalii,NHMSYS0000519263
 2,Diarsia mendica,NHMSYS0000519388
@@ -1603,14 +1638,17 @@ code,taxon,tvk
 1,Epirrhoe alternata,NHMSYS0000519763
 2,Polymixis xanthomista,NHMSYS0000520008
 1,Polymixis lichenea,NHMSYS0000520013
+6,Eupithecia,NHMSYS0000520023
 3,Eupithecia denotata,NHMSYS0000520028
 2,Eupithecia distinctaria,NHMSYS0000520033
 2,Eupithecia extensaria,NHMSYS0000520043
 1,Eupoecilia angustana,NHMSYS0000520073
+6,Euxoa,NHMSYS0000520118
 2,Euxoa obelisca,NHMSYS0000520123
 1,Gortyna borelii,NHMSYS0000520248
 1,Hadena caesia,NHMSYS0000520318
 2,Hadena perplexa,NHMSYS0000520328
+6,Hoplodrina,NHMSYS0000520453
 1,Hydraecia osseola,NHMSYS0000520468
 2,Idaea contiguaria,NHMSYS0000520548
 2,Idaea ochrata,NHMSYS0000520553
@@ -1632,6 +1670,7 @@ code,taxon,tvk
 4,Scrobipalpa samadensis,NHMSYS0000521368
 1,Odontognophos dumetata,NHMSYS0000521663
 1,Noctua interjecta,NHMSYS0000521898
+6,Mesapamea,NHMSYS0000522052
 1,Pachetra sagittigera,NHMSYS0000522187
 2,Perizoma albulata,NHMSYS0000522437
 2,Perizoma blandiata,NHMSYS0000522442
@@ -1641,7 +1680,11 @@ code,taxon,tvk
 1,Pseudoterpna pruinata,NHMSYS0000522767
 1,Xestia alpicola,NHMSYS0000523349
 2,Eupithecia pulchellata,NHMSYS0000550501
+6,Acleris ferrugana/notana,NHMSYS0001703642
+6,Acleris laterana/comariana,NHMSYS0001703643
 3,Anatrachyntis badia,NHMSYS0001703645
+6,Coleophora alcyonipennella/frischella,NHMSYS0001703649
+6,Coleophora alticolella/glaucicolella,NHMSYS0001703650
 2,Cosmopterix pulchrimella,NHMSYS0001703651
 5,Dialectica scalariella,NHMSYS0001703652
 3,Diplopseustis perieresalis,NHMSYS0001703654
@@ -1652,22 +1695,30 @@ code,taxon,tvk
 4,Eucosma parvulana,NHMSYS0001703660
 3,Metalampra italica,NHMSYS0001703661
 3,Pyroderces argyrogrammos,NHMSYS0001703662
+6,Amphipoea oculea agg.,NHMSYS0001703666
 2,Catocala conjuncta,NHMSYS0001703667
+6,Epirrita dilutata agg.,NHMSYS0001703669
 1,Eublemma purpurina,NHMSYS0001703670
 5,Eupithecia massiliata,NHMSYS0001703671
 2,Lacanobia splendens,NHMSYS0001703672
 2,Lithophane consocia,NHMSYS0001703673
 4,Nycteola asiatica,NHMSYS0001703674
+6,Xanthorhoe spadicearia/ferrugata,NHMSYS0001703678
+6,Acronicta psi/tridens,NHMSYS0001703742
 3,Ancylosis cinnamomella,NHMSYS0001703758
 2,Dioryctria sylvestrella,NHMSYS0001703760
 3,Sciota rhenella,NHMSYS0001703764
+6,Coleophora lutipennella/flavipennella,NHMSYS0020083406
+6,Zygaena lonicerae/trifolii,NHMSYS0020083546
 2,Blastobasis adustella,NHMSYS0020326904
 1,Cydia ulicetana,NHMSYS0020326909
+6,Euxoa tritici/obelisca,NHMSYS0020467649
 3,Cydia millenniana,NHMSYS0020470265
 1,Cynaeda dentalis,NHMSYS0020470266
 2,Rhyacionia buoliana,NHMSYS0020470512
 2,Cerura erminea,NHMSYS0020500506
 2,Dryobotodes tenebrosa,NHMSYS0020503121
+6,Aphelia paleana/unitana,NHMSYS0020530781
 4,Opogona omoscopa,NHMSYS0020530789
 3,Prays oleae,NHMSYS0020530790
 2,Crocallis dardoinaria,NHMSYS0020531189
@@ -2162,6 +2213,7 @@ code,taxon,tvk
 1,Scotopteryx bipunctaria bipunctaria,NHMSYS0021143907
 1,Scotopteryx bipunctaria cretata,NHMSYS0021143908
 1,Nycterosea obstipata,NHMSYS0021143912
+6,Xanthorhoe,NHMSYS0021143914
 1,Xanthorhoe decoloraria decoloraria,NHMSYS0021143915
 1,Xanthorhoe decoloraria hethlandica,NHMSYS0021143917
 1,Xanthorhoe fluctuata fluctuata,NHMSYS0021143918
@@ -2201,6 +2253,7 @@ code,taxon,tvk
 2,Colostygia olivata,NHMSYS0021143999
 2,Coenotephria salicata salicata,NHMSYS0021144004
 1,Lampropteryx suffumata,NHMSYS0021144007
+6,Epirrita,NHMSYS0021144013
 4,Epirrita dilutata,NHMSYS0021144014
 3,Epirrita filigrammaria,NHMSYS0021144016
 2,Hydrelia sylvata,NHMSYS0021144022
@@ -2462,6 +2515,7 @@ code,taxon,tvk
 1,Lateroligia ophiogramma,NHMSYS0021144683
 1,Litoligia literosa,NHMSYS0021144686
 1,Mesoligia furuncula,NHMSYS0021144687
+6,Oligia,NHMSYS0021144689
 4,Oligia latruncula,NHMSYS0021144690
 5,Sesamia nonagrioides,NHMSYS0021144692
 2,Leucochlaena oditis,NHMSYS0021144694
@@ -2604,6 +2658,7 @@ code,taxon,tvk
 5,Anarsia innoxiella,NHMSYS0021168793
 5,Dichomeris acuminatus,NHMSYS0021168887
 5,Trachypepla contritella,NHMSYS0021238032
+6,Hoplodrina octogenaria/blanda,NHMSYS0021238182
 5,Pammene juniperana,NHMSYS0021239333
 5,Lamoria anella,NHMSYS0021297284
 5,Caloptilia honoratella,NHMSYS0021297289

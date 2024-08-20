@@ -1,4 +1,6 @@
 code,taxon,tvk
+6,,
+6,Nothofagus obliqua x alpina = N. x dodecaphleps,MM0001Z1V44971ZJ
 3,Lycopodiella inundata,NBNSYS0000002001
 3,Lycopodium annotinum,NBNSYS0000002002
 2,Lycopodium clavatum,NBNSYS0000002003
@@ -22,15 +24,18 @@ code,taxon,tvk
 2,Adiantum capillus-veneris,NBNSYS0000002034
 4,Onoclea sensibilis,NBNSYS0000002035
 2,Blechnum spicant,NBNSYS0000002036
+6,Phyllitis scolopendrium,NBNSYS0000002039
 2,Asplenium adiantum-nigrum,NBNSYS0000002041
 3,Asplenium onopteris,NBNSYS0000002042
 3,Asplenium obovatum,NBNSYS0000002043
+6,Asplenium fontanum,NBNSYS0000002044
 2,Asplenium marinum,NBNSYS0000002045
 2,Asplenium trichomanes,NBNSYS0000002046
 2,Asplenium ruta-muraria,NBNSYS0000002050
 3,Asplenium septentrionale,NBNSYS0000002051
 2,Athyrium filix-femina,NBNSYS0000002054
 3,Athyrium distentifolium,NBNSYS0000002055
+6,Athyrium flexile,NBNSYS0000002056
 2,Cystopteris fragilis,NBNSYS0000002058
 3,Cystopteris montana,NBNSYS0000002060
 3,Woodsia alpina,NBNSYS0000002062
@@ -63,6 +68,7 @@ code,taxon,tvk
 3,Vallisneria spiralis,NBNSYS0000002118
 3,Scheuchzeria palustris,NBNSYS0000002119
 2,Triglochin palustre,NBNSYS0000002120
+6,Triglochin maritimum,NBNSYS0000002121
 2,Potamogeton natans,NBNSYS0000002126
 3,Potamogeton coloratus,NBNSYS0000002128
 2,Potamogeton lucens,NBNSYS0000002130
@@ -83,16 +89,19 @@ code,taxon,tvk
 2,Zannichellia palustris,NBNSYS0000002150
 3,Najas marina,NBNSYS0000002153
 2,Eriocaulon aquaticum,NBNSYS0000002154
+6,Simethis planifolia,NBNSYS0000002157
 3,Hemerocallis fulva,NBNSYS0000002158
 3,Hemerocallis lilioasphodelus,NBNSYS0000002159
 2,Convallaria majalis,NBNSYS0000002161
 3,Polygonatum verticillatum,NBNSYS0000002162
 3,Polygonatum multiflorum,NBNSYS0000002164
+6,Asparagus officinalis,NBNSYS0000002167
 2,Ruscus aculeatus,NBNSYS0000002170
 2,Lilium martagon,NBNSYS0000002171
 3,Lilium pyrenaicum,NBNSYS0000002172
 2,Fritillaria meleagris,NBNSYS0000002173
 2,Tulipa sylvestris,NBNSYS0000002174
+6,Ornithogalum angustifolium,NBNSYS0000002179
 2,Ornithogalum nutans,NBNSYS0000002180
 2,Ornithogalum pyrenaicum,NBNSYS0000002181
 3,Scilla autumnalis,NBNSYS0000002183
@@ -131,11 +140,12 @@ code,taxon,tvk
 3,Juncus acutiflorus,NBNSYS0000002230
 2,Juncus articulatus,NBNSYS0000002231
 3,Juncus alpinoarticulatus,NBNSYS0000002232
-2,Juncus bulbosus,NBNSYS0000002234
 3,Juncus bulbosus,NBNSYS0000002234
+2,Juncus bulbosus,NBNSYS0000002234
 3,Juncus biglumis,NBNSYS0000002237
 3,Juncus triglumis,NBNSYS0000002238
 2,Luzula pilosa,NBNSYS0000002239
+6,Luzula nivea,NBNSYS0000002243
 2,Luzula spicata,NBNSYS0000002244
 3,Luzula arcuata,NBNSYS0000002245
 2,Luzula campestris,NBNSYS0000002246
@@ -145,6 +155,9 @@ code,taxon,tvk
 3,Leucojum vernum,NBNSYS0000002251
 2,Leucojum aestivum,NBNSYS0000002252
 1,Galanthus nivalis,NBNSYS0000002253
+6,Narcissus pseudonarcissus subsp. pseudonarcissus,NBNSYS0000002256
+6,Narcissus pseudonarcissus subsp. major,NBNSYS0000002258
+6,Narcissus poeticus subsp. poeticus,NBNSYS0000002261
 3,Sisyrinchium bermudiana,NBNSYS0000002263
 3,Iris spuria,NBNSYS0000002266
 3,Iris versicolor,NBNSYS0000002267
@@ -152,6 +165,8 @@ code,taxon,tvk
 2,Iris pseudacorus,NBNSYS0000002269
 2,Iris germanica,NBNSYS0000002270
 2,Crocus vernus,NBNSYS0000002273
+6,Crocus sativus,NBNSYS0000002274
+6,Crocus flavus,NBNSYS0000002276
 3,Romulea columnae,NBNSYS0000002277
 3,Gladiolus communis,NBNSYS0000002280
 3,Cypripedium calceolus,NBNSYS0000002284
@@ -168,6 +183,7 @@ code,taxon,tvk
 2,Ophrys insectifera,NBNSYS0000002318
 3,Orchis militaris,NBNSYS0000002321
 3,Orchis simia,NBNSYS0000002322
+6,Orchis laxiflora,NBNSYS0000002325
 2,Orchis mascula,NBNSYS0000002326
 2,Anacamptis pyramidalis,NBNSYS0000002347
 2,Acorus calamus,NBNSYS0000002348
@@ -233,6 +249,7 @@ code,taxon,tvk
 3,Carex recta,NBNSYS0000002459
 2,Carex nigra,NBNSYS0000002460
 4,Carex trinervis,NBNSYS0000002461
+6,Carex bicolor,NBNSYS0000002463
 2,Carex paniculata,NBNSYS0000002464
 3,Carex diandra,NBNSYS0000002466
 2,Carex otrubae,NBNSYS0000002467
@@ -242,6 +259,7 @@ code,taxon,tvk
 2,Carex echinata,NBNSYS0000002482
 2,Carex remota,NBNSYS0000002483
 4,Carex microglochin,NBNSYS0000002489
+6,Carex capitata,NBNSYS0000002491
 2,Carex pulicaris,NBNSYS0000002492
 3,Leersia oryzoides,NBNSYS0000002496
 2,Molinia caerulea,NBNSYS0000002499
@@ -295,6 +313,7 @@ code,taxon,tvk
 3,Koeleria vallesiana,NBNSYS0000002609
 2,Avena fatua,NBNSYS0000002612
 2,Avena sativa,NBNSYS0000002615
+6,Helictotrichon pratense,NBNSYS0000002616
 2,Holcus lanatus,NBNSYS0000002619
 2,Holcus mollis,NBNSYS0000002620
 2,Deschampsia flexuosa,NBNSYS0000002623
@@ -322,6 +341,7 @@ code,taxon,tvk
 2,Alopecurus geniculatus,NBNSYS0000002657
 2,Alopecurus aequalis,NBNSYS0000002659
 3,Alopecurus bulbosus,NBNSYS0000002661
+6,Alopecurus borealis,NBNSYS0000002662
 2,Milium effusum,NBNSYS0000002663
 2,Anthoxanthum odoratum,NBNSYS0000002667
 3,Anthoxanthum aristatum,NBNSYS0000002668
@@ -369,6 +389,7 @@ code,taxon,tvk
 3,Ranunculus aquatilis,NBNSYS0000002731
 3,Ranunculus peltatus,NBNSYS0000002732
 2,Ranunculus penicillatus,NBNSYS0000002733
+6,Ranunculus ficaria,NBNSYS0000002735
 3,Adonis annua,NBNSYS0000002739
 2,Myosurus minimus,NBNSYS0000002740
 2,Aquilegia vulgaris,NBNSYS0000002742
@@ -376,6 +397,7 @@ code,taxon,tvk
 2,Thalictrum flavum,NBNSYS0000002744
 3,Thalictrum alpinum,NBNSYS0000002745
 2,Thalictrum minus,NBNSYS0000002746
+6,Epimedium alpinum,NBNSYS0000002751
 2,Berberis vulgaris,NBNSYS0000002752
 4,Berberis glaucocarpa,NBNSYS0000002753
 2,Mahonia aquifolium,NBNSYS0000002756
@@ -384,6 +406,8 @@ code,taxon,tvk
 2,Ceratophyllum demersum,NBNSYS0000002761
 3,Ceratophyllum submersum,NBNSYS0000002762
 1,Papaver rhoeas,NBNSYS0000002764
+6,Papaver dubium subsp. dubium,NBNSYS0000002765
+6,Papaver dubium subsp. lecoqii,NBNSYS0000002766
 2,Papaver hybridum,NBNSYS0000002767
 2,Papaver argemone,NBNSYS0000002768
 2,Papaver somniferum,NBNSYS0000002769
@@ -429,12 +453,15 @@ code,taxon,tvk
 2,Iberis amara,NBNSYS0000002840
 2,Thlaspi arvense,NBNSYS0000002841
 3,Thlaspi alliaceum,NBNSYS0000002842
+6,Thlaspi perfoliatum,NBNSYS0000002843
 2,Cochlearia pyrenaica,NBNSYS0000002851
 2,Cochlearia danica,NBNSYS0000002854
 2,Cochlearia anglica,NBNSYS0000002855
 2,Subularia aquatica,NBNSYS0000002856
+6,Bunias erucago,NBNSYS0000002857
 2,Bunias orientalis,NBNSYS0000002858
 3,Alyssum alyssoides,NBNSYS0000002859
+6,Alyssum saxatile,NBNSYS0000002860
 2,Lobularia maritima,NBNSYS0000002861
 2,Berteroa incana,NBNSYS0000002862
 2,Draba aizoides,NBNSYS0000002863
@@ -452,6 +479,8 @@ code,taxon,tvk
 3,Arabis alpina,NBNSYS0000002887
 2,Arabis hirsuta,NBNSYS0000002889
 3,Arabis scabra,NBNSYS0000002891
+6,Arabis glabra,NBNSYS0000002892
+6,Rorippa nasturtium-aquaticum,NBNSYS0000002894
 2,Rorippa sylvestris,NBNSYS0000002896
 2,Rorippa palustris,NBNSYS0000002897
 2,Rorippa amphibia,NBNSYS0000002898
@@ -499,12 +528,15 @@ code,taxon,tvk
 2,Hypericum elodes,NBNSYS0000002969
 3,Hypericum canadense,NBNSYS0000002970
 3,Tuberaria guttata,NBNSYS0000002971
+6,Cistus incanus,NBNSYS0000002979
 3,Tamarix gallica,NBNSYS0000002980
 2,Frankenia laevis,NBNSYS0000002982
 3,Elatine hexandra,NBNSYS0000002983
 3,Elatine hydropiper,NBNSYS0000002984
 2,Silene uniflora,NBNSYS0000002987
 3,Silene conica,NBNSYS0000002988
+6,Silene conoidea,NBNSYS0000002989
+6,Silene dichotoma,NBNSYS0000002990
 3,Silene gallica,NBNSYS0000002991
 2,Silene acaulis,NBNSYS0000002992
 3,Silene armeria,NBNSYS0000002993
@@ -516,6 +548,7 @@ code,taxon,tvk
 3,Agrostemma githago,NBNSYS0000003004
 3,Dianthus armeria,NBNSYS0000003006
 2,Dianthus barbatus,NBNSYS0000003007
+6,Dianthus carthusianorum,NBNSYS0000003008
 2,Dianthus plumarius,NBNSYS0000003009
 3,Dianthus caryophyllus,NBNSYS0000003010
 3,Dianthus gallicus,NBNSYS0000003011
@@ -558,6 +591,7 @@ code,taxon,tvk
 3,Montia fontana subsp. variabilis,NBNSYS0000003078
 2,Claytonia perfoliata,NBNSYS0000003079
 2,Claytonia sibirica,NBNSYS0000003080
+6,Claytonia virginica,NBNSYS0000003081
 3,Portulaca oleracea,NBNSYS0000003082
 2,Amaranthus retroflexus,NBNSYS0000003084
 2,Amaranthus hybridus,NBNSYS0000003085
@@ -594,6 +628,7 @@ code,taxon,tvk
 2,Malva neglecta,NBNSYS0000003133
 3,Malva parviflora,NBNSYS0000003135
 4,Malva verticillata,NBNSYS0000003136
+6,Lavatera cretica,NBNSYS0000003138
 3,Althaea officinalis,NBNSYS0000003139
 2,Alcea rosea,NBNSYS0000003141
 1,Linum usitatissimum,NBNSYS0000003143
@@ -689,6 +724,7 @@ code,taxon,tvk
 2,Astragalus danicus,NBNSYS0000003267
 3,Astragalus alpinus,NBNSYS0000003268
 2,Astragalus glycyphyllos,NBNSYS0000003269
+6,Astragalus boeticus,NBNSYS0000003270
 4,Astragalus odoratus,NBNSYS0000003271
 3,Oxytropis campestris,NBNSYS0000003273
 2,Ornithopus perpusillus,NBNSYS0000003274
@@ -701,10 +737,12 @@ code,taxon,tvk
 2,Vicia cracca,NBNSYS0000003283
 3,Vicia tenuifolia,NBNSYS0000003284
 2,Vicia villosa,NBNSYS0000003285
+6,Vicia cassubica,NBNSYS0000003287
 3,Vicia orobus,NBNSYS0000003288
 2,Vicia sylvatica,NBNSYS0000003289
 2,Vicia sepium,NBNSYS0000003290
 3,Vicia lutea,NBNSYS0000003291
+6,Vicia hybrida,NBNSYS0000003292
 2,Vicia sativa subsp. nigra,NBNSYS0000003294
 3,Vicia lathyroides,NBNSYS0000003295
 3,Vicia bithynica,NBNSYS0000003296
@@ -735,6 +773,7 @@ code,taxon,tvk
 2,Rubus caesius,NBNSYS0000003325
 1,Rubus fruticosus agg.,NBNSYS0000003328
 2,Potentilla fruticosa,NBNSYS0000003337
+6,Potentilla palustris,NBNSYS0000003338
 2,Potentilla sterilis,NBNSYS0000003339
 3,Potentilla rupestris,NBNSYS0000003340
 2,Potentilla argentea,NBNSYS0000003342
@@ -765,6 +804,7 @@ code,taxon,tvk
 2,Alchemilla mollis,NBNSYS0000003383
 2,Sanguisorba officinalis,NBNSYS0000003387
 4,Sanguisorba canadensis,NBNSYS0000003388
+6,Rosa sempervirens,NBNSYS0000003395
 3,Rosa stylosa,NBNSYS0000003400
 4,Rosa obtusifolia,NBNSYS0000003404
 3,Rosa sherardii,NBNSYS0000003406
@@ -780,6 +820,7 @@ code,taxon,tvk
 2,Prunus lusitanica,NBNSYS0000003421
 3,Cotoneaster simonsii,NBNSYS0000003424
 1,Crataegus monogyna,NBNSYS0000003430
+6,Crataegus punctata,NBNSYS0000003433
 3,Crataegus crus-galli,NBNSYS0000003434
 2,Mespilus germanica,NBNSYS0000003436
 2,Sorbus aucuparia,NBNSYS0000003438
@@ -789,6 +830,7 @@ code,taxon,tvk
 3,Sorbus latifolia agg.,NBNSYS0000003456
 2,Sorbus torminalis,NBNSYS0000003460
 3,Pyrus cordata,NBNSYS0000003462
+6,Malus sylvestris sens.lat.,NBNSYS0000003463
 2,Sedum rosea,NBNSYS0000003466
 2,Sedum telephium,NBNSYS0000003467
 2,Sedum dasyphyllum,NBNSYS0000003471
@@ -836,13 +878,15 @@ code,taxon,tvk
 2,Epilobium hirsutum,NBNSYS0000003536
 2,Epilobium montanum,NBNSYS0000003546
 2,Epilobium lanceolatum,NBNSYS0000003551
-2,Epilobium tetragonum,NBNSYS0000003567
+6,Epilobium ciliatum x palustre = E. x fossicola,NBNSYS0000003566
 3,Epilobium tetragonum,NBNSYS0000003567
+2,Epilobium tetragonum,NBNSYS0000003567
 2,Epilobium palustre,NBNSYS0000003584
 2,Epilobium anagallidifolium,NBNSYS0000003587
 1,Chamerion angustifolium,NBNSYS0000003598
 3,Oenothera biennis,NBNSYS0000003599
 3,Oenothera stricta,NBNSYS0000003601
+6,Oenothera parviflora,NBNSYS0000003602
 2,Fuchsia magellanica,NBNSYS0000003603
 2,Circaea lutetiana,NBNSYS0000003604
 2,Circaea alpina,NBNSYS0000003606
@@ -875,6 +919,8 @@ code,taxon,tvk
 3,Scandix australis,NBNSYS0000003644
 2,Myrrhis odorata,NBNSYS0000003645
 2,Torilis japonica,NBNSYS0000003646
+6,Caucalis platycarpos,NBNSYS0000003649
+6,Turgenia latifolia,NBNSYS0000003650
 2,Coriandrum sativum,NBNSYS0000003651
 2,Smyrnium olusatrum,NBNSYS0000003652
 3,Smyrnium perfoliatum,NBNSYS0000003653
@@ -927,6 +973,7 @@ code,taxon,tvk
 2,Mercurialis annua,NBNSYS0000003722
 3,Euphorbia peplis,NBNSYS0000003724
 2,Euphorbia lathyris,NBNSYS0000003725
+6,Euphorbia villosa,NBNSYS0000003726
 3,Euphorbia corallioides,NBNSYS0000003727
 3,Euphorbia hyberna,NBNSYS0000003728
 3,Euphorbia dulcis,NBNSYS0000003729
@@ -957,6 +1004,7 @@ code,taxon,tvk
 2,Rumex longifolius,NBNSYS0000003784
 3,Rumex cristatus,NBNSYS0000003785
 3,Rumex patientia,NBNSYS0000003786
+6,Rumex patientia subsp. orientalis,NBNSYS0000003787
 1,Rumex crispus,NBNSYS0000003789
 1,Rumex obtusifolius,NBNSYS0000003791
 2,Rumex pulcher,NBNSYS0000003795
@@ -969,6 +1017,7 @@ code,taxon,tvk
 2,Soleirolia soleirolii,NBNSYS0000003805
 2,Urtica urens,NBNSYS0000003806
 1,Urtica dioica,NBNSYS0000003807
+6,Urtica pilulifera,NBNSYS0000003808
 2,Humulus lupulus,NBNSYS0000003809
 2,Ulmus procera,NBNSYS0000003812
 3,Ulmus minor subsp. angustifolia,NBNSYS0000003813
@@ -1018,6 +1067,7 @@ code,taxon,tvk
 2,Arbutus unedo,NBNSYS0000003899
 1,Calluna vulgaris,NBNSYS0000003902
 2,Erica tetralix,NBNSYS0000003903
+6,Erica mackaiana,NBNSYS0000003905
 2,Erica ciliaris,NBNSYS0000003907
 2,Erica cinerea,NBNSYS0000003909
 3,Erica terminalis,NBNSYS0000003910
@@ -1088,6 +1138,7 @@ code,taxon,tvk
 3,Echium plantagineum,NBNSYS0000004020
 1,Convolvulus arvensis,NBNSYS0000004022
 3,Cuscuta europaea,NBNSYS0000004028
+6,Cuscuta epilinum,NBNSYS0000004029
 2,Cuscuta epithymum,NBNSYS0000004030
 2,Lycium barbarum,NBNSYS0000004032
 2,Atropa belladonna,NBNSYS0000004034
@@ -1108,6 +1159,7 @@ code,taxon,tvk
 2,Verbascum blattaria,NBNSYS0000004054
 3,Verbascum virgatum,NBNSYS0000004055
 3,Verbascum phoeniceum,NBNSYS0000004057
+6,Verbascum sinuatum,NBNSYS0000004058
 2,Misopates orontium,NBNSYS0000004059
 1,Antirrhinum majus,NBNSYS0000004060
 3,Linaria supina,NBNSYS0000004070
@@ -1122,6 +1174,7 @@ code,taxon,tvk
 2,Scrophularia umbrosa,NBNSYS0000004080
 2,Scrophularia scorodonia,NBNSYS0000004081
 3,Scrophularia vernalis,NBNSYS0000004082
+6,Scrophularia canina,NBNSYS0000004083
 3,Mimulus guttatus,NBNSYS0000004084
 3,Mimulus luteus,NBNSYS0000004086
 2,Limosella aquatica,NBNSYS0000004089
@@ -1187,6 +1240,7 @@ code,taxon,tvk
 3,Pinguicula alpina,NBNSYS0000004183
 2,Pinguicula vulgaris,NBNSYS0000004184
 3,Pinguicula grandiflora,NBNSYS0000004185
+6,Utricularia intermedia sens.lat.,NBNSYS0000004189
 3,Utricularia minor,NBNSYS0000004190
 2,Verbena officinalis,NBNSYS0000004191
 3,Mentha requienii,NBNSYS0000004193
@@ -1208,6 +1262,7 @@ code,taxon,tvk
 2,Melissa officinalis,NBNSYS0000004218
 3,Salvia verticillata,NBNSYS0000004219
 2,Salvia pratensis,NBNSYS0000004220
+6,Salvia nemorosa,NBNSYS0000004221
 2,Salvia verbenaca,NBNSYS0000004222
 2,Melittis melissophyllum,NBNSYS0000004224
 1,Prunella vulgaris,NBNSYS0000004225
@@ -1228,6 +1283,7 @@ code,taxon,tvk
 3,Leonurus cardiaca,NBNSYS0000004246
 3,Phlomis fruticosa,NBNSYS0000004247
 2,Galeopsis angustifolia,NBNSYS0000004249
+6,Galeopsis ladanum,NBNSYS0000004250
 2,Galeopsis tetrahit agg. sensu lato,NBNSYS0000004252
 2,Galeopsis tetrahit,NBNSYS0000004253
 2,Galeopsis bifida,NBNSYS0000004254
@@ -1235,12 +1291,14 @@ code,taxon,tvk
 1,Glechoma hederacea,NBNSYS0000004257
 3,Marrubium vulgare,NBNSYS0000004258
 2,Scutellaria galericulata,NBNSYS0000004259
+6,Scutellaria hastifolia,NBNSYS0000004262
 3,Scutellaria altissima,NBNSYS0000004263
 3,Teucrium chamaedrys,NBNSYS0000004264
 3,Teucrium scordium,NBNSYS0000004265
 3,Teucrium botrys,NBNSYS0000004266
 2,Teucrium scorodonia,NBNSYS0000004267
 1,Ajuga reptans,NBNSYS0000004269
+6,Ajuga genevensis,NBNSYS0000004270
 3,Ajuga pyramidalis,NBNSYS0000004271
 1,Plantago major,NBNSYS0000004273
 2,Plantago media,NBNSYS0000004274
@@ -1268,9 +1326,11 @@ code,taxon,tvk
 2,Lobelia dortmanna,NBNSYS0000004299
 2,Sherardia arvensis,NBNSYS0000004300
 3,Asperula taurina,NBNSYS0000004302
+6,Asperula cynanchica subsp. cynanchica,NBNSYS0000004303
 2,Cruciata laevipes,NBNSYS0000004304
 2,Galium odoratum,NBNSYS0000004306
 2,Galium boreale,NBNSYS0000004307
+6,Galium mollugo,NBNSYS0000004308
 2,Galium verum,NBNSYS0000004309
 2,Galium saxatile,NBNSYS0000004310
 2,Galium sterneri,NBNSYS0000004312
@@ -1331,6 +1391,7 @@ code,taxon,tvk
 3,Calendula arvensis,NBNSYS0000004393
 2,Inula helenium,NBNSYS0000004394
 3,Inula salicina,NBNSYS0000004395
+6,Inula britannica,NBNSYS0000004396
 2,Inula conyzae,NBNSYS0000004397
 2,Inula crithmoides,NBNSYS0000004398
 3,Dittrichia viscosa,NBNSYS0000004399
@@ -1350,7 +1411,9 @@ code,taxon,tvk
 2,Solidago gigantea,NBNSYS0000004419
 4,Solidago graminifolia,NBNSYS0000004420
 3,Aster tripolium,NBNSYS0000004422
+6,Aster schreberi,NBNSYS0000004423
 3,Aster novae-angliae,NBNSYS0000004424
+6,Aster puniceus,NBNSYS0000004425
 3,Aster novi-belgii,NBNSYS0000004426
 3,Aster laevis,NBNSYS0000004431
 3,Aster lanceolatus,NBNSYS0000004433
@@ -1404,6 +1467,7 @@ code,taxon,tvk
 2,Centaurea scabiosa,NBNSYS0000004501
 2,Centaurea montana,NBNSYS0000004502
 3,Centaurea cyanus,NBNSYS0000004503
+6,Centaurea paniculata,NBNSYS0000004504
 3,Centaurea jacea,NBNSYS0000004505
 3,Centaurea aspera,NBNSYS0000004509
 3,Centaurea calcitrapa,NBNSYS0000004510
@@ -1417,6 +1481,7 @@ code,taxon,tvk
 3,Hypochaeris maculata,NBNSYS0000004521
 2,Leontodon hispidus,NBNSYS0000004523
 2,Leontodon saxatilis,NBNSYS0000004524
+6,Picris echioides,NBNSYS0000004525
 2,Picris hieracioides,NBNSYS0000004526
 2,Tragopogon pratensis,NBNSYS0000004527
 4,Tragopogon pratensis subsp. orientalis,NBNSYS0000004529
@@ -1469,8 +1534,10 @@ code,taxon,tvk
 1,Taxus baccata,NBNSYS0000004638
 2,Crassula helmsii,NBNSYS0000004639
 2,Dryopteris filix-mas,NBNSYS0000004640
+6,Gentianella amarella x anglica = G. x davidiana,NBNSYS0000004645
 2,Lemna minuta,NBNSYS0000004649
 2,Muscari armeniacum,NBNSYS0000004651
+6,Phleum pratense sens.lat.,NBNSYS0000004652
 2,Sagina apetala,NBNSYS0000004655
 4,Lepidium perfoliatum,NBNSYS0000004664
 3,Panicum miliaceum,NBNSYS0000004667
@@ -1487,6 +1554,7 @@ code,taxon,tvk
 3,Cotoneaster franchetii,NBNSYS0000004711
 2,Dipsacus sativus,NBNSYS0000004724
 3,Dipsacus strigosus,NBNSYS0000004725
+6,Galium mollugo subsp. erectum,NBNSYS0000004740
 3,Galium pumilum,NBNSYS0000004743
 2,Iberis umbellata,NBNSYS0000004752
 2,Iberis sempervirens,NBNSYS0000004753
@@ -1499,7 +1567,9 @@ code,taxon,tvk
 3,Plantago major subsp. intermedia,NBNSYS0000004790
 3,Solanum nigrum subsp. schultesii,NBNSYS0000004815
 2,Polygonum boreale,NBNSYS0000004822
+6,Medicago arborea,NBNSYS0000004837
 3,Digitalis lutea,NBNSYS0000004842
+6,Chenopodium ambrosioides,NBNSYS0000004843
 3,Acer saccharinum,NBNSYS0000004849
 4,Erodium botrys,NBNSYS0000004854
 4,Solanum carolinense,NBNSYS0000004855
@@ -1509,15 +1579,20 @@ code,taxon,tvk
 3,Holodiscus discolor,NBNSYS0000004866
 3,Lathyrus annuus,NBNSYS0000004867
 4,Lolium rigidum,NBNSYS0000004868
+6,Leontodon hispidus x saxatilis,NBNSYS0000004870
+6,Ulex europaeus x gallii,NBNSYS0000004875
 4,Senecio pterophorus,NBNSYS0000004877
 4,Narcissus bicolor,NBNSYS0000004899
 4,Sisymbrium erysimoides,NBNSYS0000004906
+6,Salix babylonica,NBNSYS0000004910
 4,Verbascum pyramidatum x thapsus,NBNSYS0000004916
 4,Trifolium lappaceum,NBNSYS0000004922
 3,Solanum chenopodioides,NBNSYS0000004924
 2,Phlox paniculata,NBNSYS0000004927
 4,Cynodon incompletus,NBNSYS0000004931
+6,Dactylorhiza x dufftii,NBNSYS0000004933
 3,Sisyrinchium laxum,NBNSYS0000004945
+6,Euphrasia tetraquetra x stricta,NBNSYS0000004959
 4,Euphrasia nemorosa x scottica,NBNSYS0000004961
 2,Berberis thunbergii,NBNSYS0000004966
 2,Thymus vulgaris,NBNSYS0000004977
@@ -1525,49 +1600,65 @@ code,taxon,tvk
 3,Rubia tinctorum,NBNSYS0000004983
 2,Calceolaria chelidonioides,NBNSYS0000004984
 2,Tulipa gesneriana,NBNSYS0000004986
+6,Echium rosulatum,NBNSYS0000004997
 3,Narcissus bulbocodium,NBNSYS0000005351
 4,Ruscus hypoglossum,NBNSYS0000005353
 3,Primula auricula,NBNSYS0000005377
 3,Anthemis punctata,NBNSYS0000005394
 4,Sorbus hybrida,NBNSYS0000005397
+6,Cotoneaster nitidus,NBNSYS0000005398
 2,Hyacinthus orientalis,NBNSYS0000005409
+6,Asperula orientalis,NBNSYS0000005420
+6,Juncus effusus x pallidus,NBNSYS0000005423
 3,Rostraria cristata,NBNSYS0000005425
 4,Saxifraga hypnoides x tridactylites,NBNSYS0000005432
 3,Solanum sisymbriifolium,NBNSYS0000005433
+6,Ruta graveolens,NBNSYS0000005446
 4,Cicerbita plumieri,NBNSYS0000005447
 2,Phaseolus vulgaris,NBNSYS0000005450
 4,Veronica longifolia x spicata,NBNSYS0000005455
+6,Ulmus procera x plotii,NBNSYS0000005461
 4,Geranium ibericum,NBNSYS0000005463
 4,Rosa caesia x sherardii,NBNSYS0000005467
 3,Euphorbia maculata,NBNSYS0000005471
+6,Verbena x hybrida,NBNSYS0000005472
 3,Tagetes patula,NBNSYS0000005486
 3,Euphorbia characias,NBNSYS0000005495
 2,Eryngium planum,NBNSYS0000005496
+6,Euphrasia foulaensis x ostenfeldii,NBNSYS0000005676
 2,Quercus rubra,NBNSYS0000011916
 2,Trifolium incarnatum,NBNSYS0000013889
 3,Coreopsis grandiflora,NBNSYS0000013900
 4,Sigesbeckia serrata,NBNSYS0000013904
 2,Avena sterilis,NBNSYS0000013905
+6,Crassula pubescens,NBNSYS0000013907
 4,Lepidium bonariense,NBNSYS0000013917
+6,Coreopsis verticillata,NBNSYS0000013919
+6,Rumex cristatus x palustris = R. x akeroydii,NBNSYS0000013920
 4,Erigeron philadelphicus,NBNSYS0000013928
 4,Viola lutea x tricolor,NBNSYS0000013929
 3,Genista aetnensis,NBNSYS0000013930
+6,Nicotiana sylvestris,NBNSYS0000013941
 3,Crepis tectorum,NBNSYS0000013946
 3,Bergenia crassifolia,NBNSYS0000013952
+6,Filago arvensis,NBNSYS0000013953
 3,Callistephus chinensis,NBNSYS0000013954
 3,Vicia pannonica,NBNSYS0000013955
 3,Agave americana,NBNSYS0000013956
 4,Erodium cygnorum,NBNSYS0000013964
+6,Fumaria officinalis x densiflora,NBNSYS0000013965
 2,Medicago sativa,NBNSYS0000013971
 2,Scilla bifolia,NBNSYS0000013973
 3,Gentiana asclepiadea,NBNSYS0000013974
 3,Pinus strobus,NBNSYS0000013976
 4,Trigonella caerulea,NBNSYS0000013986
+6,Vulpia muralis,NBNSYS0000013987
 4,Erepsia heteropetala,NBNSYS0000013988
 3,Verbascum bombyciferum,NBNSYS0000013989
 4,Aster concinnus,NBNSYS0000013990
 4,Agrostis gigantea x stolonifera,NBNSYS0000013991
 2,Cicer arietinum,NBNSYS0000013994
+6,Cnicus benedictus,NBNSYS0000013998
 2,Papaver dubium,NBNSYS0000014001
 4,Euphrasia arctica x confusa,NBNSYS0000014009
 4,Trifolium pannonicum,NBNSYS0000014013
@@ -1575,10 +1666,12 @@ code,taxon,tvk
 4,Ornithopus sativus,NBNSYS0000014022
 3,Physalis ixocarpa,NBNSYS0000014023
 3,Rumex dentatus,NBNSYS0000014025
+6,Thlaspi macrophyllum,NBNSYS0000014028
 2,Anemone blanda,NBNSYS0000014044
 4,Euphrasia foulaensis x marshallii,NBNSYS0000014047
 3,Crassula decumbens,NBNSYS0000014052
 4,Sorbaria kirilowii,NBNSYS0000014057
+6,Aster sedifolius,NBNSYS0000014067
 4,Eragrostis tef,NBNSYS0000014068
 3,Anthyllis vulneraria subsp. polyphylla,NBNSYS0000014070
 4,Bidens pilosa,NBNSYS0000014074
@@ -1590,10 +1683,13 @@ code,taxon,tvk
 3,Cyperus eragrostis,NBNSYS0000014083
 4,Aronia arbutifolia,NBNSYS0000014091
 2,Vicia sativa,NBNSYS0000014093
+6,Elymus canadensis,NBNSYS0000014094
 4,Acaena caesiiglauca,NBNSYS0000014098
 3,Achillea ligustica,NBNSYS0000014099
 4,Lepidium hyssopifolium,NBNSYS0000014104
+6,Avena byzantina,NBNSYS0000014107
 3,Sambucus canadensis,NBNSYS0000014114
+6,Ulmus procera x minor,NBNSYS0000014116
 3,Salix elaeagnos,NBNSYS0000014120
 4,Salix cinerea x myrsinifolia = S. x strepida,NBNSYS0000014121
 1,Vicia faba,NBNSYS0000014122
@@ -1604,6 +1700,7 @@ code,taxon,tvk
 3,Carpobrotus glaucescens,NBNSYS0000014131
 4,Euphrasia foulaensis x scottica,NBNSYS0000014135
 4,Rosa obtusifolia x tomentosa,NBNSYS0000014137
+6,Photinia davidiana,NBNSYS0000014140
 4,Fumaria officinalis x parviflora,NBNSYS0000014143
 2,Drosanthemum floribundum,NBNSYS0000014144
 4,Amaranthus quitensis,NBNSYS0000014159
@@ -1611,13 +1708,18 @@ code,taxon,tvk
 3,Cosmos bipinnatus,NBNSYS0000014161
 3,Arisarum proboscideum,NBNSYS0000014162
 4,Ranunculus baudotii x peltatus,NBNSYS0000014163
+6,Prunus domestica subsp. italica,NBNSYS0000014169
 4,Cotoneaster insculptus,NBNSYS0000014170
 3,Hippocrepis emerus,NBNSYS0000014172
 3,Spiraea tomentosa,NBNSYS0000014176
+6,Acer tataricum,NBNSYS0000014178
+6,Aster amellus,NBNSYS0000014182
 2,Alstroemeria aurea,NBNSYS0000014183
 4,Libertia formosa,NBNSYS0000014184
 4,Campanula rhomboidalis,NBNSYS0000014188
 2,Zea mays,NBNSYS0000014190
+6,Buphthalmum salicifolium,NBNSYS0000014191
+6,Dahlia pinnata,NBNSYS0000014195
 3,Iris xiphium,NBNSYS0000014204
 4,Ranunculus aconitifolius,NBNSYS0000014212
 2,Prunus serotina,NBNSYS0000014213
@@ -1627,34 +1729,49 @@ code,taxon,tvk
 4,Quercus canariensis,NBNSYS0000014233
 4,Euphrasia nemorosa x pseudokerneri,NBNSYS0000014235
 4,Corylus avellana x maxima,NBNSYS0000014240
+6,Oenothera rubricaulis,NBNSYS0000014241
+6,Coreopsis tinctoria,NBNSYS0000014243
 3,Papaver somniferum subsp. setigerum,NBNSYS0000014245
 4,Euphrasia arctica x foulaensis,NBNSYS0000014248
 4,Euphrasia arctica x marshallii,NBNSYS0000014249
 4,Cenchrus echinatus,NBNSYS0000014250
+6,Dianthus caryophyllus x plumarius,NBNSYS0000014260
+6,Consolida regalis,NBNSYS0000014272
 3,Sedum spathulifolium,NBNSYS0000014275
 4,Nicotiana tabacum,NBNSYS0000014298
+6,Galanthus caucasicus,NBNSYS0000014304
 2,Malva alcea,NBNSYS0000014312
 3,Leucojum aestivum subsp. pulchellum,NBNSYS0000014315
 3,Melilotus sulcatus,NBNSYS0000014321
 4,Festuca rubra x Vulpia myuros,NBNSYS0000014326
+6,Dianthus gratianopolitanus x plumarius,NBNSYS0000014330
 4,Rumex crispus x rupestris,NBNSYS0000014335
 2,Salsola kali,NBNSYS0000014348
 2,Daucus carota,NBNSYS0000014362
 3,Reseda odorata,NBNSYS0000014367
+6,Psoralea americana,NBNSYS0000014369
 2,Salvia officinalis,NBNSYS0000014371
 2,Phaseolus coccineus,NBNSYS0000014386
 3,Buddleja alternifolia,NBNSYS0000014391
 2,Nicotiana alata,NBNSYS0000014396
+6,Silene muscipula,NBNSYS0000014399
+6,Rosa pendulina,NBNSYS0000014404
 3,Griselinia littoralis,NBNSYS0000014409
 3,Acer cappadocicum,NBNSYS0000014410
+6,Trifolium constantinopolitanum,NBNSYS0000014415
+6,Geranium submolle,NBNSYS0000014416
+6,Drosera capensis,NBNSYS0000014422
 4,Centaurium erythraea x pulchellum,NBNSYS0000014426
+6,Helianthus decapetalus,NBNSYS0000014444
 4,Alchemilla tytthantha,NBNSYS0000014448
 4,Nicotiana rustica,NBNSYS0000014454
 3,Rumex crispus subsp. uliginosus,NBNSYS0000014463
 3,Galanthus nivalis x plicatus,NBNSYS0000014476
 4,Minuartia recurva,NBNSYS0000014477
+6,Filipendula purpurea,NBNSYS0000014479
 3,Trifolium angustifolium,NBNSYS0000014489
 4,Trifolium alexandrinum,NBNSYS0000014490
+6,Phyllostachys bambusoides,NBNSYS0000014501
 4,Hydrocotyle novae-zeelandiae,NBNSYS0000014505
 4,Tagetes minuta,NBNSYS0000014513
 3,Vicia benghalensis,NBNSYS0000014517
@@ -1663,19 +1780,27 @@ code,taxon,tvk
 3,Scilla messeniaca,NBNSYS0000014525
 3,Petrorhagia saxifraga,NBNSYS0000014535
 4,Trifolium tomentosum,NBNSYS0000014547
+6,Lobelia siphilitica,NBNSYS0000014548
 4,Narcissus minor,NBNSYS0000014551
 3,Pteris cretica,NBNSYS0000014557
 4,Phlomis russeliana,NBNSYS0000014563
 3,Salvia glutinosa,NBNSYS0000014568
+6,Rosa canina x sherardii = R. x rothschildii,NBNSYS0000014571
 4,Hypericum humifusum x linariifolium,NBNSYS0000014578
+6,Pelargonium tomentosum,NBNSYS0000014579
+6,Carex laevigata x viridula,NBNSYS0000014580
 3,Hibiscus trionum,NBNSYS0000014582
 2,Narcissus pseudonarcissus,NBNSYS0000014596
 3,Allium nigrum,NBNSYS0000014599
+6,Lavatera trimestris,NBNSYS0000014601
 4,Trifolium hirtum,NBNSYS0000014603
 3,Acer negundo,NBNSYS0000014604
 4,Pleioblastus pygmaeus,NBNSYS0000014611
+6,Brassica fruticulosa,NBNSYS0000014617
+6,Arachis hypogaea,NBNSYS0000014622
 4,Salix caprea x phylicifolia,NBNSYS0000014623
 3,Trigonella foenum-graecum,NBNSYS0000014628
+6,Tropaeolum peregrinum,NBNSYS0000014629
 4,Triticum turgidum,NBNSYS0000014635
 3,Amaranthus deflexus,NBNSYS0000014648
 2,Agapanthus praecox,NBNSYS0000014650
@@ -1686,6 +1811,7 @@ code,taxon,tvk
 4,Ligularia przewalskii,NBNSYS0000014666
 2,Chenopodium quinoa,NBNSYS0000014667
 2,Acanthus mollis,NBNSYS0000014672
+6,Euphrasia arctica x scottica = E. x venusta,NBNSYS0000014677
 2,Carex divulsa,NBNSYS0000014681
 3,Lappula squarrosa,NBNSYS0000014690
 3,Cytisus striatus,NBNSYS0000014695
@@ -1694,6 +1820,8 @@ code,taxon,tvk
 3,Ononis natrix,NBNSYS0000014703
 2,Scilla peruviana,NBNSYS0000014706
 2,Sedum spectabile,NBNSYS0000014710
+6,Chenopodium multifidum,NBNSYS0000014714
+6,Cistus laurifolius,NBNSYS0000014716
 3,Argemone mexicana,NBNSYS0000014727
 3,Cotoneaster congestus,NBNSYS0000014728
 3,Euphrasia salisburgensis,NBNSYS0000014729
@@ -1702,10 +1830,12 @@ code,taxon,tvk
 3,Cucurbita pepo,NBNSYS0000014747
 3,Cuminum cyminum,NBNSYS0000014748
 3,Tradescantia virginiana,NBNSYS0000014753
+6,Axyris amaranthoides,NBNSYS0000014760
 2,Populus nigra 'Gigantea',NBNSYS0000014761
 3,Leucanthemella serotina,NBNSYS0000014762
 4,Artemisia abrotanum,NBNSYS0000014764
 3,Arctotheca calendula,NBNSYS0000014770
+6,Sisymbrium austriacum,NBNSYS0000014777
 4,Pinus peuce,NBNSYS0000014779
 4,Euphrasia nemorosa x ostenfeldii,NBNSYS0000014783
 4,Euphrasia confusa x micrantha,NBNSYS0000014784
@@ -1723,7 +1853,9 @@ code,taxon,tvk
 4,Lathyrus sativus,NBNSYS0000014842
 3,Lupinus albus,NBNSYS0000014843
 3,Chaerophyllum hirsutum,NBNSYS0000014844
+6,Hebe brachysiphon,NBNSYS0000014845
 2,Daucus carota subsp. sativus,NBNSYS0000014851
+6,Sesbania exaltata,NBNSYS0000014858
 3,Scolymus hispanicus,NBNSYS0000014859
 3,Acorus gramineus,NBNSYS0000014861
 2,Asperula cynanchica,NBNSYS0000014864
@@ -1731,6 +1863,7 @@ code,taxon,tvk
 3,Iris sibirica,NBNSYS0000014871
 4,Cotoneaster hissaricus,NBNSYS0000014874
 4,Cotoneaster pannosus,NBNSYS0000014876
+6,Aetheorhiza bulbosa,NBNSYS0000014877
 3,Rheum palmatum,NBNSYS0000014878
 3,Vulpia ciliata,NBNSYS0000014885
 4,Solanum villosum subsp. miniatum,NBNSYS0000014898
@@ -1740,6 +1873,8 @@ code,taxon,tvk
 4,Fumaria bastardii x muralis,NBNSYS0000014911
 4,Acaena anserinifolia x inermis,NBNSYS0000014912
 2,Glycine max,NBNSYS0000014913
+6,Euphrasia anglica x arctica,NBNSYS0000014916
+6,Euphrasia arctica x micrantha = E. x difformis,NBNSYS0000014928
 4,Oxalis rosea,NBNSYS0000014959
 4,Puccinellia distans x fasciculata,NBNSYS0000014960
 4,Atriplex glabriuscula x praecox,NBNSYS0000014962
@@ -1773,6 +1908,8 @@ code,taxon,tvk
 4,Euphrasia marshallii x rotundifolia,NBNSYS0000033341
 3,Ononis mitissima,NBNSYS0000033346
 2,Helleborus orientalis,NBNSYS0000033349
+6,Euphrasia anglica x confusa,NBNSYS0000033354
+6,Euphrasia anglica x micrantha,NBNSYS0000033355
 4,Raphanus raphanistrum subsp. landra,NBNSYS0000033357
 3,Koelreuteria paniculata,NBNSYS0000033359
 3,Bergenia cordifolia,NBNSYS0000033370
@@ -1781,7 +1918,10 @@ code,taxon,tvk
 4,Leptochloa fusca,NBNSYS0000033382
 2,Heuchera sanguinea,NBNSYS0000033391
 4,Senecio doronicum,NBNSYS0000033393
+6,Leptochloa muelleri,NBNSYS0000033405
+6,Galanthus ikariae,NBNSYS0000033406
 2,Narcissus poeticus,NBNSYS0000033407
+6,Trientalis borealis,NBNSYS0000033410
 4,Kniphofia praecox,NBNSYS0000033419
 3,Doronicum columnae,NBNSYS0000033421
 4,Ambrosia psilostachya,NBNSYS0000033422
@@ -1790,7 +1930,10 @@ code,taxon,tvk
 4,Gnaphalium purpureum,NBNSYS0000033438
 4,Betula papyrifera,NBNSYS0000033441
 4,Stipa capensis,NBNSYS0000033443
+6,Campanula carpatica,NBNSYS0000033455
+6,Nemesia strumosa,NBNSYS0000033459
 4,Campanula pyramidalis,NBNSYS0000033460
+6,Alnus viridis,NBNSYS0000033463
 3,Vaccinium corymbosum,NBNSYS0000033466
 3,Crataegus submollis,NBNSYS0000033468
 4,Amaranthus graecizans,NBNSYS0000033472
@@ -1801,38 +1944,54 @@ code,taxon,tvk
 2,Campanula poscharskyana,NBNSYS0000033488
 3,Artemisia dracunculus,NBNSYS0000033499
 3,Cynara cardunculus,NBNSYS0000033500
+6,Narcissus poeticus subsp. radiiflorus,NBNSYS0000033501
 4,Atriplex littoralis x patula,NBNSYS0000033515
+6,Lavatera thuringiaca,NBNSYS0000033519
 3,Crataegus persimilis,NBNSYS0000033525
 3,Dicksonia antarctica,NBNSYS0000033530
 3,Sedum hispanicum,NBNSYS0000033532
+6,Veronica paniculata,NBNSYS0000033534
 2,Geranium maderense,NBNSYS0000033536
 4,Salicornia pusilla x ramosissima,NBNSYS0000033558
+6,Tragopogon hybridus,NBNSYS0000033567
 2,Populus balsamifera,NBNSYS0000033571
+6,Carduus macrocephalus,NBNSYS0000033573
 4,Eragrostis minor,NBNSYS0000033574
 2,Nigella damascena,NBNSYS0000033576
 3,Saponaria ocymoides,NBNSYS0000033582
 3,Cornus alba,NBNSYS0000033585
+6,Glaucium corniculatum,NBNSYS0000033587
 4,Bromus lanceolatus,NBNSYS0000033592
+6,Diplotaxis viminea,NBNSYS0000033594
 4,Ulmus glabra x procera,NBNSYS0000033601
+6,Myrsine africana,NBNSYS0000033606
 2,Rosmarinus officinalis,NBNSYS0000033609
 3,Clematis cirrhosa,NBNSYS0000033614
 3,Chenopodium strictum,NBNSYS0000033615
 3,Sedum anacampseros,NBNSYS0000033624
 2,Vitis vinifera,NBNSYS0000033646
 3,Staphylea pinnata,NBNSYS0000033647
+6,Juniperus chinensis,NBNSYS0000033669
 3,Plantago afra,NBNSYS0000033683
 4,Eucalyptus johnstonii,NBNSYS0000033704
 4,Aralia chinensis,NBNSYS0000033715
+6,Helichrysum bracteatum,NBNSYS0000033728
 3,Festuca rubra subsp. megastachys,NBNSYS0000033730
+6,Malus baccata,NBNSYS0000033734
 4,Gentianella amarella x uliginosa,NBNSYS0000033735
+6,Sedum cepaea,NBNSYS0000033756
 4,Crataegus coccinioides,NBNSYS0000033766
 4,Campanula fragilis,NBNSYS0000033770
+6,Festuca arundinacea x Lolium multiflorum,NBNSYS0000033775
 3,Iris ensata,NBNSYS0000033776
 2,Spinacia oleracea,NBNSYS0000033777
 4,Spiraea media,NBNSYS0000033778
+6,Origanum majorana,NBNSYS0000033782
 4,Solanum laciniatum,NBNSYS0000033796
 4,Crocus kotschyanus,NBNSYS0000033798
+6,Scorzonera hispanica,NBNSYS0000033815
 3,Silene pendula,NBNSYS0000033819
+6,Pteris vittata,NBNSYS0000033821
 3,Sida spinosa,NBNSYS0000033822
 2,Scorpiurus muricatus,NBNSYS0000033829
 3,Paulownia tomentosa,NBNSYS0000033831
@@ -1854,14 +2013,17 @@ code,taxon,tvk
 4,Sigesbeckia orientalis,NBNSYS0000033907
 3,Helenium autumnale,NBNSYS0000033915
 2,Dracunculus vulgaris,NBNSYS0000033917
+6,Lilium candidum,NBNSYS0000033918
 3,Saxifraga stolonifera,NBNSYS0000033921
 3,Cynoglottis barrelieri,NBNSYS0000033923
 2,Citrullus lanatus,NBNSYS0000033927
 4,Rumex obovatus,NBNSYS0000033930
+6,Rumex stenophyllus,NBNSYS0000033933
 4,Euphrasia frigida x scottica,NBNSYS0000033936
 4,Amaranthus thunbergii,NBNSYS0000033937
 4,Hypericum nummularium,NBNSYS0000033942
 4,Grindelia stricta,NBNSYS0000033947
+6,Lavatera plebeia,NBNSYS0000033950
 2,Jasminum officinale,NBNSYS0000033956
 2,Cotinus coggygria,NBNSYS0000033958
 4,Euphrasia arctica x heslop-harrisonii,NBNSYS0000033959
@@ -1872,12 +2034,16 @@ code,taxon,tvk
 3,Echinochloa colona,NBNSYS0000033986
 4,Helictotrichon neesii,NBNSYS0000033988
 3,Salicornia dolichostachya,NBNSYS0000033992
+6,Taxodium distichum,NBNSYS0000033999
 4,Calystegia sepium subsp. spectabilis,NBNSYS0000034002
 3,Tanacetum balsamita,NBNSYS0000034008
+6,Ceratochloa staminea,NBNSYS0000034009
 2,Abies nordmanniana,NBNSYS0000034011
+6,Nonea lutea,NBNSYS0000034013
 4,Herniaria ciliolata subsp. subciliata,NBNSYS0000034014
 3,Chrysocoma coma-aurea,NBNSYS0000034016
 4,Sagittaria subulata,NBNSYS0000034024
+6,Tilia tomentosa,NBNSYS0000034026
 3,Saxifraga rotundifolia,NBNSYS0000034027
 4,Saxifraga cuneifolia,NBNSYS0000034028
 4,Euphrasia confusa x heslop-harrisonii,NBNSYS0000034032
@@ -1890,7 +2056,9 @@ code,taxon,tvk
 2,Beta vulgaris subsp. cicla,NBNSYS0000034052
 3,Primula pulverulenta,NBNSYS0000034053
 4,Misopates calycinum,NBNSYS0000034072
+6,Calotis lappulacea,NBNSYS0000034073
 3,Tagetes erecta,NBNSYS0000034074
+6,Conringia austriaca,NBNSYS0000034078
 3,Lupinus angustifolius,NBNSYS0000034086
 4,Erodium cygnorum subsp. glandulosum,NBNSYS0000034096
 4,Aralia racemosa,NBNSYS0000034104
@@ -1899,6 +2067,9 @@ code,taxon,tvk
 2,Cucumis sativus,NBNSYS0000034128
 3,Achillea filipendulina,NBNSYS0000034144
 3,Ononis baetica,NBNSYS0000034148
+6,Geranium rubescens,NBNSYS0000034150
+6,Silene cretica,NBNSYS0000034159
+6,Sedum hybridum,NBNSYS0000034161
 3,Trachyspermum ammi,NBNSYS0000034163
 4,Nectaroscordum siculum subsp. bulgaricum,NBNSYS0000034167
 3,Sorghum bicolor,NBNSYS0000034177
@@ -1910,6 +2081,7 @@ code,taxon,tvk
 3,Ipomoea hederacea,NBNSYS0000034205
 4,Ipomoea lacunosa,NBNSYS0000034209
 2,Aucuba japonica,NBNSYS0000034210
+6,Atriplex muelleri,NBNSYS0000034211
 2,Prunus persica,NBNSYS0000034215
 2,Allium ampeloprasum,NBNSYS0000034220
 2,Salvia viridis,NBNSYS0000034225
@@ -1919,12 +2091,17 @@ code,taxon,tvk
 2,Alchemilla filicaulis,NBNSYS0000034246
 3,Narcissus jonquilla,NBNSYS0000034253
 2,Datura ferox,NBNSYS0000034268
+6,Sicyos angulatus,NBNSYS0000034270
+6,Scolymus maculatus,NBNSYS0000034272
 4,Rosa gallica,NBNSYS0000034283
 4,Eucalyptus pulchella,NBNSYS0000034290
+6,Forsythia suspensa,NBNSYS0000034291
 2,Tropaeolum majus,NBNSYS0000034299
 4,Euphrasia nemorosa x salisburgensis,NBNSYS0000034306
+6,Ledum palustre,NBNSYS0000034312
 4,Sedum nicaeense,NBNSYS0000034313
 4,Euphrasia arctica x nemorosa,NBNSYS0000034314
+6,Yucca recurvifolia,NBNSYS0000034315
 4,Hordeum pusillum,NBNSYS0000034318
 4,Brassica elongata,NBNSYS0000034323
 4,Eleusine tristachya,NBNSYS0000034327
@@ -1933,6 +2110,7 @@ code,taxon,tvk
 3,Abies cephalonica,NBNSYS0000034340
 3,Solanum rostratum,NBNSYS0000034341
 3,Neslia paniculata,NBNSYS0000034347
+6,Clinopodium grandiflorum,NBNSYS0000034349
 4,Chamaecyparis pisifera,NBNSYS0000034351
 3,Verbena bonariensis,NBNSYS0000034355
 4,Chenopodium bushianum,NBNSYS0000034358
@@ -1940,13 +2118,18 @@ code,taxon,tvk
 2,Morus nigra,NBNSYS0000034365
 3,Echinochloa frumentacea,NBNSYS0000034368
 4,Cotoneaster adpressus,NBNSYS0000034370
+6,Cirsium erisithales,NBNSYS0000034371
 4,Euphrasia confusa x ostenfeldii,NBNSYS0000034376
 4,Euphrasia arctica x salisburgensis,NBNSYS0000034380
 3,Cotoneaster rehderi,NBNSYS0000034382
+6,Aster dumosus,NBNSYS0000034385
+6,Lunaria rediviva,NBNSYS0000034389
+6,Asperula cynanchica subsp. occidentalis,NBNSYS0000034394
 3,Erigeron annuus,NBNSYS0000034400
 3,Anthyllis vulneraria subsp. carpatica,NBNSYS0000034401
 4,Xanthium ambrosioides,NBNSYS0000034404
 4,Sida rhombifolia,NBNSYS0000034408
+6,Artemisia pontica,NBNSYS0000034410
 3,Cytisus nigricans,NBNSYS0000034411
 4,Euphrasia frigida x micrantha,NBNSYS0000034414
 3,Ornithopus compressus,NBNSYS0000034420
@@ -1955,41 +2138,206 @@ code,taxon,tvk
 3,Allium pendulinum,NBNSYS0000034429
 4,Euphrasia micrantha x salisburgensis,NBNSYS0000034433
 4,Rorippa palustris x sylvestris,NBNSYS0000034437
+6,Avena fatua x sativa = A. x hybrida,NBNSYS0000034441
 3,Lampranthus roseus,NBNSYS0000034444
+6,Sorbus aucuparia x intermedia,NBNSYS0000034448
 2,Kniphofia uvaria,NBNSYS0000037296
 2,Helianthus annuus,NBNSYS0000037346
 2,Abies procera,NBNSYS0000039455
 2,Carex muricata,NBNSYS0000039526
+6,Euphorbia serrulata,NBNSYS0000039527
 3,Scleranthus perennis,NBNSYS0000039530
 4,Limonium hyblaeum,NBNSYS0000039541
 3,Pulmonaria obscura,NBNSYS0000039918
+6,Gentianella ciliata,NBNSYS0000039919
+6,Abies firma,NBNSYS0000042039
+6,Abies homolepis,NBNSYS0000042041
+6,Abies lasiocarpa,NBNSYS0000042043
+6,Acacia falciformis,NBNSYS0000042046
+6,Acer heldreichii,NBNSYS0000042049
+6,Acer japonicum,NBNSYS0000042050
+6,Acer macrophyllum,NBNSYS0000042051
+6,Acer monspessulanum,NBNSYS0000042052
+6,Acer palmatum,NBNSYS0000042053
+6,Acer rubrum,NBNSYS0000042054
+6,Acer saccharum,NBNSYS0000042056
+6,Aesculus flava,NBNSYS0000042058
 3,Alnus rubra,NBNSYS0000042064
 4,Betula utilis,NBNSYS0000042069
+6,Calocedrus decurrens,NBNSYS0000042071
+6,Buxus balearica,NBNSYS0000042072
+6,Cephalotaxus fortunei,NBNSYS0000042076
+6,Cercis siliquastrum,NBNSYS0000042079
+6,Chamaecyparis obtusa,NBNSYS0000042080
+6,Cornus florida,NBNSYS0000042083
 3,Corylus colurna,NBNSYS0000042084
+6,Crataegus intricata,NBNSYS0000042087
+6,Crataegus nigra,NBNSYS0000042092
+6,Cupressus sempervirens,NBNSYS0000042098
+6,Ficus pumila,NBNSYS0000042109
 4,Fraxinus angustifolia subsp. oxycarpa,NBNSYS0000042112
+6,Ginkgo biloba,NBNSYS0000042115
 2,Juglans nigra,NBNSYS0000042116
+6,Leptospermum sericeum,NBNSYS0000042126
+6,Liriodendron tulipifera,NBNSYS0000042129
+6,Magnolia acuminata,NBNSYS0000042131
+6,Morus alba,NBNSYS0000042137
+6,Phillyrea latifolia,NBNSYS0000042143
+6,Picea orientalis,NBNSYS0000042149
 4,Picea pungens,NBNSYS0000042151
+6,Pinus cembra,NBNSYS0000042156
+6,Pinus densiflora,NBNSYS0000042159
+6,Pinus pinea,NBNSYS0000042161
+6,Platanus orientalis,NBNSYS0000042166
+6,Prunus armeniaca,NBNSYS0000042173
+6,Quercus suber,NBNSYS0000042189
 3,Rhus coriaria,NBNSYS0000042193
 2,Rhus typhina,NBNSYS0000042194
+6,Sorbus sargentiana,NBNSYS0000042209
+6,Thuja occidentalis,NBNSYS0000042213
+6,Ulmus thomasii,NBNSYS0000042217
+6,Zelkova serrata,NBNSYS0000042220
+6,Callitriche hamulata sens.lat.,NBNSYS0000042400
+6,Cochlearia officinalis sens.lat.,NBNSYS0000042402
+6,Utricularia vulgaris sens.lat.,NBNSYS0000042407
+6,Cotoneaster microphyllus agg.,NBNSYS0000042602
+6,Erophila verna sens.lat.,NBNSYS0000042604
+6,Pyrus communis sens.lat.,NBNSYS0000042610
+6,Rorippa nasturtium-aquaticum agg.,NBNSYS0000042612
 3,Montia fontana subsp. chondrosperma,NBNSYS0000101088
 3,Helianthemum oelandicum subsp. piloselloides,NBNSYS0000101100
 4,Amaranthus hypochondriacus,NBNSYS0000141566
 2,Aphanes arvensis,NBNSYS0000141953
 3,Asplenium viride,NBNSYS0000142467
+6,Baccharis halimifolia,NBNSYS0000142699
 2,Bromus diandrus,NBNSYS0000143206
 3,Bromus rigidus,NBNSYS0000143224
 4,Bromus rubens,NBNSYS0000143225
 2,Bromus sterilis,NBNSYS0000143226
 3,Bromus tectorum,NBNSYS0000143228
 2,Callitriche stagnalis,NBNSYS0000143455
+6,Centunculus minimus,NBNSYS0000143890
 2,Drosera anglica,NBNSYS0000146364
 2,Hordeum distichon,NBNSYS0000148894
 3,Iris tuberosa,NBNSYS0000149576
 2,Juncus bufonius,NBNSYS0000149679
 4,Lampranthus deltoides,NBNSYS0000149852
+6,Pyrus communis,NBNSYS0000155555
 2,Salicornia europaea,NBNSYS0000156223
+6,Silene coronaria,NBNSYS0000156748
+6,Silene flos-cuculi,NBNSYS0000156751
 3,Sorbus latifolia,NBNSYS0000156911
+6,Utricularia vulgaris,NBNSYS0000158900
+6,Agrostis stolonifera x Polypogon viridis = X Agropogon robinsonii,NBNSYS0000161397
+6,Anemone hupehensis x vitifolia = A. x hybrida,NBNSYS0000161415
+6,Arctium lappa x minus = A. x nothum,NBNSYS0000161419
+6,Asplenium trichomanes x septentrionale = A. x alternifolium,NBNSYS0000161433
+6,Aster laevis x novi-belgii = A. x versicolor,NBNSYS0000161434
+6,Betula pendula x pubescens = B. x aurata,NBNSYS0000161443
+6,Brachyglottis compacta x laxifolia = B. 'Sunshine',NBNSYS0000161444
+6,Buddleja davidii x globosa = B. x weyeriana,NBNSYS0000161448
+6,Calystegia sepium x pulchra = C. x scanica,NBNSYS0000161451
+6,Calystegia sepium x silvatica = C. x lucana,NBNSYS0000161452
+6,Carduus crispus x nutans = C. x stangii,NBNSYS0000161459
+6,Carex acutiformis x vesicaria = C. x ducellieri,NBNSYS0000161465
+6,Carex hostiana x viridula = C. x fulva,NBNSYS0000161487
+6,Circaea lutetiana x alpina = C. x intermedia,NBNSYS0000161511
+6,Cirsium eriophorum x vulgare = C. x grandiflorum,NBNSYS0000161519
+6,Cotoneaster frigidus x salicifolius = C. x watereri,NBNSYS0000161533
+6,Doronicum pardalianches x plantagineum = D. x willdenowii,NBNSYS0000161570
+6,Elytrigia atherica x juncea = E. x acuta,NBNSYS0000161593
+6,Elytrigia repens x Hordeum secalinum = X Elytrordeum langei,NBNSYS0000161596
+6,Epilobium hirsutum x parviflorum = E. x subhirsutum,NBNSYS0000161613
+6,Epilobium hirsutum x tetragonum = E. x brevipilum,NBNSYS0000161615
+6,Epilobium lanceolatum x obscurum = E. x lamotteanum,NBNSYS0000161618
+6,Epilobium lanceolatum x tetragonum = E. x fallacinum,NBNSYS0000161621
+6,Epilobium montanum x roseum = E. x mutabile,NBNSYS0000161624
+6,Epilobium montanum x tetragonum = E. x haussknechtianum,NBNSYS0000161625
+6,Epilobium obscurum x roseum = E. x brachiatum,NBNSYS0000161628
+6,Epilobium parviflorum x tetragonum = E. x palatinum,NBNSYS0000161634
+6,Equisetum hyemale x ramosissimum = E. x moorei,NBNSYS0000161650
+6,Equisetum hyemale x variegatum = E. x trachyodon,NBNSYS0000161651
+6,Erica mackaiana x tetralix = E. x stuartii,NBNSYS0000161658
+6,Erysimum decumbens x perofskianum = E. x marshallii,NBNSYS0000161662
+6,Euphorbia esula x waldsteinii = E. x pseudovirgata,NBNSYS0000161666
+6,Euphrasia anglica x nemorosa,NBNSYS0000161667
+6,Euphrasia arctica x tetraquetra,NBNSYS0000161668
+6,Euphrasia micrantha x scottica = E. x electa,NBNSYS0000161669
+6,Euphrasia nemorosa x stricta = E. x haussknechtii,NBNSYS0000161670
+6,Fallopia japonica x sachalinensis = F. x bohemica,NBNSYS0000161671
+6,Festuca arundinacea x Lolium perenne = X Festulolium holmbergii,NBNSYS0000161673
+6,Festuca arundinacea x gigantea = F. x fleischeri,NBNSYS0000161674
+6,Festuca gigantea x Lolium perenne = X Festulolium brinkmannii,NBNSYS0000161676
+6,Festuca pratensis x Lolium perenne = X Festulolium loliaceum,NBNSYS0000161679
+6,Fuchsia cordifolia x globosa = F. 'Corallina',NBNSYS0000161685
+6,Galium verum x mollugo = G. x pomeranicum,NBNSYS0000161690
+6,Geranium phaeum x reflexum = G. x monacense,NBNSYS0000161694
+6,Geum rivale x urbanum = G. x intermedium,NBNSYS0000161695
+6,Glyceria fluitans x notata = G. x pedicellata,NBNSYS0000161696
+6,Hebe elliptica x speciosa = H. x franciscana,NBNSYS0000161700
+6,Holcus lanatus x mollis = H. x hybridus,NBNSYS0000161706
+6,Hypericum androsaemum x hircinum = H. x inodorum,NBNSYS0000161707
+6,Leucanthemum lacustre x maximum = L. x superbum,NBNSYS0000161725
+6,Linaria purpurea x repens = L. x dominii,NBNSYS0000161728
+6,Lonicera caprifolium x etrusca = L. x italica,NBNSYS0000161733
+6,Mentha aquatica x spicata = M. x piperita,NBNSYS0000161746
+6,Mentha aquatica x suaveolens = M. x suavis,NBNSYS0000161747
+6,Mentha arvensis x spicata = M. x gracilis,NBNSYS0000161748
+6,Mentha arvensis x suaveolens = M. x carinthiaca,NBNSYS0000161749
+6,Mentha spicata x suaveolens = M. x villosa,NBNSYS0000161752
 4,Narcissus tazetta x jonquilla = N. x intermedius,NBNSYS0000161767
+6,Nepeta nepetella x racemosa = N. x faassenii,NBNSYS0000161771
+6,Nuphar lutea x pumila = N. x spenneriana,NBNSYS0000161773
+6,Persicaria hydropiper x minor = P. x subglandulosa,NBNSYS0000161787
+6,Persicaria maculosa x minor = P. x brauniana,NBNSYS0000161791
+6,Pilosella caespitosa x lactucella = P. x floribunda,NBNSYS0000161795
+6,Platanus occidentalis x orientalis = P. x hispanica,NBNSYS0000161802
+6,Populus alba x tremula = P. x canescens,NBNSYS0000161821
+6,Potentilla crantzii x tabernaemontani = P. x beckii,NBNSYS0000161861
+6,Potentilla erecta x reptans = P. x italica,NBNSYS0000161862
+6,Quercus petraea x robur = Q. x rosacea,NBNSYS0000161876
+6,Ranunculus trichophyllus x fluitans = R. x bachii,NBNSYS0000161887
+6,Rheum palmatum x rhaponticum = R. x hybridum,NBNSYS0000161890
+6,Rosa arvensis x canina = R. x irregularis,NBNSYS0000161899
+6,Rosa arvensis x stylosa = R. x pseudorusticana,NBNSYS0000161904
+6,Rosa caesia x micrantha = R. x longicolla,NBNSYS0000161906
+6,Rosa caesia x mollis = R. x glaucoides,NBNSYS0000161907
+6,Rosa canina x obtusifolia = R. x dumetorum,NBNSYS0000161912
+6,Rosa canina x rubiginosa = R. x nitidula,NBNSYS0000161914
+6,Rosa canina x tomentosa = R. x scabriuscula,NBNSYS0000161917
+6,Rumex crispus x obtusifolius = R. x pratensis,NBNSYS0000161965
+6,Salix alba x babylonica = S. x sepulcralis,NBNSYS0000161986
+6,Salix cinerea x phylicifolia = S. x laurina,NBNSYS0000162016
+6,Salix myrsinifolia x phylicifolia = S. x tetrapla,NBNSYS0000162034
+6,Schoenoplectus lacustris x triqueter = S. x carinatus,NBNSYS0000162060
+6,Schoenoplectus tabernaemontani x triqueter = S. x kuekenthalianus,NBNSYS0000162061
+6,Scutellaria galericulata x minor = S. x hybrida,NBNSYS0000162066
+6,Senecio cineraria x erucifolius = S. x thuretii,NBNSYS0000162068
+6,Senecio cineraria x jacobaea = S. x albescens,NBNSYS0000162069
+6,Senecio squalidus x viscosus = S. x subnebrodensis,NBNSYS0000162071
+6,Solanum nigrum x physalifolium = S. x procurrens,NBNSYS0000162082
+6,Sorbus aria x torminalis = S. x tomentella,NBNSYS0000162085
+6,Ulmus glabra x minor x plotii = U. x hollandica,NBNSYS0000162111
+6,Ulmus glabra x plotii = U. ? x elegantissima,NBNSYS0000162112
+6,Ulmus minor x plotii = U. x viminalis,NBNSYS0000162113
+6,Verbascum blattaria x nigrum = V. x intermedium,NBNSYS0000162115
+6,Verbascum nigrum x lychnitis = V. x incanum,NBNSYS0000162119
+6,Verbascum nigrum x pulverulentum = V. x mixtum,NBNSYS0000162120
+6,Verbascum phlomoides x thapsus = V. x kerneri,NBNSYS0000162122
+6,Verbascum pulverulentum x lychnitis = V. x regelianum,NBNSYS0000162123
+6,Verbascum thapsus x lychnitis = V. x thapsi,NBNSYS0000162126
+6,Verbascum thapsus x nigrum = V. x semialbum,NBNSYS0000162127
+6,Verbascum thapsus x pulverulentum = V. x godronii,NBNSYS0000162128
+6,Verbascum thapsus x speciosum = V. x duernsteinense,NBNSYS0000162129
+6,Verbascum virgatum x thapsus = V. x lemaitrei,NBNSYS0000162131
+6,Veronica anagallis-aquatica x catenata = V. x lackschewitzii,NBNSYS0000162135
+6,Viburnum lantana x rhytidophyllum = V. x rhytidophylloides,NBNSYS0000162136
+6,Viola canina x persicifolia = V. x ritschliana,NBNSYS0000162139
+6,Viola reichenbachiana x canina = V. x mixta,NBNSYS0000162142
+6,Viola riviniana x canina = V. x intersita,NBNSYS0000162144
+6,Viola riviniana x reichenbachiana = V. x bavarica,NBNSYS0000162145
+6,Viola rupestris x riviniana = V. x burnatii,NBNSYS0000162147
+6,Viola tricolor x arvensis = V. x contempta,NBNSYS0000162148
 4,Narcissus triandrus,NBNSYS0000163322
 4,Narcissus cyclamineus,NBNSYS0000164149
 4,Alchemilla micans,NBNSYS0100001449
@@ -2011,38 +2359,379 @@ code,taxon,tvk
 4,Cotoneaster wardii,NBNSYS0100002638
 4,Dipsacus fullonum x sativus,NBNSYS0100002863
 3,Dipsacus laciniatus,NBNSYS0100002864
+6,Epilobium ciliatum x brunnescens = E. x brunnatum,NBNSYS0100003037
+6,Epilobium lanceolatum x ciliatum,NBNSYS0100003038
+6,Epilobium montanum x brunnescens = E. x confusilobum,NBNSYS0100003039
+6,Epilobium montanum x ciliatum = E. x interjectum,NBNSYS0100003040
+6,Epilobium obscurum x brunnescens = E. x obscurescens,NBNSYS0100003041
+6,Epilobium palustre x brunnescens = E. x chateri,NBNSYS0100003042
+6,Epilobium parviflorum x ciliatum = E. x floridulum,NBNSYS0100003043
+6,Epilobium roseum x ciliatum = E. x nutantiflorum,NBNSYS0100003044
+6,Epilobium tetragonum x ciliatum = E. x mentiens,NBNSYS0100003046
 2,Erodium cicutarium agg.,NBNSYS0100003073
 2,Euphorbia esula agg.,NBNSYS0100003114
+6,Euphrasia anglica x vigursii,NBNSYS0100003117
+6,Euphrasia confusa x campbelliae,NBNSYS0100003118
+6,Euphrasia confusa x foulaensis,NBNSYS0100003119
+6,Euphrasia marshallii x campbelliae,NBNSYS0100003120
 4,Euphrasia marshallii x scottica,NBNSYS0100003121
+6,Euphrasia nemorosa x campbelliae,NBNSYS0100003122
+6,Euphrasia nemorosa x confusa,NBNSYS0100003123
+6,Euphrasia nemorosa x foulaensis,NBNSYS0100003124
+6,Euphrasia nemorosa x marshallii,NBNSYS0100003125
+6,Euphrasia nemorosa x micrantha,NBNSYS0100003126
+6,Euphrasia ostenfeldii x micrantha,NBNSYS0100003127
+6,Euphrasia pseudokerneri x confusa,NBNSYS0100003128
+6,Euphrasia rostkoviana x anglica,NBNSYS0100003129
+6,Euphrasia rostkoviana x arctica,NBNSYS0100003130
+6,Euphrasia rostkoviana x confusa,NBNSYS0100003131
+6,Euphrasia rostkoviana x micrantha,NBNSYS0100003132
+6,Euphrasia rostkoviana x rivularis,NBNSYS0100003133
+6,Euphrasia tetraquetra x confusa,NBNSYS0100003134
+6,Euphrasia tetraquetra x micrantha,NBNSYS0100003135
+6,Euphrasia tetraquetra x nemorosa,NBNSYS0100003136
+6,Euphrasia tetraquetra x pseudokerneri,NBNSYS0100003138
+6,Euphrasia vigursii x tetraquetra,NBNSYS0100003139
 4,Fargesia spathacea,NBNSYS0100003186
+6,Galanthus nivalis x elwesii,NBNSYS0100003231
 3,Geum quellyon,NBNSYS0100003260
 4,Hedera algeriensis,NBNSYS0100003376
 3,Helianthemum oelandicum subsp. levigatum,NBNSYS0100003384
 2,Papaver pseudoorientale,NBNSYS0100004415
 4,Populus x canadensis 'Heidemij',NBNSYS0100004841
+6,Rosa arvensis x rugosa = R. x paulii,NBNSYS0100005189
 4,Rosa arvensis x tomentosa,NBNSYS0100005192
 3,Rosa ferruginea,NBNSYS0100005252
+6,Salix myrsinifolia x phylicifolia x repens,NBNSYS0100005369
+6,Urospermum dalechampii,NBNSYS0100005942
+6,Acanthospermum australe,NBNSYS0200001642
+6,Achillea ageratum,NBNSYS0200001644
+6,Achillea alpina,NBNSYS0200001645
+6,Achillea micrantha,NBNSYS0200001651
+6,Adonis aestivalis,NBNSYS0200001662
+6,Adonis flammea,NBNSYS0200001663
+6,Aegilops cylindrica,NBNSYS0200001668
+6,Aegilops speltoides,NBNSYS0200001672
+6,Aegilops speltoides subsp. ligustica,NBNSYS0200001673
+6,Aira cupaniana,NBNSYS0200001697
+6,Aira elegantissima,NBNSYS0200001698
+6,Allium cyrilli,NBNSYS0200001706
+6,Alonsoa warscewiczii,NBNSYS0200001714
 3,Alopecurus magellanicus,NBNSYS0200001716
+6,Alopecurus utriculatus,NBNSYS0200001719
+6,Alternanthera nodiflora,NBNSYS0200001722
+6,Amaranthus clementii,NBNSYS0200001736
+6,Amaranthus macrocarpus,NBNSYS0200001739
+6,Amaranthus muricatus,NBNSYS0200001741
+6,Amaranthus spinosus,NBNSYS0200001745
+6,Amaranthus viridis,NBNSYS0200001748
+6,Ambrosia acanthicarpa,NBNSYS0200001751
+6,Ambrosia maritima,NBNSYS0200001752
+6,Anacyclus clavatus,NBNSYS0200001765
+6,Anacyclus valentinus,NBNSYS0200001767
+6,Anagallis monelli,NBNSYS0200001768
+6,Anchusa arvensis subsp. orientalis,NBNSYS0200001771
+6,Anchusa undulata,NBNSYS0200001775
+6,Anemone coronaria,NBNSYS0200001780
+6,Anthemis altissima,NBNSYS0200001787
 4,Anthemis austriaca,NBNSYS0200001788
+6,Anthemis ruthenica,NBNSYS0200001794
+6,Anthemis tomentosa,NBNSYS0200001795
+6,Arctotis stoechadifolia,NBNSYS0200001809
+6,Armeria pseudoarmeria,NBNSYS0200001817
+6,Artemisia ludoviciana,NBNSYS0200001825
+6,Artemisia macrantha,NBNSYS0200001826
+6,Asphodelus fistulosus,NBNSYS0200001835
+6,Aspidistra elatior,NBNSYS0200001837
 4,Aster pilosus,NBNSYS0200001844
+6,Astragalus hamosus,NBNSYS0200001854
+6,Atriplex spongiosa,NBNSYS0200001878
+6,Atriplex tatarica,NBNSYS0200001880
+6,Berkheya pinnatifida,NBNSYS0200001913
+6,Bifora radians,NBNSYS0200001921
+6,Bromus arduennensis,NBNSYS0200001955
+6,Bromus intermedius,NBNSYS0200001959
+6,Bromus scoparius,NBNSYS0200001961
+6,Camelina rumelica,NBNSYS0200001986
+6,Dichrocephala integrifolia,NBNSYS0200002004
+6,Dorycnium hirsutum,NBNSYS0200002034
+6,Dracocephalum parviflorum,NBNSYS0200002036
+6,Echium italicum,NBNSYS0200002055
+6,Echium lusitanicum,NBNSYS0200002056
+6,Echium parviflorum,NBNSYS0200002057
+6,Ehrharta erecta,NBNSYS0200002062
+6,Elaeagnus glabra,NBNSYS0200002070
+6,Enneapogon desvauxii,NBNSYS0200002088
+6,Eragrostis planiculmis,NBNSYS0200002120
+6,Eragrostis procumbens,NBNSYS0200002121
+6,Erodium laciniatum,NBNSYS0200002147
+6,Erodium stephanianum,NBNSYS0200002151
+6,Erysimum hieraciifolium,NBNSYS0200002161
+6,Euphorbia cuneifolia,NBNSYS0200002169
+6,Euphorbia mellifera,NBNSYS0200002173
+6,Euphorbia myrsinites,NBNSYS0200002174
+6,Fargesia murielae,NBNSYS0200002181
+6,Fuchsia x hybrida,NBNSYS0200002204
+6,Furcraea bedinghausii,NBNSYS0200002206
+6,Galium murale,NBNSYS0200002214
+6,Genista linifolia,NBNSYS0200002222
+6,Geranium brutium,NBNSYS0200002229
+6,Gilia achilleifolia,NBNSYS0200002240
+6,Gilia capitata,NBNSYS0200002241
+6,Glycyrrhiza echinata,NBNSYS0200002251
+6,Grindelia squarrosa,NBNSYS0200002265
+6,Gypsophila muralis,NBNSYS0200002268
+6,Helianthus angustifolius,NBNSYS0200002290
+6,Helianthus debilis,NBNSYS0200002293
+6,Helichrysum italicum,NBNSYS0200002301
+6,Helichrysum stoechas,NBNSYS0200002303
+6,Heliotropium europaeum,NBNSYS0200002311
+6,Hibiscus syriacus,NBNSYS0200002323
+6,Hippocrepis unisiliquosa,NBNSYS0200002328
+6,Hyoscyamus albus,NBNSYS0200002356
+6,Hyoscyamus aureus,NBNSYS0200002357
+6,Hypecoum pendulum,NBNSYS0200002362
+6,Hypericum olympicum,NBNSYS0200002365
+6,Iberis crenata,NBNSYS0200002369
+6,Inula orientalis,NBNSYS0200002376
+6,Ipomoea batatas,NBNSYS0200002377
+6,Iris reticulata,NBNSYS0200002385
+6,Iva microcephala,NBNSYS0200002392
+6,Ixia maculata,NBNSYS0200002393
+6,Jovibarba sobolifera,NBNSYS0200002396
+6,Lampranthus spectabilis,NBNSYS0200002435
+6,Lappula deflexa,NBNSYS0200002436
+6,Laserpitium latifolium,NBNSYS0200002440
+6,Lathyrus cicera,NBNSYS0200002446
+6,Lathyrus hierosolymitanus,NBNSYS0200002449
+6,Lathyrus inconspicuus,NBNSYS0200002450
+6,Lathyrus ochrus,NBNSYS0200002452
+6,Lathyrus saxatilis,NBNSYS0200002455
+6,Lathyrus sphaericus,NBNSYS0200002457
+6,Lavatera punctata,NBNSYS0200002460
+6,Lavatera triloba,NBNSYS0200002461
+6,Legousia pentagonia,NBNSYS0200002464
+6,Linaria bipartita,NBNSYS0200002532
+6,Linum austriacum,NBNSYS0200002543
+6,Linum grandiflorum,NBNSYS0200002544
+6,Lobelia gracilis,NBNSYS0200002552
+6,Lolium persicum,NBNSYS0200002554
 3,Lupinus luteus,NBNSYS0200002574
+6,Madia sativa,NBNSYS0200002585
+6,Mahonia japonica,NBNSYS0200002586
+6,Malope malacoides,NBNSYS0200002588
+6,Malope trifida,NBNSYS0200002589
+6,Malva aegyptia,NBNSYS0200002590
+6,Mantisalca salmantica,NBNSYS0200002600
+6,Margyricarpus pinnatus,NBNSYS0200002601
+6,Marrubium alysson,NBNSYS0200002602
+6,Marrubium peregrinum,NBNSYS0200002603
+6,Medicago coronata,NBNSYS0200002608
+6,Medicago murex,NBNSYS0200002615
+6,Medicago orbicularis,NBNSYS0200002617
+6,Medicago prostrata,NBNSYS0200002618
+6,Medicago rigidula,NBNSYS0200002620
+6,Medicago turbinata,NBNSYS0200002627
+6,Melilotus infestus,NBNSYS0200002632
+6,Melilotus messanensis,NBNSYS0200002633
+6,Melilotus neapolitanus,NBNSYS0200002634
 4,Miscanthus sinensis,NBNSYS0200002653
+6,Monarda didyma,NBNSYS0200002660
+6,Muscari azureum,NBNSYS0200002669
+6,Myosotis dissitiflora,NBNSYS0200002671
+6,Myosotis verna,NBNSYS0200002672
+6,Nemophila menziesii,NBNSYS0200002685
+6,Nepeta grandiflora,NBNSYS0200002687
+6,Oenothera laciniata,NBNSYS0200002723
+6,Oenothera missouriensis,NBNSYS0200002725
+6,Oenothera tetraptera,NBNSYS0200002729
+6,Orlaya grandiflora,NBNSYS0200002750
 4,Ornithogalum arabicum,NBNSYS0200002751
+6,Orobanche lucorum,NBNSYS0200002756
+6,Panicum effusum,NBNSYS0200002775
+6,Panicum novemnerve,NBNSYS0200002780
+6,Papaver arenarium,NBNSYS0200002789
+6,Papaver laevigatum,NBNSYS0200002792
+6,Papaver nudicaule,NBNSYS0200002793
+6,Paronychia argentea,NBNSYS0200002799
+6,Passiflora caerulea,NBNSYS0200002808
+6,Pennisetum glaucum,NBNSYS0200002816
+6,Phacelia ciliata,NBNSYS0200002837
+6,Phacelia parviflora,NBNSYS0200002842
+6,Phalaris angusta,NBNSYS0200002845
+6,Phleum exaratum,NBNSYS0200002853
+6,Phlox subulata,NBNSYS0200002858
 2,Phoenix dactylifera,NBNSYS0200002859
+6,Phyllostachys nigra,NBNSYS0200002863
+6,Physalis angulata,NBNSYS0200002866
+6,Physalis fendleri,NBNSYS0200002867
+6,Physalis pubescens,NBNSYS0200002871
+6,Phytolacca icosandra,NBNSYS0200002878
 3,Picris hieracioides subsp. spinulosa,NBNSYS0200002882
+6,Pieris floribunda,NBNSYS0200002884
+6,Pistia stratiotes,NBNSYS0200002892
+6,Pittosporum ralphii,NBNSYS0200002895
+6,Plantago lagopus,NBNSYS0200002905
+6,Polemonium foliosissimum,NBNSYS0200002933
+6,Polypogon elongatus,NBNSYS0200002945
+6,Polypogon maritimus,NBNSYS0200002948
+6,Potentilla hirta,NBNSYS0200002962
 4,Potentilla montana,NBNSYS0200002963
+6,Potentilla nepalensis,NBNSYS0200002964
+6,Prenanthes purpurea,NBNSYS0200002969
+6,Primula bulleyana,NBNSYS0200002970
+6,Primula x pruhonicensis,NBNSYS0200002971
+6,Psilurus incurvus,NBNSYS0200002975
+6,Psoralea bituminosa,NBNSYS0200002976
+6,Puccinellia festuciformis,NBNSYS0200002984
+6,Ranunculus monspeliacus,NBNSYS0200002995
+6,Rodgersia aesculifolia,NBNSYS0200003016
+6,Rosa blanda,NBNSYS0200003020
+6,Rosa carolina,NBNSYS0200003021
+6,Rumex bucephalophorus,NBNSYS0200003040
+6,Rumex crystallinus,NBNSYS0200003041
+6,Rumex pulcher subsp. divaricatus,NBNSYS0200003044
+6,Rytidosperma penicillatum,NBNSYS0200003051
+6,Salix irrorata,NBNSYS0200003056
+6,Salvia aethiopis,NBNSYS0200003060
+6,Salvia virgata,NBNSYS0200003065
+6,Salvia x andrzejowskii,NBNSYS0200003066
+6,Saponaria calabrica,NBNSYS0200003069
+6,Satureja hortensis,NBNSYS0200003075
+6,Saxifraga x arendsii,NBNSYS0200003079
+6,Scabiosa caucasica,NBNSYS0200003081
+6,Scleria bracteata,NBNSYS0200003095
+6,Scrophularia peregrina,NBNSYS0200003103
 4,Scrophularia scopolii,NBNSYS0200003104
+6,Sempervivum montanum,NBNSYS0200003117
+6,Senecio elegans,NBNSYS0200003123
 4,Senna obtusifolia,NBNSYS0200003136
 4,Senna occidentalis,NBNSYS0200003137
+6,Serapias lingua,NBNSYS0200003138
+6,Sesamum orientale,NBNSYS0200003141
+6,Sideritis montana,NBNSYS0200003150
+6,Sideritis romana,NBNSYS0200003151
+6,Sigesbeckia microcephala,NBNSYS0200003152
+6,Silene behen,NBNSYS0200003155
 4,Silene catholica,NBNSYS0200003157
+6,Silene cordifolia,NBNSYS0200003158
+6,Silene nocturna,NBNSYS0200003165
+6,Silene rubella,NBNSYS0200003169
+6,Silene stricta,NBNSYS0200003171
+6,Silphium perfoliatum,NBNSYS0200003177
+6,Sisymbrium septulatum,NBNSYS0200003183
+6,Skimmia japonica,NBNSYS0200003186
+6,Smilax excelsa,NBNSYS0200003189
+6,Solanum capsicoides,NBNSYS0200003192
+6,Solidago odora,NBNSYS0200003206
+6,Solidago sempervirens,NBNSYS0200003207
+6,Sporobolus fimbriatus,NBNSYS0200003230
+6,Stachys cretica,NBNSYS0200003235
+6,Stachys macrantha,NBNSYS0200003237
+6,Staphylea colchica,NBNSYS0200003239
+6,Stipa ambigua,NBNSYS0200003242
+6,Taeniatherum caput-medusae,NBNSYS0200003276
+6,Tagetes tenuifolia,NBNSYS0200003280
+6,Tanacetum coccineum,NBNSYS0200003285
+6,Teucrium fruticans,NBNSYS0200003293
+6,Tiarella cordifolia,NBNSYS0200003304
+6,Tragus koelerioides,NBNSYS0200003317
+6,Trichomanes venosum,NBNSYS0200003321
+6,Trifolium affine,NBNSYS0200003323
+6,Trifolium cherleri,NBNSYS0200003329
+6,Trifolium leucanthum,NBNSYS0200003340
+6,Trifolium michelianum,NBNSYS0200003342
+6,Trifolium nigrescens,NBNSYS0200003346
+6,Trifolium pilulare,NBNSYS0200003349
+6,Trifolium retusum,NBNSYS0200003351
+6,Trifolium spumosum,NBNSYS0200003353
+6,Trigonella aurantiaca,NBNSYS0200003361
+6,Trigonella crassipes,NBNSYS0200003364
+6,Trigonella monspeliaca,NBNSYS0200003373
+6,Trigonella polyceratia,NBNSYS0200003374
+6,Triplachne nitens,NBNSYS0200003380
+6,Triticum spelta,NBNSYS0200003391
+6,Urospermum picroides,NBNSYS0200003401
 3,Valeriana phu,NBNSYS0200003405
+6,Carex brunnea,NBNSYS0200003431
+6,Catalpa bignonioides,NBNSYS0200003452
 4,Centaurea cineraria,NBNSYS0200003468
+6,Centaurea diffusa,NBNSYS0200003472
+6,Centaurea hyalolepis,NBNSYS0200003474
+6,Centaurea maculosa,NBNSYS0200003478
+6,Centaurea orientalis,NBNSYS0200003481
+6,Centaurea rhenana,NBNSYS0200003484
+6,Centaurea spinosa,NBNSYS0200003485
+6,Centaurea trichocephala,NBNSYS0200003487
+6,Centaurea verutum,NBNSYS0200003489
+6,Centranthus macrosiphon,NBNSYS0200003491
+6,Ceratocephala falcata,NBNSYS0200003498
+6,Ceratostigma plumbaginoides,NBNSYS0200003500
+6,Cerinthe major,NBNSYS0200003502
+6,Chamaemelum mixtum,NBNSYS0200003513
+6,Chenopodium aristatum,NBNSYS0200003518
+6,Chenopodium botrys,NBNSYS0200003522
+6,Chenopodium detestans,NBNSYS0200003523
+6,Chenopodium foliosum,NBNSYS0200003524
+6,Chenopodium procerum,NBNSYS0200003531
+6,Chiastophyllum oppositifolium,NBNSYS0200003539
+6,Chloris pycnothrix,NBNSYS0200003544
+6,Cichorium endivia,NBNSYS0200003553
+6,Cirsium rivulare,NBNSYS0200003564
+6,Cistus salviifolius,NBNSYS0200003567
+6,Cladanthus arabicus,NBNSYS0200003576
 4,Cleome sesquiorygalis,NBNSYS0200003585
+6,Clerodendrum trichotomum,NBNSYS0200003587
+6,Clinopodium rotundifolium,NBNSYS0200003589
+6,Colchicum agrippinum,NBNSYS0200003594
+6,Collomia grandiflora,NBNSYS0200003601
+6,Convolvulus erubescens,NBNSYS0200003612
+6,Convolvulus sabatius,NBNSYS0200003614
+6,Convolvulus siculus,NBNSYS0200003615
+6,Convolvulus tricolor,NBNSYS0200003617
+6,Cotula turbinata,NBNSYS0200003645
+6,Crepis rubra,NBNSYS0200003668
+6,Crepis zacintha,NBNSYS0200003671
+6,Crucianella angustifolia,NBNSYS0200003674
+6,Cucumis myriocarpus,NBNSYS0200003682
+6,Cuscuta suaveolens,NBNSYS0200003689
+6,Cynoglossum amabile,NBNSYS0200003700
+6,Cyperus esculentus,NBNSYS0200003712
+6,Cyperus involucratus,NBNSYS0200003716
+6,Dahlia x cultorum nom. nud.,NBNSYS0200003733
+6,Datura metel,NBNSYS0200003737
+6,Deschampsia danthonioides,NBNSYS0200003758
+6,Descurainia pinnata,NBNSYS0200003759
+6,Verbascum creticum,NBNSYS0200003765
+6,Verbascum olympicum,NBNSYS0200003766
+6,Verbena elegans,NBNSYS0200003770
+6,Veronica grisebachii,NBNSYS0200003788
+6,Viburnum farreri,NBNSYS0200003795
+6,Vicia monantha,NBNSYS0200003810
+6,Vicia peregrina,NBNSYS0200003813
+6,Viola labradorica,NBNSYS0200003820
+6,Vittadinia triloba,NBNSYS0200003822
+6,Vulpia geniculata,NBNSYS0200003826
+6,Wahlenbergia nutabunda,NBNSYS0200003830
+6,Xeranthemum annuum,NBNSYS0200003842
+6,Yucca filamentosa,NBNSYS0200003845
 3,Yucca gloriosa,NBNSYS0200003846
+6,Zauschneria californica,NBNSYS0200003848
+6,Ziziphora taurica,NBNSYS0200003855
+6,Calceolaria integrifolia,NBNSYS0200003863
+6,Cardamine chelidonia,NBNSYS0200003865
+6,Eragrostis brownii,NBNSYS0200003871
+6,Ligustrum lucidum,NBNSYS0200003881
+6,Matthiola tricuspidata,NBNSYS0200003882
+6,Oenothera rosea,NBNSYS0200003883
+6,Thujopsis dolabrata,NBNSYS0200003888
+6,Tradescantia zebrina,NBNSYS0200003889
+6,Calystegia sepium sens.lat.,NBNSYS0500000006
 4,Euphrasia campbelliae x micrantha,NBNSYS0500000217
 4,Euphrasia confusa x frigida x scottica,NBNSYS0500000218
 4,Rosa obtusifolia x sherardii,NBNSYS0500000237
 4,Houttuynia cordata,NBNSYS0500000256
+6,Serapias cordigera,NBNSYS0500000272
 4,Fraxinus angustifolia subsp. angustifolia,NBNSYS0500000276
 4,Campanula cochleariifolia,NBNSYS0500000306
 4,Cotoneaster serotinus,NBNSYS0500000307
@@ -2050,9 +2739,11 @@ code,taxon,tvk
 4,Elaeagnus pungens,NBNSYS0500000309
 3,Helichrysum petiolare,NBNSYS0500000311
 3,Narcissus pseudonarcissus subsp. moschatus,NBNSYS0500000312
+6,Navarretia squarrosa,NBNSYS0500000313
 3,Prunella grandiflora,NBNSYS0500000315
 4,Sedum stellatum,NBNSYS0500000317
 4,Ugni molinae,NBNSYS0500000318
+6,Rumex conglomeratus x rupestris = R. x rosemurphyae,NBNSYS0500000358
 4,Sorbus mougeotii,NBNSYS0500000362
 3,Ballota acetabulosa,NBNSYS0500000367
 4,Triteleia laxa,NBNSYS0500000414
@@ -2060,39 +2751,60 @@ code,taxon,tvk
 4,Crocosmia paniculata,NHMSYS0000344498
 3,Euphorbia amygdaloides subsp. robbiae,NHMSYS0000344590
 2,Festuca ovina,NHMSYS0000344612
+6,Oenothera glazioviana x biennis = O. x fallax,NHMSYS0000344809
 3,Rumex crispus subsp. littoreus,NHMSYS0000344858
 4,Carex acuta x nigra,NHMSYS0000345114
+6,Chenopodium pumilio,NHMSYS0000345175
+6,Gaultheria shallon x mucronata = G. x wisleyensis,NHMSYS0000345257
 4,Geranium psilostemon,NHMSYS0000345279
+6,Hebe dieffenbachii,NHMSYS0000345305
 4,Hyacinthoides italica,NHMSYS0000345354
 2,Populus nigra,NHMSYS0000345555
 3,Primula florindae,NHMSYS0000345582
+6,Pyrus pyraster,NHMSYS0000345610
 3,Rosa rubiginosa,NHMSYS0000345661
+6,Rosa stylosa x rubiginosa = R. x bengyana,NHMSYS0000345662
 4,Salix phylicifolia x repens,NHMSYS0000345679
 4,Sorbus decipiens,NHMSYS0000345832
 2,Vicia sativa subsp. segetalis,NHMSYS0000345903
 2,Carex arenaria,NHMSYS0000352601
+6,Juncus bufonius agg. sensu lato,NHMSYS0000352722
 2,Polygonum aviculare,NHMSYS0000455480
+6,Potentilla tabernaemontani,NHMSYS0000455482
+6,Rosa canina,NHMSYS0000455486
 2,Abies alba,NHMSYS0000455513
+6,Abies cilicica,NHMSYS0000455514
+6,Abies concolor,NHMSYS0000455515
+6,Abies delavayi,NHMSYS0000455516
 2,Abies grandis,NHMSYS0000455520
 2,Abutilon theophrasti,NHMSYS0000455527
 3,Acacia melanoxylon,NHMSYS0000455529
 3,Acaena anserinifolia,NHMSYS0000455532
 3,Acaena inermis,NHMSYS0000455533
+6,Acaena magellanica,NHMSYS0000455534
+6,Acaena microphylla,NHMSYS0000455536
 3,Acaena ovalifolia,NHMSYS0000455538
+6,Achillea decolorans,NHMSYS0000455564
 3,Aconitum napellus,NHMSYS0000455574
 3,Aconitum napellus subsp. napellus,NHMSYS0000455578
 3,Aconitum napellus subsp. vulgare,NHMSYS0000455579
+6,Aeonium arboreum,NHMSYS0000455621
+6,Aeonium canariense,NHMSYS0000455622
 3,Aeonium cuneatum,NHMSYS0000455623
 1,Aesculus carnea,NHMSYS0000455625
 3,Aesculus indica,NHMSYS0000455626
 3,Aethusa cynapium subsp. agrestis,NHMSYS0000455630
+6,Aethusa cynapium subsp. cynapioides,NHMSYS0000455631
 3,Aethusa cynapium subsp. cynapium,NHMSYS0000455632
 4,Agapanthus praecox subsp. orientalis,NHMSYS0000455638
 3,Ageratum houstonianum,NHMSYS0000455641
+6,Agropyron cristatum,NHMSYS0000455654
 4,Agrostis avenacea,NHMSYS0000455670
 2,Agrostis canina,NHMSYS0000455671
+6,Agrostis capillaris x castellana = A. x fouilladeana,NHMSYS0000455678
 3,Agrostis castellana,NHMSYS0000455679
 2,Agrostis curtisii,NHMSYS0000455680
+6,Agrostis exarata,NHMSYS0000455682
 4,Agrostis hyemalis,NHMSYS0000455684
 2,Agrostis vinealis,NHMSYS0000455693
 2,Ailanthus altissima,NHMSYS0000455700
@@ -2105,33 +2817,44 @@ code,taxon,tvk
 2,Allium paradoxum,NHMSYS0000455760
 2,Alnus cordata,NHMSYS0000455770
 2,Alnus glutinosa,NHMSYS0000455771
+6,Alonsoa caulialata,NHMSYS0000455774
 2,Alopecurus myosuroides,NHMSYS0000455779
 4,Amaranthus blitoides,NHMSYS0000455824
+6,Amaranthus crispus,NHMSYS0000455828
 4,Amaranthus palmeri,NHMSYS0000455838
 4,Amaranthus powellii,NHMSYS0000455839
 4,Amaranthus standleyanus,NHMSYS0000455842
 2,Amelanchier lamarckii,NHMSYS0000455859
+6,Ammophila breviligulata,NHMSYS0000455878
 3,Amsinckia lycopsoides,NHMSYS0000455888
+6,Anacamptis morio,NHMSYS0000455893
+6,Anacyclus radiatus,NHMSYS0000455896
 3,Anagallis arvensis subsp. foemina,NHMSYS0000455900
 2,Anchusa arvensis,NHMSYS0000455907
 3,Anchusa azurea,NHMSYS0000455909
 4,Anchusa ochroleuca,NHMSYS0000455910
+6,Anoda cristata,NHMSYS0000455945
+6,Anredera cordifolia,NHMSYS0000455948
 2,Antennaria dioica,NHMSYS0000455950
+6,Anthemis punctata subsp. cupaniana,NHMSYS0000455956
 3,Anthoxanthum aristatum subsp. puelii,NHMSYS0000455962
 2,Anthriscus caucalis,NHMSYS0000455967
 3,Anthyllis vulneraria subsp. corbierei,NHMSYS0000455975
 3,Anthyllis vulneraria subsp. lapponica,NHMSYS0000455977
 3,Anthyllis vulneraria subsp. vulneraria,NHMSYS0000455981
+6,Aphanes arvensis agg.,NHMSYS0000455991
 3,Apium inundatum,NHMSYS0000455995
 2,Aponogeton distachyos,NHMSYS0000455997
 3,Aptenia cordifolia,NHMSYS0000456000
 2,Arabis caucasica,NHMSYS0000456009
 4,Aralia elata,NHMSYS0000456020
 1,Araucaria araucana,NHMSYS0000456023
+6,Arctium tomentosum,NHMSYS0000456031
 2,Arctostaphylos alpinus,NHMSYS0000456035
 2,Arctostaphylos uva-ursi,NHMSYS0000456036
 4,Arenaria norvegica subsp. anglica,NHMSYS0000456048
 4,Arenaria norvegica subsp. norvegica,NHMSYS0000456049
+6,Arenaria serpyllifolia subsp. leptoclados,NHMSYS0000456053
 2,Arenaria serpyllifolia subsp. serpyllifolia,NHMSYS0000456056
 3,Aristolochia hirta,NHMSYS0000456070
 2,Armeria arenaria,NHMSYS0000456075
@@ -2141,25 +2864,37 @@ code,taxon,tvk
 4,Aronia melanocarpa,NHMSYS0000456091
 2,Arrhenatherum elatius,NHMSYS0000456095
 3,Artemisia norvegica,NHMSYS0000456106
+6,Artemisia scoparia,NHMSYS0000456109
 2,Arum italicum,NHMSYS0000456118
 3,Arum italicum subsp. italicum,NHMSYS0000456120
 3,Arum italicum subsp. neglectum,NHMSYS0000456121
 2,Aruncus dioicus,NHMSYS0000456125
 3,Asarina procumbens,NHMSYS0000456137
+6,Asparagus prostratus,NHMSYS0000456142
 3,Asphodelus albus,NHMSYS0000456151
 4,Asplenium obovatum subsp. lanceolatum,NHMSYS0000456203
 4,Asplenium trichomanes subsp. pachyrachis,NHMSYS0000456213
 3,Asplenium trichomanes subsp. quadrivalens,NHMSYS0000456214
 3,Asplenium trichomanes subsp. trichomanes,NHMSYS0000456216
+6,Aster subulatus,NHMSYS0000456246
 3,Astilbe japonica,NHMSYS0000456257
+6,Astilbe rivularis,NHMSYS0000456258
+6,Astrantia maxima,NHMSYS0000456265
+6,Calandrinia ciliata,NHMSYS0000456286
+6,Calandrinia umbellata,NHMSYS0000456287
+6,Callitriche hamulata,NHMSYS0000456302
 3,Callitriche platycarpa,NHMSYS0000456307
 4,Calotis cuneifolia,NHMSYS0000456312
+6,Calotis hispidula,NHMSYS0000456313
 3,Calystegia pulchra,NHMSYS0000456324
 2,Calystegia sepium,NHMSYS0000456325
 3,Calystegia sepium subsp. sepium,NHMSYS0000456329
 2,Calystegia silvatica,NHMSYS0000456330
+6,Calystegia silvatica subsp. disjuncta,NHMSYS0000456331
 3,Calystegia silvatica subsp. silvatica,NHMSYS0000456335
 2,Calystegia soldanella,NHMSYS0000456336
+6,Camassia quamash,NHMSYS0000456341
+6,Camelina alyssum,NHMSYS0000456344
 3,Atriplex praecox,NHMSYS0000456348
 3,Avena sterilis subsp. ludoviciana,NHMSYS0000456370
 3,Avena strigosa,NHMSYS0000456372
@@ -2176,12 +2911,16 @@ code,taxon,tvk
 2,Beta vulgaris subsp. vulgaris,NHMSYS0000456453
 3,Betula pubescens subsp. pubescens,NHMSYS0000456460
 3,Bidens connata,NHMSYS0000456464
+6,Bidens vulgata,NHMSYS0000456467
 2,Blackstonia perfoliata,NHMSYS0000456502
+6,Blechnum cordatum,NHMSYS0000456508
+6,Blechnum penna-marina,NHMSYS0000456511
 2,Blysmus compressus,NHMSYS0000456532
 2,Blysmus rufus,NHMSYS0000456533
 3,Brachyglottis monroi,NHMSYS0000456575
 3,Brachyglottis repanda,NHMSYS0000456576
 4,Brachypodium distachyon,NHMSYS0000456582
+6,Brachypodium pinnatum,NHMSYS0000456583
 3,Brachypodium rupestre,NHMSYS0000456586
 2,Brachypodium sylvaticum,NHMSYS0000456587
 4,Brassica carinata,NHMSYS0000456596
@@ -2197,6 +2936,8 @@ code,taxon,tvk
 3,Bromopsis inermis subsp. inermis,NHMSYS0000456652
 4,Bromopsis inermis subsp. pumpelliana,NHMSYS0000456653
 2,Bromopsis ramosa,NHMSYS0000456655
+6,Bromus alopecuros,NHMSYS0000456657
+6,Bromus briziformis,NHMSYS0000456660
 2,Bromus commutatus,NHMSYS0000456661
 3,Bromus hordeaceus subsp. ferronii,NHMSYS0000456668
 4,Bromus hordeaceus subsp. longipedicellatus,NHMSYS0000456669
@@ -2206,6 +2947,7 @@ code,taxon,tvk
 3,Bromus lepidus,NHMSYS0000456675
 3,Bromus madritensis,NHMSYS0000456676
 4,Bromus pseudosecalinus,NHMSYS0000456682
+6,Bromus squarrosus,NHMSYS0000456692
 2,Brunnera macrophylla,NHMSYS0000456706
 1,Buddleja davidii,NHMSYS0000456713
 3,Bupleurum subovatum,NHMSYS0000456733
@@ -2219,11 +2961,14 @@ code,taxon,tvk
 4,Cardamine corymbosa,NHMSYS0000456788
 4,Cardamine heptaphylla,NHMSYS0000456792
 4,Cardamine raphanifolia,NHMSYS0000456797
+6,Carduus thoermeri,NHMSYS0000456821
 3,Carex appropinquata,NHMSYS0000456829
+6,Carex aquatilis x acuta,NHMSYS0000456830
 2,Carex bigelowii,NHMSYS0000456832
 2,Carex binervis,NHMSYS0000456834
 2,Carex caryophyllea,NHMSYS0000456837
 3,Carex chordorrhiza,NHMSYS0000456838
+6,Carex crawfordii,NHMSYS0000456839
 4,Carex davalliana,NHMSYS0000456841
 2,Carex dioica,NHMSYS0000456843
 2,Carex disticha,NHMSYS0000456844
@@ -2231,6 +2976,7 @@ code,taxon,tvk
 3,Carex divulsa subsp. divulsa,NHMSYS0000456846
 3,Carex divulsa subsp. leersii,NHMSYS0000456847
 2,Carex flacca,NHMSYS0000456850
+6,Carex glacialis,NHMSYS0000456860
 2,Carex humilis,NHMSYS0000456863
 3,Carex lachenalii,NHMSYS0000456865
 2,Carex laevigata,NHMSYS0000456866
@@ -2243,10 +2989,16 @@ code,taxon,tvk
 2,Carex spicata,NHMSYS0000456896
 3,Carex strigosa,NHMSYS0000456898
 2,Carex sylvatica,NHMSYS0000456899
+6,Carex viridula,NHMSYS0000456904
+6,Carex viridula subsp. brachyrrhyncha,NHMSYS0000456906
+6,Carex viridula subsp. oedocarpa,NHMSYS0000456908
+6,Carex viridula subsp. viridula,NHMSYS0000456911
 4,Carex vulpinoidea,NHMSYS0000456913
 2,Carpobrotus acinaciformis,NHMSYS0000456941
 2,Carpobrotus edulis,NHMSYS0000456945
+6,Carrichtera annua,NHMSYS0000456951
 3,Carum verticillatum,NHMSYS0000456960
+6,Cassinia fulvida,NHMSYS0000456967
 2,Castanea sativa,NHMSYS0000456969
 2,Catabrosa aquatica,NHMSYS0000456975
 2,Catapodium marinum,NHMSYS0000456980
@@ -2254,13 +3006,18 @@ code,taxon,tvk
 2,Cedrus atlantica,NHMSYS0000457001
 2,Cedrus deodara,NHMSYS0000457002
 2,Cedrus libani,NHMSYS0000457003
+6,Cenchrus longispinus,NHMSYS0000457012
 3,Centaurea debeauxii,NHMSYS0000457017
+6,Centaurea iberica,NHMSYS0000457018
 2,Centaurium erythraea,NHMSYS0000457033
 3,Centaurium scilloides,NHMSYS0000457036
 4,Centaurium tenuiflorum,NHMSYS0000457037
 2,Cephalanthera damasonium,NHMSYS0000457045
 3,Cephalanthera rubra,NHMSYS0000457046
+6,Cephalaria syriaca,NHMSYS0000457051
+6,Cephalaria transylvanica,NHMSYS0000457052
 4,Cerastium alpinum x nigrescens,NHMSYS0000457056
+6,Cerastium arvense x tomentosum,NHMSYS0000457060
 3,Cerastium fontanum subsp. holosteoides,NHMSYS0000457067
 3,Cerastium fontanum subsp. scoticum,NHMSYS0000457068
 3,Cerastium fontanum subsp. vulgare,NHMSYS0000457069
@@ -2271,20 +3028,32 @@ code,taxon,tvk
 4,Ceratochloa marginata,NHMSYS0000457090
 2,Chamaecyparis lawsoniana,NHMSYS0000457113
 4,Chasmanthe bicolor,NHMSYS0000457241
+6,Chasmanthium latifolium,NHMSYS0000457243
 2,Chenopodium album,NHMSYS0000457251
 3,Chenopodium capitatum,NHMSYS0000457257
+6,Chenopodium carinatum,NHMSYS0000457259
+6,Chenopodium cristatum,NHMSYS0000457260
+6,Chenopodium desiccatum,NHMSYS0000457261
 2,Chenopodium ficifolium,NHMSYS0000457262
 4,Chenopodium giganteum,NHMSYS0000457263
 4,Chenopodium hircinum,NHMSYS0000457265
 4,Chenopodium nitrariaceum,NHMSYS0000457268
 3,Chenopodium opulifolium,NHMSYS0000457269
+6,Chenopodium schraderianum,NHMSYS0000457271
 4,Chimonobambusa quadrangularis,NHMSYS0000457287
 4,Chloris divaricata,NHMSYS0000457296
 4,Chloris truncata,NHMSYS0000457297
+6,Chorispora tenella,NHMSYS0000457304
+6,Chrozophora tinctoria,NHMSYS0000457306
 4,Chrysocoma tenuifolia,NHMSYS0000457319
 3,Cicerbita macrophylla subsp. uralensis,NHMSYS0000457326
+6,Cirsium creticum,NHMSYS0000457340
 3,Clarkia amoena,NHMSYS0000457364
+6,Clarkia concinna,NHMSYS0000457366
+6,Clarkia quadrivulnera,NHMSYS0000457368
 3,Clarkia unguiculata,NHMSYS0000457369
+6,Cleretum bellidiforme,NHMSYS0000457377
+6,Clethra arborea,NHMSYS0000457380
 2,Clinopodium ascendens,NHMSYS0000457382
 3,Cochlearia micacea,NHMSYS0000457396
 2,Cochlearia officinalis,NHMSYS0000457397
@@ -2294,13 +3063,17 @@ code,taxon,tvk
 2,Coeloglossum viride,NHMSYS0000457408
 3,Coincya monensis subsp. monensis,NHMSYS0000457412
 2,Coincya wrightii,NHMSYS0000457413
+6,Consolida orientalis,NHMSYS0000457469
 3,Conyza bonariensis,NHMSYS0000457482
 2,Conyza canadensis,NHMSYS0000457483
+6,Conyza floribunda,NHMSYS0000457484
 2,Conyza sumatrensis,NHMSYS0000457486
 3,Coprosma repens,NHMSYS0000457490
 2,Corallorhiza trifida,NHMSYS0000457493
 2,Cordyline australis,NHMSYS0000457497
+6,Cornus capitata,NHMSYS0000457510
 3,Coronilla scorpioides,NHMSYS0000457516
+6,Corrigiola telephiifolia,NHMSYS0000457524
 2,Cortaderia selloana,NHMSYS0000457526
 3,Corydalis cava,NHMSYS0000457530
 4,Corydalis cheilanthifolia,NHMSYS0000457531
@@ -2343,6 +3116,7 @@ code,taxon,tvk
 4,Cotoneaster pseudoambiguus,NHMSYS0000457622
 4,Cotoneaster radicans,NHMSYS0000457624
 3,Cotoneaster salicifolius,NHMSYS0000457626
+6,Cotoneaster sanguineus,NHMSYS0000457627
 4,Cotoneaster splendens,NHMSYS0000457630
 4,Cotoneaster tengyuehensis,NHMSYS0000457631
 4,Cotoneaster transens,NHMSYS0000457633
@@ -2355,11 +3129,15 @@ code,taxon,tvk
 3,Crassula tillaea,NHMSYS0000457663
 3,Crataegus heterophylla,NHMSYS0000457668
 2,Crataegus laevigata,NHMSYS0000457671
+6,Crataegus mollis,NHMSYS0000457672
 3,Crataegus orientalis,NHMSYS0000457673
+6,Crataegus sanguinea,NHMSYS0000457676
 4,Crataegus succulenta,NHMSYS0000457677
+6,Crataegus x lavallei,NHMSYS0000457679
 3,Crepis nicaeensis,NHMSYS0000457689
 3,Crepis praemorsa,NHMSYS0000457690
 2,Crepis vesicaria subsp. taraxacifolia,NHMSYS0000457694
+6,Crithopsis delileana,NHMSYS0000457711
 4,Crocosmia masoniorum,NHMSYS0000457713
 4,Crocosmia pottsii,NHMSYS0000457715
 4,Crocus biflorus,NHMSYS0000457721
@@ -2379,11 +3157,14 @@ code,taxon,tvk
 3,Cuscuta campestris,NHMSYS0000457774
 3,Cyclamen coum,NHMSYS0000457794
 3,Cyclamen repandum,NHMSYS0000457796
+6,Cycloloma atriplicifolium,NHMSYS0000457799
 2,Cydonia oblonga,NHMSYS0000457803
 4,Cymbalaria hepaticifolia,NHMSYS0000457805
 2,Cymbalaria muralis,NHMSYS0000457806
 3,Cymbalaria muralis subsp. muralis,NHMSYS0000457807
 4,Cymbalaria muralis subsp. visianii,NHMSYS0000457808
+6,Cyperus congestus,NHMSYS0000457822
+6,Cyperus flavus,NHMSYS0000457825
 3,Cyrtomium falcatum,NHMSYS0000457839
 4,Cystopteris alpina,NHMSYS0000457845
 4,Cystopteris diaphana,NHMSYS0000457846
@@ -2407,6 +3188,9 @@ code,taxon,tvk
 2,Dactylorhiza maculata subsp. ericetorum,NHMSYS0000457924
 2,Dactylorhiza praetermissa,NHMSYS0000457949
 2,Dactylorhiza purpurella,NHMSYS0000457952
+6,Dactylorhiza x aschersoniana,NHMSYS0000457960
+6,Dactylorhiza x braunii,NHMSYS0000457961
+6,Dactylorhiza x jenensis,NHMSYS0000457970
 3,Damasonium alisma,NHMSYS0000457989
 4,Darmera peltata,NHMSYS0000458002
 2,Daucus carota subsp. carota,NHMSYS0000458012
@@ -2421,12 +3205,16 @@ code,taxon,tvk
 3,Dianthus gratianopolitanus,NHMSYS0000458066
 4,Dicentra eximia,NHMSYS0000458070
 3,Dicentra formosa,NHMSYS0000458071
+6,Dichondra micrantha,NHMSYS0000458079
 3,Digitaria ischaemum,NHMSYS0000458099
 4,Diphasiastrum complanatum,NHMSYS0000458106
+6,Diplotaxis tenuisiliqua,NHMSYS0000458115
 2,Disphyma crassifolium,NHMSYS0000458125
 4,Downingia elegans,NHMSYS0000458144
 2,Dryopteris affinis,NHMSYS0000458170
 3,Dryopteris affinis subsp. affinis,NHMSYS0000458171
+6,Dryopteris borreri,NHMSYS0000458179
+6,Dryopteris cambrensis,NHMSYS0000458182
 2,Dryopteris carthusiana,NHMSYS0000458183
 3,Dryopteris cristata,NHMSYS0000458186
 2,Dryopteris dilatata,NHMSYS0000458187
@@ -2434,18 +3222,24 @@ code,taxon,tvk
 4,Dryopteris remota,NHMSYS0000458203
 3,Dryopteris submontana,NHMSYS0000458208
 3,Ecballium elaterium,NHMSYS0000458250
+6,Eccremocarpus scaber,NHMSYS0000458252
 2,Echinochloa crus-galli,NHMSYS0000458258
 3,Echinochloa esculenta,NHMSYS0000458260
+6,Echinochloa pungens,NHMSYS0000458263
 3,Echinops bannaticus,NHMSYS0000458271
 3,Echinops exaltatus,NHMSYS0000458273
 2,Echium pininana,NHMSYS0000458279
 3,Egeria densa,NHMSYS0000458284
+6,Ehrharta longifolia,NHMSYS0000458288
+6,Eichhornia crassipes,NHMSYS0000458290
 3,Eleocharis acicularis,NHMSYS0000458301
 2,Eleocharis multicaulis,NHMSYS0000458302
+6,Eleocharis nodulosa,NHMSYS0000458303
 2,Eleocharis palustris,NHMSYS0000458304
 3,Eleocharis palustris subsp. palustris,NHMSYS0000458306
 2,Eleocharis quinqueflora,NHMSYS0000458307
 3,Eleocharis uniglumis,NHMSYS0000458308
+6,Eleusine floccifolia,NHMSYS0000458315
 3,Eleusine indica,NHMSYS0000458316
 4,Eleusine indica subsp. africana,NHMSYS0000458317
 4,Eleusine indica subsp. indica,NHMSYS0000458318
@@ -2459,6 +3253,7 @@ code,taxon,tvk
 3,Elytrigia campestris subsp. maritima,NHMSYS0000458358
 3,Elytrigia juncea subsp. boreoatlantica,NHMSYS0000458359
 3,Empetrum nigrum subsp. hermaphroditum,NHMSYS0000458378
+6,Enarthrocarpus lyratus,NHMSYS0000458380
 2,Epilobium alsinifolium,NHMSYS0000458393
 2,Epilobium brunnescens,NHMSYS0000458396
 2,Epilobium ciliatum,NHMSYS0000458397
@@ -2467,46 +3262,67 @@ code,taxon,tvk
 2,Epilobium parviflorum,NHMSYS0000458403
 3,Epilobium pedunculare,NHMSYS0000458404
 2,Epilobium roseum,NHMSYS0000458405
+6,Epimedium pinnatum,NHMSYS0000458438
+6,Epipactis dunensis,NHMSYS0000458443
 3,Epipactis leptochila,NHMSYS0000458447
 2,Epipactis palustris,NHMSYS0000458452
 2,Epipactis phyllanthes,NHMSYS0000458454
 2,Epipactis purpurata,NHMSYS0000458456
+6,Epipactis youngiana,NHMSYS0000458462
 3,Equisetum variegatum,NHMSYS0000458478
 3,Eragrostis cilianensis,NHMSYS0000458500
 4,Eragrostis curvula,NHMSYS0000458501
+6,Eragrostis dielsii,NHMSYS0000458502
+6,Eragrostis molybdea,NHMSYS0000458507
+6,Eragrostis neomexicana,NHMSYS0000458508
 4,Eragrostis parviflora,NHMSYS0000458509
+6,Eragrostis pectinacea,NHMSYS0000458511
 4,Eragrostis pilosa,NHMSYS0000458512
 4,Eragrostis virescens,NHMSYS0000458515
+6,Eremopyrum bonaepartis,NHMSYS0000458520
+6,Erica carnea,NHMSYS0000458524
 3,Erica erigena,NHMSYS0000458526
 2,Erigeron glaucus,NHMSYS0000458539
+6,Erigeron speciosus,NHMSYS0000458540
+6,Eriochloa crebra,NHMSYS0000458548
 4,Eriochloa pseudoacrotricha,NHMSYS0000458551
 3,Eriophorum gracile,NHMSYS0000458556
 4,Erodium brachycarpum,NHMSYS0000458560
 2,Erodium cicutarium,NHMSYS0000458563
 4,Erodium cygnorum subsp. cygnorum,NHMSYS0000458565
+6,Erodium gruinum,NHMSYS0000458569
 3,Erodium lebelii,NHMSYS0000458571
 4,Erodium malacoides,NHMSYS0000458572
 2,Erodium maritimum,NHMSYS0000458573
 2,Erodium moschatum,NHMSYS0000458574
 3,Erophila glabrescens,NHMSYS0000458579
 3,Erophila majuscula,NHMSYS0000458580
+6,Erophila verna,NHMSYS0000458582
 4,Eruca vesicaria subsp. sativa,NHMSYS0000458588
 3,Eruca vesicaria subsp. vesicaria,NHMSYS0000458589
+6,Erucaria hispanica,NHMSYS0000458591
 3,Erucastrum gallicum,NHMSYS0000458593
+6,Erucastrum nasturtiifolium,NHMSYS0000458595
 2,Eryngium giganteum,NHMSYS0000458599
+6,Erysimum repandum,NHMSYS0000458604
+6,Eucalyptus coccifera,NHMSYS0000458615
 3,Eucalyptus globulus,NHMSYS0000458616
 3,Eucalyptus gunnii,NHMSYS0000458617
 4,Eucalyptus niphophila,NHMSYS0000458619
 4,Eucalyptus urnigera,NHMSYS0000458621
 4,Eucalyptus viminalis,NHMSYS0000458622
+6,Euclidium syriacum,NHMSYS0000458624
 3,Euonymus japonicus,NHMSYS0000458626
 3,Euonymus latifolius,NHMSYS0000458627
 3,Euphorbia amygdaloides subsp. amygdaloides,NHMSYS0000458630
 3,Euphorbia characias subsp. characias,NHMSYS0000458631
+6,Euphorbia characias subsp. veneta,NHMSYS0000458632
+6,Euphorbia griffithii,NHMSYS0000458634
 4,Euphorbia waldsteinii,NHMSYS0000458638
 3,Euphrasia arctica subsp. arctica,NHMSYS0000458648
 3,Euphrasia arctica subsp. borealis,NHMSYS0000458649
 4,Euphrasia arctica x nemorosa x confusa,NHMSYS0000458650
+6,Euphrasia arctica x nemorosa x micrantha,NHMSYS0000458651
 4,Euphrasia arctica x ostenfeldii,NHMSYS0000458652
 4,Euphrasia arctica x rotundifolia,NHMSYS0000458653
 4,Euphrasia cambrica x ostenfeldii,NHMSYS0000458658
@@ -2514,6 +3330,8 @@ code,taxon,tvk
 3,Euphrasia foulaensis,NHMSYS0000458663
 3,Euphrasia micrantha,NHMSYS0000458669
 2,Euphrasia officinalis agg.,NHMSYS0000458671
+6,Euphrasia rostkoviana x nemorosa,NHMSYS0000458678
+6,Euphrasia stricta,NHMSYS0000458681
 3,Euphrasia tetraquetra,NHMSYS0000458682
 4,Fagopyrum dibotrys,NHMSYS0000458705
 3,Fagopyrum tataricum,NHMSYS0000458706
@@ -2521,19 +3339,23 @@ code,taxon,tvk
 2,Fallopia japonica,NHMSYS0000458716
 2,Fallopia sachalinensis,NHMSYS0000458719
 2,Fatsia japonica,NHMSYS0000458739
+6,Felicia bergeriana,NHMSYS0000458747
 3,Festuca arenaria subsp. arenaria,NHMSYS0000458755
 3,Festuca arenaria subsp. oraria,NHMSYS0000458756
 4,Festuca armoricana,NHMSYS0000458757
+6,Festuca arundinacea,NHMSYS0000458758
 3,Festuca brevipila,NHMSYS0000458760
 2,Festuca filiformis,NHMSYS0000458768
 4,Festuca gautieri,NHMSYS0000458769
 4,Festuca gautieri subsp. scoparia,NHMSYS0000458770
+6,Festuca gigantea,NHMSYS0000458771
 4,Festuca huonii,NHMSYS0000458776
 3,Festuca lemanii,NHMSYS0000458777
 2,Festuca ovina agg.,NHMSYS0000458783
 3,Festuca ovina subsp. hirtula,NHMSYS0000458784
 4,Festuca ovina subsp. ophioliticola,NHMSYS0000458785
 3,Festuca ovina subsp. ovina,NHMSYS0000458787
+6,Festuca pratensis,NHMSYS0000458788
 2,Festuca rubra,NHMSYS0000458790
 4,Festuca rubra subsp. arctica,NHMSYS0000458791
 3,Festuca rubra subsp. juncea,NHMSYS0000458795
@@ -2543,13 +3365,18 @@ code,taxon,tvk
 2,Festuca vivipara,NHMSYS0000458810
 3,Filago lutescens,NHMSYS0000458841
 2,Filago minima,NHMSYS0000458842
+6,Filipendula camtschatica,NHMSYS0000458846
 2,Foeniculum vulgare,NHMSYS0000458868
+6,Fragaria ananassa,NHMSYS0000458878
+6,Fragaria chiloensis,NHMSYS0000458879
 3,Fragaria moschata,NHMSYS0000458881
 2,Frangula alnus,NHMSYS0000458887
 2,Freesia x hybrida,NHMSYS0000458893
+6,Fumaria agragia,NHMSYS0000458905
 4,Fumaria capreolata subsp. babingtonii,NHMSYS0000458906
 3,Fumaria capreolata subsp. capreolata,NHMSYS0000458907
 2,Fumaria muralis,NHMSYS0000458911
+6,Fumaria muralis subsp. boraei,NHMSYS0000458912
 4,Fumaria muralis subsp. muralis,NHMSYS0000458913
 3,Fumaria officinalis subsp. officinalis,NHMSYS0000458914
 3,Fumaria officinalis subsp. wirtgenii,NHMSYS0000458915
@@ -2557,16 +3384,21 @@ code,taxon,tvk
 3,Fumaria vaillantii,NHMSYS0000458918
 3,Gagea bohemica,NHMSYS0000458925
 3,Gagea lutea,NHMSYS0000458926
+6,Gaillardia aristata,NHMSYS0000458929
 2,Galanthus elwesii,NHMSYS0000458933
 3,Galanthus plicatus,NHMSYS0000458938
 4,Galanthus plicatus subsp. byzantinus,NHMSYS0000458939
 4,Galanthus plicatus subsp. plicatus,NHMSYS0000458940
 4,Galanthus reginae-olgae,NHMSYS0000458941
+6,Galanthus woronowii,NHMSYS0000458942
 2,Galeopsis segetum,NHMSYS0000458953
 2,Galeopsis speciosa,NHMSYS0000458954
 2,Galinsoga quadriradiata,NHMSYS0000458958
+6,Galium mollugo subsp. mollugo,NHMSYS0000458970
 3,Galium palustre subsp. elongatum,NHMSYS0000458971
 2,Galium palustre subsp. palustre,NHMSYS0000458972
+6,Galium verrucosum,NHMSYS0000458977
+6,Garrya elliptica,NHMSYS0000458986
 4,Gastridium phleoides,NHMSYS0000458989
 3,Gaudinia fragilis,NHMSYS0000458991
 3,Gaultheria mucronata,NHMSYS0000458993
@@ -2574,6 +3406,7 @@ code,taxon,tvk
 3,Genista monspessulana,NHMSYS0000459004
 3,Genista tinctoria subsp. littoralis,NHMSYS0000459005
 3,Genista tinctoria subsp. tinctoria,NHMSYS0000459006
+6,Gentiana clusii,NHMSYS0000459012
 2,Gentianella amarella,NHMSYS0000459016
 3,Gentianella amarella subsp. amarella,NHMSYS0000459017
 3,Gentianella amarella subsp. hibernica,NHMSYS0000459019
@@ -2583,32 +3416,48 @@ code,taxon,tvk
 2,Gentianella germanica,NHMSYS0000459026
 3,Gentianella uliginosa,NHMSYS0000459028
 2,Geranium endressii,NHMSYS0000459034
+6,Geranium herrerae,NHMSYS0000459036
 4,Geranium platypetalum,NHMSYS0000459038
-3,Geranium purpureum,NHMSYS0000459041
 4,Geranium purpureum,NHMSYS0000459041
+3,Geranium purpureum,NHMSYS0000459041
 2,Geranium pyrenaicum,NHMSYS0000459043
 4,Geranium robertianum subsp. maritimum,NHMSYS0000459045
 3,Gladiolus communis subsp. byzantinus,NHMSYS0000459071
 3,Gladiolus illyricus,NHMSYS0000459073
+6,Gladiolus x hortulanus,NHMSYS0000459074
 2,Glyceria declinata,NHMSYS0000459086
 2,Glyceria fluitans,NHMSYS0000459088
 2,Glyceria maxima,NHMSYS0000459090
+6,Glyceria multiflora,NHMSYS0000459091
 3,Gnaphalium norvegicum,NHMSYS0000459100
 2,Goodyera repens,NHMSYS0000459112
 2,Guizotia abyssinica,NHMSYS0000459160
 2,Gunnera manicata,NHMSYS0000459162
 2,Gunnera tinctoria,NHMSYS0000459164
+6,Gymnadenia borealis,NHMSYS0000459167
 2,Gymnadenia conopsea,NHMSYS0000459168
+6,Gymnadenia conopsea subsp. conopsea,NHMSYS0000459169
+6,Gymnadenia densiflora,NHMSYS0000459171
+6,Gypsophila acutifolia,NHMSYS0000459181
+6,Gypsophila elegans,NHMSYS0000459182
+6,Gypsophila pilosa,NHMSYS0000459184
 4,Haloragis micrantha,NHMSYS0000459206
+6,Hebe barkeri,NHMSYS0000459233
+6,Hebe salicifolia,NHMSYS0000459236
 2,Hedera colchica,NHMSYS0000459243
+6,Hedera helix subsp. helix,NHMSYS0000459245
 4,Hedera helix subsp. poetarum,NHMSYS0000459249
 3,Hedera hibernica,NHMSYS0000459250
 3,Hedypnois cretica,NHMSYS0000459254
+6,Hedysarum glomeratum,NHMSYS0000459256
 3,Helianthemum apenninum,NHMSYS0000459259
 2,Helianthemum nummularium,NHMSYS0000459266
 3,Helianthemum oelandicum,NHMSYS0000459267
 3,Helianthemum oelandicum subsp. incanum,NHMSYS0000459269
 4,Helichrysum bellidioides,NHMSYS0000459278
+6,Helictotrichon pubescens,NHMSYS0000459280
+6,Hemizonia kelloggii,NHMSYS0000459296
+6,Hemizonia pungens,NHMSYS0000459297
 3,Hepatica nobilis,NHMSYS0000459301
 3,Heracleum sphondylium subsp. sphondylium,NHMSYS0000459307
 2,Herminium monorchis,NHMSYS0000459309
@@ -2667,6 +3516,7 @@ code,taxon,tvk
 4,Hieracium eustales,NHMSYS0000459427
 4,Hieracium eustomon,NHMSYS0000459428
 4,Hieracium eximium,NHMSYS0000459429
+6,Hieracium exotericum,NHMSYS0000459430
 4,Hieracium flocculosum,NHMSYS0000459436
 4,Hieracium glanduliceps,NHMSYS0000459441
 4,Hieracium glandulidens,NHMSYS0000459442
@@ -2678,6 +3528,7 @@ code,taxon,tvk
 4,Hieracium hastiforme,NHMSYS0000459455
 4,Hieracium hethlandiae,NHMSYS0000459456
 4,Hieracium hibernicum,NHMSYS0000459457
+6,Hieracium hjeltii,NHMSYS0000459458
 4,Hieracium holophyllum,NHMSYS0000459459
 4,Hieracium holosericeum,NHMSYS0000459460
 4,Hieracium insigne,NHMSYS0000459463
@@ -2783,6 +3634,7 @@ code,taxon,tvk
 4,Hieracium vinicaule,NHMSYS0000459700
 4,Hieracium virgultorum,NHMSYS0000459701
 4,Hieracium westii,NHMSYS0000459703
+6,Hieracium zygophorum,NHMSYS0000459704
 3,Hierochloe odorata,NHMSYS0000459706
 2,Himantoglossum hircinum,NHMSYS0000459709
 2,Hirschfeldia incana,NHMSYS0000459718
@@ -2797,6 +3649,7 @@ code,taxon,tvk
 2,Hornungia petraea,NHMSYS0000459759
 2,Huperzia selago,NHMSYS0000459776
 2,Hyacinthoides hispanica,NHMSYS0000459784
+6,Hydrangea anomala,NHMSYS0000459801
 3,Hydrilla verticillata,NHMSYS0000459804
 4,Hydrocotyle moschata,NHMSYS0000459811
 2,Hydrocotyle ranunculoides,NHMSYS0000459812
@@ -2805,6 +3658,10 @@ code,taxon,tvk
 4,Limonium binervosum subsp. sarniense,NHMSYS0000459817
 4,Limonium binervosum subsp. saxonicum,NHMSYS0000459818
 4,Limonium britannicum,NHMSYS0000459820
+6,Limonium britannicum subsp. britannicum,NHMSYS0000459821
+6,Limonium britannicum subsp. celticum,NHMSYS0000459822
+6,Limonium britannicum subsp. coombense,NHMSYS0000459823
+6,Limonium britannicum subsp. transcanalis,NHMSYS0000459824
 4,Limonium dodartiforme,NHMSYS0000459826
 2,Limonium humile,NHMSYS0000459827
 4,Limonium loganicum,NHMSYS0000459829
@@ -2820,15 +3677,20 @@ code,taxon,tvk
 2,Hypericum tetrapterum,NHMSYS0000459860
 3,Hypericum undulatum,NHMSYS0000459861
 4,Hypericum xylosteifolium,NHMSYS0000459864
+6,Ibicella lutea,NHMSYS0000459872
+6,Impatiens balfourii,NHMSYS0000459879
 4,Inula hookeri,NHMSYS0000459889
+6,Inula magnifica,NHMSYS0000459890
 3,Iris laevigata,NHMSYS0000459900
 3,Iris latifolia,NHMSYS0000459901
 3,Iris orientalis,NHMSYS0000459903
+6,Ismelia carinata,NHMSYS0000459912
 3,Isolepis cernua,NHMSYS0000459922
 2,Isolepis setacea,NHMSYS0000459924
 2,Ixia paniculata,NHMSYS0000459937
 2,Jasminum nudiflorum,NHMSYS0000459948
 2,Juglans regia,NHMSYS0000459961
+6,Juncus australis,NHMSYS0000459966
 3,Juncus castaneus,NHMSYS0000459970
 3,Juncus pallidus,NHMSYS0000459984
 4,Juncus planifolius,NHMSYS0000459985
@@ -2843,12 +3705,15 @@ code,taxon,tvk
 2,Laburnum anagyroides,NHMSYS0000460056
 3,Lactuca tatarica,NHMSYS0000460061
 2,Lagarosiphon major,NHMSYS0000460065
+6,Lagenaria siceraria,NHMSYS0000460067
 3,Lamarckia aurea,NHMSYS0000460073
 3,Lamiastrum galeobdolon subsp. galeobdolon,NHMSYS0000460077
 2,Lamium confertum,NHMSYS0000460079
 2,Lamium hybridum,NHMSYS0000460083
 2,Lamium maculatum,NHMSYS0000460084
+6,Lampranthus conspicuus,NHMSYS0000460088
 3,Lampranthus falciformis,NHMSYS0000460090
+6,Lappula marginata,NHMSYS0000460103
 3,Lapsana communis subsp. communis,NHMSYS0000460107
 3,Lapsana communis subsp. intermedia,NHMSYS0000460108
 2,Larix decidua,NHMSYS0000460126
@@ -2856,17 +3721,26 @@ code,taxon,tvk
 3,Lathyrus grandiflorus,NHMSYS0000460178
 2,Lathyrus linifolius,NHMSYS0000460181
 3,Lathyrus niger,NHMSYS0000460185
+6,Lathyrus palustris subsp. pilosus,NHMSYS0000460188
 3,Lavandula angustifolia,NHMSYS0000460196
+6,Ledum palustre subsp. groenlandicum,NHMSYS0000460216
 2,Lens culinaris,NHMSYS0000460230
+6,Lepidium aletes,NHMSYS0000460246
 2,Lepidium campestre,NHMSYS0000460248
 2,Lepidium draba subsp. draba,NHMSYS0000460252
+6,Leptospermum lanigerum,NHMSYS0000460271
+6,Leptospermum liversidgei,NHMSYS0000460272
 4,Leptospermum scoparium,NHMSYS0000460273
+6,Leucanthemum maximum,NHMSYS0000460302
+6,Leucanthemum paludosum,NHMSYS0000460303
 3,Leucojum aestivum subsp. aestivum,NHMSYS0000460307
 3,Leucothoe fontanesiana,NHMSYS0000460313
 3,Levisticum officinale,NHMSYS0000460315
 2,Leycesteria formosa,NHMSYS0000460318
+6,Liatris ligulistylis,NHMSYS0000460324
 4,Libertia elegans,NHMSYS0000460327
 4,Ligularia dentata,NHMSYS0000460332
+6,Lilium bulbiferum,NHMSYS0000460338
 2,Limnanthes douglasii,NHMSYS0000460349
 3,Limonium auriculae-ursifolium,NHMSYS0000460351
 2,Limonium bellidifolium,NHMSYS0000460352
@@ -2876,8 +3750,17 @@ code,taxon,tvk
 4,Limonium procerum subsp. devoniense,NHMSYS0000460356
 4,Limonium procerum subsp. procerum,NHMSYS0000460357
 4,Limonium recurvum,NHMSYS0000460358
+6,Limonium recurvum subsp. humile,NHMSYS0000460359
+6,Limonium recurvum subsp. portlandicum,NHMSYS0000460360
+6,Limonium recurvum subsp. pseudotranswallianum,NHMSYS0000460361
+6,Limonium recurvum subsp. recurvum,NHMSYS0000460362
+6,Limonium sinuatum,NHMSYS0000460363
 2,Limonium vulgare,NHMSYS0000460364
 3,Limosella australis,NHMSYS0000460367
+6,Linanthus androsaceus,NHMSYS0000460370
+6,Linanthus grandiflorus,NHMSYS0000460371
+6,Linaria alpina,NHMSYS0000460373
+6,Linaria chalepensis,NHMSYS0000460377
 4,Linaria dalmatica,NHMSYS0000460379
 3,Linaria maroccana,NHMSYS0000460383
 3,Linaria pelisseriana,NHMSYS0000460385
@@ -2886,11 +3769,13 @@ code,taxon,tvk
 2,Linaria vulgaris,NHMSYS0000460394
 2,Linum bienne,NHMSYS0000460399
 3,Liparis loeselii,NHMSYS0000460402
+6,Lithodora diffusa,NHMSYS0000460409
 3,Lonicera henryi,NHMSYS0000460448
 3,Lonicera involucrata,NHMSYS0000460449
 2,Lonicera japonica,NHMSYS0000460450
 2,Lonicera nitida,NHMSYS0000460452
 2,Lonicera pileata,NHMSYS0000460453
+6,Lotus tenuis,NHMSYS0000460472
 2,Ludwigia grandiflora,NHMSYS0000460478
 4,Luma apiculata,NHMSYS0000460481
 3,Lupinus polyphyllus,NHMSYS0000460487
@@ -2900,14 +3785,23 @@ code,taxon,tvk
 2,Luzula multiflora subsp. multiflora,NHMSYS0000460498
 2,Luzula sylvatica,NHMSYS0000460501
 2,Lycium chinense,NHMSYS0000460513
+6,Lycopersicon esculentum,NHMSYS0000460517
 3,Lysichiton americanus,NHMSYS0000460540
 2,Lythrum portula,NHMSYS0000460546
 4,Lythrum portula subsp. longidentatum,NHMSYS0000460547
 3,Lythrum portula subsp. portula,NHMSYS0000460548
+6,Macleaya cordata,NHMSYS0000460550
 3,Maianthemum bifolium,NHMSYS0000460559
+6,Malcolmia africana,NHMSYS0000460562
 2,Malcolmia maritima,NHMSYS0000460563
+6,Malus floribunda,NHMSYS0000460568
 4,Malus hupehensis,NHMSYS0000460570
+6,Malus pumila,NHMSYS0000460571
+6,Malus sylvestris,NHMSYS0000460572
 3,Malva pusilla,NHMSYS0000460577
+6,Malvastrum americanum,NHMSYS0000460581
+6,Malvastrum multicaule,NHMSYS0000460583
+6,Matricaria aurea,NHMSYS0000460606
 4,Matricaria decipiens,NHMSYS0000460608
 4,Matricaria disciformis,NHMSYS0000460609
 3,Matteuccia struthiopteris,NHMSYS0000460615
@@ -2916,28 +3810,38 @@ code,taxon,tvk
 2,Matthiola sinuata,NHMSYS0000460621
 2,Meconopsis cambrica,NHMSYS0000460627
 2,Medicago arabica,NHMSYS0000460629
+6,Medicago intertexta,NHMSYS0000460634
 3,Medicago laciniata,NHMSYS0000460635
 4,Medicago littoralis,NHMSYS0000460636
 3,Medicago minima,NHMSYS0000460638
+6,Medicago scutellata,NHMSYS0000460642
 3,Medicago truncatula,NHMSYS0000460644
 3,Melampyrum pratense subsp. commutatum,NHMSYS0000460653
 3,Melampyrum pratense subsp. pratense,NHMSYS0000460654
 2,Melilotus albus,NHMSYS0000460662
 2,Melilotus officinalis,NHMSYS0000460663
+6,Mentha longifolia,NHMSYS0000460672
+6,Metasequoia glyptostroboides,NHMSYS0000460703
 3,Milium vernale,NHMSYS0000460715
 3,Milium vernale subsp. sarniense,NHMSYS0000460716
+6,Mimulus,NHMSYS0000460720
 3,Mimulus moschatus,NHMSYS0000460723
 2,Minuartia hybrida,NHMSYS0000460730
+6,Miscanthus sacchariflorus,NHMSYS0000460736
+6,Modiola caroliniana,NHMSYS0000460742
 3,Moenchia erecta,NHMSYS0000460745
 3,Molinia caerulea subsp. arundinacea,NHMSYS0000460747
 3,Molinia caerulea subsp. caerulea,NHMSYS0000460748
 2,Moneses uniflora,NHMSYS0000460757
+6,Monolepis nuttalliana,NHMSYS0000460761
 4,Monsonia brevirostrata,NHMSYS0000460766
 3,Montia fontana subsp. fontana,NHMSYS0000460771
 4,Montia parvifolia,NHMSYS0000460774
+6,Moricandia arvensis,NHMSYS0000460779
 2,Muehlenbeckia complexa,NHMSYS0000460789
 2,Muscari botryoides,NHMSYS0000460801
 3,Muscari comosum,NHMSYS0000460802
+6,Myagrum perfoliatum,NHMSYS0000460807
 3,Myosotis alpestris,NHMSYS0000460810
 2,Myosotis laxa,NHMSYS0000460816
 2,Myosotis secunda,NHMSYS0000460819
@@ -2945,18 +3849,30 @@ code,taxon,tvk
 2,Myosotis sylvatica,NHMSYS0000460822
 4,Myrica pensylvanica,NHMSYS0000460829
 2,Myriophyllum aquaticum,NHMSYS0000460832
+6,Myriophyllum heterophyllum,NHMSYS0000460834
+6,Myriophyllum verrucosum,NHMSYS0000460835
 3,Najas flexilis,NHMSYS0000460842
+6,Najas graminea,NHMSYS0000460843
 4,Narcissus papyraceus,NHMSYS0000460860
 4,Narcissus pseudonarcissus subsp. nobilis,NHMSYS0000460872
+6,Narcissus pseudonarcissus subsp. obvallaris,NHMSYS0000460873
 4,Narcissus pseudonarcissus subsp. pallidiflorus,NHMSYS0000460874
 2,Narthecium ossifragum,NHMSYS0000460927
 3,Nectaroscordum siculum,NHMSYS0000460941
 4,Nectaroscordum siculum subsp. siculum,NHMSYS0000460942
+6,Nemesia versicolor,NHMSYS0000460950
+6,Neotinea ustulata,NHMSYS0000460957
+6,Nepeta nepetella,NHMSYS0000460962
+6,Nerine sarniensis,NHMSYS0000460980
 4,Nertera granadensis,NHMSYS0000460983
 2,Nicandra physalodes,NHMSYS0000460998
 3,Nicotiana forgetiana,NHMSYS0000461000
 3,Phleum phleoides,NHMSYS0000461023
 2,Phleum pratense,NHMSYS0000461024
+6,Nolana humifusa,NHMSYS0000461074
+6,Nonea rosea,NHMSYS0000461078
+6,Nothofagus alpina,NHMSYS0000461094
+6,Nothofagus antarctica,NHMSYS0000461095
 4,Nothofagus obliqua,NHMSYS0000461098
 4,Nuphar advena,NHMSYS0000461106
 1,Nuphar lutea,NHMSYS0000461107
@@ -2972,47 +3888,69 @@ code,taxon,tvk
 2,Oenanthe lachenalii,NHMSYS0000461143
 3,Oenanthe silaifolia,NHMSYS0000461144
 2,Oenothera glazioviana,NHMSYS0000461148
+6,Oenothera perangusta,NHMSYS0000461155
+6,Oenothera salicifolia,NHMSYS0000461157
 4,Olearia avicenniifolia,NHMSYS0000461162
 4,Olearia paniculata,NHMSYS0000461166
+6,Olearia solandri,NHMSYS0000461167
 4,Olearia traversii,NHMSYS0000461168
+6,Oncosiphon suffruticosum,NHMSYS0000461179
+6,Onobrychis aequidentata,NHMSYS0000461186
 3,Ononis repens subsp. maritima,NHMSYS0000461192
 3,Ononis repens subsp. repens,NHMSYS0000461193
+6,Phleum subulatum,NHMSYS0000461199
 3,Phormium cookianum,NHMSYS0000461207
 2,Phormium tenax,NHMSYS0000461208
 2,Phragmites australis,NHMSYS0000461214
 3,Phuopsis stylosa,NHMSYS0000461216
 3,Phygelius capensis,NHMSYS0000461218
+6,Phyllostachys aurea,NHMSYS0000461223
 4,Phymatosorus diversifolius,NHMSYS0000461229
+6,Physochlaina orientalis,NHMSYS0000461236
 2,Picea abies,NHMSYS0000461247
+6,Picea breweriana,NHMSYS0000461249
 4,Picea engelmannii,NHMSYS0000461250
+6,Picea glehnii,NHMSYS0000461252
 4,Picea omorika,NHMSYS0000461254
 2,Picea sitchensis,NHMSYS0000461257
+6,Picea smithiana,NHMSYS0000461258
+6,Picris altissima,NHMSYS0000461261
 3,Picris hieracioides subsp. hieracioides,NHMSYS0000461262
+6,Pieris formosa,NHMSYS0000461266
+6,Pieris japonica,NHMSYS0000461267
 2,Pilosella aurantiaca,NHMSYS0000461270
 3,Pilosella aurantiaca subsp. aurantiaca,NHMSYS0000461271
 3,Pilosella aurantiaca subsp. carpathicola,NHMSYS0000461273
 4,Pilosella caespitosa,NHMSYS0000461274
+6,Pilosella caespitosa subsp. colliniformis,NHMSYS0000461275
 3,Pilosella flagellaris,NHMSYS0000461276
 4,Pilosella flagellaris subsp. bicapitata,NHMSYS0000461277
 4,Pilosella flagellaris subsp. flagellaris,NHMSYS0000461278
+6,Pilosella lactucella,NHMSYS0000461279
 2,Pilosella officinarum,NHMSYS0000461280
 3,Ophioglossum azoricum,NHMSYS0000461283
 2,Ophrys apifera,NHMSYS0000461294
 2,Ophrys sphegodes,NHMSYS0000461300
+6,Orchis anthropophora,NHMSYS0000461315
 3,Orchis purpurea,NHMSYS0000461332
 2,Oreopteris limbosperma,NHMSYS0000461356
 2,Ornithogalum umbellatum,NHMSYS0000461367
 2,Ornithopus pinnatus,NHMSYS0000461372
 4,Orobanche caryophyllacea,NHMSYS0000461377
 3,Orobanche crenata,NHMSYS0000461378
+6,Orobanche flava,NHMSYS0000461379
 2,Orobanche minor,NHMSYS0000461381
+6,Orobanche picridis,NHMSYS0000461383
 3,Orobanche reticulata subsp. pallidiflora,NHMSYS0000461385
 4,Oryzopsis miliacea,NHMSYS0000461393
 4,Osteospermum jucundum,NHMSYS0000461410
+6,Otanthus maritimus,NHMSYS0000461412
 2,Oxalis exilis,NHMSYS0000461423
 2,Oxalis latifolia,NHMSYS0000461426
 4,Oxalis valdiviensis,NHMSYS0000461429
 3,Oxytropis halleri,NHMSYS0000461437
+6,Paeonia lactiflora,NHMSYS0000461443
+6,Paeonia lutea,NHMSYS0000461444
 3,Paeonia mascula,NHMSYS0000461445
 3,Paeonia officinalis,NHMSYS0000461446
 4,Panicum dichotomiflorum,NHMSYS0000461474
@@ -3021,13 +3959,17 @@ code,taxon,tvk
 3,Papaver somniferum subsp. somniferum,NHMSYS0000461493
 2,Parapholis incurva,NHMSYS0000461501
 2,Parapholis strigosa,NHMSYS0000461503
+6,Paronychia polygonifolia,NHMSYS0000461517
+6,Parthenocissus inserta,NHMSYS0000461525
 2,Parthenocissus quinquefolia,NHMSYS0000461527
 3,Parthenocissus tricuspidata,NHMSYS0000461528
 2,Pastinaca sativa subsp. sativa,NHMSYS0000461535
 3,Pedicularis sylvatica subsp. hibernica,NHMSYS0000461550
 3,Pedicularis sylvatica subsp. sylvatica,NHMSYS0000461551
+6,Pelargonium x hortorum,NHMSYS0000461556
 2,Pentaglottis sempervirens,NHMSYS0000461565
 3,Pericallis hybrida,NHMSYS0000461585
+6,Persicaria affinis,NHMSYS0000461595
 3,Persicaria alpina,NHMSYS0000461596
 2,Persicaria amphibia,NHMSYS0000461597
 3,Persicaria amplexicaulis,NHMSYS0000461598
@@ -3040,6 +3982,8 @@ code,taxon,tvk
 4,Persicaria mollis,NHMSYS0000461608
 4,Persicaria nepalensis,NHMSYS0000461609
 4,Persicaria pensylvanica,NHMSYS0000461610
+6,Persicaria sagittata,NHMSYS0000461613
+6,Persicaria senegalensis,NHMSYS0000461614
 2,Persicaria vivipara,NHMSYS0000461615
 3,Persicaria weyrichii,NHMSYS0000461616
 2,Petasites albus,NHMSYS0000461629
@@ -3049,6 +3993,8 @@ code,taxon,tvk
 3,Petrorhagia prolifera,NHMSYS0000461636
 2,Petroselinum crispum,NHMSYS0000461642
 2,Petroselinum segetum,NHMSYS0000461643
+6,Peucedanum ostruthium,NHMSYS0000461648
+6,Phacelia viscida,NHMSYS0000461653
 2,Phegopteris connectilis,NHMSYS0000461665
 3,Pilosella peleteriana,NHMSYS0000461676
 3,Pilosella peleteriana subsp. peleteriana,NHMSYS0000461677
@@ -3057,18 +4003,24 @@ code,taxon,tvk
 3,Pilosella praealta,NHMSYS0000461680
 4,Pilosella praealta subsp. praealta,NHMSYS0000461682
 4,Pilosella praealta subsp. thaumasia,NHMSYS0000461684
+6,Pimpinella affinis,NHMSYS0000461690
 2,Pimpinella major,NHMSYS0000461691
+6,Pinus muricata,NHMSYS0000461715
 2,Pinus nigra,NHMSYS0000461716
 2,Pinus nigra subsp. nigra,NHMSYS0000461718
 4,Pinus ponderosa,NHMSYS0000461723
 2,Pinus radiata,NHMSYS0000461725
+6,Pinus rigida,NHMSYS0000461726
 4,Pinus wallichiana,NHMSYS0000461734
+6,Piptochaetium bicolor,NHMSYS0000461738
 3,Pittosporum crassifolium,NHMSYS0000461750
 3,Pittosporum tenuifolium,NHMSYS0000461751
 4,Plagiobothrys scouleri,NHMSYS0000461756
 3,Plantago major subsp. major,NHMSYS0000461764
+6,Plantago sempervirens,NHMSYS0000461771
 2,Platanthera chlorantha,NHMSYS0000461774
 4,Pleioblastus chino,NHMSYS0000461788
+6,Pleioblastus humilis,NHMSYS0000461789
 4,Pleioblastus simonii,NHMSYS0000461791
 3,Poa chaixii,NHMSYS0000461800
 3,Poa flabellata,NHMSYS0000461803
@@ -3087,6 +4039,7 @@ code,taxon,tvk
 3,Polypogon monspeliensis,NHMSYS0000461936
 4,Polystichum munitum,NHMSYS0000461947
 2,Polystichum setiferum,NHMSYS0000461949
+6,Populus maximowiczii,NHMSYS0000461970
 3,Populus nigra subsp. betulifolia,NHMSYS0000461971
 3,Populus trichocarpa,NHMSYS0000461974
 3,Potamogeton alpinus,NHMSYS0000461993
@@ -3100,6 +4053,7 @@ code,taxon,tvk
 3,Potentilla erecta subsp. strictissima,NHMSYS0000462032
 3,Potentilla inclinata,NHMSYS0000462033
 4,Potentilla rivalis,NHMSYS0000462036
+6,Poterium sanguisorba,NHMSYS0000462046
 3,Pratia angulata,NHMSYS0000462057
 3,Primula japonica,NHMSYS0000462065
 3,Primula sikkimensis,NHMSYS0000462066
@@ -3113,6 +4067,7 @@ code,taxon,tvk
 2,Pseudorchis albida,NHMSYS0000462098
 3,Pseudosasa japonica,NHMSYS0000462101
 2,Pseudotsuga menziesii,NHMSYS0000462103
+6,Psoralea cinerea,NHMSYS0000462107
 3,Pteridium aquilinum subsp. aquilinum,NHMSYS0000462115
 4,Pteridium aquilinum subsp. latiusculum,NHMSYS0000462118
 4,Pterocarya fraxinifolia,NHMSYS0000462130
@@ -3124,11 +4079,16 @@ code,taxon,tvk
 3,Pulicaria vulgaris,NHMSYS0000462144
 3,Pulmonaria longifolia,NHMSYS0000462149
 3,Pulmonaria 'Mawson's Blue',NHMSYS0000462150
+6,Pulmonaria saccharata,NHMSYS0000462151
 2,Pulsatilla vulgaris,NHMSYS0000462153
 2,Pyracantha coccinea,NHMSYS0000462184
 2,Pyracantha rogersiana,NHMSYS0000462187
 3,Pyrola rotundifolia subsp. maritima,NHMSYS0000462192
 3,Pyrola rotundifolia subsp. rotundifolia,NHMSYS0000462193
+6,Pyrus salicifolia,NHMSYS0000462205
+6,Quercus castaneifolia,NHMSYS0000462213
+6,Quercus coccinea,NHMSYS0000462214
+6,Quercus palustris,NHMSYS0000462216
 2,Quercus petraea,NHMSYS0000462217
 3,Ramonda myconi,NHMSYS0000462229
 3,Ranunculus baudotii,NHMSYS0000462237
@@ -3143,6 +4103,7 @@ code,taxon,tvk
 2,Raphanus raphanistrum subsp. maritimus,NHMSYS0000462282
 2,Raphanus raphanistrum subsp. raphanistrum,NHMSYS0000462283
 4,Reineckea carnea,NHMSYS0000462328
+6,Rhagadiolus stellatus,NHMSYS0000462342
 3,Rhinanthus angustifolius,NHMSYS0000462353
 3,Rhinanthus minor subsp. borealis,NHMSYS0000462356
 3,Rhinanthus minor subsp. calcareus,NHMSYS0000462357
@@ -3150,25 +4111,35 @@ code,taxon,tvk
 3,Rhinanthus minor subsp. minor,NHMSYS0000462360
 3,Rhinanthus minor subsp. monticola,NHMSYS0000462361
 3,Rhinanthus minor subsp. stenophyllus,NHMSYS0000462362
+6,Rhodanthe corymbiflora,NHMSYS0000462368
+6,Rhododendron arboreum,NHMSYS0000462375
 3,Rhynchospora fusca,NHMSYS0000462390
 4,Ribes odoratum,NHMSYS0000462397
 2,Ribes spicatum,NHMSYS0000462398
 4,Rodgersia podophylla,NHMSYS0000462419
 3,Romulea rosea,NHMSYS0000462429
+6,Rorippa islandica,NHMSYS0000462432
+6,Rorippa microphylla,NHMSYS0000462434
 2,Rosa arvensis,NHMSYS0000462445
 3,Rosa caesia,NHMSYS0000462446
 4,Rosa caesia subsp. caesia,NHMSYS0000462447
 4,Rosa caesia subsp. vosagiaca,NHMSYS0000462449
 4,Rosa caesia x rubiginosa,NHMSYS0000462450
+6,Rosa canina agg.,NHMSYS0000462451
 4,Rosa luciae,NHMSYS0000462466
+6,Rosa majalis,NHMSYS0000462467
 3,Rosa micrantha,NHMSYS0000462468
 3,Rosa mollis,NHMSYS0000462469
 4,Rosa multiflora,NHMSYS0000462470
 2,Rosa rubiginosa agg.,NHMSYS0000462475
 2,Rosa rugosa,NHMSYS0000462477
+6,Rosa sericea,NHMSYS0000462481
 4,Rosa setigera,NHMSYS0000462482
+6,Rosa spinosissima,NHMSYS0000462483
+6,Rosa spinosissima x rugosa,NHMSYS0000462484
 3,Rosa tomentosa,NHMSYS0000462487
 4,Rosa virginiana,NHMSYS0000462492
+6,Rosa willmottiae,NHMSYS0000462494
 4,Rubus acclivitatum,NHMSYS0000462571
 4,Rubus accrescens,NHMSYS0000462572
 4,Rubus adenanthoides,NHMSYS0000462573
@@ -3275,6 +4246,7 @@ code,taxon,tvk
 4,Rubus hylonomus,NHMSYS0000462726
 4,Rubus hylophilus,NHMSYS0000462727
 4,Rubus iceniensis,NHMSYS0000462728
+6,Rubus idaeus x fruticosus,NHMSYS0000462729
 4,Rubus imbricatus,NHMSYS0000462731
 4,Rubus infestisepalus,NHMSYS0000462736
 4,Rubus insectifolius,NHMSYS0000462738
@@ -3382,6 +4354,7 @@ code,taxon,tvk
 4,Rubus troiensis,NHMSYS0000462937
 4,Rubus turneri,NHMSYS0000462938
 2,Rubus ulmifolius,NHMSYS0000462939
+6,Rubus ulmifolius x caesius,NHMSYS0000462940
 4,Rubus vagensis,NHMSYS0000462941
 4,Rubus vigorosus,NHMSYS0000462943
 4,Rubus villicauliformis,NHMSYS0000462944
@@ -3397,35 +4370,49 @@ code,taxon,tvk
 3,Rumex acetosa subsp. hibernicus,NHMSYS0000462960
 2,Rumex acetosella subsp. acetosella,NHMSYS0000462961
 4,Rumex acetosella subsp. pyrenaicus,NHMSYS0000462963
+6,Rumex alpinus,NHMSYS0000462966
+6,Rumex altissimus,NHMSYS0000462967
 4,Rumex brownii,NHMSYS0000462970
 2,Rumex crispus subsp. crispus,NHMSYS0000462972
 2,Rumex hydrolapathum,NHMSYS0000462978
 2,Rumex palustris,NHMSYS0000462984
+6,Rumex pulcher subsp. pulcher,NHMSYS0000462991
 3,Rumex salicifolius,NHMSYS0000462993
 3,Ruschia caroli,NHMSYS0000463026
 4,Rytidosperma racemosum,NHMSYS0000463038
+6,Sagina apetala subsp. apetala,NHMSYS0000463045
+6,Sagina apetala subsp. erecta,NHMSYS0000463046
 2,Sagina maritima,NHMSYS0000463050
 3,Sagina nivalis,NHMSYS0000463051
 3,Sagina saginoides,NHMSYS0000463054
 2,Sagina subulata,NHMSYS0000463057
+6,Sagittaria graminea,NHMSYS0000463060
 2,Salicornia europaea agg.,NHMSYS0000463064
 3,Salicornia fragilis,NHMSYS0000463065
+6,Salicornia nitens,NHMSYS0000463070
 3,Salicornia obscura,NHMSYS0000463071
 3,Salicornia procumbens agg.,NHMSYS0000463073
 3,Salicornia pusilla,NHMSYS0000463075
 3,Salicornia ramosissima,NHMSYS0000463076
+6,Salix aurita x lapponum x herbacea,NHMSYS0000463085
 3,Salix caprea subsp. caprea,NHMSYS0000463088
 4,Salix caprea subsp. sphacelata,NHMSYS0000463089
+6,Salix caprea x myrsinifolia x phylicifolia,NHMSYS0000463090
 3,Salix cinerea subsp. cinerea,NHMSYS0000463093
 4,Salix cinerea x myrsinifolia x phylicifolia,NHMSYS0000463094
 3,Salix daphnoides,NHMSYS0000463096
 4,Salix eriocephala,NHMSYS0000463099
+6,Salix myrsinifolia x arbuscula,NHMSYS0000463105
+6,Salix repens x lapponum,NHMSYS0000463110
 4,Salix udensis,NHMSYS0000463113
+6,Salsola kali subsp. iberica,NHMSYS0000463181
 3,Salsola kali subsp. kali,NHMSYS0000463182
+6,Salvia villicaulis,NHMSYS0000463194
 3,Sarcocornia perennis,NHMSYS0000463218
 3,Sasa palmata,NHMSYS0000463226
 4,Sasa veitchii,NHMSYS0000463227
 4,Saxifraga rosacea subsp. hartii,NHMSYS0000463247
+6,Schismus arabicus,NHMSYS0000463282
 2,Schoenoplectus tabernaemontani,NHMSYS0000463294
 3,Scilla liliohyacinthus,NHMSYS0000463303
 2,Scilla verna,NHMSYS0000463306
@@ -3433,6 +4420,7 @@ code,taxon,tvk
 4,Scleranthus perennis subsp. perennis,NHMSYS0000463330
 4,Scleranthus perennis subsp. prostratus,NHMSYS0000463331
 2,Scutellaria minor,NHMSYS0000463361
+6,Securigera securidaca,NHMSYS0000463378
 2,Sedum anglicum,NHMSYS0000463381
 4,Sedum confusum,NHMSYS0000463383
 3,Sedum forsterianum,NHMSYS0000463386
@@ -3440,6 +4428,7 @@ code,taxon,tvk
 3,Sedum spurium,NHMSYS0000463398
 4,Sedum stoloniferum,NHMSYS0000463401
 3,Sedum telephium subsp. fabaria,NHMSYS0000463402
+6,Sedum telephium subsp. maximum,NHMSYS0000463403
 3,Sedum telephium subsp. telephium,NHMSYS0000463405
 3,Selaginella kraussiana,NHMSYS0000463410
 3,Selaginella selaginoides,NHMSYS0000463411
@@ -3451,6 +4440,7 @@ code,taxon,tvk
 2,Sequoia sempervirens,NHMSYS0000463454
 2,Sequoiadendron giganteum,NHMSYS0000463457
 3,Serapias parviflora,NHMSYS0000463460
+6,Seriphidium maritimum,NHMSYS0000463463
 3,Seseli libanotis,NHMSYS0000463473
 4,Setaria adhaerens,NHMSYS0000463476
 3,Setaria italica,NHMSYS0000463479
@@ -3460,26 +4450,34 @@ code,taxon,tvk
 4,Sidalcea candida,NHMSYS0000463542
 3,Sidalcea malviflora,NHMSYS0000463543
 3,Silene coeli-rosa,NHMSYS0000463563
+6,Silene fabaria,NHMSYS0000463569
+6,Silene fimbriata,NHMSYS0000463570
 1,Silene latifolia,NHMSYS0000463572
 2,Silene latifolia subsp. alba,NHMSYS0000463573
 4,Silene latifolia subsp. latifolia,NHMSYS0000463574
 4,Silene schafta,NHMSYS0000463582
+6,Silene sedoides,NHMSYS0000463583
 1,Silene vulgaris,NHMSYS0000463584
 3,Silene vulgaris subsp. vulgaris,NHMSYS0000463587
 2,Silybum marianum,NHMSYS0000463605
 3,Sinacalia tangutica,NHMSYS0000463610
 3,Sinapis alba subsp. alba,NHMSYS0000463612
 4,Sinapis alba subsp. dissecta,NHMSYS0000463613
+6,Sinapis flexuosa,NHMSYS0000463615
+6,Sisymbrium runcinatum,NHMSYS0000463626
 4,Sisymbrium volgense,NHMSYS0000463631
 3,Sisyrinchium californicum,NHMSYS0000463635
 3,Sisyrinchium montanum,NHMSYS0000463638
 3,Sisyrinchium striatum,NHMSYS0000463640
+6,Snowdenia polystachya,NHMSYS0000463734
+6,Solanum americanum,NHMSYS0000463744
 3,Solanum nigrum subsp. nigrum,NHMSYS0000463757
 3,Solanum sarachoides,NHMSYS0000463762
 4,Solanum villosum,NHMSYS0000463764
 4,Solanum villosum subsp. villosum,NHMSYS0000463766
 3,Solidago gigantea subsp. serotina,NHMSYS0000463773
 4,Solidago rugosa,NHMSYS0000463775
+6,Soliva anthemifolia,NHMSYS0000463778
 4,Soliva pterosperma,NHMSYS0000463779
 3,Sorbaria sorbifolia,NHMSYS0000463791
 4,Sorbaria tomentosa,NHMSYS0000463792
@@ -3515,6 +4513,7 @@ code,taxon,tvk
 2,Spergularia media,NHMSYS0000463881
 2,Spergularia rubra,NHMSYS0000463883
 2,Spergularia rupicola,NHMSYS0000463885
+6,Spilanthes decumbens,NHMSYS0000463897
 3,Spiraea alba,NHMSYS0000463906
 3,Spiraea canescens,NHMSYS0000463909
 4,Spiraea chamaedryfolia subsp. ulmifolia,NHMSYS0000463910
@@ -3525,11 +4524,15 @@ code,taxon,tvk
 2,Spiranthes spiralis,NHMSYS0000463932
 2,Spirodela polyrhiza,NHMSYS0000463934
 3,Sporobolus africanus,NHMSYS0000463937
+6,Stachys officinalis,NHMSYS0000463975
+6,Stellaria alsine,NHMSYS0000464004
 2,Stellaria media,NHMSYS0000464009
 3,Stellaria nemorum subsp. nemorum,NHMSYS0000464010
 2,Stellaria pallida,NHMSYS0000464011
 2,Stellaria palustris,NHMSYS0000464012
 3,Sternbergia lutea,NHMSYS0000464019
+6,Stipa aristiglumis,NHMSYS0000464035
+6,Stipa verticillata,NHMSYS0000464047
 2,Suaeda vera,NHMSYS0000464067
 2,Symphoricarpos albus,NHMSYS0000464104
 4,Symphoricarpos microphyllus,NHMSYS0000464105
@@ -3541,8 +4544,10 @@ code,taxon,tvk
 3,Tamarix africana,NHMSYS0000464144
 3,Tanacetum macrophyllum,NHMSYS0000464152
 1,Tanacetum parthenium,NHMSYS0000464153
+6,Taraxacum acutifidum,NHMSYS0000464164
 4,Taraxacum acutum,NHMSYS0000464165
 4,Taraxacum adiantifrons,NHMSYS0000464167
+6,Taraxacum aequisectum,NHMSYS0000464168
 4,Taraxacum akteum,NHMSYS0000464169
 4,Taraxacum alatum,NHMSYS0000464170
 4,Taraxacum altissimum,NHMSYS0000464171
@@ -3560,6 +4565,7 @@ code,taxon,tvk
 4,Taraxacum commixtum,NHMSYS0000464193
 4,Taraxacum cordatum,NHMSYS0000464194
 4,Taraxacum cornubiense,NHMSYS0000464195
+6,Taraxacum corynodes,NHMSYS0000464196
 4,Taraxacum cymbifolium,NHMSYS0000464200
 4,Taraxacum dahlstedtii,NHMSYS0000464201
 4,Taraxacum degelii,NHMSYS0000464202
@@ -3568,6 +4574,7 @@ code,taxon,tvk
 4,Taraxacum duplidentifrons,NHMSYS0000464208
 4,Taraxacum edmondsonianum,NHMSYS0000464209
 4,Taraxacum euryphyllum,NHMSYS0000464215
+6,Taraxacum fagerstroemii,NHMSYS0000464217
 4,Taraxacum fulgidum,NHMSYS0000464218
 4,Taraxacum fusciflorum,NHMSYS0000464219
 4,Taraxacum geirhildae,NHMSYS0000464220
@@ -3577,6 +4584,7 @@ code,taxon,tvk
 4,Taraxacum hexhamense,NHMSYS0000464229
 4,Taraxacum hirsutissimum,NHMSYS0000464231
 4,Taraxacum inane,NHMSYS0000464234
+6,Taraxacum incisum,NHMSYS0000464235
 4,Taraxacum inopinatum,NHMSYS0000464236
 4,Taraxacum insigne,NHMSYS0000464237
 4,Taraxacum interveniens,NHMSYS0000464238
@@ -3590,7 +4598,9 @@ code,taxon,tvk
 4,Taraxacum lepidum,NHMSYS0000464248
 4,Taraxacum lingulatum,NHMSYS0000464251
 4,Taraxacum longisquameum,NHMSYS0000464252
+6,Taraxacum lunare,NHMSYS0000464253
 4,Taraxacum luteum,NHMSYS0000464254
+6,Taraxacum macranthoides,NHMSYS0000464255
 4,Taraxacum maculatum,NHMSYS0000464256
 4,Taraxacum maculosum,NHMSYS0000464258
 4,Taraxacum margettsii,NHMSYS0000464259
@@ -3600,6 +4610,7 @@ code,taxon,tvk
 4,Taraxacum nietoi,NHMSYS0000464265
 4,Taraxacum nigridentatum,NHMSYS0000464266
 4,Taraxacum obliquum,NHMSYS0000464267
+6,Taraxacum ochrochlorum,NHMSYS0000464270
 4,Taraxacum oellgaardii,NHMSYS0000464271
 1,Taraxacum officinale agg.,NHMSYS0000464272
 4,Taraxacum olgae,NHMSYS0000464273
@@ -3607,6 +4618,7 @@ code,taxon,tvk
 4,Taraxacum pallidipes,NHMSYS0000464275
 4,Taraxacum palustrisquameum,NHMSYS0000464276
 4,Taraxacum parnassicum,NHMSYS0000464277
+6,Taraxacum pectinatiforme,NHMSYS0000464279
 4,Taraxacum placidum,NHMSYS0000464281
 4,Taraxacum polyhamatum,NHMSYS0000464282
 4,Taraxacum porteri,NHMSYS0000464283
@@ -3625,8 +4637,10 @@ code,taxon,tvk
 4,Taraxacum sahlinianum,NHMSYS0000464301
 4,Taraxacum sarniense,NHMSYS0000464302
 4,Taraxacum scoticum,NHMSYS0000464303
+6,Taraxacum scotiniforme,NHMSYS0000464304
 4,Taraxacum sellandii,NHMSYS0000464314
 4,Taraxacum serpenticola,NHMSYS0000464316
+6,Taraxacum spiculatum,NHMSYS0000464321
 4,Taraxacum stereodes,NHMSYS0000464324
 4,Taraxacum subbracteatum,NHMSYS0000464325
 4,Taraxacum subcyanolepis,NHMSYS0000464326
@@ -3649,13 +4663,16 @@ code,taxon,tvk
 3,Tephroseris integrifolia subsp. maritima,NHMSYS0000464373
 3,Tetragonia tetragonioides,NHMSYS0000464380
 4,Thalictrum delavayi,NHMSYS0000464386
+6,Thelypodium lasiophyllum,NHMSYS0000464400
 4,Thermopsis montana,NHMSYS0000464409
+6,Thlaspi caerulescens,NHMSYS0000464422
 2,Thuja plicata,NHMSYS0000464436
 2,Thymus polytrichus,NHMSYS0000464447
 2,Tilia cordata,NHMSYS0000464454
 4,Tilia platyphyllos subsp. cordifolia,NHMSYS0000464455
 2,Tofieldia pusilla,NHMSYS0000464469
 2,Tolmiea menziesii,NHMSYS0000464471
+6,Tolpis barbata,NHMSYS0000464473
 3,Torilis arvensis,NHMSYS0000464491
 2,Torilis nodosa,NHMSYS0000464493
 2,Trachycarpus fortunei,NHMSYS0000464504
@@ -3670,14 +4687,23 @@ code,taxon,tvk
 4,Trifolium echinatum,NHMSYS0000464565
 3,Trifolium fragiferum subsp. bonannii,NHMSYS0000464567
 3,Trifolium fragiferum subsp. fragiferum,NHMSYS0000464568
+6,Trifolium gemellum,NHMSYS0000464570
+6,Trifolium grandiflorum,NHMSYS0000464572
 4,Trifolium hybridum subsp. elegans,NHMSYS0000464573
 3,Trifolium hybridum subsp. hybridum,NHMSYS0000464574
 2,Trifolium ochroleucon,NHMSYS0000464580
+6,Trifolium patens,NHMSYS0000464581
+6,Trigonella arabica,NHMSYS0000464588
+6,Trigonella procumbens,NHMSYS0000464596
 2,Tripleurospermum inodorum,NHMSYS0000464606
 2,Tripleurospermum maritimum,NHMSYS0000464607
 2,Trisetum flavescens,NHMSYS0000464618
+6,Trisetum flavescens subsp. flavescens,NHMSYS0000464619
+6,Trisetum flavescens subsp. purpurascens,NHMSYS0000464620
 2,Tristagma uniflorum,NHMSYS0000464624
 3,Tropaeolum speciosum,NHMSYS0000464642
+6,Tsuga canadensis,NHMSYS0000464649
+6,Tulipa saxatilis,NHMSYS0000464664
 2,Ulex gallii,NHMSYS0000464695
 4,Ulex gallii x minor,NHMSYS0000464696
 2,Ulmus glabra,NHMSYS0000464701
@@ -3688,6 +4714,7 @@ code,taxon,tvk
 3,Ulmus minor subsp. sarniensis,NHMSYS0000464711
 4,Urochloa panicoides,NHMSYS0000464730
 2,Urtica dioica subsp. dioica,NHMSYS0000464736
+6,Urtica incisa,NHMSYS0000464737
 3,Utricularia australis,NHMSYS0000464741
 3,Utricularia ochroleuca,NHMSYS0000464747
 3,Utricularia stygia,NHMSYS0000464748
@@ -3699,8 +4726,11 @@ code,taxon,tvk
 4,Verbascum pyramidatum,NHMSYS0000464795
 4,Verbascum speciosum,NHMSYS0000464797
 3,Verbena rigida,NHMSYS0000464808
+6,Verbesina encelioides,NHMSYS0000464810
+6,Veronica cymbalaria,NHMSYS0000464815
 2,Veronica filiformis,NHMSYS0000464816
 3,Veronica fruticans,NHMSYS0000464817
+6,Veronica gentianoides,NHMSYS0000464818
 2,Veronica hederifolia subsp. hederifolia,NHMSYS0000464821
 2,Veronica hederifolia subsp. lucorum,NHMSYS0000464822
 2,Veronica persica,NHMSYS0000464828
@@ -3709,6 +4739,7 @@ code,taxon,tvk
 3,Veronica serpyllifolia subsp. serpyllifolia,NHMSYS0000464833
 3,Veronica spicata subsp. spicata,NHMSYS0000464834
 2,Viburnum rhytidophyllum,NHMSYS0000464843
+6,Vicia melanops,NHMSYS0000464860
 3,Vicia sativa subsp. sativa,NHMSYS0000464863
 2,Vicia tetrasperma,NHMSYS0000464865
 2,Vinca difformis,NHMSYS0000464871
@@ -3725,6 +4756,7 @@ code,taxon,tvk
 3,Viola rupestris,NHMSYS0000464900
 3,Viola tricolor subsp. curtisii,NHMSYS0000464902
 3,Viola tricolor subsp. tricolor,NHMSYS0000464904
+6,Vitis coignetiae,NHMSYS0000464932
 3,Vulpia ciliata subsp. ambigua,NHMSYS0000464940
 4,Vulpia ciliata subsp. ciliata,NHMSYS0000464941
 3,Vulpia fasciculata,NHMSYS0000464943
@@ -3734,18 +4766,26 @@ code,taxon,tvk
 2,Weigela florida,NHMSYS0000464990
 3,Wolffia arrhiza,NHMSYS0000465064
 3,Woodsia ilvensis,NHMSYS0000465076
+6,Woodwardia radicans,NHMSYS0000465080
+6,X Agropogon littoralis,NHMSYS0000465088
 4,Yushania anceps,NHMSYS0000465214
 3,Zannichellia palustris subsp. palustris,NHMSYS0000465217
 3,Zantedeschia aethiopica,NHMSYS0000465223
+6,Zelkova carpinifolia,NHMSYS0000465229
+6,Zenobia pulverulenta,NHMSYS0000465232
 4,Zizania latifolia,NHMSYS0000465242
 4,Cotoneaster ellipticus nom. inval.,NHMSYS0000465515
 4,Rosa 'Hollandica' nom. nud.,NHMSYS0000466078
 3,Pinus pinaster subsp. pinaster,NHMSYS0000494878
+6,Aconitum napellus sensu lato,NHMSYS0000494973
+6,Agrostis canina sensu lato,NHMSYS0000494978
 3,Fraxinus angustifolia,NHMSYS0000523231
 2,Limonium binervosum agg.,NHMSYS0000523253
 3,Vicia pannonica subsp. pannonica,NHMSYS0000523313
 4,Vicia pannonica subsp. striata,NHMSYS0000523318
 2,Festuca rubra agg.,NHMSYS0000523323
+6,Hieracium exotericum sensu lato,NHMSYS0000523329
+6,Hordeum distichon sensu lato,NHMSYS0000523330
 4,Taraxacum gotlandicum,NHMSYS0000840622
 4,Rubus macrophyllus,NHMSYS0000840633
 4,Rubus mucronulatus,NHMSYS0000840634
@@ -3756,6 +4796,7 @@ code,taxon,tvk
 4,Hieracium zetlandicum,NHMSYS0000840645
 4,Hieracium cambricogothicum,NHMSYS0000840653
 4,Rubus subintegribasis,NHMSYS0000840654
+6,Taraxacum remanentilobum,NHMSYS0000840655
 4,Rubus rubriflorus,NHMSYS0000840656
 4,Hieracium pollinarioides,NHMSYS0000840657
 4,Rubus drejeri,NHMSYS0000840658
@@ -3802,11 +4843,14 @@ code,taxon,tvk
 4,Rubus scabripes,NHMSYS0000840727
 4,Taraxacum landmarkii,NHMSYS0000840728
 4,Taraxacum hamatiforme,NHMSYS0000840729
+6,Taraxacum chloroticum,NHMSYS0000840730
+6,Taraxacum chrysophaenum,NHMSYS0000840731
 4,Rubus peninsulae,NHMSYS0000840732
 4,Taraxacum pannucium,NHMSYS0000840733
 4,Rubus adenoleucus,NHMSYS0000840734
 4,Taraxacum pannulatum,NHMSYS0000840735
 4,Hieracium linguans,NHMSYS0000840736
+6,Taraxacum macrolobum,NHMSYS0000840738
 4,Rubus silurum,NHMSYS0000840739
 4,Taraxacum wallonicum,NHMSYS0000840740
 4,Taraxacum drucei,NHMSYS0000840741
@@ -3823,6 +4867,7 @@ code,taxon,tvk
 4,Hieracium fulvocaesium,NHMSYS0000840752
 4,Hieracium oistophyllum,NHMSYS0000840753
 4,Taraxacum boekmanii,NHMSYS0000840754
+6,Taraxacum laciniosum,NHMSYS0000840755
 4,Taraxacum laeticolor,NHMSYS0000840756
 4,Hieracium substrigosum,NHMSYS0000840757
 4,Rubus tresidderi,NHMSYS0000840758
@@ -3850,10 +4895,12 @@ code,taxon,tvk
 4,Rubus hyposericeus,NHMSYS0000840782
 4,Rubus curvidens,NHMSYS0000840784
 4,Rubus varvicensis,NHMSYS0000840786
+6,Taraxacum acutifrons,NHMSYS0000840787
 4,Taraxacum fulviforme,NHMSYS0000840788
 4,Taraxacum croceiflorum,NHMSYS0000840790
 4,Taraxacum expallidiforme,NHMSYS0000840791
 4,Rubus tenuiarmatus,NHMSYS0000840792
+6,Taraxacum acroglossum,NHMSYS0000840793
 4,Taraxacum naevosiforme,NHMSYS0000840794
 4,Hieracium pseudostenstroemii,NHMSYS0000840795
 4,Rubus pampinosus,NHMSYS0000840796
@@ -3865,16 +4912,19 @@ code,taxon,tvk
 4,Taraxacum laticordatum,NHMSYS0000840802
 4,Rubus allegheniensis,NHMSYS0000840804
 4,Taraxacum argutum,NHMSYS0000840806
+6,Taraxacum lancidens,NHMSYS0000840807
 4,Taraxacum sinuatum,NHMSYS0000840808
 4,Rubus incurvatiformis,NHMSYS0000840809
 4,Taraxacum planum,NHMSYS0000840810
 4,Hieracium britanniciforme,NHMSYS0000840811
 4,Hieracium molybdochroum,NHMSYS0000840812
+6,Taraxacum nitidum,NHMSYS0000840815
 4,Rubus boraeanus,NHMSYS0000840818
 4,Hieracium scarpicum,NHMSYS0000840819
 4,Hieracium scabrisetum,NHMSYS0000840822
 4,Rubus armeniacus,NHMSYS0000840823
 4,Rubus newbouldii,NHMSYS0000840824
+6,Taraxacum kernianum,NHMSYS0000840825
 4,Rubus informifolius,NHMSYS0000840826
 4,Rubus bagnallianus,NHMSYS0000840827
 4,Hieracium borreri,NHMSYS0000840828
@@ -3885,8 +4935,10 @@ code,taxon,tvk
 4,Hieracium jovimontis,NHMSYS0000840833
 4,Rubus sprengelii,NHMSYS0000840834
 4,Taraxacum excellens,NHMSYS0000840835
+6,Taraxacum amplum,NHMSYS0000840837
 4,Rubus castrensis,NHMSYS0000840839
 4,Rubus bloxamianus,NHMSYS0000840840
+6,Taraxacum speciosum,NHMSYS0000840841
 4,Hieracium diaphanoides,NHMSYS0000840856
 4,Rubus bloxamii,NHMSYS0000840858
 4,Hieracium angustisquamum,NHMSYS0000840861
@@ -3902,6 +4954,7 @@ code,taxon,tvk
 4,Rubus warrenii,NHMSYS0000840875
 4,Rubus infestus,NHMSYS0000840876
 4,Rubus lamburnensis,NHMSYS0000840877
+6,Taraxacum diastematicum,NHMSYS0000840878
 4,Taraxacum retzii,NHMSYS0000840879
 4,Taraxacum anglicum,NHMSYS0000840880
 4,Rubus malvernicus,NHMSYS0000840881
@@ -3939,7 +4992,9 @@ code,taxon,tvk
 4,Hieracium crebridentiforme,NHMSYS0000840914
 4,Taraxacum cenabense,NHMSYS0000840915
 4,Hieracium submutabile,NHMSYS0000840918
+6,Taraxacum leptodon,NHMSYS0000840920
 4,Hieracium bakerianum,NHMSYS0000840921
+6,Taraxacum porrigens,NHMSYS0000840922
 4,Hieracium subprasinifolium,NHMSYS0000840923
 4,Taraxacum craspedotum,NHMSYS0000840924
 4,Taraxacum texelense,NHMSYS0000840925
@@ -3953,6 +5008,7 @@ code,taxon,tvk
 4,Rubus carnkiefensis,NHMSYS0000840933
 4,Rubus milfordensis,NHMSYS0000840935
 4,Rubus riddelsdellii,NHMSYS0000840936
+6,Taraxacum obtusifrons,NHMSYS0000840937
 4,Hieracium subintegrifolium,NHMSYS0000840938
 4,Taraxacum pseudohamatum,NHMSYS0000840940
 4,Hieracium angustatum,NHMSYS0000840941
@@ -4024,19 +5080,475 @@ code,taxon,tvk
 4,Hieracium amplexicaule,NHMSYS0000857314
 3,Hieracium sabaudum,NHMSYS0000857318
 3,Hieracium umbellatum,NHMSYS0000857319
+6,Crataegus monogyna x laevigata = C. x media,NHMSYS0001754310
+6,Ulmus glabra x minor = U. x vegeta,NHMSYS0001754311
+6,Symphytum officinale x asperum x grandiflorum = S. 'Hidcote Blue',NHMSYS0001754312
+6,Populus trichocarpa x balsamifera = P. 'Balsam Spire',NHMSYS0001754313
+6,Sedum spectabile x telephium = S. 'Herbstfreude',NHMSYS0001754314
 4,Cotoneaster salicifolius x dammeri = C. 'Hybridus Pendulus',NHMSYS0001754334
+6,Echium pininana x webbii = E. x scilloniensis,NHMSYS0001754337
+6,Cirsium tuberosum x acaule = C. x medium,NHMSYS0001754341
+6,Cirsium vulgare x acaule = C. x sabaudum,NHMSYS0001754342
+6,Cirsium dissectum x acaule = C. x woodwardii,NHMSYS0001754343
+6,Orchis simia x Aceras anthropophorum = X Orchiaceras bergonii,NHMSYS0001754345
+6,Polystichum setiferum x aculeatum = P. x bicknellii,NHMSYS0001754346
+6,Carex acutiformis x acuta = C. x subgracilis,NHMSYS0001754347
+6,Juncus articulatus x acutiflorus = J. x surrejanus,NHMSYS0001754348
+6,Potamogeton friesii x acutifolius = P. x pseudofriesii,NHMSYS0001754349
+6,Potamogeton berchtoldii x acutifolius = P. x sudermanicus,NHMSYS0001754350
+6,Dryopteris oreades x aemula = D. x pseudoabbreviata,NHMSYS0001754351
+6,Alopecurus geniculatus x aequalis = A. x haussknechtianus,NHMSYS0001754352
 4,Dryopteris filix-mas x affinis = D. x complexa,NHMSYS0001754353
+6,Rosa canina x agrestis = R. x belnensis,NHMSYS0001754354
+6,Rosa spinosissima x agrestis = R. x caviniacensis,NHMSYS0001754355
+6,Salix pentandra x alba = S. x ehrhartiana,NHMSYS0001754356
+6,Spiraea salicifolia x alba = S. x rosalba,NHMSYS0001754358
+6,Poa flexuosa x alpina = P. x jemtlandica,NHMSYS0001754359
+6,Laburnum anagyroides x alpinum = L. x watereri,NHMSYS0001754360
+6,Potamogeton gramineus x alpinus = P. x nericius,NHMSYS0001754361
+6,Potamogeton lucens x alpinus = P. x nerviger,NHMSYS0001754362
+6,Epilobium anagallidifolium x alsinifolium = E. x boissieri,NHMSYS0001754363
+6,Epilobium montanum x alsinifolium = E. x facchinii,NHMSYS0001754364
+6,Epilobium palustre x alsinifolium = E. x haynaldianum,NHMSYS0001754365
+6,Epilobium obscurum x alsinifolium = E. x rivulicola,NHMSYS0001754366
+6,Spartina maritima x alterniflora = S. x townsendii,NHMSYS0001754367
+6,Gentianella germanica x amarella = G. x pamplinii,NHMSYS0001754368
+6,Calamagrostis epigejos x Ammophila arenaria = X Calammophila baltica,NHMSYS0001754369
+6,Rorippa sylvestris x amphibia = R. x anceps,NHMSYS0001754370
+6,Rorippa palustris x amphibia = R. x erythrocaulis,NHMSYS0001754371
+6,Epilobium palustre x anagallidifolium = E. x dasycarpum,NHMSYS0001754372
+6,Epilobium obscurum x anagallidifolium = E. x marshallianum,NHMSYS0001754373
+6,Arbutus unedo x andrachne = A. x andrachnoides,NHMSYS0001754374
+6,Drosera rotundifolia x anglica = D. x obovata,NHMSYS0001754375
+6,Potentilla erecta x anglica = P. x suberecta,NHMSYS0001754376
+6,Typha latifolia x angustifolia = T. x glauca,NHMSYS0001754377
+6,Sparganium emersum x angustifolium = S. x diversifolium,NHMSYS0001754378
+6,Helianthemum nummularium x apenninum = H. x sulphureum,NHMSYS0001754379
+6,Carex paniculata x appropinquata = C. x rotae,NHMSYS0001754380
+6,Mentha arvensis x aquatica = M. x verticillata,NHMSYS0001754381
+6,Senecio jacobaea x aquaticus = S. x ostenfeldii,NHMSYS0001754383
+6,Carex recta x aquatilis = C. x grantii,NHMSYS0001754384
+6,Ranunculus baudotii x aquatilis = R. x lambertii,NHMSYS0001754385
+6,Ranunculus trichophyllus x aquatilis = R. x lutzii,NHMSYS0001754386
+6,Salix lapponum x arbuscula = S. x pseudoglauca,NHMSYS0001754387
+6,Sorbus aucuparia x aria = S. x thuringiaca,NHMSYS0001754388
+6,Festuca pratensis x arundinacea = F. x aschersoniana,NHMSYS0001754389
+6,Cirsium palustre x arvense = C. x celakovskianum,NHMSYS0001754390
+6,Equisetum fluviatile x arvense = E. x litorale,NHMSYS0001754391
+6,Symphytum officinale x asperum = S. x uplandicum,NHMSYS0001754392
+6,Phyllitis scolopendrium x Asplenium adiantum-nigrum = X Asplenophyllitis jacksonii,NHMSYS0001754393
+6,Phyllitis scolopendrium x Asplenium obovatum = X Asplenophyllitis microdon,NHMSYS0001754394
+6,Phyllitis scolopendrium x Asplenium trichomanes = X Asplenophyllitis confluens,NHMSYS0001754395
+6,Elytrigia repens x atherica = E. x drucei,NHMSYS0001754396
+6,Pilosella officinarum x aurantiaca = P. x stoloniflora,NHMSYS0001754397
+6,Crocosmia pottsii x aurea = C. x crocosmiiflora,NHMSYS0001754398
+6,Salix caprea x aurita = S. x capreola,NHMSYS0001754399
+6,Salix purpurea x aurita = S. x dichroa,NHMSYS0001754400
+6,Salix viminalis x aurita = S. x fruticosa,NHMSYS0001754401
+6,Salix cinerea x aurita = S. x multinervis,NHMSYS0001754402
+6,Salix cinerea x aurita x myrsinifolia = S. x forbesiana,NHMSYS0001754403
+6,Salix purpurea x aurita x phylicifolia = S. x sesquitertia,NHMSYS0001754404
+6,Rorippa sylvestris x austriaca = R. x armoracioides,NHMSYS0001754405
+6,Potamogeton coloratus x berchtoldii = P. x lanceolatus,NHMSYS0001754407
+6,Potamogeton natans x berchtoldii = P. x variifolius,NHMSYS0001754408
+6,Galeopsis tetrahit x bifida = G. x ludwigii,NHMSYS0001754409
+6,Platanthera chlorantha x bifolia = P. x hybrida,NHMSYS0001754410
+6,Carex nigra x bigelowii = C. x decolorans,NHMSYS0001754411
+6,Carex laevigata x binervis = C. x deserta,NHMSYS0001754412
+6,Epilobium parviflorum x brunnescens = E. x argillaceum,NHMSYS0001754413
+6,Epilobium lanceolatum x brunnescens = E. x cornubiense,NHMSYS0001754414
+6,Alopecurus geniculatus x bulbosus = A. x plettkei,NHMSYS0001754415
+6,Rosa canina x caesia = R. x dumalis,NHMSYS0001754416
+6,Rosa spinosissima x caesia = R. x margerisonii,NHMSYS0001754417
+6,Rubus idaeus x caesius = R. x pseudoidaeus,NHMSYS0001754418
+6,Oenothera glazioviana x cambrica = O. x britannica,NHMSYS0001754419
+6,Polypodium vulgare x cambricum = P. x font-queri,NHMSYS0001754420
+6,Polypodium interjectum x cambricum = P. x shivasiae,NHMSYS0001754421
+6,Solidago virgaurea x canadensis = S. x niederederi,NHMSYS0001754422
+6,Berberis gagnepainii x candidula = B. x hybrido-gagnepainii,NHMSYS0001754423
+6,Spiraea douglasii x canescens = S. x brachybotrys,NHMSYS0001754424
+6,Rosa stylosa x canina = R. x andegavensis,NHMSYS0001754425
+6,Rosa spinosissima x canina = R. x hibernica,NHMSYS0001754426
+6,Rosa rugosa x canina = R. x praegeri,NHMSYS0001754427
+6,Salix viminalis x caprea = S. x smithiana,NHMSYS0001754428
+6,Salix viminalis x caprea x aurita = S. x stipularis,NHMSYS0001754429
+6,Salix viminalis x caprea x cinerea = S. x calodendron,NHMSYS0001754430
+6,Erica erigena x carnea = E. x darleyensis,NHMSYS0001754431
+6,Dryopteris cristata x carthusiana = D. x uliginosa,NHMSYS0001754433
+6,Astilbe japonica x chinensis x rosea = A. x arendsii,NHMSYS0001754435
+6,Bergenia crassifolia x ciliata = B. x schmidtii,NHMSYS0001754436
+6,Epilobium hirsutum x ciliatum = E. x novae-civitatis,NHMSYS0001754437
+6,Salix viminalis x cinerea = S. x holosericea,NHMSYS0001754438
+6,Salix purpurea x cinerea = S. x pontederiana,NHMSYS0001754439
 4,Salix purpurea x cinerea x aurita = S. x confinis,NHMSYS0001754440
 4,Salix viminalis x cinerea x aurita = S. x hirtei,NHMSYS0001754441
+6,Salix viminalis x cinerea x repens = S. x angusensis,NHMSYS0001754442
+6,Gymnadenia conopsea x Coeloglossum viride = X Gymnaglossum jacksonii,NHMSYS0001754443
+6,Juncus effusus x conglomeratus = J. x kern-reichgeltii,NHMSYS0001754444
+6,Rumex hydrolapathum x conglomeratus = R. x digeneus,NHMSYS0001754445
+6,Rumex crispus x conglomeratus = R. x schulzei,NHMSYS0001754446
+6,Rumex frutescens x conglomeratus = R. x wrightii,NHMSYS0001754447
 4,Cotoneaster dammeri x conspicuus = C. x suecicus,NHMSYS0001754448
+6,Erigeron acer x Conyza canadensis = X Conyzigeron huelsenii,NHMSYS0001754449
+6,Tilia platyphyllos x cordata = T. x europaea,NHMSYS0001754450
+6,Mespilus germanica x Crataegus laevigata = X Crataemespilus grandiflora,NHMSYS0001754451
+6,Potamogeton trichoides x crispus = P. x bennettii,NHMSYS0001754452
+6,Potamogeton lucens x crispus = P. x cadburyae,NHMSYS0001754453
+6,Potamogeton perfoliatus x crispus = P. x cooperi,NHMSYS0001754454
+6,Potamogeton friesii x crispus = P. x lintonii,NHMSYS0001754455
+6,Potamogeton praelongus x crispus = P. x undulatus,NHMSYS0001754456
+6,Rumex patientia x crispus = R. x confusus,NHMSYS0001754457
+6,Rumex cristatus x crispus = R. x dimidiatus,NHMSYS0001754458
+6,Rumex longifolius x crispus = R. x propinquus,NHMSYS0001754459
+6,Rumex hydrolapathum x crispus = R. x schreberi,NHMSYS0001754460
+6,Mimulus guttatus x cupreus = M. x burnetii,NHMSYS0001754462
+6,Mimulus luteus x cupreus = M. x maculosus,NHMSYS0001754463
+6,Carex echinata x curta = C. x biharica,NHMSYS0001754464
+6,Carex lachenalii x curta = C. x helvola,NHMSYS0001754465
+6,Carex paniculata x curta = C. x ludibunda,NHMSYS0001754466
+6,Narcissus tazetta x cyclamineus = N. x cyclazetta,NHMSYS0001754467
+6,Euphorbia esula x cyparissias = E. x pseudoesula,NHMSYS0001754468
+6,Gymnadenia conopsea x Dactylorhiza fuchsii = X Dactylodenia st-quintinii,NHMSYS0001754469
+6,Gymnadenia conopsea x Dactylorhiza incarnata = X Dactylodenia vollmannii,NHMSYS0001754470
 4,Gymnadenia conopsea x Dactylorhiza maculata = X Dactylodenia legrandiana,NHMSYS0001754471
+6,Pseudorchis albida x Dactylorhiza maculata = X Pseudorhiza bruniana,NHMSYS0001754472
+6,Gymnadenia conopsea x Dactylorhiza praetermissa = X Dactylodenia wintoni,NHMSYS0001754473
+6,Gymnadenia conopsea x Dactylorhiza purpurella = X Dactylodenia varia,NHMSYS0001754474
+6,Tilia cordata x dasystyla = T. x euchlora,NHMSYS0001754475
+6,Populus nigra x deltoides = P. x canadensis,NHMSYS0001754477
+6,Populus trichocarpa x deltoides = P. x generosa,NHMSYS0001754478
+6,Populus balsamifera x deltoides = P. x jackii,NHMSYS0001754479
+6,Carex paniculata x diandra = C. x beckmannii,NHMSYS0001754480
+6,Carex echinata x dioica = C. x gaudiniana,NHMSYS0001754481
+6,Silene latifolia x dioica = S. x hampeana,NHMSYS0001754482
+6,Puccinellia maritima x distans = P. x hybrida,NHMSYS0001754483
+6,Prunus spinosa x domestica = P. x fruticans,NHMSYS0001754484
+6,Spiraea salicifolia x douglasii = S. x pseudosalicifolia,NHMSYS0001754485
+6,Papaver rhoeas x dubium = P. x hungaricum,NHMSYS0001754486
+6,Juncus inflexus x effusus = J. x diffusus,NHMSYS0001754487
+6,Carex nigra x elata = C. x turfosa,NHMSYS0001754489
+6,Primula vulgaris x elatior = P. x digenea,NHMSYS0001754490
+6,Primula vulgaris x elatior x veris = P. x murbeckii,NHMSYS0001754491
+6,Hebe salicifolia x elliptica = H. x lewisii,NHMSYS0001754492
+6,Dryopteris oreades x filix-mas = D. x mantoniae,NHMSYS0001754493
+6,Crocus angustifolius x flavus = C. x stellaris,NHMSYS0001754494
+6,Cardamine pratensis x flexuosa = C. x fringsii,NHMSYS0001754495
+6,Ranunculus peltatus x fluitans = R. x kelchoensis,NHMSYS0001754496
+6,Cerastium nigrescens x fontanum = C. x richardsonii,NHMSYS0001754497
+6,Ophrys sphegodes x fuciflora = O. x obscura,NHMSYS0001754499
+6,Alopecurus pratensis x geniculatus = A. x brachystylus,NHMSYS0001754501
+6,Festuca pratensis x gigantea = F. x schlickumii,NHMSYS0001754502
+6,Hypochaeris radicata x glabra = H. x intermedia,NHMSYS0001754503
+6,Potamogeton lucens x gramineus = P. x angustifolius,NHMSYS0001754504
+6,Potamogeton polygonifolius x gramineus = P. x lanceolatifolius,NHMSYS0001754505
+6,Potamogeton natans x gramineus = P. x sparganiifolius,NHMSYS0001754506
+6,Pinguicula vulgaris x grandiflora = P. x scullyi,NHMSYS0001754507
+6,Viburnum farreri x grandiflorum = V. x bodnantense,NHMSYS0001754508
+6,Pseudorchis albida x Gymnadenia conopsea = X Pseudadenia schweinfurthii,NHMSYS0001754509
+6,Epipactis purpurata x helleborine = E. x schulzei,NHMSYS0001754510
+6,Salix repens x herbacea = S. x cernua,NHMSYS0001754511
+6,Salix lanata x herbacea = S. x sadleri,NHMSYS0001754512
+6,Salix lapponum x herbacea = S. x sobrina,NHMSYS0001754513
+6,Saxifraga spathularis x hirsuta = S. x polita,NHMSYS0001754514
+6,Saxifraga umbrosa x hirsuta = S. x geum,NHMSYS0001754515
+6,Viola odorata x hirta = V. x scabra,NHMSYS0001754516
+6,Limonium vulgare x humile = L. x neumanii,NHMSYS0001754517
+6,Amaranthus retroflexus x hybridus = A. x ozanonii,NHMSYS0001754518
+6,Persicaria maculosa x hydropiper = P. x intercedens,NHMSYS0001754520
+6,Dactylorhiza maculata x incarnata = D. x carnea,NHMSYS0001754521
+6,Polypodium vulgare x interjectum = P. x mantoniae,NHMSYS0001754522
+6,Drosera rotundifolia x intermedia = D. x belezeana,NHMSYS0001754523
+6,Apium nodiflorum x inundatum = A. x moorei,NHMSYS0001754524
+6,Centaurea nigra x jacea = C. x moncktonii,NHMSYS0001754525
+6,Narcissus pseudonarcissus x jonquilla = N. x odorus,NHMSYS0001754527
+6,Elytrigia repens x juncea = E. x laxa,NHMSYS0001754528
+6,Prunella vulgaris x laciniata = P. x intermedia,NHMSYS0001754529
+6,Dipsacus fullonum x laciniatus = D. x pseudosilvester,NHMSYS0001754530
+6,Alisma plantago-aquatica x lanceolatum = A. x rhicnocarpum,NHMSYS0001754531
+6,Epilobium parviflorum x lanceolatum = E. x aschersonianum,NHMSYS0001754532
+6,Epilobium montanum x lanceolatum = E. x neogradense,NHMSYS0001754533
+6,Aster novi-belgii x lanceolatus = A. x salignus,NHMSYS0001754534
+6,Persicaria maculosa x lapathifolia = P. x pseudolapathum,NHMSYS0001754535
+6,Daphne mezereum x laureola = D. x houtteana,NHMSYS0001754536
+6,Populus nigra x laurifolia = P. x berolinensis,NHMSYS0001754537
+6,Myosotis scorpioides x laxa = M. x suzae,NHMSYS0001754538
+6,Bromus hordeaceus x lepidus = B. x pseudothominei,NHMSYS0001754539
+6,Atriplex prostrata x littoralis = A. x hulmeana,NHMSYS0001754540
+6,Polystichum setiferum x lonchitis = P. x lonchitiforme,NHMSYS0001754541
+6,Mentha suaveolens x longifolia = M. x rotundifolia,NHMSYS0001754542
+6,Mentha spicata x longifolia = M. x villosonervata,NHMSYS0001754543
+6,Atriplex prostrata x longipes = A. x gustafssoniana,NHMSYS0001754544
+6,Potamogeton natans x lucens = P. x fluitans,NHMSYS0001754545
+6,Hypericum perforatum x maculatum = H. x desetangsii,NHMSYS0001754546
+6,Rumex obtusifolius x maritimus = R. x callianthemus,NHMSYS0001754547
+6,Rumex crispus x maritimus = R. x fallacinus,NHMSYS0001754548
+6,Rumex palustris x maritimus = R. x henrardii,NHMSYS0001754549
+6,Rosa rubiginosa x micrantha = R. x bigeneris,NHMSYS0001754550
+6,Rorippa nasturtium-aquaticum x microphylla = R. x sterilis,NHMSYS0001754551
+6,Persicaria mitis x minor = P. x wilmsii,NHMSYS0001754552
+6,Persicaria maculosa x mitis = P. x condensata,NHMSYS0001754553
+6,Persicaria hydropiper x mitis = P. x hybrida,NHMSYS0001754554
+6,Rosa sherardii x mollis = R. x perthensis,NHMSYS0001754555
+6,Rosa spinosissima x mollis = R. x sabinii,NHMSYS0001754556
+6,Caryopteris incana x mongholica = C. x clandonensis,NHMSYS0001754557
+6,Epilobium parviflorum x montanum = E. x limosum,NHMSYS0001754558
+6,Crinum bulbispermum x moorei = C. x powellii,NHMSYS0001754559
+6,Lolium perenne x multiflorum = L. x boucheanum,NHMSYS0001754560
+6,Salix purpurea x myrsinifolia = S. x beckiana,NHMSYS0001754561
+6,Salix viminalis x myrsinifolia = S. x seminigricans,NHMSYS0001754562
+6,Vaccinium vitis-idaea x myrtillus = V. x intermedium,NHMSYS0001754563
+6,Betula pubescens x nana = B. x intermedia,NHMSYS0001754564
+6,Salvia pratensis x nemorosa = S. x sylvestris,NHMSYS0001754565
+6,Malus atrosanguinea x niedzwetskyana = M. x purpurea,NHMSYS0001754566
+6,Potamogeton natans x nodosus = P. x schreberi,NHMSYS0001754567
+6,Epilobium parviflorum x obscurum = E. x dacicum,NHMSYS0001754569
+6,Epilobium tetragonum x obscurum = E. x semiobscurum,NHMSYS0001754570
+6,Rumex frutescens x obtusifolius = R. x cornubiensis,NHMSYS0001754571
+6,Rumex sanguineus x obtusifolius = R. x dufftii,NHMSYS0001754572
+6,Rumex patientia x obtusifolius = R. x erubescens,NHMSYS0001754573
+6,Rumex pulcher x obtusifolius = R. x ogulinensis,NHMSYS0001754574
+6,Pilosella peleteriana x officinarum = P. x longisquama,NHMSYS0001754575
+6,Symphoricarpos microphyllus x orbiculatus = S. x chenaultii,NHMSYS0001754576
+6,Cirsium tuberosum x palustre = C. x semidecurrens,NHMSYS0001754577
+6,Cirsium vulgare x palustre = C. x subspinuligerum,NHMSYS0001754578
+6,Epilobium tetragonum x palustre = E. x laschianum,NHMSYS0001754579
+6,Epilobium roseum x palustre = E. x purpureum,NHMSYS0001754580
+6,Epilobium parviflorum x palustre = E. x rivulare,NHMSYS0001754581
+6,Stachys sylvatica x palustris = S. x ambigua,NHMSYS0001754582
+6,Rubus odoratus x parviflorus = R. x fraseri,NHMSYS0001754583
+6,Rumex cristatus x patientia = R. x xenogenus,NHMSYS0001754584
+6,Helianthus tuberosus x pauciflorus = H. x laetiflorus,NHMSYS0001754585
+6,Anemone hortensis x pavonina = A. x fulgens,NHMSYS0001754586
+6,Epilobium montanum x pedunculare = E. x kitcheneri,NHMSYS0001754587
+6,Potamogeton praelongus x perfoliatus = P. x cognatus,NHMSYS0001754588
+6,Salix purpurea x phylicifolia = S. x secerneta,NHMSYS0001754589
+6,Doronicum pardalianches x plantagineum x columnae = D. x excelsum,NHMSYS0001754590
+6,Eryngium giganteum x planum = E. x oliverianum,NHMSYS0001754591
+6,Narcissus tazetta x poeticus = N. x medioluteus,NHMSYS0001754592
+6,Tragopogon pratensis x porrifolius = T. x mirabilis,NHMSYS0001754593
+6,Sagina subulata x procumbens = S. x micrantha,NHMSYS0001754594
+6,Sagina saginoides x procumbens = S. x normaniana,NHMSYS0001754595
+6,Rumex sanguineus x pulcher = R. x mixtus,NHMSYS0001754599
+6,Rumex rupestris x pulcher = R. x trimenii,NHMSYS0001754600
+6,Elaeagnus macrophylla x pungens = E. x submacrophylla,NHMSYS0001754601
+6,Ajuga reptans x pyramidalis = A. x pseudopyramidalis,NHMSYS0001754602
+6,Linaria vulgaris x repens = L. x sepium,NHMSYS0001754604
+6,Ononis spinosa x repens = O. x pseudohircina,NHMSYS0001754605
+6,Salix viminalis x repens = S. x friesiana,NHMSYS0001754606
+6,Ludwigia palustris x repens = L. x kentiana,NHMSYS0001754607
+6,Salix aurita x repens x herbacea = S. x grahamii,NHMSYS0001754608
+6,Carex acutiformis x riparia = C. x sooi,NHMSYS0001754609
+6,Epilobium tetragonum x roseum = E. x borbasianum,NHMSYS0001754610
+6,Rosa tomentosa x rubiginosa = R. x avrayensis,NHMSYS0001754611
+6,Rosa spinosissima x rubiginosa = R. x biturigensis,NHMSYS0001754612
+6,Rosa sherardii x rubiginosa = R. x suberecta,NHMSYS0001754613
+6,Asplenium trichomanes x ruta-muraria = A. x clermontiae,NHMSYS0001754614
+6,Carex vesicaria x saxatilis = C. x grahamii,NHMSYS0001754617
+6,Rosa spinosissima x sherardii = R. x involuta,NHMSYS0001754618
+6,Rosa tomentosa x sherardii = R. x suberectiformis,NHMSYS0001754619
+6,Saxifraga umbrosa x spathularis = S. x urbium,NHMSYS0001754621
+6,Lonicera fragrantissima x standishii = L. x purpusii,NHMSYS0001754622
+6,Equisetum fluviatile x telmateia = E. x willmotii,NHMSYS0001754623
+6,Equisetum arvense x telmateia = E. x robertsii,NHMSYS0001754624
+6,Spiraea multiflora x thunbergii = S. x arguta,NHMSYS0001754626
+6,Lavatera olbia x thuringiaca = L. x clementii,NHMSYS0001754627
+6,Rosa spinosissima x tomentosa = R. x andrzejowskii,NHMSYS0001754628
+6,Viola lutea x tricolor x altaica = V. x wittrockiana,NHMSYS0001754629
+6,Gladiolus cardinalis x tristis = G. x colvillei,NHMSYS0001754630
+6,Potamogeton pectinatus x vaginatus = P. x bottnicus,NHMSYS0001754631
+6,Primula veris x vulgaris = P. x polyantha,NHMSYS0001754632
+6,Senecio vulgaris x vernalis = S. x helwingii,NHMSYS0001754633
+6,Salix purpurea x viminalis x caprea x cinerea = S. x taylorii,NHMSYS0001754634
+6,Salix purpurea x viminalis x cinerea = S. x forbyana,NHMSYS0001754635
+6,Euphorbia cyparissias x waldsteinii = E. x gayeri,NHMSYS0001754636
+6,Persicaria alpina x weyrichii = P. x fennica,NHMSYS0001754637
+6,Dactylorhiza incarnata x praetermissa = D. x wintoni,NHMSYS0001754638
+6,Coeloglossum viride x Dactylorhiza fuchsii = X Dactyloglossum mixtum,NHMSYS0001754639
+6,Carex rostrata x vesicaria = C. x involuta,NHMSYS0001754640
+6,Spiraea cantoniensis x trilobata = S. x vanhouttei,NHMSYS0001754641
+6,Calamagrostis canescens x stricta = C. x gracilescens,NHMSYS0001754642
+6,Polystichum aculeatum x lonchitis = P. x illyricum,NHMSYS0001754643
+6,Coeloglossum viride x Dactylorhiza maculata = X Dactyloglossum conigerum,NHMSYS0001754645
+6,Dactylorhiza fuchsii x praetermissa = D. x grandis,NHMSYS0001754646
+6,Dactylorhiza fuchsii x maculata = D. x transiens,NHMSYS0001754647
+6,Dactylorhiza maculata x praetermissa = D. x hallii,NHMSYS0001754648
+6,Puccinellia distans x rupestris = P. x pannonica,NHMSYS0001754649
+6,Petunia axillaris x integrifolia = P. x hybrida,NHMSYS0001754652
+6,Coeloglossum viride x Dactylorhiza purpurella = X Dactyloglossum viridella,NHMSYS0001754653
+6,Dryopteris carthusiana x dilatata = D. x deweveri,NHMSYS0001754654
+6,Festuca pratensis x Lolium multiflorum = X Festulolium braunii,NHMSYS0001754655
+6,Carex divulsa x remota = C. x emmae,NHMSYS0001754656
+6,Ilex aquifolium x perado = I. x altaclerensis,NHMSYS0001754657
+6,Anchusa ochroleuca x officinalis = A. x baumgartenii,NHMSYS0001754658
+6,Anthemis cotula x Tripleurospermum inodorum = X Tripleurothemis maleolens,NHMSYS0001754659
+6,Dactylorhiza incarnata x purpurella = D. x latirella,NHMSYS0001754660
+6,Cirsium dissectum x palustre = C. x forsteri,NHMSYS0001754662
+6,Dactylorhiza fuchsii x incarnata = D. x kernerorum,NHMSYS0001754663
+6,Dactylorhiza maculata x purpurella = D. x formosa,NHMSYS0001754664
+6,Dactylorhiza praetermissa x purpurella = D. x insignis,NHMSYS0001754665
+6,Dactylorhiza fuchsii x purpurella = D. x venusta,NHMSYS0001754666
+6,Raphanus raphanistrum x sativus = R. x micranthus,NHMSYS0001754667
+6,Centaurium erythraea x littorale = C. x intermedium,NHMSYS0001754668
+6,Rumex obtusifolius x palustris = R. x steinii,NHMSYS0001754669
+6,Carex aquatilis x nigra = C. x hibernica,NHMSYS0001754670
+6,Potamogeton alpinus x praelongus = P. x griffithii,NHMSYS0001754671
+6,Ranunculus aquatilis x peltatus = R. x virzionensis,NHMSYS0001754672
+6,Ranunculus baudotii x trichophyllus = R. x segretii,NHMSYS0001754673
+6,Salix caprea x cinerea = S. x reichardtii,NHMSYS0001754674
+6,Orchis militaris x simia = O. x beyrichii,NHMSYS0001754675
+6,Chenopodium carinatum x cristatum = C. x bontei,NHMSYS0001754676
+6,Erodium cicutarium x lebelii = E. x anaristatum,NHMSYS0001754677
+6,Rumex aquaticus x obtusifolius = R. x platyphyllus,NHMSYS0001754678
 4,Agrostis capillaris x vinealis = A. ? x sanionis,NHMSYS0001754679
+6,Anacamptis pyramidalis x Gymnadenia conopsea = X Gymnanacamptis anacamptis,NHMSYS0001754680
+6,Agrimonia eupatoria x procera = A. x wirtgenii,NHMSYS0001754681
+6,Potamogeton alpinus x crispus = P. x olivaceus,NHMSYS0001754682
+6,Erica ciliaris x tetralix = E. x watsonii,NHMSYS0001754683
+6,Lupinus arboreus x polyphyllus = L. x regalis,NHMSYS0001754684
+6,Rorippa amphibia x austriaca = R. x hungarica,NHMSYS0001754687
+6,Rumex crispus x palustris = R. x heteranthos,NHMSYS0001754688
+6,Orchis mascula x morio = O. x morioides,NHMSYS0001754689
+6,Luzula forsteri x pilosa = L. x borreri,NHMSYS0001754690
+6,Polygonatum multiflorum x odoratum = P. x hybridum,NHMSYS0001754691
+6,Calystegia pulchra x silvatica = C. x howittiorum,NHMSYS0001754692
+6,Salix myrsinifolia x repens = S. x felina,NHMSYS0001754693
+6,Equisetum fluviatile x palustre = E. x dycei,NHMSYS0001754694
+6,Equisetum arvense x palustre = E. x rothmaleri,NHMSYS0001754695
+6,Equisetum sylvaticum x telmateia = E. x bowmanii,NHMSYS0001754696
+6,Asplenium adiantum-nigrum x septentrionale = A. x contrei,NHMSYS0001754697
+6,Cirsium acaule x arvense = C. x boulayi,NHMSYS0001754698
+6,Ophrys apifera x fuciflora = O. x albertiana,NHMSYS0001754699
+6,Cephalanthera damasonium x longifolia = C. x schulzei,NHMSYS0001754700
+6,Rumex conglomeratus x maritimus = R. x knafii,NHMSYS0001754701
+6,Epilobium montanum x obscurum = E. x aggregatum,NHMSYS0001754702
+6,Carex distans x extensa = C. x tornabenii,NHMSYS0001754703
+6,Larix decidua x kaempferi = L. x marschlinsii,NHMSYS0001754704
+6,Asplenium adiantum-nigrum x onopteris = A. x ticinense,NHMSYS0001754705
+6,Potamogeton pusillus x trichoides = P. x grovesii,NHMSYS0001754706
+6,Salix cinerea x repens = S. x subsericea,NHMSYS0001754707
+6,Juncus alpinoarticulatus x articulatus = J. x buchenaui,NHMSYS0001754708
+6,Asplenium ruta-muraria x septentrionale = A. x murbeckii,NHMSYS0001754709
+6,Cerastium alpinum x fontanum = C. x symei,NHMSYS0001754710
+6,Linaria repens x supina = L. x cornubiensis,NHMSYS0001754711
+6,Erica tetralix x vagans = E. x williamsii,NHMSYS0001754712
+6,Carex binervis x viridula = C. x corstorphinei,NHMSYS0001754713
+6,Senecio squalidus x vulgaris = S. x baxteri,NHMSYS0001754714
+6,Ranunculus flammula x reptans = R. x levenensis,NHMSYS0001754715
+6,Rosa arvensis x obtusifolia = R. x rouyana,NHMSYS0001754716
+6,Epilobium hirsutum x palustre = E. x waterfallii,NHMSYS0001754717
+6,Iris versicolor x virginica = I. x robusta,NHMSYS0001754718
+6,Salix aurita x repens = S. x ambigua,NHMSYS0001754719
+6,Salix aurita x herbacea = S. x margarita,NHMSYS0001754720
+6,Salix arbuscula x herbacea = S. x simulatrix,NHMSYS0001754721
+6,Salix aurita x myrsinifolia x phylicifolia = S. x saxetana,NHMSYS0001754722
+6,Salix aurita x phylicifolia = S. x ludificans,NHMSYS0001754723
+6,Carex distans x hostiana = C. x muelleriana,NHMSYS0001754724
+6,Carex hirta x vesicaria = C. x grossii,NHMSYS0001754725
+6,Orchis laxiflora x morio = O. x alata,NHMSYS0001754726
+6,Rubus idaeus x phoenicolasius = R. x paxii,NHMSYS0001754727
+6,Salix aurita x myrsinifolia = S. x coriacea,NHMSYS0001754728
+6,Salix caprea x myrsinifolia = S. x latifolia,NHMSYS0001754729
+6,Agrostis capillaris x stolonifera = A. x murbeckii,NHMSYS0001754730
+6,Dryopteris dilatata x expansa = D. x ambroseae,NHMSYS0001754731
+6,Dryopteris carthusiana x expansa = D. x sarvelae,NHMSYS0001754732
+6,Carex aquatilis x bigelowii = C. x limula,NHMSYS0001754733
+6,Carex acuta x elata = C. x prolixa,NHMSYS0001754734
+6,Potamogeton coloratus x gramineus = P. x billupsii,NHMSYS0001754735
+6,Salix purpurea x repens = S. x doniana,NHMSYS0001754736
+6,Rumex conglomeratus x palustris = R. x wirtgenii,NHMSYS0001754737
+6,Potamogeton natans x polygonifolius = P. x gessnacensis,NHMSYS0001754738
+6,Potamogeton gramineus x perfoliatus = P. x nitens,NHMSYS0001754739
+6,Capsella bursa-pastoris x rubella = C. x gracilis,NHMSYS0001754740
+6,Rosa arvensis x rubiginosa = R. x gallicoides,NHMSYS0001754741
+6,Ranunculus omiophyllus x peltatus = R. x hiltonii,NHMSYS0001754742
+6,Potamogeton alpinus x perfoliatus = P. x prussicus,NHMSYS0001754743
+6,Rumex aquaticus x crispus = R. x conspersus,NHMSYS0001754744
+6,Salix caprea x lapponum = S. x canescens,NHMSYS0001754745
+6,Carex lasiocarpa x riparia = C. x evoluta,NHMSYS0001754746
+6,Epilobium hirsutum x montanum = E. x erroneum,NHMSYS0001754747
+6,Rumex conglomeratus x pulcher = R. x muretii,NHMSYS0001754748
+6,Rumex crispus x pulcher = R. x pseudopulcher,NHMSYS0001754749
+6,Epilobium lanceolatum x roseum = E. x abortivum,NHMSYS0001754750
+6,Rumex aquaticus x sanguineus = R. x dumulosus,NHMSYS0001754751
+6,Rumex conglomeratus x sanguineus = R. x ruhmeri,NHMSYS0001754752
+6,Rumex crispus x sanguineus = R. x sagorskii,NHMSYS0001754753
+6,Cochlearia anglica x officinalis = C. x hollandica,NHMSYS0001754754
+6,Spiraea alba x douglasii = S. x billardii,NHMSYS0001754755
+6,Rosa canina x mollis = R. x molletorum,NHMSYS0001754756
+6,Salix triandra x viminalis = S. x mollissima,NHMSYS0001754757
+6,Olearia avicenniifolia x moschata = O. x haastii,NHMSYS0001754758
+6,Iris filifolia x tingitana = I. x hollandica,NHMSYS0001754759
+6,Salix purpurea x viminalis = S. x rubra,NHMSYS0001754760
+6,Salix arbuscula x reticulata = S. x ganderi,NHMSYS0001754761
+6,Puccinellia maritima x rupestris = P. x krusemaniana,NHMSYS0001754762
+6,Carex pseudocyperus x rostrata = C. x justi-schmidtii,NHMSYS0001754763
+6,Rumex hydrolapathum x obtusifolius = R. x weberi,NHMSYS0001754764
+6,Epipactis atrorubens x helleborine = E. x schmalhausenii,NHMSYS0001754765
+6,Potamogeton filiformis x pectinatus = P. x suecicus,NHMSYS0001754766
+6,Carex otrubae x remota = C. x pseudoaxillaris,NHMSYS0001754767
+6,Rumex cristatus x obtusifolius = R. x lousleyi,NHMSYS0001754768
+6,Rumex longifolius x obtusifolius = R. x hybridus,NHMSYS0001754769
+6,Epilobium montanum x palustre = E. x montaniforme,NHMSYS0001754770
+6,Helianthus annuus x decapetalus = H. x multiflorus,NHMSYS0001754771
 4,Rosa arvensis x gallica = R. x alba,NHMSYS0001754772
+6,Quercus cerris x suber = Q. x crenata,NHMSYS0001754773
+6,Aconitum napellus x variegatum = A. x cammarum,NHMSYS0001754774
+6,Potentilla anglica x reptans = P. x mixta,NHMSYS0001754775
+6,Berberis darwinii x empetrifolia = B. x stenophylla,NHMSYS0001754776
+6,Lavandula angustifolia x latifolia = L. x intermedia,NHMSYS0001754777
+6,Narcissus poeticus x pseudonarcissus = N. x incomparabilis,NHMSYS0001754778
+6,Cerastium arvense x fontanum = C. x pseudoalpinum,NHMSYS0001754779
+6,Geranium ibericum x platypetalum = G. x magnificum,NHMSYS0001754780
+6,Cardamine flexuosa x hirsuta = C. x zahlbruckneriana,NHMSYS0001754781
+6,Brassica napus x rapa = B. x harmsiana,NHMSYS0001754782
+6,Primula elatior x veris = P. x media,NHMSYS0001754783
+6,Carex distans x viridula = C. x luteola,NHMSYS0001754784
+6,Ophrys insectifera x sphegodes = O. x hybrida,NHMSYS0001754785
+6,Fumaria muralis x officinalis = F. x painteri,NHMSYS0001754786
+6,Philadelphus coronarius x microphyllus x pubescens = P. x virginalis,NHMSYS0001754787
+6,Cirsium heterophyllum x palustre = C. x wankelii,NHMSYS0001754788
+6,Epilobium parviflorum x roseum = E. x persicinum,NHMSYS0001754789
+6,Epilobium obscurum x palustre = E. x schmidtianum,NHMSYS0001754790
+6,Juncus balticus x effusus = J. x obotritorum,NHMSYS0001754791
+6,Equisetum pratense x sylvaticum = E. x mildeanum,NHMSYS0001754792
+6,Equisetum palustre x telmateia = E. x font-queri,NHMSYS0001754793
+6,Epilobium hirsutum x roseum = E. x goerzii,NHMSYS0001754794
+6,Rumex conglomeratus x obtusifolius = R. x abortivus,NHMSYS0001754795
+6,Ranunculus omiophyllus x tripartitus = R. x novae-forestae,NHMSYS0001754796
+6,Senecio sylvaticus x viscosus = S. x viscidulus,NHMSYS0001754797
+6,Cirsium acaule x palustre = C. x kirschlegeri,NHMSYS0001754798
+6,Mimulus guttatus x luteus = M. x robertsii,NHMSYS0001754799
+6,Carex riparia x vesicaria = C. x csomadensis,NHMSYS0001754800
+6,Asplenium adiantum-nigrum x obovatum = A. x sarniense,NHMSYS0001754801
+6,Atriplex glabriuscula x longipes = A. x taschereaui,NHMSYS0001754802
+6,Mahonia aquifolium x repens = M. x decumbens,NHMSYS0001754803
+6,Festuca rubra x Vulpia fasciculata = X Festulpia hubbardii,NHMSYS0001754804
+6,Festuca arenaria x Vulpia fasciculata = X Festulpia melderisii,NHMSYS0001754805
+6,Alnus glutinosa x incana = A. x hybrida,NHMSYS0001754806
+6,Macleaya cordata x microcarpa = M. x kewensis,NHMSYS0001754807
+6,Gaillardia aristata x pulchella = G. x grandiflora,NHMSYS0001754808
+6,Salix myrsinifolia x myrsinites = S. x punctata,NHMSYS0001754809
+6,Agrostis capillaris x gigantea = A. x bjoerkmanii,NHMSYS0001754811
+6,Nicotiana alata x forgetiana = N. x sanderae,NHMSYS0001754812
+6,Salix aurita x lapponum = S. x obtusifolia,NHMSYS0001754813
+6,Colutea arborescens x orientalis = C. x media,NHMSYS0001754814
+6,Potamogeton lucens x perfoliatus = P. x salicifolius,NHMSYS0001754815
+6,Rosa micrantha x agrestis = R. x bishopii,NHMSYS0001754816
+6,Rosa canina x micrantha = R. x toddiae,NHMSYS0001754817
+6,Rosa arvensis x micrantha = R. x vituperabilis,NHMSYS0001754818
+6,Rosa mollis x rubiginosa = R. x molliformis,NHMSYS0001754819
+6,Rosa obtusifolia x rubiginosa = R. x timbalii,NHMSYS0001754820
 4,Rosa caesia x tomentosa = R. x cottetii,NHMSYS0001754821
+6,Geranium endressii x versicolor = G. x oxonianum,NHMSYS0001754822
+6,Forsythia suspensa x viridissima = F. x intermedia,NHMSYS0001754823
+6,Salix caprea x repens = S. x laschiana,NHMSYS0001754824
+6,Carex flava x viridula = C. x alsatica,NHMSYS0001754825
 4,Verbascum nigrum x speciosum,NHMSYS0020046545
+6,Carex paniculata x remota (C. x boenninghausiana),NHMSYS0020082395
 4,Allium paniculatum,NHMSYS0020110541
 4,Allium paniculatum subsp. fuscum,NHMSYS0020110542
 3,Astilbe chinensis,NHMSYS0020110543
+6,Carex muricata subsp. pairae,NHMSYS0020110544
 4,Carex salina,NHMSYS0020110545
 4,Cotoneaster bradyi,NHMSYS0020110547
 4,Cotoneaster glabratus,NHMSYS0020110548
@@ -4045,25 +5557,64 @@ code,taxon,tvk
 4,Cotoneaster ignescens,NHMSYS0020110552
 4,Cotoneaster shannanensis,NHMSYS0020110553
 3,Dactylorhiza ebudensis,NHMSYS0020110554
+6,Eleocharis mamillata subsp. austriaca,NHMSYS0020110556
 4,Epipactis sancta,NHMSYS0020110557
+6,Galactites tomentosus,NHMSYS0020110558
+6,Glebionis coronaria,NHMSYS0020110560
+6,Glebionis segetum,NHMSYS0020110561
+6,Limonium platyphyllum,NHMSYS0020110562
 4,Primula juliae,NHMSYS0020110577
+6,Rubus cantabrigiensis,NHMSYS0020110579
+6,Rubus cerdicii,NHMSYS0020110580
+6,Rubus clausentinus,NHMSYS0020110581
+6,Rubus milesianus,NHMSYS0020110582
+6,Rubus neumannianus,NHMSYS0020110583
+6,Rubus pydarensiformis,NHMSYS0020110584
+6,Rubus vindomensis,NHMSYS0020110585
 4,Sorbus pseudomeinichii,NHMSYS0020110587
 4,Sorbus whiteana,NHMSYS0020110588
 4,Spartina patens,NHMSYS0020110589
+6,Xanthocyparis nootkatensis,NHMSYS0020110594
+6,Carex saxatilis x viridula,NHMSYS0020112215
+6,Cupressus macrocarpa x Xanthocyparis nootkatensis = X Cuprocyparis leylandii,NHMSYS0020112216
 4,Dactylorhiza fuchsii x occidentalis,NHMSYS0020112217
 4,Dactylorhiza fuchsii x traunsteinerioides,NHMSYS0020112218
 4,Dactylorhiza incarnata x occidentalis,NHMSYS0020112219
+6,Dactylorhiza incarnata x traunsteinerioides,NHMSYS0020112220
+6,Dactylorhiza maculata x occidentalis = D. x dinglensis,NHMSYS0020112221
+6,Dactylorhiza maculata x traunsteinerioides,NHMSYS0020112222
+6,Dactylorhiza praetermissa x traunsteinerioides,NHMSYS0020112223
 4,Dactylorhiza purpurella x ebudensis,NHMSYS0020112224
+6,Salix caprea x cinerea x repens,NHMSYS0020112229
+6,Crataegus coccinea,NHMSYS0020116740
+6,Dactylorhiza traunsteinerioides,NHMSYS0020116813
+6,Dactylorhiza purpurella subsp. cambrensis,NHMSYS0020193660
 3,Baldellia ranunculoides subsp. repens,NHMSYS0020442296
 3,Artemisia campestris subsp. maritima,NHMSYS0020488426
 3,Huperzia selago subsp. selago,NHMSYS0020703678
 4,Lepidium divaricatum,NHMSYS0020704161
 4,Nepeta racemosa,NHMSYS0020704589
 3,Baldellia ranunculoides subsp. ranunculoides,NHMSYS0020755099
+6,Babiana ringens,NHMSYS0020823733
+6,Cochlearia acaulis,NHMSYS0020823740
+6,Cyclospermum leptophyllum,NHMSYS0020823742
 2,Dioscorea communis,NHMSYS0020823747
+6,Euphorbia tithymaloides,NHMSYS0020823748
 2,Hesperantha coccinea,NHMSYS0020823750
+6,Hymenocarpos circinnatus,NHMSYS0020823754
+6,Kalmia procumbens,NHMSYS0020823755
+6,Lepidium coronopus,NHMSYS0020823761
+6,Moraea collina,NHMSYS0020823766
 4,Rhaponticum repens,NHMSYS0020823772
+6,Scilla luciliae,NHMSYS0020823774
+6,Scilla sardensis,NHMSYS0020823776
+6,Silene baccifera,NHMSYS0020823777
+6,Dactylorhiza traunsteinerioides subsp. francis-drucei,NHMSYS0020978920
+6,Neottia ovata,NHMSYS0021005429
 3,Trichophorum caespitosum s.lat.,NHMSYS0021007976
+6,Trichophorum caespitosum s.str.,NHMSYS0021007982
+6,Trichophorum germanicum s.str.,NHMSYS0021007988
+6,Silene chalcedonica,NHMSYS0021008313
 3,Ruppia cirrhosa,NHMSYS0021060369
 3,Ruppia maritima,NHMSYS0021060370
 2,Zostera (Zostera) marina,NHMSYS0021060376
@@ -4074,15 +5625,51 @@ code,taxon,tvk
 4,Hieracium rhomboides auct. Angl.,NHMSYS0021118689
 4,Hieracium triviale auct. Angl.,NHMSYS0021118695
 4,Hieracium vulgatum auct. Angl.,NHMSYS0021118701
+6,Brachypodium pinnatum s.l.,NHMSYS0021123603
 2,Arctium minus/nemorosum,NHMSYS0021123609
+6,Neottia cordata,NHMSYS0021123729
+6,Arabidopsis arenosa,NHMSYS0021126116
+6,Arabidopsis petraea,NHMSYS0021126128
+6,Corispermum intermedium,NHMSYS0021126165
+6,Erigeron acris,NHMSYS0021126192
+6,Gagea serotina,NHMSYS0021126204
+6,Malva arborea,NHMSYS0021126272
+6,Malva setigera,NHMSYS0021126291
+6,Potentilla indica,NHMSYS0021126306
+6,Sorbus glabriscula,NHMSYS0021126338
+6,Pseudoturritis turrita,NHMSYS0021126355
+6,Scorzoneroides autumnalis,NHMSYS0021126374
+6,Scorzoneroides autumnalis var. autumnalis,NHMSYS0021126395
+6,Scorzoneroides autumnalis var. pratensis,NHMSYS0021126407
+6,Medicago sativa nothosubsp. varia,NHMSYS0021127602
+6,Poterium sanguisorba subsp. balearica,NHMSYS0021127626
+6,Poterium sanguisorba subsp. sanguisorba,NHMSYS0021127653
+6,Euphrasia officinalis subsp. pratensis,NHMSYS0021127705
+6,Carex canescens,NHMSYS0021128332
+6,Carex leporina,NHMSYS0021128349
+6,Luzula pallescens,NHMSYS0021128433
 4,Salsola kali subsp. tragus,NHMSYS0021128459
+6,Senecio sarracenicus,NHMSYS0021128485
+6,Silene viscaria,NHMSYS0021128500
 4,Symphytum officinale subsp. bohemicum,NHMSYS0021128533
 3,Veronica serpyllifolia subsp. humifusa,NHMSYS0021128545
 3,Zannichellia palustris subsp. pedicellata,NHMSYS0021128555
+6,Matricaria chamomilla,NHMSYS0021128571
 3,Pastinaca sativa subsp. urens,NHMSYS0021130712
 3,Sparganium erectum subsp. oocarpum,NHMSYS0021130713
 2,Salix euxina x alba = S. x fragilis,NHMSYS0021164515
+6,Salix euxina x alba x triandra = S. x alopecuroides,NHMSYS0021164547
+6,Salix euxina x alba x babylonica = S. x pendulina,NHMSYS0021164553
+6,Salix pentandra x euxina x alba = S. x meyeriana,NHMSYS0021164559
+6,Nassella neesiana,NHMSYS0021177416
 2,Centaurea nigra sens. lat. (=nigra/debeauxii),NHMSYS0021232322
+6,Ficaria verna subsp. verna,NHMSYS0021240659
+6,Hypopitys monotropa,NHMSYS0021240704
+6,Hypopitys monotropa subsp. hypophegea,NHMSYS0021240709
+6,Hypopitys monotropa subsp. monotropa,NHMSYS0021240714
+6,Thyselium palustre,NHMSYS0021240774
+6,Ranunculus ficaria subsp. chrysocephala,NHMSYS0021240894
+6,Ranunculus ficaria subsp. ficariiformis,NHMSYS0021240899
 1,Jacobaea vulgaris,NHMSYS0021241522
 2,Jacobaea maritima,NHMSYS0021241527
 2,Jacobaea aquatica,NHMSYS0021241532
@@ -4092,77 +5679,153 @@ code,taxon,tvk
 4,Agrostis lachnantha,NHMSYS0100000405
 2,Allium sativum,NHMSYS0100000446
 4,Angelica pachycarpa,NHMSYS0100000506
+6,Armeria maritima x arenaria,NHMSYS0100000571
+6,Artemisia vulgaris x verlotiorum = A. x wurzellii,NHMSYS0100000580
+6,Arum maculatum x italicum,NHMSYS0100000583
+6,Atriplex prostrata x glabriuscula,NHMSYS0100000728
 2,Barbarea intermedia,NHMSYS0100000754
 3,Bassia scoparia,NHMSYS0100000757
 4,Brachiaria platyphylla,NHMSYS0100000796
+6,Bromus hordeaceus subsp. divaricatus,NHMSYS0100000813
 4,Bromus japonicus,NHMSYS0100000816
 3,Cakile maritima subsp. integrifolia,NHMSYS0100000836
 4,Callitriche truncata subsp. occidentalis,NHMSYS0100000852
 3,Carduus crispus subsp. multiflorus,NHMSYS0100000873
 4,Carex buchananii,NHMSYS0100000892
 3,Carex magellanica subsp. irrigua,NHMSYS0100000911
+6,Carex muricata x divulsa,NHMSYS0100000915
+6,Carex otrubae x divulsa,NHMSYS0100000921
 3,Catananche caerulea,NHMSYS0100000961
 4,Celastrus orbiculatus,NHMSYS0100000968
 3,Cerastium alpinum subsp. lanatum,NHMSYS0100000979
+6,Ceterach officinarum,NHMSYS0100001007
 3,Cochlearia megalosperma,NHMSYS0100001049
+6,Cochlearia officinalis x danica,NHMSYS0100001054
 3,Cochlearia pyrenaica subsp. alpina,NHMSYS0100001055
 3,Coincya monensis subsp. cheiranthos,NHMSYS0100001058
+6,Conyza canadensis x bonariensis,NHMSYS0100001074
 3,Cortaderia richardii,NHMSYS0100001080
 4,Cotoneaster marginatus,NHMSYS0100001111
+6,Cotoneaster microphyllus,NHMSYS0100001112
 4,Cotoneaster rotundifolius,NHMSYS0100001124
+6,Cotoneaster thymifolius,NHMSYS0100001127
+6,Crataegus monogyna x heterophylla,NHMSYS0100001142
 4,Crocus ancyrensis,NHMSYS0100001153
+6,Crocus chrysanthus x biflorus,NHMSYS0100001156
 4,Crocus longiflorus,NHMSYS0100001157
 4,Crocus serotinus,NHMSYS0100001159
 4,Crocus vernus subsp. albiflorus,NHMSYS0100001161
+6,Crocus vernus x tommasinianus,NHMSYS0100001163
+6,Dactylorhiza purpurella x majalis,NHMSYS0100001259
 3,Deschampsia cespitosa subsp. parviflora,NHMSYS0100001286
 3,Deutzia scabra,NHMSYS0100001289
+6,Dianthus gratianopolitanus x caryophyllus,NHMSYS0100001291
+6,Dianthus gratianopolitanus x caryophyllus x plumarius,NHMSYS0100001292
 2,Dipsacus fullonum,NHMSYS0100001301
 3,Elaeagnus macrophylla,NHMSYS0100001374
 4,Eleocharis parvula,NHMSYS0100001375
 1,Elytrigia repens,NHMSYS0100001391
+6,Epilobium obscurum x ciliatum = E. x vicinum,NHMSYS0100001402
+6,Epilobium parviflorum x montanum x obscurum,NHMSYS0100001405
+6,Epilobium parviflorum x montanum x roseum,NHMSYS0100001406
 3,Erica arborea,NHMSYS0100001467
 3,Erodium manescavii,NHMSYS0100001480
 3,Erythronium dens-canis,NHMSYS0100001496
 3,Euphorbia oblongata,NHMSYS0100001501
+6,Euphorbia portlandica x paralias,NHMSYS0100001502
 4,Euphrasia cambrica x scottica,NHMSYS0100001517
+6,Euphrasia officinalis subsp. anglica,NHMSYS0100001533
+6,Euphrasia officinalis subsp. monticola,NHMSYS0100001535
+6,Fallopia japonica x baldschuanica = F. x conollyana,NHMSYS0100001563
 3,Fascicularia bicolor,NHMSYS0100001565
+6,Ficaria verna var. bulbifer,NHMSYS0100001604
+6,Galium sterneri x saxatile,NHMSYS0100001644
 3,Genista hispanica subsp. occidentalis,NHMSYS0100001652
+6,Geranium robertianum x purpureum,NHMSYS0100001676
+6,Glyceria fluitans x declinata,NHMSYS0100001684
 3,Helleborus argutifolius,NHMSYS0100001725
 3,Helleborus viridis subsp. occidentalis,NHMSYS0100001728
+6,Heracleum sphondylium x mantegazzianum,NHMSYS0100001738
 4,Hordeum murinum subsp. leporinum,NHMSYS0100001776
 4,Huperzia selago subsp. arctica,NHMSYS0100001780
+6,Hyacinthoides non-scripta x hispanica = H. x massartiana,NHMSYS0100001785
 3,Hydrangea macrophylla,NHMSYS0100001789
 4,Inula oculus-christi,NHMSYS0100001814
+6,Iochroma australe,NHMSYS0100001815
 3,Ipomoea purpurea,NHMSYS0100001817
 4,Iris unguicularis,NHMSYS0100001818
+6,Isoetes lacustris x echinospora = I. x hickeyi,NHMSYS0100001824
 4,Jasminum beesianum,NHMSYS0100001832
 3,Juniperus communis subsp. nana,NHMSYS0100001856
 3,Kalmia latifolia,NHMSYS0100001861
+6,Koeleria vallesiana x macrantha,NHMSYS0100001868
 3,Legousia speculum-veneris,NHMSYS0100001924
+6,Lepidium didymum,NHMSYS0100001930
 3,Linum perenne subsp. anglicum,NHMSYS0100001951
 3,Lonicera tatarica,NHMSYS0100001958
+6,Lupinus arboreus x polyphyllus x nootkatensis,NHMSYS0100001973
 3,Lysimachia terrestris,NHMSYS0100001992
 4,Maianthemum kamtschaticum,NHMSYS0100001997
+6,Mimulus guttatus x luteus x cupreus,NHMSYS0100002053
 3,Minuartia hybrida subsp. tenuifolia,NHMSYS0100002058
 3,Myosotis laxa subsp. caespitosa,NHMSYS0100002084
+6,Narcissus pseudonarcissus x cyclamineus = N. x monochromus,NHMSYS0100002100
+6,Oenothera glazioviana x biennis x cambrica,NHMSYS0100002159
 4,Ononis alopecuroides,NHMSYS0100002175
 3,Onopordum nervosum,NHMSYS0100002179
+6,Ophrys insectifera x apifera,NHMSYS0100002199
 3,Oxalis decaphylla,NHMSYS0100002273
 3,Pachysandra terminalis,NHMSYS0100002282
 3,Pancratium maritimum,NHMSYS0100002286
 3,Parietaria officinalis,NHMSYS0100002300
 4,Phytolacca polyandra,NHMSYS0100002347
+6,Polygonum arenarium subsp. pulchellum,NHMSYS0100002421
+6,Polystichum setiferum x munitum = P. x lesliei,NHMSYS0100002551
+6,Ranunculus fluitans x circinatus,NHMSYS0100002643
+6,Ranunculus trichophyllus x circinatus,NHMSYS0100002653
+6,Ranunculus trichophyllus x peltatus,NHMSYS0100002654
 3,Rapistrum rugosum subsp. linnaeanum,NHMSYS0100002663
+6,Rosa obtusifolia x micrantha,NHMSYS0100002707
+6,Rosa sherardii x agrestis,NHMSYS0100002708
+6,Rosa sherardii x micrantha,NHMSYS0100002709
+6,Rosa stylosa x agrestis,NHMSYS0100002713
+6,Rosa stylosa x caesia,NHMSYS0100002714
+6,Rosa stylosa x obtusifolia,NHMSYS0100002715
+6,Rosa stylosa x sherardii,NHMSYS0100002716
+6,Rosa tomentosa x agrestis,NHMSYS0100002719
+6,Rosa tomentosa x micrantha,NHMSYS0100002720
+6,Rosa tomentosa x mollis,NHMSYS0100002721
+6,Rumex cristatus x conglomeratus,NHMSYS0100002764
+6,Rumex patientia x conglomeratus,NHMSYS0100002772
+6,Salix lapponum x lanata,NHMSYS0100002825
+6,Salix myrsinifolia x lapponum,NHMSYS0100002826
+6,Salix myrsinifolia x phylicifolia x myrsinites = S. x blyttiana,NHMSYS0100002828
+6,Salix myrsinites x herbacea,NHMSYS0100002830
+6,Salix repens x arbuscula,NHMSYS0100002833
+6,Salix triandra x purpurea,NHMSYS0100002836
 3,Sasa ramosa,NHMSYS0100002861
 3,Saxifraga paniculata,NHMSYS0100002873
+6,Scilla forbesii,NHMSYS0100002896
 3,Sedum kamtschaticum,NHMSYS0100002914
 3,Sempervivum arachnoideum,NHMSYS0100002926
 4,Setaria parviflora,NHMSYS0100002955
 3,Silene quadrifida,NHMSYS0100002974
+6,Silene suecica,NHMSYS0100002977
+6,Silene vulgaris x uniflora,NHMSYS0100002981
 4,Solanum scabrum,NHMSYS0100003012
+6,Solanum vernei,NHMSYS0100003014
+6,Sonchus oleraceus x asper,NHMSYS0100003022
+6,Spergularia rupicola x marina,NHMSYS0100003052
 3,Symphoricarpos orbiculatus,NHMSYS0100003089
+6,Symphytum officinale x asperum x tuberosum,NHMSYS0100003091
 3,Thymus polytrichus subsp. britannicus,NHMSYS0100003112
 3,Trifolium incarnatum subsp. molinerii,NHMSYS0100003139
+6,Tripleurospermum maritimum x inodorum,NHMSYS0100003147
+6,Ulmus minor,NHMSYS0100003177
 3,Urtica dioica subsp. galeopsifolia,NHMSYS0100003185
+6,Utricularia intermedia,NHMSYS0100003189
+6,Verbascum pyramidatum x nigrum,NHMSYS0100003204
 2,Vigna radiata,NHMSYS0100003218
+6,Viola riviniana x lactea,NHMSYS0100003226
 3,Watsonia borbonica subsp. ardernei,NHMSYS0100003239
+6,Galanthus elwesii x plicatus,NHMSYS0100003303

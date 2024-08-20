@@ -100,8 +100,8 @@ code,taxon,tvk
 5,Sphagnum subnitens subsp. ferrugineum,NBNSYS0000036085
 4,Sphagnum molle,NBNSYS0000036086
 4,Sphagnum strictum,NBNSYS0000036087
-1,Sphagnum auriculatum,NBNSYS0000036091
 1,Sphagnum denticulatum sensu lato,NHMSYS0000310916
+1,Sphagnum auriculatum,NBNSYS0000036091
 4,Sphagnum contortum,NBNSYS0000036094
 1,Sphagnum cuspidatum,NBNSYS0000036095
 5,Sphagnum obtusum,NBNSYS0000036105
@@ -302,6 +302,7 @@ code,taxon,tvk
 1,Orthotrichum diaphanum,NBNSYS0000036715
 4,Ulota coarctata,NBNSYS0000036717
 4,Ulota drummondii,NBNSYS0000036718
+6,Ulota crispa sens.lat.,NBNSYS0000036719
 4,Ulota hutchinsiae,NBNSYS0000036723
 1,Fontinalis squamosa,NBNSYS0000036730
 4,Fontinalis squamosa,NBNSYS0000036730
@@ -424,8 +425,11 @@ code,taxon,tvk
 1,Ulota bruchii,NBNSYS0000158779
 4,Weissia condensa,NBNSYS0000159073
 3,Zygodon stirtonii,NBNSYS0000159267
+6,Andreaea rothii agg. sensu Smith (1978),NBNSYS0000189235
+6,Andreaea rupestris agg. sensu Smith (1978),NBNSYS0000189236
 4,Dichodontium pellucidum sens.str.,NBNSYS0000189239
 4,Sphagnum subsecundum s.str.,NBNSYS0000189252
+6,Zygodon viridissimus sens.lat.,NBNSYS0000189253
 5,Adelanthus lindenbergianus,NBNSYS0100000734
 4,Campylopus gracilis,NBNSYS0100002179
 1,Dicranella schreberiana,NBNSYS0100002799
@@ -459,6 +463,7 @@ code,taxon,tvk
 1,Bartramia,NHMSYS0000079896
 1,Porella,NHMSYS0000079909
 4,Hymenostylium recurvirostrum sensu lato,NHMSYS0000309278
+6,Schistidium apocarpum sensu lato,NHMSYS0000309281
 3,Acaulon,NHMSYS0000309283
 3,Acaulon muticum,NHMSYS0000309284
 4,Acaulon triquetrum,NHMSYS0000309287
@@ -484,6 +489,7 @@ code,taxon,tvk
 2,Aneura pinguis,NHMSYS0000309344
 4,Anoectangium,NHMSYS0000309346
 2,Anomobryum,NHMSYS0000309349
+6,Anomobryum julaceum s.l.,NHMSYS0000309352
 1,Anomodon,NHMSYS0000309354
 1,Anomodon viticulosus,NHMSYS0000309356
 2,Anthelia,NHMSYS0000309357
@@ -494,6 +500,7 @@ code,taxon,tvk
 4,Aongstroemia,NHMSYS0000309367
 4,Aongstroemia longipes,NHMSYS0000309368
 4,Aphanolejeunea,NHMSYS0000309369
+6,Aphanorrhegma,NHMSYS0000309371
 4,Aplodon,NHMSYS0000309373
 3,Archidium,NHMSYS0000309378
 4,Arctoa,NHMSYS0000309379
@@ -700,6 +707,7 @@ code,taxon,tvk
 4,Entodon,NHMSYS0000309823
 2,Entosthodon,NHMSYS0000309826
 4,Entosthodon fascicularis,NHMSYS0000309827
+6,Entosthodon fascicularis or Physcomitrium pyriforme,NHMSYS0000309828
 1,Ephemerum,NHMSYS0000309830
 4,Ephemerum recurvifolium,NHMSYS0000309833
 5,Ephemerum spinulosum,NHMSYS0000309837
@@ -1140,11 +1148,33 @@ code,taxon,tvk
 3,Weissia brachycarpa,NHMSYS0000310829
 4,Weissia brachycarpa var. brachycarpa,NHMSYS0000310830
 4,Weissia brachycarpa var. obliqua,NHMSYS0000310831
+6,Weissia brachycarpa or Weissia controversa,NHMSYS0000310832
 4,Weissia controversa var. controversa,NHMSYS0000310833
 4,Weissia controversa var. densifolia,NHMSYS0000310834
 5,Weissia mittenii,NHMSYS0000310842
 5,Weissia squarrosa,NHMSYS0000310843
 5,Weissia sterilis,NHMSYS0000310844
+6,Aloina aloides sensu lato,NHMSYS0000310849
+6,Calypogeia neesiana sensu lato,NHMSYS0000310857
+6,Chiloscyphus polyanthos sensu lato,NHMSYS0000310861
+6,Dichodontium pellucidum sensu lato,NHMSYS0000310864
+6,Ditrichum flexicaule sensu lato,NHMSYS0000310869
+6,Fissidens pusillus sensu lato,NHMSYS0000310871
+6,Fissidens viridulus sensu lato,NHMSYS0000310872
+6,Fossombronia pusilla sensu lato,NHMSYS0000310873
+6,Hedwigia ciliata sensu lato,NHMSYS0000310882
+6,Hypnum cupressiforme sensu lato,NHMSYS0000310884
+6,Metzgeria fruticulosa sensu lato,NHMSYS0000310889
+6,Phaeoceros laevis sensu lato,NHMSYS0000310891
+6,Plagiochila asplenioides sensu lato,NHMSYS0000310893
+6,Plagiochila spinulosa sensu lato,NHMSYS0000310896
+6,Pseudoleskeella catenulata sensu lato,NHMSYS0000310903
+6,Racomitrium canescens sensu lato,NHMSYS0000310906
+6,Racomitrium heterostichum sensu lato,NHMSYS0000310908
+6,Schistidium rivulare sensu lato,NHMSYS0000310914
+6,Sphagnum imbricatum sensu lato,NHMSYS0000310917
+6,Sphagnum recurvum sensu lato,NHMSYS0000310918
+6,Sphagnum subsecundum sensu lato,NHMSYS0000310920
 1,Syntrichia ruralis sensu lato,NHMSYS0000310921
 1,Bruchia,NHMSYS0000545667
 4,Weissia controversa var. crispata,NHMSYS0000841019
@@ -1154,9 +1184,17 @@ code,taxon,tvk
 5,Anastrophyllum alpinum,NHMSYS0001596574
 5,Bryum valparaisense,NHMSYS0001682647
 4,Grimmia dissimulata,NHMSYS0001682649
+6,Grimmia trichophylla agg.,NHMSYS0001682650
+6,Microbryum starckeanum sensu lato,NHMSYS0001682651
 5,Achrophyllum dentatum,NHMSYS0001682660
 4,Conocephalum salebrosum,NHMSYS0001696738
 5,Bryum kunzei,NHMSYS0020442298
+6,Anastrophyllum joergensenii s.l.,NHMSYS0020636801
+6,Conocephalum conicum s.l.,NHMSYS0020636802
+6,Fossombronia caespitiformis s.l.,NHMSYS0020636803
+6,Moerckia hibernica s.l.,NHMSYS0020636804
+6,Seligeria trifaria s.l.,NHMSYS0020636805
+6,Marsupella boeckii s.l.,NHMSYS0020636826
 5,Calomnion complanatum,NHMSYS0020636828
 5,Dialytrichia saxicola,NHMSYS0020636829
 4,Lophocolea brookwoodiana,NHMSYS0020636832
@@ -1179,6 +1217,7 @@ code,taxon,tvk
 3,Zygodon conoideus var. conoideus,NHMSYS0020706175
 4,Abietinella abietina var. abietina,NHMSYS0020918141
 4,Pohlia elongata var. greenii,NHMSYS0020918189
+6,Phascum,NHMSYS0020930820
 4,Palustriella falcata,NHMSYS0020955192
 2,Fissidens bryoides s.l.,NHMSYS0021125871
 4,Hygroamblystegium humile,NHMSYS0021125981
@@ -1230,6 +1269,7 @@ code,taxon,tvk
 4,Pseudomarsupidium decipiens,NHMSYS0021593107
 4,Syzygiella autumnalis,NHMSYS0021593112
 1,Palustriella commutata s.str.,NHMSYS0021593117
+6,Palustriella commutata s.l.,NHMSYS0021593122
 4,Campylium bambergeri,NHMSYS0021593167
 4,Campylophyllopsis calcarea,NHMSYS0021593172
 4,Drepanocladus trifarius,NHMSYS0021593177
@@ -1320,6 +1360,7 @@ code,taxon,tvk
 4,Ephemerum serratum s.str.,NHMSYS0021600332
 5,Lescuraea patens,NHMSYS0021600337
 4,Lescuraea plicata,NHMSYS0021600342
+6,Scorpidium revolvens s.l.,NHMSYS0021600367
 4,Hygrohypnella ochracea,NHMSYS0021600382
 5,Hygrohypnella polaris,NHMSYS0021600387
 5,Blindiadelphus campylopodus,NHMSYS0021600397

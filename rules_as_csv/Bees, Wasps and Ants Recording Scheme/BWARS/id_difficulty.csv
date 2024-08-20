@@ -83,7 +83,9 @@ code,taxon,tvk
 4,Lasius niger,NHMSYS0000873237
 4,Stenamma westwoodii,NHMSYS0000873267
 5,Tachysphex unicolor,NHMSYS0000873269
+6,Tachysphex unicolor sensu lato,NHMSYS0000873270
 4,Trypoxylon figulus,NHMSYS0000873271
+6,Trypoxylon figulus sensu lato,NHMSYS0000873272
 5,Agenioideus sericeus,NHMSYS0000875032
 2,Ammophila pubescens,NHMSYS0000875038
 2,Ammophila sabulosa,NHMSYS0000875039
@@ -249,6 +251,7 @@ code,taxon,tvk
 3,Cleptes nitidulus,NHMSYS0000875681
 3,Cleptes semiauratus,NHMSYS0000875683
 5,Coelioxys afra,NHMSYS0000875697
+6,Coelioxys conoidea sensu lato,NHMSYS0000875699
 3,Coelioxys elongata,NHMSYS0000875700
 3,Coelioxys inermis,NHMSYS0000875701
 3,Coelioxys mandibularis,NHMSYS0000875702
@@ -595,6 +598,9 @@ code,taxon,tvk
 5,Myrmica lonae,NHMSYS0020545625
 3,Osmia spinulosa,NHMSYS0020774747
 4,Anteon jurineanum sensu lato,NHMSYS0020924547
+6,Andrena pilipes sensu lato,NHMSYS0020936540
+6,Bombus lucorum sensu lato,NHMSYS0020936546
+6,Chrysis ignita sensu lato,NHMSYS0020936552
 5,Episyron gallicum,NHMSYS0020936558
 5,Heriades rubicola,NHMSYS0020936564
 3,Hylaeus incongruus,NHMSYS0020936570
@@ -602,6 +608,7 @@ code,taxon,tvk
 5,Lasius neglectus,NHMSYS0020936582
 5,Ponera testacea,NHMSYS0020936606
 3,Priocnemis confusor,NHMSYS0020936612
+6,Tapinoma erraticum sensu lato,NHMSYS0020936618
 4,Tetramorium caldarium,NHMSYS0020936630
 5,Tapinoma subboreale,NHMSYS0020977379
 2,Megachile leachella,NHMSYS0020977399

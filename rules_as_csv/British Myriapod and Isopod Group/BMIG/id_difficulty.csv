@@ -1,4 +1,7 @@
 code,taxon,tvk
+6,Geophilus easoni,MM0001Z1ZT0011FY
+6,Nothogeophilus turki,MM0001Z1ZT0011Z1
+6,Arenophilus peregrinus,MM0001Z1ZT0011ZZ
 1,Ligia oceanica,NBNSYS0000008542
 2,Ligidium hypnorum,NBNSYS0000008543
 2,Androniscus dentiger,NBNSYS0000008544
@@ -160,6 +163,7 @@ code,taxon,tvk
 3,Schendyla dentata,NHMSYS0020500692
 3,Stenotaenia linearis,NHMSYS0020500696
 3,Geophilus carpophagus sensu stricto,NHMSYS0020526954
+6,Trichoniscus pusillus agg.,NHMSYS0020526984
 4,Lamyctes coeculus,NHMSYS0020784878
 4,Mecistocephalus punctifrons,NHMSYS0020784884
 4,Tygarrup javanicus,NHMSYS0020784896

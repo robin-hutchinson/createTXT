@@ -299,6 +299,7 @@ code,taxon,tvk
 2,Ixobrychus minutus,NHMSYS0000530414
 3,Junco hyemalis,NHMSYS0000530416
 1,Jynx torquilla,NHMSYS0000530418
+6,Lagopus lagopus,NHMSYS0000530420
 2,Lagopus muta,NHMSYS0000530421
 2,Lanius collurio,NHMSYS0000530423
 4,Lanius cristatus,NHMSYS0000530424
@@ -480,6 +481,7 @@ code,taxon,tvk
 2,Anas flavirostris,NHMSYS0000532779
 2,Anser albifrons albifrons,NHMSYS0000532791
 2,Anser albifrons flavirostris,NHMSYS0000532795
+6,Anser canagicus,NHMSYS0000532799
 2,Anser cygnoides,NHMSYS0000532803
 1,Anser indicus,NHMSYS0000532807
 2,Anser rossii,NHMSYS0000532811

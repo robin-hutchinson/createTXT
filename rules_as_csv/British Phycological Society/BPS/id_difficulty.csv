@@ -2,11 +2,13 @@ code,taxon,tvk
 3,Derbesia marina,JNCCMNCR00000752
 5,Acrochaetium chylocladiae,NHMSYS0000377516
 5,Chaetomorpha litorea,NHMSYS0000377547
+6,Cladostephus spongiosus f. verticillatus,NHMSYS0000377550
 4,Cystoseira humilis subsp. myriophylloides,NHMSYS0000377563
 5,Erythrotrichia investiens,NHMSYS0000377572
 5,Myrionema orbiculare,NHMSYS0000377591
 5,Rhodochorton concrescens,NHMSYS0000377609
 5,Rhodochorton membranaceum,NHMSYS0000377610
+6,Ulvaria fusca,NHMSYS0000377624
 2,Scytosiphon lomentaria nom. cons.,NHMSYS0000567730
 5,Acrochaetium efflorescens,NHMSYS0000567741
 5,Acrochaetium nemalii,NHMSYS0000567745
@@ -128,6 +130,7 @@ code,taxon,tvk
 4,Punctaria tenuissima,NHMSYS0021058585
 5,Sauvageaugloia divaricata,NHMSYS0021058589
 5,Spermatochnus paradoxus,NHMSYS0021058592
+6,Sphaerotrichia divaricata,NHMSYS0021058593
 5,Stictyosiphon adriaticus,NHMSYS0021058594
 5,Stictyosiphon griffithsianus,NHMSYS0021058595
 5,Stictyosiphon soriferus,NHMSYS0021058596
@@ -195,6 +198,7 @@ code,taxon,tvk
 5,Sphacelaria rigidula,NHMSYS0021058746
 5,Sphacelaria tribuloides,NHMSYS0021058747
 5,Sphacelorbus nanus,NHMSYS0021058749
+6,Sphaceloderma caespitulum,NHMSYS0021058753
 2,Halopteris filicina,NHMSYS0021058756
 3,Stypocaulon scoparium,NHMSYS0021058757
 4,Protohalopteris radicans,NHMSYS0021058760
@@ -257,6 +261,7 @@ code,taxon,tvk
 5,Ulothrix flacca,NHMSYS0021059277
 5,Ulothrix implexa,NHMSYS0021059278
 5,Ulothrix speciosa,NHMSYS0021059280
+6,Ulothrix subflaccida,NHMSYS0021059281
 4,Urospora penicilliformis,NHMSYS0021059284
 3,Urospora wormskioldii,NHMSYS0021059285
 5,Bolbocoleon piliferum,NHMSYS0021059289
@@ -264,6 +269,8 @@ code,taxon,tvk
 4,Gayralia oxysperma,NHMSYS0021059295
 5,Protomonostroma undulatum,NHMSYS0021059298
 5,Blidingia chadefaudii,NHMSYS0021059301
+6,Blidingia marginata,NHMSYS0021059302
+6,Blidingia minima,NHMSYS0021059303
 5,Pseudendoclonium dynamenae,NHMSYS0021059308
 5,Pseudendoclonium fucicola,NHMSYS0021059309
 5,Pseudendoclonium submarinum,NHMSYS0021059313
@@ -286,6 +293,7 @@ code,taxon,tvk
 5,Pseudopringsheimia confluens,NHMSYS0021059399
 5,Syncoryne reinkei,NHMSYS0021059401
 5,Ulvella lens,NHMSYS0021059413
+6,Ulvella repens,NHMSYS0021059423
 4,Ulvella scutata,NHMSYS0021059425
 4,Ulvella setchellii,NHMSYS0021059427
 5,Ulvella viridis,NHMSYS0021059429
@@ -360,6 +368,7 @@ code,taxon,tvk
 3,Rhodochorton purpureum,NHMSYS0021059713
 1,Asparagopsis armata,NHMSYS0021059726
 1,Bonnemaisonia asparagoides,NHMSYS0021059730
+6,Bonnemaisonia clavata,NHMSYS0021059731
 1,Bonnemaisonia hamifera,NHMSYS0021059732
 4,Atractophora hypnoides,NHMSYS0021059736
 4,Naccaria wiggii,NHMSYS0021059737
@@ -467,6 +476,7 @@ code,taxon,tvk
 5,Anotrichium barbatum,NHMSYS0021060021
 5,Anotrichium furcellatum,NHMSYS0021060023
 2,Griffithsia corallinoides,NHMSYS0021060025
+6,Griffithsia devoniensis,NHMSYS0021060026
 3,Halurus equisetifolius,NHMSYS0021060027
 2,Halurus flosculosus,NHMSYS0021060028
 3,Monosporus pedicellatus,NHMSYS0021060030
@@ -532,6 +542,7 @@ code,taxon,tvk
 2,Polyides rotunda,NHMSYS0021060205
 2,Schmitziella endophloea,NHMSYS0021060207
 5,Sarcodiotheca gaudichaudii,NHMSYS0021060211
+6,Solieria chordalis,NHMSYS0021060213
 3,Sphaerococcus coronopifolius,NHMSYS0021060216
 4,Gracilaria bursa-pastoris,NHMSYS0021060220
 4,Gracilaria gracilis,NHMSYS0021060221

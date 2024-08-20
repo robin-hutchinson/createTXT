@@ -8,6 +8,7 @@ code,taxon,tvk
 4,Coenagrion pulchellum,NBNSYS0000005605
 2,Coenagrion puella,NBNSYS0000005606
 3,Coenagrion hastulatum,NBNSYS0000005607
+6,Coenagrion armatum,NBNSYS0000005608
 3,Coenagrion lunulatum,NBNSYS0000005609
 2,Erythromma najas,NBNSYS0000005610
 1,Ceriagrion tenellum,NBNSYS0000005611
@@ -38,6 +39,7 @@ code,taxon,tvk
 4,Crocothemis erythraea,NBNSYS0000005643
 5,Sympetrum vulgatum,NBNSYS0000005644
 1,Sympetrum striolatum,NBNSYS0000005645
+6,Sympetrum meridionale,NBNSYS0000005648
 3,Sympetrum flaveolum,NBNSYS0000005649
 2,Sympetrum sanguineum,NBNSYS0000005650
 2,Sympetrum danae,NBNSYS0000005651
@@ -45,12 +47,17 @@ code,taxon,tvk
 3,Anax parthenope,NHMSYS0000344169
 3,Erythromma viridulum,NHMSYS0000344177
 1,Ischnura elegans,NHMSYS0000344179
+6,Orthetrum brunneum,NHMSYS0000344182
 3,Sympetrum fonscolombii,NHMSYS0000344188
 3,Sympetrum pedemontanum,NHMSYS0000344190
 5,Ischnura genei,NHMSYS0000532361
+6,Somatochlora flavomaculata,NHMSYS0000532481
+6,Leucorrhinia pectoralis,NHMSYS0000532531
 4,Aeshna affinis,NHMSYS0020546806
 1,Leucorrhinia dubia,NHMSYS0020546892
 3,Somatochlora metallica,NHMSYS0020546972
+6,Chalcolestes viridis,NHMSYS0021009068
+6,Anaciaeschna isoceles,NHMSYS0021009091
 4,Anax ephippiger,NHMSYS0021009098
 5,Stylurus flavipes,NHMSYS0021009106
 3,Ischnura senegalensis,NHMSYS0021123700

@@ -1,5 +1,5 @@
 code,taxon,tvk
-,,
+6,,
 1,Lutra lutra,NBNSYS0000005133
 2,Phoca vitulina,NBNSYS0000005135
 2,Halichoerus grypus,NBNSYS0000005137
@@ -54,6 +54,7 @@ code,taxon,tvk
 1,Aulactinia verrucosa,NBNSYS0000174044
 3,Austrosyrrhoe fimbriatus,NBNSYS0000174049
 2,Axinella damicornis,NBNSYS0000174066
+6,Baldia johnstoni,NBNSYS0000174083
 2,Barnea candida,NBNSYS0000174097
 3,Bolocera tuediae,NBNSYS0000174160
 1,Calliactis parasitica,NBNSYS0000174258
@@ -95,10 +96,12 @@ code,taxon,tvk
 4,Eurynome aspera,NBNSYS0000175287
 4,Eurynome spinosa,NBNSYS0000175288
 5,Eurypon clavatum,NBNSYS0000175290
+6,Eusarsiella zostericola,NBNSYS0000175296
 1,Ficopomatus enigmaticus,NBNSYS0000175337
 2,Gadus morhua,NBNSYS0000175392
 1,Glossus humanus,NBNSYS0000175477
 3,Goneplax rhomboides,NBNSYS0000175513
+6,Goniadella gracilis,NBNSYS0000175519
 4,Haliclystus auricula s.lat.,NBNSYS0000175629
 2,Hartlaubella gelatinosa,NBNSYS0000175703
 4,Hormathia coronata,NBNSYS0000175807
@@ -112,6 +115,7 @@ code,taxon,tvk
 3,Laomedea angulata,NBNSYS0000176010
 3,Leptocheirus hirsutimanus,NBNSYS0000176068
 3,Leptocheirus pectinatus,NBNSYS0000176069
+6,Leptoclinides faeroensis,NBNSYS0000176076
 3,Leucothoe procera,NBNSYS0000176122
 3,Leucothoe spinicarpa,NBNSYS0000176123
 3,Liljeborgia kinahani,NBNSYS0000176134
@@ -125,6 +129,7 @@ code,taxon,tvk
 4,Macropodia deflexa,NBNSYS0000176328
 3,Macropodia rostrata,NBNSYS0000176330
 3,Macropodia tenuirostris,NBNSYS0000176331
+6,Marenzelleria wireni,NBNSYS0000176371
 2,Mercenaria mercenaria,NBNSYS0000176422
 2,Merlangius merlangus,NBNSYS0000176425
 1,Merluccius merluccius,NBNSYS0000176426
@@ -209,6 +214,7 @@ code,taxon,tvk
 5,Lucinella divaricata,NBNSYS0000183777
 2,Madrepora oculata,NBNSYS0000183881
 2,Malacocephalus laevis,NBNSYS0000183890
+6,Marenzelleria viridis,NBNSYS0000183915
 3,Molva dypterygia,NBNSYS0000184311
 3,Monoculodes packardi,NBNSYS0000184324
 5,Mytilicola intestinalis,NBNSYS0000184454
@@ -341,6 +347,100 @@ code,taxon,tvk
 1,Capnea sanguinea,NHMSYS0020770698
 2,Diadumene lineata,NHMSYS0020770700
 3,Stenosoma lancifer,NHMSYS0020821343
+6,Acanella arbuscula,NHMSYS0020925855
+6,Acanthogorgia armata,NHMSYS0020925857
+6,Acanthogorgia hirsuta,NHMSYS0020925858
+6,Acanthogorgia truncata,NHMSYS0020925859
+6,Anomocora fecunda,NHMSYS0020925860
+6,Anthothela grandiflora,NHMSYS0020925861
+6,Antipathes dichotoma,NHMSYS0020925862
+6,Antipathes erinaceus,NHMSYS0020925863
+6,Antipathes virgata,NHMSYS0020925864
+6,Aulocyathus atlanticus,NHMSYS0020925865
+6,Balanophyllia (Balanophyllia) thalassae,NHMSYS0020925866
+6,Bathypathes patula,NHMSYS0020925867
+6,Bebryce mollis,NHMSYS0020925868
+6,Callogorgia verticillata,NHMSYS0020925869
+6,Calyptrophora josephinae,NHMSYS0020925870
+6,Candidella imbricata,NHMSYS0020925871
+6,Caryophyllia (Caryophyllia) abyssorum,NHMSYS0020925872
+6,Caryophyllia (Caryophyllia) alberti,NHMSYS0020925873
+6,Caryophyllia (Caryophyllia) ambrosia,NHMSYS0020925874
+6,Caryophyllia (Caryophyllia) atlantica,NHMSYS0020925875
+6,Caryophyllia (Caryophyllia) calveri,NHMSYS0020925876
+6,Caryophyllia (Caryophyllia) cyathus,NHMSYS0020925877
+6,Caryophyllia (Caryophyllia) foresti,NHMSYS0020925878
+6,Caryophyllia (Caryophyllia) sarsiae,NHMSYS0020925879
+6,Caryophyllia (Caryophyllia) seguenzae,NHMSYS0020925880
+6,Chelidonisis aurantiaca,NHMSYS0020925881
+6,Chrysogorgia elegans,NHMSYS0020925882
+6,Chrysogorgia pentasticha,NHMSYS0020925883
+6,Cladocora debilis,NHMSYS0020925884
+6,Coenocyathus anthophyllites,NHMSYS0020925885
+6,Concentrotheca laevigata,NHMSYS0020925886
+6,Corallium johnsoni,NHMSYS0020925887
+6,Corallium niobe,NHMSYS0020925888
+6,Corallium tricolor,NHMSYS0020925889
+6,Dasmosmilia lymani,NHMSYS0020925890
+6,Dasmosmilia variegata,NHMSYS0020925891
+6,Deltocyathus eccentricus,NHMSYS0020925892
+6,Deltocyathus italicus,NHMSYS0020925893
+6,Deltocyathus moseleyi,NHMSYS0020925894
+6,Dendrophyllia alternata,NHMSYS0020925895
+6,Dentomuricea meteor,NHMSYS0020925896
+6,Desmophyllum dianthus,NHMSYS0020925897
+6,Eguchipsammia gaditana,NHMSYS0020925898
+6,Enallopsammia rostrata,NHMSYS0020925900
+6,Eunicella dubia,NHMSYS0020925901
+6,Flabellum (Flabellum) chunii,NHMSYS0020925902
+6,Fungiacyathus (Bathyactis) crispus,NHMSYS0020925904
+6,Fungiacyathus (Bathyactis) marenzelleri,NHMSYS0020925905
+6,Fungiacyathus (Fungiacyathus) fragilis,NHMSYS0020925906
+6,Isidella elongata,NHMSYS0020925907
+6,Javania cailleti,NHMSYS0020925908
+6,Javania pseudoalabastra,NHMSYS0020925909
+6,Keratoisis grandis,NHMSYS0020925910
+6,Keratoisis grayi,NHMSYS0020925911
+6,Keratoisis palmae,NHMSYS0020925912
+6,Leiopathes glaberrima,NHMSYS0020925913
+6,Leiopathes grimaldii,NHMSYS0020925914
+6,Leptopsammia formosa,NHMSYS0020925915
+6,Madracis profunda,NHMSYS0020925916
+6,Metallogorgia melanotrichos,NHMSYS0020925917
+6,Muriceides lepida,NHMSYS0020925919
+6,Muriceides paucituberculata,NHMSYS0020925920
+6,Narella allmani,NHMSYS0020925921
+6,Narella versluysi,NHMSYS0020925923
+6,Nicella granifera,NHMSYS0020925924
+6,Paracyathus arcuatus,NHMSYS0020925925
+6,Paracyathus pulchellus,NHMSYS0020925926
+6,Paramuricea candida,NHMSYS0020925927
+6,Paramuricea grayi,NHMSYS0020925928
+6,Parantipathes hirondelle,NHMSYS0020925929
+6,Peponocyathus folliculus,NHMSYS0020925931
+6,Placogorgia coronata,NHMSYS0020925932
+6,Placogorgia intermedia,NHMSYS0020925933
+6,Placogorgia massiliensis,NHMSYS0020925934
+6,Placogorgia terceira,NHMSYS0020925935
+6,Premocyathus cornuformis,NHMSYS0020925937
+6,Radicipes challengeri,NHMSYS0020925938
+6,Schizocyathus fissilis,NHMSYS0020925939
+6,Stephanocyathus (Odontocyathus) nobilis,NHMSYS0020925940
+6,Stephanocyathus (Stephanocyathus) crassus,NHMSYS0020925941
+6,Stephanocyathus (Stephanocyathus) moseleyanus,NHMSYS0020925942
+6,Stichopathes abyssicola,NHMSYS0020925943
+6,Stichopathes dissimilis,NHMSYS0020925944
+6,Stichopathes richardi,NHMSYS0020925945
+6,Swiftia dubia,NHMSYS0020925946
+6,Tanacetipathes squamosa,NHMSYS0020925947
+6,Tethocyathus variabilis,NHMSYS0020925948
+6,Thesea talismani,NHMSYS0020925949
+6,Thouarella (Euthouarella) hilgendorfi,NHMSYS0020925950
+6,Thouarella (Thouarella) variabilis,NHMSYS0020925951
+6,Titanideum obscurum,NHMSYS0020925952
+6,Trochocyathus (Trochocyathus) spinosocostatus,NHMSYS0020925953
+6,Vaughanella concinna,NHMSYS0020925954
+6,Villogorgia bebrycoides,NHMSYS0020925956
 4,Codium fragile subsp. fragile,NHMSYS0020954908
 3,Chaceon affinis,NHMSYS0020962461
 4,Chaceon gordonae,NHMSYS0020962467
@@ -360,6 +460,8 @@ code,taxon,tvk
 4,Hydroides ezoensis,NHMSYS0021048539
 3,Neodexiospira brasiliensis,NHMSYS0021048556
 4,Pileolaria militaris,NHMSYS0021048562
+6,Boccardia,NHMSYS0021048596
+6,Sternaspis scutata,NHMSYS0021048704
 4,Cancer bellianus,NHMSYS0021049613
 4,Ebalia nux,NHMSYS0021049620
 4,Macropodia linaresi,NHMSYS0021049628
@@ -368,11 +470,14 @@ code,taxon,tvk
 2,Liocarcinus pusillus,NHMSYS0021049648
 5,Liocarcinus zariquieyi,NHMSYS0021049650
 3,Dyspanopeus sayi,NHMSYS0021049663
+6,Xantho pilipes,NHMSYS0021049668
 5,Cymonomus granulatus,NHMSYS0021049686
 2,Paromola cuvieri,NHMSYS0021049692
 2,Palaemon macrodactylus,NHMSYS0021049744
 3,Peltocoxa brevirostris,NHMSYS0021049832
 3,Guernea (Guernea) coalita,NHMSYS0021049840
+6,Idunella mollis,NHMSYS0021049863
+6,Idunella picta,NHMSYS0021049864
 3,Arrhis phyllonyx,NHMSYS0021049947
 3,Rostroculodes borealis,NHMSYS0021049959
 3,Metaphoxus fultoni,NHMSYS0021049984
@@ -406,10 +511,12 @@ code,taxon,tvk
 3,Anthopleura ballii,NHMSYS0021053625
 2,Urticina eques,NHMSYS0021053628
 3,Gonactinia prolifera,NHMSYS0021053635
+6,Stauropathes punctata,NHMSYS0021053647
 4,Arachnactis albida,NHMSYS0021053651
 4,Caryophyllia (Caryophyllia) inornata,NHMSYS0021053658
 1,Caryophyllia (Caryophyllia) smithii,NHMSYS0021053659
 3,Hoplangia durotrix,NHMSYS0021053661
+6,Flabellum (Ulocyathus) alabastrum,NHMSYS0021053671
 4,Flabellum (Ulocyathus) macandrewi,NHMSYS0021053672
 5,Zoanthus alderi,NHMSYS0021053689
 5,Epizoanthus paguriphilus,NHMSYS0021053693
@@ -417,6 +524,8 @@ code,taxon,tvk
 5,Epizoanthus papillosus,NHMSYS0021053694
 1,Isozoanthus sulcatus,NHMSYS0021053697
 2,Alcyonium coralloides,NHMSYS0021053702
+6,Ellisella flagellum,NHMSYS0021053712
+6,Narella bellissima,NHMSYS0021053716
 3,Cordylophora caspia,NHMSYS0021053805
 4,Obelia bidentata,NHMSYS0021053854
 2,Polyplumaria flabellata,NHMSYS0021053915
@@ -486,6 +595,7 @@ code,taxon,tvk
 3,Solieria chordalis,NHMSYS0021060213
 2,Gracilaria bursa-pastoris,NHMSYS0021060220
 3,Gracilaria multipartita,NHMSYS0021060222
+6,Cryptonemia hibernica,NHMSYS0021060230
 4,Grateloupia filicina,NHMSYS0021060237
 3,Grateloupia montagnei,NHMSYS0021060238
 2,Grateloupia turuturu,NHMSYS0021060242
@@ -507,6 +617,7 @@ code,taxon,tvk
 3,Xiphosiphonia pennata,NHMSYS0021185549
 3,Biddulphia sinensis,NHMSYS0021200186
 4,Ethmodiscus punctiger,NHMSYS0021200388
+6,Centraloecetes striatus,NHMSYS0021201337
 1,Desmophyllum pertusum,NHMSYS0021201470
 2,Cylista elegans,NHMSYS0021389174
 4,Cylista ornata,NHMSYS0021389179

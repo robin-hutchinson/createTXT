@@ -1,4 +1,6 @@
 code,taxon,tvk
+NHMSYS0000361533,,
+5,,
 2,Abrothallus cetrariae,BMSSYS0000000001
 5,Acarospora anomala,BMSSYS0000000050
 5,Acarospora macrospora subsp. murorum,BMSSYS0000000058
@@ -454,9 +456,9 @@ code,taxon,tvk
 2,Aquacidia antricola,BMSSYS0000731139
 2,Aquacidia trachona,BMSSYS0000731140
 2,Aquacidia viridifarinosa,BMSSYS0000731141
+3,Bachmanniomyces punctum,BMSSYS0000731145
 1,Bachmanniomyces punctum,BMSSYS0000731145
 5,Bachmanniomyces punctum,BMSSYS0000731145
-3,Bachmanniomyces punctum,BMSSYS0000731145
 3,Bachmanniomyces varius,BMSSYS0000731146
 3,Calicium notarisii,BMSSYS0000731152
 4,Calicium trachylioides,BMSSYS0000731153
@@ -586,8 +588,8 @@ code,taxon,tvk
 1,Icmadophila ericetorum,NBNSYS0000017478
 4,Mniaecia nivea,NBNSYS0000017538
 4,Pezizella epithallina,NBNSYS0000017706
-2,Pronectria anisospora,NBNSYS0000018067
 5,Pronectria anisospora,NBNSYS0000018067
+2,Pronectria anisospora,NBNSYS0000018067
 3,Pronectria robergei,NBNSYS0000018073
 4,Pronectria tenacis,NBNSYS0000018074
 4,Pronectria tenuispora,NBNSYS0000018075
@@ -669,6 +671,7 @@ code,taxon,tvk
 2,Cladonia carneola,NBNSYS0000018352
 2,Cladonia cenotea,NBNSYS0000018353
 2,Cladonia cervicornis,NBNSYS0000018354
+6,Cladonia ciliata,NBNSYS0000018357
 3,Cladonia convoluta,NBNSYS0000018361
 2,Cladonia cornuta,NBNSYS0000018362
 2,Cladonia crispata var. cetrariiformis,NBNSYS0000018364
@@ -1121,8 +1124,8 @@ code,taxon,tvk
 3,Caloplaca chalybaea,NBNSYS0000020521
 5,Caloplaca chrysophthalma,NBNSYS0000020523
 4,Caloplaca concilians,NBNSYS0000020527
-1,Caloplaca crenularia,NBNSYS0000020528
 3,Caloplaca crenularia,NBNSYS0000020528
+1,Caloplaca crenularia,NBNSYS0000020528
 2,Caloplaca crenulatella,NBNSYS0000020529
 1,Caloplaca decipiens,NBNSYS0000020530
 2,Caloplaca flavorubescens,NBNSYS0000020534
@@ -1347,7 +1350,6 @@ code,taxon,tvk
 2,Abrothallus welwitschii,NHMSYS0000361132
 4,Buellia insignis,NHMSYS0000361445
 1,Aspicilia calcarea,NHMSYS0000361491
-5,Bacidia assulata sensu auct. brit., non (Korb.) Vezda,NHMSYS0000361533
 2,Caloplaca aurantia,NHMSYS0000361648
 1,Caloplaca cerina,NHMSYS0000361653
 2,Caloplaca chlorina,NHMSYS0000361660
