@@ -55,7 +55,8 @@ for(i in 1:length(dir)) {
         
         file <- full_join(file, all_tvks, by = "tvk") %>%
           mutate(code = case_when(is.na(code) ~ "6",
-                                  TRUE ~ as.character(code)))
+                                  TRUE ~ as.character(code)))%>%
+          filter(nchar(tvk) >1)
         
       }
       
@@ -72,5 +73,3 @@ for(i in 1:length(dir)) {
     }
   }
 }
-
-dir[26]
