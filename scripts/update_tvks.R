@@ -62,9 +62,8 @@ for(i in 1:length(dir)) {
       
       file <- file %>%
         taxon_tvk_match(tvk = "tvk") %>%
-        select(-c(preferred_authority, tvk, family_taxon, organism_key)) %>%
-        rename(tvk = rtvk,
-               taxon = preferred_taxon) %>%
+        select(-c(preferred_authority, tvk, family_taxon, rtvk)) %>%
+        rename(taxon = preferred_taxon) %>%
         distinct(.keep_all = TRUE)
       
       
